@@ -1,27 +1,44 @@
-# HerbVar Manuscripts
+# Preparing HerbVar Manuscripts
 
-## Manuscript Preparation 
+Manuscript Preparation using the github repository / template
 
-Using the github repository / template
+## Reproducible Manuscripts
 
-### All HerbVar publications must include the following text in the Acknoweldgements:
+The same template for analyses can be used for creating a manuscript with Rmd
+
+
+
+## Prior to Submission
+
+[ ] All HerbVar publications must include the following text in the Acknoweldgements:
 
 "---- NSF Grant ______"
 
-### If the data set used has been archived at Dryad, please cite both the Dataset and the Paper as follows:
+[ ] If the data set used has been archived at Dryad, please cite both the Dataset and the Paper as follows:
 
-### Add MS to the Zotero Group
+## Following Submission
 
+[ ] Add the MS to the Zotero Group
 Important for NSF reporting to know how many manuscripts are in review.
 
-### Post a Preprint (optional but encouraged)
+[ ] Post a Preprint (optional but encouraged)
 
 ## Upon Acceptance
 
-### Update the Zotero library
+[ ] Update the record in the Zotero library
 
-### Archive the Data with Dryad
+[ ] Archive the Data with Dryad 
 
-### Archive the Code at Zenodo   
+  - only if the data are new, otherwise MS will indicate data source as Dryad
+
+[ ] Archive the Analysis Repo on Zenodo 
+
+  - instructions on freezing the data analysis code repo on zenodo
+
+[ ] Archive the Manuscript Repo on Zenodo (optional)
+
+  - instructions on freezing the MS repo on zenodo
+
+
 
 

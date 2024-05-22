@@ -1,3 +1,7 @@
+---
+author: Nick Lyon
+---
+
 # Google Drive Structure
 
 This project has a lot of files coming and going so this is a brief description of all of those folders.
@@ -60,7 +64,10 @@ This project has a lot of files coming and going so this is a brief description 
 
 - Each sheet of the Excel file has its own version of the above folder where the ellipses (...) is replaced by that sheet’s name. Where applicable (e.g., plantData, reproData, herbivoreData) there are survey-level (i.e., one row per survey) versions of the data 
 
-## Miscellaneous Other Files \[Note this heading is not a folder name but refers to the random other files in the Drive\] 
+## Miscellaneous Other Files 
+
+_Note: this heading is not a folder name but refers to the random other files in the Drive._
+
 - This manual is unfiled in the Drive! 
 - The Data Management Plan (DMP) in graphical form 
 - Tutorials for one-off tasks you may need to explain to others

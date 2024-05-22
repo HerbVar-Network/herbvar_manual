@@ -2,23 +2,18 @@
 
 ## Motivation
 
-Published studies and personal observations suggest the distribution of herbivore feeding damage among individual plants within a population is often highly skewed such that most plants experience relatively low levels of damage, and a small fraction of plants experience disproportionately high levels of damage. Theory suggests that such variability can have dramatic ecological and evolutionary consequences. For example, variability among plants can lead overall herbivore population size to be greater or less than expected based on average plant quality and asymmetric fitness surfaces can lead to over-investment in defensive traits. Surprisingly, despite the theoretical importance and potential generality of variability in herbivory, it has received little empirical attention, limiting our fundamental understanding of how plants and herbivores interact.
-
-We are forming a global collaboration to quantify the distribution of herbivory for diverse plant species in multiple ecosystems across the world. The goal of this work is (1) to assess if variability in herbivory is indeed a common feature of plant–herbivore interactions, and (2) to examine how the amount of variability and skew varies among different types of plant species, herbivore communities, and ecosystems. Quantifying general patterns in the distribution of herbivore damage within populations would be a major contribution to our fundamental understanding of herbivory. In addition, identifying the factors that correlate with variability in herbivory would provide the field with a new paradigm for describing plant–herbivore interactions and allow us to generate novel hypotheses about the ecology and evolution of plant–herbivore interactions.
+Published studies and personal observations suggest the distribution of herbivore feeding damage among individual plants within a population is often highly skewed such that most plants experience relatively low levels of damage, and a small fraction of plants experience disproportionately high levels of damage. Theory suggests that such variability can have dramatic ecological and evolutionary consequences. For example, variability among plants can lead overall herbivore population size to be greater or less than expected based on average plant quality and asymmetric fitness surfaces can lead to over-investment in defensive traits. ***Surprisingly, despite the theoretical importance and potential generality of variability in herbivory, it has received little empirical attention, limiting our fundamental understanding of how plants and herbivores interact.*** We are a global collaboration to quantify the distribution of herbivory for diverse plant species in multiple ecosystems across the world.
 
 ## HerbVar Goals
 
-1.  Quantify the within-population distribution of plant damage and herbivore density across many systems.
+**The goals of HerbVar are (1)** to assess if variability in herbivory is indeed a common feature of plant–herbivore interactions, and **(2)** to examine how the amount of variability and skew varies among different types of plant species, herbivore communities, and ecosystems. Quantifying general patterns in the distribution of herbivore damage within populations would be a major contribution to our fundamental understanding of herbivory. In addition, identifying the factors that correlate with variability in herbivory would provide the field with a new paradigm for describing plant–herbivore interactions and allow us to generate novel hypotheses about the ecology and evolution of plant–herbivore interactions. Among the factors under consideration are:
 
-2.  Quantify how within-population distributions of damage and herbivore density differs across:
-
-    -   Plant species
-    -   Plant functional traits (from literature)
-    -   Plant ecology (e.g., rarity)
-    -   Herbivore species
-    -   Herbivore functional groups
-    -   Ecosystem type
-    -   Latitude
-    -   ...and many other potential factors (e.g., seasonality, precipitation)
-
-------------------------------------------------------------------------
+  - Plant species identity,
+  - Plant functional traits (from literature),
+  - Plant ecology (e.g., rarity),
+  - Herbivore species,
+  - Herbivore functional groups,
+  - Ecosystem type,
+  - Latitude,
+  - ...and many others (e.g., seasonality, precipitation).
+  

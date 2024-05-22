@@ -1,9 +1,9 @@
+---
+author: HerbVar Damage Estimation Subgroup (Ian Pearse, Zoe Getman-Pickering, Julie Davis, Bastien Castagneyrol, and Will Wetzel)
+---
 # Damage Estimation {#sec-damage}
+MOST RECENT UPDATE:
 
-By the HerbVar Damage Estimation Subgroup: 
-Ian Pearse, Zoe Getman-Pickering, Julie Davis, Bastien Castagneyrol, and Will Wetzel
-
-DATE UPDATED
 NEED TO INSERT PICTURES FROM https://docs.google.com/document/d/1Y90zfQBkluuhelDdb5WksW_8VRXkBMaGQIO9myRME2I/edit
 
 

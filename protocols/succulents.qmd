@@ -1,8 +1,9 @@
+---
+author: Judie Bronstein and Victoria Luizzi (University of Arizona)
+---
 # Cacti & Succulents {#sec-succulents}
 
-By Judie Bronstein and Victoria Luizzi, University of Arizona
-
-DATE UPDATED
+MOST RECENT UPDATE:
 
 
 Sampling Issues within Architectural Categories

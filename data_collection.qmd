@@ -2,9 +2,7 @@
 
 ## Overview
 
-@sec-overview: This describes the larger strategic vision and project goals of the HerbVar Network.
-
-Below are links to the HerbVar sampling protocols. 
+@sec-overview: This describes the larger strategic vision and project goals of the HerbVar Network. Below are links to the HerbVar sampling protocols. 
 
 ## Selecting species and sites to survey
 @sec-species_site: This describes our approach to select plant species and/or sites to survey. In brief, we suggest collaborators strive to survey either (1) one of our three focal species (_Taraxacum officinale_, _Plantago lanceolata_, and _Plantago major_) in a novel geographic/environmental context, (2) new clades or growth forms of species in our five focal families (Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae), or (3) reproductive tissue damage of any species.
@@ -38,5 +36,7 @@ Below are links to the HerbVar sampling protocols.
 ## Insects
 @sec-herbivore: This document discusses *whether and how* to sample insects. All surveys should note internally-feeding herbivores (e.g., gallers and miners), but only some should take the extra time to sample external herbivores. The document also includes visual cheatsheets for pre-selected groups of insects and gall/mine counting.
 
-----
-## Using Github for Data collection
+
+## Entering and Correcting Data
+
+Do ***not*** make any changes to the raw data files once you have entered the data. Make any corrections using R scripts. For additional information on how to do this, see @sec-data-analysis

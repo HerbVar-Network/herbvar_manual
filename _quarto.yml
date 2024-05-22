@@ -1,8 +1,8 @@
 project:
   type: book
 book:
-  title: "HerbVar Manual"
-  author: "Nick Lyon & The Herbvar Steering Committee"
+  title: "HerbVar Project Manual & Field Protocols"
+  author: "The Herbvar Steering Committee"
   date: "5/3/2024"
   cover-image: images/cover.png
   # favicon: images/cover.png
@@ -15,6 +15,7 @@ book:
         - contacts.qmd
     - part: "Research Workflow" 
       chapters:
+        - workflow.qmd
         - data_collection.qmd
         - uploading_data.qmd 
         - data_analysis.qmd
@@ -30,13 +31,13 @@ book:
         - protocols/tree.qmd
         - protocols/rhizo_geo.qmd
         - protocols/herbivore.qmd    
-    - part: "HerbVar Management"
+    - part: "Admin Tasks"
       chapters: 
+        - potential_collaborators.qmd
         - website.qmd
         - data_portal.qmd
         - google_drive.qmd
         - wrangling_repo.qmd
-        - new_collaborators.qmd
         - unfinished_tasks.qmd
     - references.qmd
         

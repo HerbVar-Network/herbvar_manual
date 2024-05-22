@@ -1,8 +1,18 @@
+---
+author: Phil Hahn (hahnp@ufl.edu), Susan Whitehead (swhitehead@vt.edu), Paul Ode (paul.ode@colostate.edu), and Will Wetzel (william.wetzel@montana.edu). 
+---
+
 #  Reproductive Damage {#sec-repro}
 
-By Phil Hahn (hahnp@ufl.edu), Susan Whitehead (swhitehead@vt.edu), Paul Ode (paul.ode@colostate.edu), and Will Wetzel (william.wetzel@montana.edu). Please send any comments or suggestions you have regarding the protocol to the above people.
+MOST RECENT UPDATE:
 
 (NEEDS TO INSERT PHOTOS from https://docs.google.com/document/d/1Rz6wPDXpfEnv1M16gJ1a2D3DHeImqlv-/edit)
+
+
+_Please send any comments or suggestions you have regarding the protocol to the authors or post as issues/pull requests on the repository (see the Manual Preamble)._
+
+
+
 Contents
 Protocol
 Data Recording Tips

@@ -1,3 +1,7 @@
+---
+author: Nick Lyon
+---
+
 # The Data Portal
 
 The data portal (link) is the preferred method for data submission for (at least phase 2). It is written in R Shiny and is built for the phase 2 template Excel file but will work (with some warnings) for the phase 1 Excel template. This is what you need to know to change and/or troubleshoot the app.
@@ -26,53 +30,45 @@ It may become necessary to edit the portal, especially if a user emails you indi
 
 2. Before changing the portal I strongly recommend asking the user who pointed out the issue for a screenshot of how they’ve filled the app out immediately before the error 
 
-    a. The error is almost always (or at least has usually been) something to do with how the user filled out the app or attached their data 
+    a. The error is almost always (or at least has usually been) something to do with how the user filled out the app or attached their data. If that is the case, you may need only point that out to them (in a polite way) and go about your day 
 
-      i. If that is the case, you may need only point that out to them (in a polite way) and go about your day 
+    b. Also, the only time the app can break is when they click the “Submit Data” button. Prior to that, the app is not actually trying to do anything, so any app-breaking user error will not be apparent to them until they click that button 
 
-      ii. Also, the only time the app can break is when they click the “Submit Data” button. Prior to that, the app is not actually trying to do anything, so any app-breaking user error will not be apparent to them until they click that button 
+    c. HOWEVER, some users who experience an issue actually create a larger error that will prevent them from uploading their data even after you point the app key issue out to them. To handle such cases, see the next subsection. The importance of this is also noted in part d of the next bullet 3. To change the data portal do the following: 
 
-    b. HOWEVER, some users who experience an issue actually create a larger error that will prevent them from uploading their data even after you point the app key issue out to them 
+    1.  First, modify the app. R script as desired. Note that every Shiny App consists of three components: (1) the user interface, (2) the server that includes all the internal mechanisms for the portal, and (3) a ShinyApp() call that combines the UI and server. 
 
-      i. To handle such cases, see the next subsection 
+      i.  If the app is not working, it will likely be in the server component 
 
-      ii. The importance of this is also noted in part d of the next bullet 3. To change the data portal do the following: 
+      ii. If the app doesn’t look right but does function appropriately, modify the UI 
 
-    a. First, modify the app. R script as desired 
+      iii. If the app does not collect some information that it should, you will need to change both the UI and server 
 
-      i. Note that every Shiny App consists of three components: (1) the user interface, (2) the server that includes all the internal mechanisms for the portal, and (3) a ShinyApp() call that combines the UI and server. 
+      iv. The ShinyApp call at the end never needs to be modified so don’t worry about that bit 
 
-      ii. If the app is not working, it will likely be in the server component 
-
-      iii. If the app doesn’t look right but does function appropriately, modify the UI 
-
-      iv. If the app does not collect some information that it should, you will need to change both the UI and server 
-
-      v. The ShinyApp call at the end never needs to be modified so don’t worry about that bit 
-
-  b. Second, test the app on your computer by running the app 
+    2. Second, test the app on your computer by running the app 
 
       i. In R Studio, the top right of the R script panel containing a ShinyApp has a “Run App” button to the right of a green ‘play’ button 
   
       ii. Pushing this button will create a local version of the portal that functions as the app will but does not deploy to the internet (yet). 
 
-      iii. I recommend submitting a test data file (see the folder of the same name for pre-built phase 2 data that you can use) from start to finish to ensure that everything works as desired 
+      iii. I recommend submitting a test data file (see the folder of the same name for pre-built phase 2 data that you can use) from start to finish to ensure that everything works as desired.
 
-    c. Third, once you are satisfied with your changes, you can deploy the app to replace the old publicly-available version on the internet! 
+    3. Third, once you are satisfied with your changes, you can deploy the app to replace the old publicly-available version on the internet! 
     
-        i. In the “deployment-faq. R” script, you will load the “rsconnect” library (line 12) and then use it to redeploy the app (line 18) 
+      i. In the “deployment-faq. R” script, you will load the “rsconnect” library (line 12) and then use it to redeploy the app (line 18) 
         
-        ii. Running the deployApp function will prompt you in the console to type a “Y” if you’re sure that you want to re-deploy the app 
+      ii. Running the deployApp function will prompt you in the console to type a “Y” if you’re sure that you want to re-deploy the app 
         
-        iii. After you type “Y” and hit return in the console, it will build your new portal, terminate the old one, replace the old with the new, and then activate the new one for all users 
+      iii. After you type “Y” and hit return in the console, it will build your new portal, terminate the old one, replace the old with the new, and then activate the new one for all users 
         
-        iv. You’ll know this is done when R automatically kicks you to a new tab in your web browser with the new portal open 
+      iv. You’ll know this is done when R automatically kicks you to a new tab in your web browser with the new portal open 
 
-    d. Fourth, and this is crucial, if your changes to the app were because a user was having issues, you need to delete any files they successfully submitted 
+  4. Fourth, and this is crucial, if your changes to the app were because a user was having issues, you need to delete any files they successfully submitted 
     
-        i. See the next sub-section for information on how to do this/why it needs to be done 
+      i. See the next sub-section for information on how to do this/why it needs to be done 
     
-    e. Finally, notify the user that initially contacted you letting them know that you have resolved the issue on your end, thanking them for bringing it to your attention, and inviting them to reach out again if it still isn’t working for them
+  5. Finally, notify the user that initially contacted you letting them know that you have resolved the issue on your end, thanking them for bringing it to your attention, and inviting them to reach out again if it still isn’t working for them
 
 ## Deleting Old Data 
 

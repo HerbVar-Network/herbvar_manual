@@ -1,0 +1,15 @@
+# Workflow Overview {#sec-workflow}
+
+## Collecting new HerbVar Data
+
+1. Review and Select Protocols
+2. Collect Data
+3. Create a repository for cleaning the data using the `new_dataset_template`.
+4. Upload the clean version of the data using the portal
+
+## New analysis with Herbvar Datasets
+
+1. Identify Questions, Submit for Review to make sure no overlap
+2. Create a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the `new_analysis_and_paper_template`.
+3. This template can also be used to write the manuscript in markfdown using a template such as `papaja` or one of the 'rticles` templates.
+

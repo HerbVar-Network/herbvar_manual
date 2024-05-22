@@ -1,8 +1,10 @@
+---
+author: Tree Subgroup (Bastien Castagneyrol, Amy Trowbridge, Will Wetzel, Moria Robinson)
+---
+
 # Trees {#sec-tree}
 
-By the Tree Subgroup: Bastien Castagneyrol, Amy Trowbridge, Will Wetzel, Moria Robinson
-
-DATE UPDATED: 
+MOST RECENT UPDATE: 
 
 
 Protocol – Tree Seedlings & Saplings

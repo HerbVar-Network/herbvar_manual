@@ -1,22 +1,20 @@
----
-title-block-banner: true
-title-block-banner-color: "#ffffff"
-date: last-modified
----
-# Preamble
 
-<!-- # ![](images/cover.png)Welcome {.unnumbered} -->
+<!-- --- -->
+<!-- title-block-banner: true -->
+<!-- title-block-banner-color: "#ffffff" -->
+<!-- date: last-modified -->
+<!-- --- -->
 
-overview text of what this manual is for
+# Preamble {.unnumbered}
+
+
+This book is a manual for researchers involved the the [HerbVar Project](https://herbvar.org/). It includes a checklist for new collaborators, guidelines on accessing, adding, and using project data, tutorials for using the RStudio Project Templates for conducting analyses and preparing manuscripts, protocols for field work, and guides for administering the HerbVar Network resources (_e.g.,_ website, data portal). 
+
+This guide is a [Quarto Book](https://quarto.org/docs/books) hosted on the [HerbVar Network's Github site](https://github.com/HerbVar-Network), so any team members can edit the text, add new sections, or make suggestions for improvement either by [pull request](https://github.com/HerbVar-Network/project_manual/pulls) or by [posting an issue](https://github.com/HerbVar-Network/project_manual/issues) on the HerbVar Manual's repository. A tutorial on getting started with Quarto and RStudio can be found [here](https://quarto.org/docs/get-started/hello/rstudio.html).
+
+
 
 ------------------------------------------------------------------------
 
-Cover Photo by [Joyful Captures](https://unsplash.com/photos/green-caterpillar-on-green-leaf-in-macro-photography-U3kB46FvxCw).
+<!-- Cover Photo by [Joyful Captures](https://unsplash.com/photos/green-caterpillar-on-green-leaf-in-macro-photography-U3kB46FvxCw). -->
 
-This HerbVar Manual is a [Quarto Book](https://quarto.org/docs/books). A tutorial on getting started with Quarto and RStudio can be found [here](https://quarto.org/docs/get-started/hello/rstudio.html).
-
-<!-- ```{r} -->
-
-<!-- 1 + 1 -->
-
-<!-- ``` -->

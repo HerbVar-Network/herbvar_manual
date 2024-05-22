@@ -1,6 +1,11 @@
+---
+author: Yuval Sapir (Tel Aviv University)
+---
+
+
 # Rhizomatous Geophytes {#sec-rhizo}
 
-By Yuval Sapir (YS), Tel Aviv University
+
 
 ## Overview
 
