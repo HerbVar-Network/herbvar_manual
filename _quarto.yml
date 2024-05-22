@@ -40,10 +40,17 @@ book:
         - wrangling_repo.qmd
         - unfinished_tasks.qmd
     - references.qmd
+    - part: "Appendix"
+      chapters: 
+        - herbvar_pubs.qmd
+        # - herbvar_presentations.qmd
         
     
 # output-file: "HerbVar_Manual"
-bibliography: references.bib
+bibliography: HerbVar.bib
+  # - "./protocols/manual.bib"
+  # - "project_publications.bib"
+  
 # csl: ecology.csl
 format:
   html:

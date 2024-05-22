@@ -505,45 +505,45 @@
   {
     "objectID": "protocols/rhizo_geo.html",
     "href": "protocols/rhizo_geo.html",
-    "title": "15  Rhizomatous Geophytes",
+    "title": "16  Rhizomatous Geophytes",
     "section": "",
-    "text": "15.1 Overview\nClonal plants present an interesting challenge and opportunity within the HerbVar Network. From a question-based perspective, we may be able to compare patterns of herbivory variability between clonal vs non-clonal plant species. These different modes of reproduction may confer different levels of genetic and phenotypic diversity within plant populations, which could affect patterns of herbivory. However, from a practical perspective, quantifying herbivory among plant ‘individuals’ is a challenge in these systems (i.e., what constitutes an ‘individual’?).",
+    "text": "16.1 Overview\nClonal plants present an interesting challenge and opportunity within the HerbVar Network. From a question-based perspective, we may be able to compare patterns of herbivory variability between clonal vs non-clonal plant species. These different modes of reproduction may confer different levels of genetic and phenotypic diversity within plant populations, which could affect patterns of herbivory. However, from a practical perspective, quantifying herbivory among plant ‘individuals’ is a challenge in these systems (i.e., what constitutes an ‘individual’?).",
     "crumbs": [
       "Protocols",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Rhizomatous Geophytes</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Rhizomatous Geophytes</span>"
     ]
   },
   {
     "objectID": "protocols/rhizo_geo.html#objectives",
     "href": "protocols/rhizo_geo.html#objectives",
-    "title": "15  Rhizomatous Geophytes",
-    "section": "15.2 Objectives",
-    "text": "15.2 Objectives\nProvide a protocol for surveying herbivory on a rhizomatous plant species that meets two conditions: (1) it is feasible to determine what constitutes a genet by examining rhizomatous connections, and (2) genets are small enough at your study site that you could feasibly survey 30 genets and their nearest neighbors and estimate herbivory on each genet.",
+    "title": "16  Rhizomatous Geophytes",
+    "section": "16.2 Objectives",
+    "text": "16.2 Objectives\nProvide a protocol for surveying herbivory on a rhizomatous plant species that meets two conditions: (1) it is feasible to determine what constitutes a genet by examining rhizomatous connections, and (2) genets are small enough at your study site that you could feasibly survey 30 genets and their nearest neighbors and estimate herbivory on each genet.",
     "crumbs": [
       "Protocols",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Rhizomatous Geophytes</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Rhizomatous Geophytes</span>"
     ]
   },
   {
     "objectID": "protocols/rhizo_geo.html#background",
     "href": "protocols/rhizo_geo.html#background",
-    "title": "15  Rhizomatous Geophytes",
-    "section": "15.3 Background",
-    "text": "15.3 Background\nIn semi-arid and arid climates, a considerably large number of plant species are rhizomatous geophytes. Their major characteristic is that they grow as patches of individuals, forming either dense (phalanx) or sparse (guerrilla) mats of individual ramets, each visible as a single leaf fan, and all connected through below-ground rhizomes and/or above-ground stolons into one plant (genet) (terms following Harper 1977 and Herben and Klimešová 2020). The extent of clonal growth defines the spread of the genet, and is on a continuous scale of density (Vallejo-Marin et al. 2010). See Figure 1 for examples of two density levels of genets in irises.",
+    "title": "16  Rhizomatous Geophytes",
+    "section": "16.3 Background",
+    "text": "16.3 Background\nIn semi-arid and arid climates, a considerably large number of plant species are rhizomatous geophytes. Their major characteristic is that they grow as patches of individuals, forming either dense (phalanx) or sparse (guerrilla) mats of individual ramets, each visible as a single leaf fan, and all connected through below-ground rhizomes and/or above-ground stolons into one plant (genet) (terms following Harper 1977 and Herben and Klimešová 2020). The extent of clonal growth defines the spread of the genet, and is on a continuous scale of density (Vallejo-Marin et al. 2010). See Figure 1 for examples of two density levels of genets in irises.",
     "crumbs": [
       "Protocols",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Rhizomatous Geophytes</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Rhizomatous Geophytes</span>"
     ]
   },
   {
     "objectID": "protocols/rhizo_geo.html#protocol-rhizomatous-geophytes",
     "href": "protocols/rhizo_geo.html#protocol-rhizomatous-geophytes",
-    "title": "15  Rhizomatous Geophytes",
-    "section": "15.4 Protocol – Rhizomatous Geophytes",
-    "text": "15.4 Protocol – Rhizomatous Geophytes\n\nWhen first starting this for a new species or at a new site, we suggest spending time investigating what constitutes a genet. Follow rhizome connections from ramet to ramet to get a sense of what a single genet looks like before following the rest of this protocol.\nFollow the Primary Protocol & Site Selection Protocol to pick a site, set up a transect, and randomly select focal quadrats’ locations\n\n\n15.4.1 Calculate a custom radius for circular quadrats\nEstimate mean density of genets per square meter by counting the number of plants in 1 m2 at 10 random locations within the site\n\nIf genet area (clone/genet diameter) is &gt;1 m and/or distances between genets are apparently irregular (that is, secondary dispersion of plants within population is patchy), count the number of genets in 1 m2 every 5 meters along a 50 m transect.\nIf a quadrat has &gt;0 focal plants, randomly choose 1 of the genets to survey and record the following data:\n\n\n\n15.4.2 Genet life stage: seedling, vegetative, reproductive\nGenet size, measured as the height of the tallest leaf for plants in vegetative stage, or height of the taller flower for plants in reproductive stage. Record which metric you used in the “plantSizeMetric” column\n\n\n15.4.3 Herbivore damage in one of 3 ways:\n\nTotal number of leaf fans (ramets)\n\n\nFor genets with &gt;100 ramets, write “100” and make a note that your estimate was capped at 100 Estimated percent damage across the whole genet. Visually scan all the green areas of all ramets and all leaves, and estimate the percentage of damage.\nIf the plant has &lt;10 ramets, sample all ramets. From each chosen ramet, pick the 2nd or 3rd leaf from top and estimate percent herbivory. These leaves are putatively in the same developmental stage and are the same age, thus exposed to herbivory for equal time\n\nNote that tip of the leaf may be dry due to climate fluctuations in the arid regions. This area of dry leaf counts as leaf area, but not as herbivory damage\n\nIf a quadrat has 0 focal plants, record a 0 and move to the next quadrat\nRecord the same data for the first nearest conspecific neighbor (of a different genet) that you recorded for the focal plant.\nContinue visiting randomly select points until ≥ 30 focal genets and 30 nearest neighbor genets have been surveyed\n\nFigure 1 – Top left: Dense (“phalanx type”) genet of Iris atrofusca; Top right: Sparse (“guerrilla type”) genet of Iris bismarckiana; Bottom left: Compact rhizome of Iris atrofusca (this one has ~4 leaf-fan ramets); Bottom right: Stolons connecting ramets of Iris bismarckiana.\n\n\n15.4.4 References\nHarper, J. L. 1977. Population Biology of Plants. Academic Press, London.\nHerben, T., and J. Klimešová. 2020. Evolution of clonal growth forms in angiosperms. New Phytologist 225:999-1010.\nSapir, Y., and A. Shmida. 2002. Species concepts and ecogeographical divergence of Oncocyclus irises. Israel Journal of Plant Sciences 50:S119-S127.\nVallejo-Marin, M., M. E. Dorken, and S. C. H. Barrett. 2010. The Ecological and Evolutionary Consequences of Clonality for Plant Mating. Annual Review of Ecology, Evolution and Systematics 41:193-213.\nWilson, C. A., J. Padiernos, and Y. Sapir. 2016. The royal irises (Iris subg. Iris sect. Oncocyclus): Plastid and low-copy nuclear data contribute to an understanding of their phylogenetic relationships. Taxon 65:35-46.",
+    "title": "16  Rhizomatous Geophytes",
+    "section": "16.4 Protocol – Rhizomatous Geophytes",
+    "text": "16.4 Protocol – Rhizomatous Geophytes\n\nWhen first starting this for a new species or at a new site, we suggest spending time investigating what constitutes a genet. Follow rhizome connections from ramet to ramet to get a sense of what a single genet looks like before following the rest of this protocol.\nFollow the Primary Protocol & Site Selection Protocol to pick a site, set up a transect, and randomly select focal quadrats’ locations\n\n\n16.4.1 Calculate a custom radius for circular quadrats\nEstimate mean density of genets per square meter by counting the number of plants in 1 m2 at 10 random locations within the site\n\nIf genet area (clone/genet diameter) is &gt;1 m and/or distances between genets are apparently irregular (that is, secondary dispersion of plants within population is patchy), count the number of genets in 1 m2 every 5 meters along a 50 m transect.\nIf a quadrat has &gt;0 focal plants, randomly choose 1 of the genets to survey and record the following data:\n\n\n\n16.4.2 Genet life stage: seedling, vegetative, reproductive\nGenet size, measured as the height of the tallest leaf for plants in vegetative stage, or height of the taller flower for plants in reproductive stage. Record which metric you used in the “plantSizeMetric” column\n\n\n16.4.3 Herbivore damage in one of 3 ways:\n\nTotal number of leaf fans (ramets)\n\n\nFor genets with &gt;100 ramets, write “100” and make a note that your estimate was capped at 100 Estimated percent damage across the whole genet. Visually scan all the green areas of all ramets and all leaves, and estimate the percentage of damage.\nIf the plant has &lt;10 ramets, sample all ramets. From each chosen ramet, pick the 2nd or 3rd leaf from top and estimate percent herbivory. These leaves are putatively in the same developmental stage and are the same age, thus exposed to herbivory for equal time\n\nNote that tip of the leaf may be dry due to climate fluctuations in the arid regions. This area of dry leaf counts as leaf area, but not as herbivory damage\n\nIf a quadrat has 0 focal plants, record a 0 and move to the next quadrat\nRecord the same data for the first nearest conspecific neighbor (of a different genet) that you recorded for the focal plant.\nContinue visiting randomly select points until ≥ 30 focal genets and 30 nearest neighbor genets have been surveyed\n\nFigure 1 – Top left: Dense (“phalanx type”) genet of Iris atrofusca; Top right: Sparse (“guerrilla type”) genet of Iris bismarckiana; Bottom left: Compact rhizome of Iris atrofusca (this one has ~4 leaf-fan ramets); Bottom right: Stolons connecting ramets of Iris bismarckiana.\n\n\n16.4.4 References\nHarper, J. L. 1977. Population Biology of Plants. Academic Press, London.\nHerben, T., and J. Klimešová. 2020. Evolution of clonal growth forms in angiosperms. New Phytologist 225:999-1010.\nSapir, Y., and A. Shmida. 2002. Species concepts and ecogeographical divergence of Oncocyclus irises. Israel Journal of Plant Sciences 50:S119-S127.\nVallejo-Marin, M., M. E. Dorken, and S. C. H. Barrett. 2010. The Ecological and Evolutionary Consequences of Clonality for Plant Mating. Annual Review of Ecology, Evolution and Systematics 41:193-213.\nWilson, C. A., J. Padiernos, and Y. Sapir. 2016. The royal irises (Iris subg. Iris sect. Oncocyclus): Plastid and low-copy nuclear data contribute to an understanding of their phylogenetic relationships. Taxon 65:35-46.",
     "crumbs": [
       "Protocols",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Rhizomatous Geophytes</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Rhizomatous Geophytes</span>"
     ]
   },
   {
@@ -791,12 +791,12 @@
   {
     "objectID": "wrangling_repo.html",
     "href": "wrangling_repo.html",
-    "title": "21  Wrangling Repository",
+    "title": "22  Wrangling Repository",
     "section": "",
-    "text": "21.1 Misc. Non-Manuscript Subset Scripts\nSo far, this only includes the script to separate out PlantPopNet members’ data to make sharing that with PPN leadership (upon request) simpler",
+    "text": "22.1 Misc. Non-Manuscript Subset Scripts\nSo far, this only includes the script to separate out PlantPopNet members’ data to make sharing that with PPN leadership (upon request) simpler",
     "crumbs": [
       "Admin Tasks",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
@@ -837,7 +837,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "A .bib file of all HerbVar publications is available for download here.\n\n\nPan, Vincent S., and William C. Wetzel. 2024. “Neutrality in Plant–Herbivore Interactions.” Proceedings of the Royal Society B: Biological Sciences 291 (2017): 20232687. https://doi.org/10.1098/rspb.2023.2687.\n\n\nThe Herbivory Variability Network*, M. L. Robinson, P. G. Hahn, B. D. Inouye, N. Underwood, S. R. Whitehead, K. C. Abbott, et al. 2023. “Plant Size, Latitude, and Phylogeny Explain Within-Population Variability in Herbivory.” Science 382 (6671): 679–83. https://doi.org/10.1126/science.adh8830.\n\n\nWetzel, William C., Brian D. Inouye, Philip G. Hahn, Susan R. Whitehead, and Nora Underwood. 2023. “Variability in Plant–Herbivore Interactions.” Annual Review of Ecology, Evolution, and Systematics 54 (1): 451–74. https://doi.org/10.1146/annurev-ecolsys-102221-045015.",
+    "text": "A .bib file of all HerbVar publications is available for download here.\n\n\nHarper, John L et al. 1977. “Population Biology of Plants.”\nPopulation Biology of Plants.\n\n\nHerben, Tomáš, and Jitka Klimešová. 2020. “Evolution of Clonal\nGrowth Forms in Angiosperms.” New Phytologist 225 (2):\n999–1010. https://doi.org/10.1111/nph.16188.\n\n\nPan, Vincent S., and William C. Wetzel. 2024. “Neutrality in\nPlant–Herbivore Interactions.” Proceedings of the Royal\nSociety B: Biological Sciences 291 (2017): 20232687. https://doi.org/10.1098/rspb.2023.2687.\n\n\nSAPIR, YUVAL, and AVI SHMIDA. 2002. “Species Concepts and\nEcogeographical Divergence of Oncocyclus Irises.” Israel\nJournal of Plant Sciences 50 (January): 119–27. https://doi.org/10.1560/DJXH-QX0M-5P0H-DLMW.\n\n\nThe Herbivory Variability Network* †, M. L. Robinson, P. G. Hahn, B. D.\nInouye, N. Underwood, S. R. Whitehead, K. C. Abbott, et al. 2023.\n“Plant Size, Latitude, and Phylogeny Explain Within-Population\nVariability in Herbivory.” Science 382 (6671): 679–83.\nhttps://doi.org/10.1126/science.adh8830.\n\n\nVallejo-Marín, Mario, Marcel E. Dorken, and Spencer C. H. Barrett. 2010.\n“The Ecological and Evolutionary Consequences of Clonality for\nPlant Mating.” Annual Review of Ecology, Evolution, and\nSystematics 41 (1): 193–213. https://doi.org/10.1146/annurev.ecolsys.110308.120258.\n\n\nWetzel, William C., Brian D. Inouye, Philip G. Hahn, Susan R. Whitehead,\nand Nora Underwood. 2023. “Variability in Plant–Herbivore\nInteractions.” Annual Review of Ecology, Evolution, and\nSystematics 54 (1): 451–74. https://doi.org/10.1146/annurev-ecolsys-102221-045015.\n\n\nWilson, Carol A., Justin Padiernos, and Yuval Sapir. 2016. “The\nRoyal Irises (Iris Subg. Iris Sect. Oncocyclus): Plastid and Low-Copy\nNuclea Data Contribute to an Understanding of Their Phylogenetic\nRelationships.” TAXON 65 (1): 35–46. https://doi.org/10.12705/651.3.",
     "crumbs": [
       "References"
     ]
@@ -845,56 +845,56 @@
   {
     "objectID": "wrangling_repo.html#phase-1-scripts",
     "href": "wrangling_repo.html#phase-1-scripts",
-    "title": "21  Wrangling Repository",
-    "section": "21.2 Phase 1 Scripts",
-    "text": "21.2 Phase 1 Scripts\nphase 1 abiotic wrangling.R: Wrangles WORLDCLIM climatic data for phase 1 surveys.\nphase 1 herbivoreData wrangling.R: Wrangles any information to do with herbivores from phase 1.\nphase 1 plant richness wrangling.R: Extracts interpolated native/invasive species richness information from Ellis et al. 2012 shapefiles.\nphase 1 primary productivity.R: Extracts primary productivity data from satellite data for phase 1 surveys.\nphase 1 shareable index.R: Creates files of only location information for phase 1 sites to enable other HerbVar collaborators to harvest metadata without sharing “actual” data.\nphase 1 siteData wrangling.R: Wrangles information from siteData sheet of template Excel file.\nphase 1 soil data wrangling.R: Placeholder describing where soil data may someday be acquired. For now, the relevant R package does not work (though their team is aware of and working on this issue).\nphase 1 survey-lvl summarizing.R: Summarizes the tidy plant-level (one row per plant) phase 1 data to survey-level (one row per survey).\nphase 1 wrangling.R: Takes all the separate phase 1 raw data files combines and wrangles them to plant-level (one row per plant).",
+    "title": "22  Wrangling Repository",
+    "section": "22.2 Phase 1 Scripts",
+    "text": "22.2 Phase 1 Scripts\nphase 1 abiotic wrangling.R: Wrangles WORLDCLIM climatic data for phase 1 surveys.\nphase 1 herbivoreData wrangling.R: Wrangles any information to do with herbivores from phase 1.\nphase 1 plant richness wrangling.R: Extracts interpolated native/invasive species richness information from Ellis et al. 2012 shapefiles.\nphase 1 primary productivity.R: Extracts primary productivity data from satellite data for phase 1 surveys.\nphase 1 shareable index.R: Creates files of only location information for phase 1 sites to enable other HerbVar collaborators to harvest metadata without sharing “actual” data.\nphase 1 siteData wrangling.R: Wrangles information from siteData sheet of template Excel file.\nphase 1 soil data wrangling.R: Placeholder describing where soil data may someday be acquired. For now, the relevant R package does not work (though their team is aware of and working on this issue).\nphase 1 survey-lvl summarizing.R: Summarizes the tidy plant-level (one row per plant) phase 1 data to survey-level (one row per survey).\nphase 1 wrangling.R: Takes all the separate phase 1 raw data files combines and wrangles them to plant-level (one row per plant).",
     "crumbs": [
       "Admin Tasks",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "wrangling_repo.html#phase-2-scripts",
     "href": "wrangling_repo.html#phase-2-scripts",
-    "title": "21  Wrangling Repository",
-    "section": "21.3 Phase 2 Scripts",
-    "text": "21.3 Phase 2 Scripts\nphase 2 densityData wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 herbivoreData wrangling.R: Wrangles eponymous sheet from template Excel file (at both plant-level and survey-level).\nphase 2 metadataabiotic.R`: Extracts WORLDCLIM climatic data from phase 2 site locations (requires tidy file from siteData wrangling script).\nphase 2 newColumns wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 notes wrangling.R: Wrangles eponymous sheet from template Excel file. phase 2 plantData survey-lvl summarizing.R: Summarizes tidy plantData to survey-level (i.e., one row per survey).\nphase 2 plantData wrangling.R: Wrangles eponymous sheet from template Excel file (at ONLY plant-level).\nphase 2 reproData wrangling.R: Wrangles eponymous sheet from template Excel file at plant-level only (survey level absent because insufficient raw data at this point).\nphase 2 siteData wrangling.R: Wrangles eponymous sheet from template Excel file.",
+    "title": "22  Wrangling Repository",
+    "section": "22.3 Phase 2 Scripts",
+    "text": "22.3 Phase 2 Scripts\nphase 2 densityData wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 herbivoreData wrangling.R: Wrangles eponymous sheet from template Excel file (at both plant-level and survey-level).\nphase 2 metadataabiotic.R`: Extracts WORLDCLIM climatic data from phase 2 site locations (requires tidy file from siteData wrangling script).\nphase 2 newColumns wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 notes wrangling.R: Wrangles eponymous sheet from template Excel file. phase 2 plantData survey-lvl summarizing.R: Summarizes tidy plantData to survey-level (i.e., one row per survey).\nphase 2 plantData wrangling.R: Wrangles eponymous sheet from template Excel file (at ONLY plant-level).\nphase 2 reproData wrangling.R: Wrangles eponymous sheet from template Excel file at plant-level only (survey level absent because insufficient raw data at this point).\nphase 2 siteData wrangling.R: Wrangles eponymous sheet from template Excel file.",
     "crumbs": [
       "Admin Tasks",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "wrangling_repo.html#script-archive",
     "href": "wrangling_repo.html#script-archive",
-    "title": "21  Wrangling Repository",
-    "section": "21.4 Script Archive",
-    "text": "21.4 Script Archive\nAll “actual” scripts (i.e., those used in day-to-day wrangling) should have a consistent aesthetic and comment structure (as well as being primarily tidyverse-based). When others contribute code, duplicate the file and edit one version to match internal standards. The second version goes here to be preserved in its original form as a back-up",
+    "title": "22  Wrangling Repository",
+    "section": "22.4 Script Archive",
+    "text": "22.4 Script Archive\nAll “actual” scripts (i.e., those used in day-to-day wrangling) should have a consistent aesthetic and comment structure (as well as being primarily tidyverse-based). When others contribute code, duplicate the file and edit one version to match internal standards. The second version goes here to be preserved in its original form as a back-up",
     "crumbs": [
       "Admin Tasks",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "wrangling_repo.html#singleton-tasks",
     "href": "wrangling_repo.html#singleton-tasks",
-    "title": "21  Wrangling Repository",
-    "section": "21.5 Singleton Tasks",
-    "text": "21.5 Singleton Tasks\nAny scripts written to accomplish a ‘one-off’ task I thought unlikely to be repeated regularly are placed here. Some of them may include operations that could be useful in other contexts tough!",
+    "title": "22  Wrangling Repository",
+    "section": "22.5 Singleton Tasks",
+    "text": "22.5 Singleton Tasks\nAny scripts written to accomplish a ‘one-off’ task I thought unlikely to be repeated regularly are placed here. Some of them may include operations that could be useful in other contexts tough!",
     "crumbs": [
       "Admin Tasks",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "wrangling_repo.html#manuscript-subsetting-scripts",
     "href": "wrangling_repo.html#manuscript-subsetting-scripts",
-    "title": "21  Wrangling Repository",
-    "section": "21.6 Manuscript Subsetting Scripts",
-    "text": "21.6 Manuscript Subsetting Scripts\nEach script is dedicated for a single HerbVar manuscript and does the subsetting and/or column selection necessary to create a tidy data file of only what authors request to test their hypotheses",
+    "title": "22  Wrangling Repository",
+    "section": "22.6 Manuscript Subsetting Scripts",
+    "text": "22.6 Manuscript Subsetting Scripts\nEach script is dedicated for a single HerbVar manuscript and does the subsetting and/or column selection necessary to create a tidy data file of only what authors request to test their hypotheses",
     "crumbs": [
       "Admin Tasks",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
@@ -972,6 +972,17 @@
     "crumbs": [
       "Research Workflow",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Workflow Overview</span>"
+    ]
+  },
+  {
+    "objectID": "herbvar_pubs.html",
+    "href": "herbvar_pubs.html",
+    "title": "HerbVar Publications",
+    "section": "",
+    "text": "A .bib file of all HerbVar publications is available for download here.\n\n\nPan, Vincent S., and William C. Wetzel. 2024. “Neutrality in Plant–Herbivore Interactions.” Proceedings of the Royal Society B: Biological Sciences 291 (2017): 20232687. https://doi.org/10.1098/rspb.2023.2687.\n\n\nWetzel, William C., Brian D. Inouye, Philip G. Hahn, Susan R. Whitehead, and Nora Underwood. 2023. “Variability in Plant–Herbivore Interactions.” Annual Review of Ecology, Evolution, and Systematics 54 (1): 451–74. https://doi.org/10.1146/annurev-ecolsys-102221-045015.",
+    "crumbs": [
+      "Appendix",
+      "HerbVar Publications"
     ]
   }
 ]

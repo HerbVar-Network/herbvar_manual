@@ -11,7 +11,8 @@
 4. review and expand the workflow chapter
 5. review and expand the data analysis chapter; include tutoriual for repo
 5. review and expand the publications chapter; include tutoriual for repo
-
+6. References/multiple .bib files
+7. herbvar publications, herbvar presentations
 ---
 
 Unfortunately I (Nick) took a new position while there were still some loose ends left hanging but I can list them here so they don’t completely fall between the cracks -
