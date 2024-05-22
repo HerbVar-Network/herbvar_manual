@@ -1,0 +1,13 @@
+# References {.unnumbered}
+
+---
+nocite: |
+  @*
+---
+
+A .bib file of all HerbVar publications is available for download here.
+
+
+
+::: {#refs}
+:::

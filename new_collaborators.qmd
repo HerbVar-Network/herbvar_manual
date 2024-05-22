@@ -1,0 +1,25 @@
+# Onboarding New Collaborators
+
+- They look at the participation page on the Network website and email Will or you (via the admin gmail)
+
+## There are three stages to onboarding a new member:
+
+1. Will replies thanking them for their interest and kick it over to you for the next onboarding steps.
+
+- You reply with the first email template (of 2) for prospective new members. Be sure to Cc Will if he’s not already Cc’d by the initial email
+
+2. They respond
+
+- They say they’re not interested/have issues with the expectations. Kick them over to Will and stay on top of the email chain between them so you can know how he handled it *(This hasn’t happened but it could in theory)*
+
+- They say that sounds fine and they’re still interested!
+
+    - Add them to the Collaborator Contact Information file
+
+    - Add them as a “Contributor” to the HerbVar Shared Drive
+
+    - Respond with the second email template (of 2)
+
+3. It is important you send the email after doing the first two steps ( i and ii) because the email template includes links that assumes (1) you have entered preliminary information into the collaborator contact info file and (2) they have access to everything in the HerbVar Shared Drive.
+
+Note also that the second email template contains an onboarding document that you may need to update going forward as onboarding needs evolve

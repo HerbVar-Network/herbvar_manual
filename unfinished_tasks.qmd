@@ -1,0 +1,9 @@
+# Unfinished Tasks (as of 2/1/22)
+
+Unfortunately I (Nick) took a new position while there were still some loose ends left hanging but I can list them here so they don’t completely fall between the cracks -
+
+- Data Use Agreement - I wrote a data use contract for HerbVar members to sign upon joining the Network so that we can have them release rights to their data to us (and promise not to share the larger datafiles produced by the collaboration - The email conversation for getting the Planning Group’s feedback and green light has the subject line “HerbVar Data Sharing Agreement Draft” - The relevant Google Drive folder is linked here and lives in the “HerbVar Management” Shared Drive -
+
+- Authorship Guidelines Conversation - The Planning Group was in the midst of deciding on revised authorship guidelines to catch some edge cases that fell outside of the earlier authorship policy. - You can catch up on this in the email thread with the subject “HerbVar Authorship Criteria Questions”
+
+- Herbivore Protocol Gray Area - The Herbivore protocol is written to prioritize taxonomic identification of insects. However, many researchers are also (and sometimes more) interested in functional identification of insects. Our current approach to the template Excel file allows people to add their own columns as they see fit but this makes later switching from functional to taxonomic (or vice versa) difficult. So, there is a draft email in the herbvar\@gmail account to send when a panel of herbivore experts has been assembled to resolve this uncertainty

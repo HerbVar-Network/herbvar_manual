@@ -1,0 +1,27 @@
+# HerbVar Manuscripts
+
+## Manuscript Preparation 
+
+Using the github repository / template
+
+### All HerbVar publications must include the following text in the Acknoweldgements:
+
+"---- NSF Grant ______"
+
+### If the data set used has been archived at Dryad, please cite both the Dataset and the Paper as follows:
+
+### Add MS to the Zotero Group
+
+Important for NSF reporting to know how many manuscripts are in review.
+
+### Post a Preprint (optional but encouraged)
+
+## Upon Acceptance
+
+### Update the Zotero library
+
+### Archive the Data with Dryad
+
+### Archive the Code at Zenodo   
+
+

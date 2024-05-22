@@ -1,0 +1,8 @@
+# First Steps
+
+1. Add info to Collaborator Contact Information file
+1. Get added as “Contributor” to the HerbVar Shared Drive (see if this is still best way)
+1. get added to slack
+1. request access to github 
+1. Review Authorship Guidelines
+5. Sign Data Use Agreement

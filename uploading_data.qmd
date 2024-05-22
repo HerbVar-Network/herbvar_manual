@@ -1,0 +1,5 @@
+# Uploading Data
+
+
+To upload data, please visit our [data submission portal](https://herbvar.shinyapps.io/data_portal_actual/) and be sure to use the template Excel file linked in @sec-protocols.
+

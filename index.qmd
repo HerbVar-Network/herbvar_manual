@@ -1,0 +1,22 @@
+---
+title-block-banner: true
+title-block-banner-color: "#ffffff"
+date: last-modified
+---
+# Preamble
+
+<!-- # ![](images/cover.png)Welcome {.unnumbered} -->
+
+overview text of what this manual is fore
+
+------------------------------------------------------------------------
+
+Cover Photo by [Joyful Captures](https://unsplash.com/photos/green-caterpillar-on-green-leaf-in-macro-photography-U3kB46FvxCw).
+
+This HerbVar Manual is a [Quarto Book](https://quarto.org/docs/books). A tutorial on getting started with Quarto and RStudio can be found [here](https://quarto.org/docs/get-started/hello/rstudio.html).
+
+<!-- ```{r} -->
+
+<!-- 1 + 1 -->
+
+<!-- ``` -->
