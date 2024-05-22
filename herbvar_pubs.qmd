@@ -1,13 +1,11 @@
 ---
 nocite: |
-  @panNeutralityPlantHerbivore2024;
-  @theherbivoryvariabilitynetwork*+PlantSizeLatitude2023;
-  @wetzelVariabilityPlantHerbivore2023
+  @*
 ---
+
 # HerbVar Publications {.unnumbered}
 
 A .bib file of all HerbVar publications is available for download here.
-
 
 
 ::: {#refs}

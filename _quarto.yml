@@ -9,17 +9,17 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - part: "New Collaborators: Getting Started"
+    - part: "New Collaborators: Start Here"
       chapters: 
-        - onboarding_intro.qmd
-        - contacts.qmd
+        - new_collaborators/onboarding_intro.qmd
+        - new_collaborators/contacts.qmd
     - part: "Research Workflow" 
       chapters:
-        - workflow.qmd
-        - data_collection.qmd
-        - uploading_data.qmd 
-        - data_analysis.qmd
-        - publications.qmd
+        - research/workflow.qmd
+        - research/data_collection.qmd
+        - research/uploading_data.qmd 
+        - research/data_analysis.qmd
+        - research/publications.qmd
     - part: "Protocols"
       chapters: 
         - protocols/spp_site_selection.qmd
@@ -33,12 +33,12 @@ book:
         - protocols/herbivore.qmd    
     - part: "Admin Tasks"
       chapters: 
-        - potential_collaborators.qmd
-        - website.qmd
-        - data_portal.qmd
-        - google_drive.qmd
-        - wrangling_repo.qmd
-        - unfinished_tasks.qmd
+        - admin_tasks/potential_collaborators.qmd
+        - admin_tasks/website.qmd
+        - admin_tasks/data_portal.qmd
+        - admin_tasks/google_drive.qmd
+        - admin_tasks/wrangling_repo.qmd
+        - admin_tasks/unfinished_tasks.qmd
     - references.qmd
     - part: "Appendix"
       chapters: 
@@ -47,10 +47,9 @@ book:
         
     
 # output-file: "HerbVar_Manual"
-bibliography: HerbVar.bib
-  # - "./protocols/manual.bib"
-  # - "project_publications.bib"
-  
+bibliography: 
+  - manual.bib
+  - project_publications.bib
 # csl: ecology.csl
 format:
   html:
