@@ -7,7 +7,7 @@ date: last-modified
 
 <!-- # ![](images/cover.png)Welcome {.unnumbered} -->
 
-overview text of what this manual is fore
+overview text of what this manual is for
 
 ------------------------------------------------------------------------
 
