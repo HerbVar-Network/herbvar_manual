@@ -1,0 +1,193 @@
+# Primary Protocol {#sec-primary}
+
+Protocol for Quantifying Variability in Plant-Herbivore Interactions
+
+
+
+
+Guidelines for Picking Plant Species
+Delineating a Site
+When to Sample
+Common Garden Data
+
+### Overview
+
+Below, we provide a straight-forward and broadly applicable protocol to achieve project goals. This is HerbVar’s Primary Survey Protocol. In brief, 30 randomly selected plant individuals in a site (~population) are surveyed for herbivore damage and (possibly) herbivore abundance. Data are also collected on the nearest conspecific neighbor of each plant (for a total of N = 60 plants). These methods yield estimates of variability, skew, and spatial patterns (e.g., autocorrelation) in herbivore damage. For more information on the broader motivations and goals of the project see here.
+
+### Note on Alternate Protocols
+The HerbVar Primary Survey Protocol is designed to work for many common plant growth forms and contexts, so we expect most surveys to use this protocol. The primary protocol, however, will not work for every plant growth form or context, so HerbVar has multiple alternative survey protocols. Alternative protocols can be found in the shared Drive in the “Protocols - Phase 2” folder. These include protocols for surveying the following:
+Low density/abundance populations
+Mature* trees
+* = surveys of immature trees (i.e., seedling/saplings) use the primary protocol
+Cacti and other succulents
+Reproductive damage
+Insect herbivores, galls, and mines
+Rhizomatous geophytes
+
+If the primary protocol is not feasible for a species or site, then we suggest one of these alternative protocols. If none of these alternative protocols fits the situation, then collaborators may deviate from the primary protocol. We trust collaborators to decide how to adapt the primary protocol in ways that work for their systems. We suggest, however, that collaborators strive to follow the spirit of the protocol below: randomly select at least 30 plants from a site and census them and their nearest neighbors for herbivory and herbivore data. For a dataset to be usable in the overall study, it will have to be comparable to data collected using this protocol. Collaborators who deviate from the HerbVar protocols should carefully record their methods. 
+
+## Ideal Focal Species Abundance
+The primary protocol works best for sites with at least ~90 plant individuals, such that it makes sense to sample individuals randomly. If your site has fewer than ~90 individuals of your plant species, then please consider comprehensively censusing all individuals within the site as suggested in the Low Density/Abundance Protocol. A comprehensive census, when feasible, would be even better than the protocol below. If plants are far enough apart, please take GPS coordinates for each plant. If a comprehensive census is not feasible, then please modify the primary protocol or the low-density/low-abundance guidelines to work efficiently with your species and site. Please reach out to the HerbVar coordinators if you have questions or want to check that your modifications will lead to adequate data.
+
+## Before the Field
+Please review HerbVar’s Damage Estimation Training Guidelines
+
+Note that information on precision of estimates and acceptable binning is contained in this document
+This document contains valuable information on how to estimate percent damage on various leaves
+Please spend some time training and testing yourself and anyone working with you in the field using the ZAX Herbivory trainer
+This web-based application, created by Dr. Angela Moles and Zoe Xirocostas, provide a risk-free environment for testing oneself on per-leaf damage estimation
+Note that the app prompts you to assess damage to the nearest percent while our protocol is slightly coarser (see Table 1 of the Damage Estimation Guidelines)
+The app has two stages, one in which you assess damage and are immediately told how close you are to correct and a second where you assess 50 leaves, and the results are given to you at the end. Please feel free to focus on the first part of the app until you are confident (though you are of course welcome to do the second if you want extra training)
+Download the template datasheet for this protocol
+There are both digital (see siteData, densityData, and plantData sheets) and printable versions to facilitate standardized data entry
+If you have a question on this, please feel free to reach out to herbvar at gmail.com
+
+## Primary Protocol
+
+Pick a plant species (see “Guidelines for Selecting Plant Species” below)
+Pick a site (see “Delineating a Site” below for advice)
+Pick a time to sample (see “When to Sample” below for advice)
+Determine a radius for your circular quadrats
+
+If you are sampling one of the HerbVar focal species (Taraxacum officinale, Plantago major, or Plantago lanceolata):
+If you are using any other species, use the following process to determine a quadrat radius or use the table below:
+
+
+Use a radius of 0.4 m for your quadrats
+Calculate your own quadrat radius by:
+
+
+This will standardize across surveys of these same species. Note that if your populations are sparse, you may use a larger radius following the other process or pre-calculated values (Table 1)
+- Estimate mean density of plant / 1 m2
+- Count the number of plants in 1 m2 at 10 random locations within the site
+- Calculate mean density (D)
+- Use D to calculate a circular quadrat radius (r) that would on average contain 4 plants
+r = 4/(πD)
+
+- This approach seeks an optimal, intermediate quadrat size that balances the costs associated with a small quadrat size (many empty quadrats) and a large quadrat size (quadrats that require counting many plant individuals).
+
+
+
+
+
+Rather than calculating, you may also use this pre-calculated set of radii (Table 1) for non-focal species. Remember, for focal species, please use 0.4 m
+
+Table 1. Pre-Calculated Quadrat Radii
+Number plants/m2 (Density D)
+Quadrat radius (r)
+D ≤ 0.1
+3.6 meters
+0.1 < D ≤ 0.25
+2.9 m
+0.25 < D ≤ 0.5
+1.9 m
+0.5 < D ≤ 1
+1.35 m
+1 < D ≤ 3
+0.9 m
+3 < D ≤ 6
+0.55 m
+6 < D ≤ 10
+0.4 m
+10 < D ≤ 20
+0.3 m
+20 < D
+0.23 m
+
+
+Lay a transect through the middle of the site (Fig. 1)
+Record GPS coordinates of origin, length (m), and compass direction (degrees) of transect (need to pick a coordinate system and precision)
+Select center points of circular quadrats (Fig. 1). Randomly select 40+ points in the site by selecting pairs of random numbers. One random number represents distance along the transect (0–length of transect); the other represents distance left or right of the transect (left=negative, 0=center, right=positive). These are the center points of quadrats.
+For each quadrat:
+Locate a quadrat center point using transect and measuring tape or stick (Fig. 1)
+Count and record the number of focal plants within r meters of the center point (Fig. 1)
+See above for explanation of how to calculate r(or use values in Table 1)
+It may be helpful to place a stick vertically in the center of the quadrat, attach a string of r meters to the tip, and walk in a circle around the stick to help visualize the circular quadrat
+Note this includes only rooted focal plant species individuals in the quadrat
+Record other quadrat-level data
+Percent cover of focal plant species (ignore non-focal species)
+Note this includes both rooted and not rooted focal plant species individuals in the quadrat but hanging over the edge from above
+Percent cover of all non-focal plant species (ignore focal species)
+These 2 percent covers could total more than 100% if they overlap
+If surveying understory plants, ignore forest canopy when estimating percent cover
+If the circular quadrat has 0 plants, record a zero and continue to the next quadrat
+If the circular quadrat has > 0 plants:
+Randomly choose 1 of the plants within the quadrat to survey
+A quicker alternative would be to choose the plant closest to the quadrat center. But this is recommended only if you think it will produce an unbiased sample of plants from your site. Be careful about over-representing large and/or isolated plants (which will be closer to more points relative to small plants in crowded patches).
+For the selected plant (1 per quadrat) record plant life stage
+I.e., seedling, vegetative, flowering, fruiting
+Note that if multiple stages are present, record all relevant stages (i.e., a plant can be both flowering and fruiting)
+For the selected plant record plant size
+Use judgment to pick best measure for your species
+E.g., standing plant height (ground to tallest living part), stem length, foliage diameter, stem diameter
+Perhaps most importantly: for the selected plant record herbivore damage in 3 ways (see Damage Estimation Training Guidelines)
+Note that “herbivore damage” includes damage caused by both vertebrate and invertebrate herbivores
+Presence/absence of leaf damage: Record both (A) the total number of leaves on the plant and (B) the number of leaves with >0.5% herbivory
+If the plant has ≤ 60 leaves total, please record the true numbers
+If the plant has >60 leaves total, randomly (arbitrarily) choose 60 and record those values. Please also make a note that you stopped at 60 (see template datasheet).
+Note that we are no longer including undamaged leaves in the following step, so these two data points are vital in understanding the proportion of the plant that is not damaged by herbivores.
+If plants have reproductive parts (flowers/fruits/seeds) that could have been damaged by herbivores, please see the Reproductive Damage Protocol. This is optional but encouraged.
+Estimated percent damage on 10 randomly (arbitrarily) chosen leaves with herbivory damage (> 0% herbivory)
+One estimate per leaf (for a total of 10 estimates)
+Please strive to sample in a way that selected leaves will be representative of all leaves on the plant (e.g., sample young and old leaves in proportion to frequency on plant)
+If desired, you may use an application to estimate damage (e.g., LeafByte, etc.). However, please make a note of that in the appropriate part of the siteData tab of the template datasheet.
+Note that all selected leaves should have > 0% damage (this is a change from the Phase 1 protocol). Note also that measuring only damaged leaves makes the data collected in step 1 (see above) vital in understanding per-plant damage variation.
+For leaves with herbivore-built leaf shelters (rolls and ties), please carefully peer into or open shelters to estimate damaged area and count resident herbivores
+If damage is estimated visually and leaves are visibly damaged but < 0.5% (i.e., damage > ~0.1% but ≤ 0.5%) record 0.5%. If a leaf has < ~0.1% damage, round that down to zero. If using an app, make a note and put in the value the app provides.
+Estimated percent damage across the whole plant, optionally also breaking apart damage by type or even species of herbivore if possible (e.g., sucking damage versus chewing damage, add columns as needed)
+E.g., If a plant has 4 equally sized leaves and 2 of those leaves are 50% eaten, then whole plant has 25% herbivory
+But take leaf size into account when leaves vary in size
+If this measure is not feasible to collect, measure 30 leaves instead of 10 in step 2 (see above) and leave this blank. Those 30 can then be used to calculate this value post hoc
+Record presence of plant diseases (i.e., pathogens)
+Please also estimate your confidence in your pathogen estimate and include it as a note in the provided column in the datasheet. In Phase 1, several collaborators pointed out that the difference between pathogen pressure and nutrient deficiency can be slim so this confidence estimate will be helpful in accounting for the difficulty in pathogen estimation
+Record number of leaf mines and galls per plant
+If there is reason to believe that galls or mines have accumulated through multiple years (e.g., stem galls on woody perennials), please note this
+If there are too many mines or galls to count individually, estimate the number per plant by tallying the number per module (e.g., stem, branch) and multiplying by number of modules
+If serpentine/linear mines cannot be confidently recorded, instead count only blotch mines to record a consistent mine abundance (see visual guide at bottom of Herbivore Sampling Protocol for definitions of “serpentine” versus “blotch” mines)
+Optional: abundance of other externally-feeding herbivores (standardized approach; see Herbivore Sampling Protocol to decide if/how to collect these data)
+Distance to nearest conspecific neighbor (where the nearest neighbor is the plant with the closest above ground tissue to any aboveground tissue on the focal plant)
+Data to record for the first nearest conspecific neighbor of selected plant:
+All the same data as focal plant except nothing for neighbor’s neighbor
+Continue visiting the randomly selected points until ≥ 30 focal plants and 30 nearest neighbors have been surveyed
+
+## After the Field
+Enter your field-collected data into the template Excel file
+Refer to the dataDictionary sheet if column meanings are unclear
+Use the data submission portal to upload your data
+The portal has numbered steps to assist the upload process
+After uploading via the submission portal, check the Completed Surveys file to ensure that your data were uploaded successfully.
+Uploaded data will have your entries in the sidebar of the app as the bottom-most row of that file
+
+Fig. 1. A diagram of the sampling scheme described in the text. (1) Record plant density in 10 randomly located 1-m2 areas to estimate average plant density D, which is used to calculate quadrat radius r. (2) A quadrat with one focal plant and its nearest neighbor (outside quadrat). (3) A quadrat with no focal plants. (4) A quadrat with 5 focal plants; plant 3 is randomly selected for data collection, and its nearest neighbor is plant 4. Diagram by Moria Robinson.
+
+
+## Methods Notes
+Modifications of this protocol may be necessary to adapt it to different systems (see “Note on Alternate Protocols” above). If the primary protocol won’t work for your system, please first consult our alternative protocols (see protocol above and “Protocols - Phase 2” folder). If our alternative protocols do not solve the issues, then you may adapt the primary protocol as needed. Whatever you do, please record methods carefully and strive to follow the spirit of the protocol and produce comparable data.
+In Phase 1, collaborators reported that one survey (~60 plants) took between 0.5 and 2 person days (4-16 hours) using the methods above (after a species and site have already been selected).
+We select 40 quadrat center points (instead of 30) so that we have extra points ready in case some quadrats are empty. If you predict that many quadrats will be empty (e.g., in a very spatially clumped population of plants), then select more points (e.g., 60 points). (Remember the goal is to have 30 focal plants sampled, plus their nearest neighbors).
+Sometimes, especially in small populations, a focal plant ends up being another focal plant’s neighbor. This is fine. Just note and keep going. If you have time, you can add an extra focal plant at the end (but this isn’t totally necessary).
+For clonal plants, we have been calling stems “individuals” if they are not connected aboveground. When looking for above ground connections, we clear away detritus, but we do not dig or move soil. There is also a dedicated alternate protocol for surveying such species (see Rhizomatous Geophytes Protocol)
+Please see our Damage Estimation Training Guidelines for guidelines on how to estimate herbivore damage. Here are two tips:
+Sometimes discerning herbivore damage from physical damage (e.g., wind, trampling) is tricky. We do the best we can. We look at things like how jagged the cut edges are and if they travel past the missing area into the remaining leaf tissue (which would suggest the damage may have been physical).
+Another challenge is old damage that occurred when leaves were still expanding. This could potentially make the area removed seem larger than it was. If we suspect something like this happened, then we try to bend the leaf back into shape to see if it seems like the missing area expanded over time.
+We will accept surveys that only assess damage and do not identify herbivores. This will allow people without insect ID skills to participate in the study.
+
+## Guidelines for Picking Plant Species
+From the patterns found in the first phase of data collection we have developed the following objectives going forward:
+Surveys of the three focal species (Taraxacum officinale, Plantago lanceolata, and Plantago major), especially across broad environmental and/or geographic ranges
+Surveys of species in the five focal families (Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae). We want surveys of new species within these families, especially species from new clades or with unusual growth forms. For repeat surveys of species within these families, we are prioritizing surveys from new regions, habitats, elevations, etc.
+Surveys of damage to any species’ reproductive tissues (e.g., flowers, fruits, etc.)
+
+While we welcome all surveys, data that fall under one or more of these three guidelines is particularly valuable in addressing the current scope of HerbVar’s research questions. Please refer to our more detailed HerbVar Species Selection Protocol for more information on species selection and how data contribution relates to authorship in papers utilizing those data.
+
+## Delineating a Site
+We realize that defining the ‘edges’ of a site can be subjective and not easy. We search for an area where a given plant species occurs at a high enough density to easily select 30 focal plants and 30 unique neighbors with our method. This is usually a relatively dense patch. Walk around and see if you see the density drop off to well below the mean density that is used to calculate radius size. This is usually quite simple, e.g., when we walk out from the center of a “site” and don’t see any individuals of the focal species within 5 m, we decide we’re at the edge of a patch. In some systems, delineating a single, sampleable population simply might not be possible (e.g., where a species covers a vast area). In these cases, collaborators should simply do their best to select a reasonable, representative area to sample.
+
+## When to Sample
+This will depend on the natural history of the system. We will accept data sampled at any time as long as there has been some herbivory. We will use the sampling date to examine how herbivory changes seasonally (please note approximate dates for beginning and end of growing season for each survey, see siteData sheet in datasheet template). However, the most valuable surveys will be after enough time has passed for an ecologically meaningful amount of herbivory to accumulate. In strongly seasonal systems, this will be in the latter half of the growing season. But it could also be once leaves have reached maturity (e.g., for species in which most herbivory is on expanding leaves). In other systems, the best time to sample might be during or after a key life history stage (e.g., flowering). All that said, there is no perfect time to sample. Collaborators should use their knowledge to decide when to sample (and sample when is feasible; some data is better than no data!). And repeat sampling is acceptable.
+
+## Common Garden Data
+Common gardens are a powerful tool for studying plant–herbivore interactions. Several collaborators have proposed including them in HerbVar, and we would like to try if we can get enough data. To be applicable to this study a common garden’s design would have to be random with respect to genotype. If a garden was somehow stratified with blocks containing repeated instances of, e.g., different levels of leaf toughness, then damage distributions will not be comparable to damage from wild populations. We may still be able to use such datasets, but only if we have enough to use them in a separate analysis. Please get in touch if you would like to contribute common garden data.
+
+
+
