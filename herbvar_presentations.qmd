@@ -7,7 +7,7 @@ nocite: |
 
 A .bib file of all HerbVar presentations is available for download here.
 
-This will eventually have a list of all presentations (eg talks or posters  at meetings) by HerbVar Members
+This will eventually have a list of all presentations (eg talks or posters  at meetings) by HerbVar Members.
 
 ::: {#refs}
 :::
