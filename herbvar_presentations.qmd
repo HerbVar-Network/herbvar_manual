@@ -3,7 +3,7 @@ nocite: |
   @*
 ---
 
-# HerbVar Publications {.unnumbered}
+# HerbVar Presentations {.unnumbered}
 
 A .bib file of all HerbVar presentations is available for download here.
 
