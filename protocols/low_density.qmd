@@ -2,8 +2,9 @@
 author: Danielle Salcido, Lee Dyer, Will Wetzel
 ---
 
-# Low Density/Abundance Plants {#sec-low_density}
 Most Recent Update: 
+
+# Low Density/Abundance Plants {#sec-low_density}
 
 ## Overview
 

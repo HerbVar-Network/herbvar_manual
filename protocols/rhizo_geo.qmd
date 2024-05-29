@@ -2,10 +2,7 @@
 author: Yuval Sapir (Tel Aviv University)
 ---
 
-
 # Rhizomatous Geophytes {#sec-rhizo}
-
-
 
 ## Overview
 
@@ -54,7 +51,12 @@ Note that tip of the leaf may be dry due to climate fluctuations in the arid reg
 4. Continue visiting randomly select points until ≥ 30 focal genets and 30 nearest neighbor genets have been surveyed
 
 
-*Figure 1* – Top left: Dense (“phalanx type”) genet of Iris atrofusca; Top right: Sparse (“guerrilla type”) genet of Iris bismarckiana; Bottom left: Compact rhizome of Iris atrofusca (this one has ~4 leaf-fan ramets); Bottom right: Stolons connecting ramets of Iris bismarckiana.
+
+
+![Top left: Dense (“phalanx type”) genet of Iris atrofusca; Top right: Sparse (“guerrilla type”) genet of Iris bismarckiana; Bottom left: Compact rhizome of Iris atrofusca (this one has ~4 leaf-fan ramets); Bottom right: Stolons connecting ramets of Iris bismarckiana.](images/img18.png){#fig-rhizo}
+
+
+
 
 
 ### References

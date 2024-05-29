@@ -158,6 +158,8 @@ The portal has numbered steps to assist the upload process
 After uploading via the submission portal, check the Completed Surveys file to ensure that your data were uploaded successfully.
 Uploaded data will have your entries in the sidebar of the app as the bottom-most row of that file
 
+![Fig. 1. A diagram of the sampling scheme described in the text. (1) Record plant density in 10 randomly located 1-m2 areas to estimate average plant density D, which is used to calculate quadrat radius r. (2) A quadrat with one focal plant and its nearest neighbor (outside quadrat). (3) A quadrat with no focal plants. (4) A quadrat with 5 focal plants; plant 3 is randomly selected for data collection, and its nearest neighbor is plant 4. Diagram by Moria Robinson.](images/img1.png)
+
 Fig. 1. A diagram of the sampling scheme described in the text. (1) Record plant density in 10 randomly located 1-m2 areas to estimate average plant density D, which is used to calculate quadrat radius r. (2) A quadrat with one focal plant and its nearest neighbor (outside quadrat). (3) A quadrat with no focal plants. (4) A quadrat with 5 focal plants; plant 3 is randomly selected for data collection, and its nearest neighbor is plant 4. Diagram by Moria Robinson.
 
 

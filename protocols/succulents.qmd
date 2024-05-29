@@ -5,14 +5,6 @@ author: Judie Bronstein and Victoria Luizzi (University of Arizona)
 
 MOST RECENT UPDATE:
 
-
-Sampling Issues within Architectural Categories
-Expected Types of Herbivory
-Other Notes About Cacti
-Protocol
-Pre-Census Tasks
-Census
-
 ## Overview
 
 This document discusses issues relevant for quantifying herbivory on cacti and outlines a hopefully widely applicable protocol for doing so. The protocol is designed for cacti that have many jointed segments, but we also discuss ways to modify the protocol for other architectural types. Although we focus on cacti, we think this document will also be helpful for other succulents. Please share feedback, particularly ways we can make this widely useful.

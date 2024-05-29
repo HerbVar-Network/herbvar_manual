@@ -57,7 +57,12 @@ Do not worry about estimating herbivory at the whole-plant scale for mature tree
 
 ## Selecting Leaves for Herbivory Estimates
 
-Trees… are tall, and we will not be able to reach top branches. We will therefore focus on low branches that can be reached from the ground with a pole pruner, and sample from multiple places around the circumference (see right). We provide some guidelines below, but you should choose an approach that makes sense for you and your species. Remember that we are trying to acquire a random subsample of all leaves on the tree; this means avoiding any preference for/against particular leaves (e.g., young vs old).
+Trees… are tall, and we will not be able to reach top branches. We will therefore focus on low branches that can be reached from the ground with a pole pruner, and sample from multiple places around the circumference (see below). We provide some guidelines below, but you should choose an approach that makes sense for you and your species. Remember that we are trying to acquire a random subsample of all leaves on the tree; this means avoiding any preference for/against particular leaves (e.g., young vs old).
+
+
+![Focus on low branches that can be reached from the ground with a pole pruner, and sample from multiple places around the circumference](images/img17.png){#fig-tree}
+
+
 
 Ideally, leaves will be sampled in proportion to their frequency on the tree. Here are two alternate methods for selecting random (or at least haphazard) leaves
 

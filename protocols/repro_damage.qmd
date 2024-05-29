@@ -6,9 +6,6 @@ author: Phil Hahn (hahnp@ufl.edu), Susan Whitehead (swhitehead@vt.edu), Paul Ode
 
 MOST RECENT UPDATE:
 
-(NEEDS TO INSERT PHOTOS from https://docs.google.com/document/d/1Rz6wPDXpfEnv1M16gJ1a2D3DHeImqlv-/edit)
-
-
 _Please send any comments or suggestions you have regarding the protocol to the authors or post as issues/pull requests on the repository (see the Manual Preamble)._
 
 
@@ -59,21 +56,37 @@ Note 1: numReproHerb can be less than the sum of the counts of types of damage b
 Note 2: In the damageUnit column, record ‘count’ or ‘percent’ depending on whether you are recording the number of damage reproductive units or the percent damage to a single unit
 
 
+### Examples of different types of damage to reproductive material
 
-Examples of different types of damage to reproductive material
+::: {#fig-damage layout-ncol=2}
 
+![Abronia umbellata with chewing damage to two corolla (one is completely chewed and one is partially chewed). In this example, each floret would be scored for damage (2 damaged, 13 organs examined). Photo: Eric LoPresti.](images/img2.png){#fig-umbellata}
 
-Abronia umbellata with chewing damage to two corolla (one is completely chewed and one is partially chewed). In this example, each floret would be scored for damage (2 damaged, 13 organs examined). Photo: Eric LoPresti.
-Abronia turbinata with damage and frass from a moth caterpillar (Neogrotella macdunnoughi). Note chewing damage to petals/corollas and caterpillars at base of florets. In this example, each of 30 florets would be scored for damage. Photo: Eric LoPresti.
+![Abronia turbinata with damage and frass from a moth caterpillar (Neogrotella macdunnoughi). Note chewing damage to petals/corollas and caterpillars at base of florets. In this example, each of 30 florets would be scored for damage. Photo: Eric LoPresti.](images/img3.png){#fig-turbinata}
 
-Vicia americana seed pod. Notice boring holes in the upper-left seed and frass in the pod. In this example, each of 30 seeds would be scored for damage. Photo: Phil Hahn.
-
-
-Monarda fistulosa seed head ripped open to reveal a weevil larvae. Notice the damage holes to the floral tubes. In this example, each flower head would be recorded as damaged (or undamaged) and ideally 30 flower heads would be assessed per plant. Often this species does not produce 30 flowers per plant, so smaller numbers would be acceptable. If most plants have fewer than 10 flowers, this would not be a good population to survey for reproductive damage. Photo: Phil Hahn.
-Lonicera fruit with chewing damage. In this example, each of 30 fruits would be scored for damage. Photo: Susan Whitehead.
+:::
 
 
-Lonicera fruit with piercing damage. In this example, each of 30 fruits would be scored for damage. Photo: Susan Whitehead.
-Aquilegia shockleyi with chewing damage to fruits (from Heliothis phloxiphaga). In this example, each fruit could be scored for damage, or each fruit could be opened and seeds could be counted (infer missing, fully-consumed seeds from pod features). Photo: Eric LoPresti.
+![Vicia americana seed pod. Notice boring holes in the upper-left seed and frass in the pod. In this example, each of 30 seeds would be scored for damage. Photo: Phil Hahn.](images/img4.png){#fig-americana}
+
+
+
+
+
+
+::: {#fig-damage2 layout-ncol=2}
+
+![Monarda fistulosa seed head ripped open to reveal a weevil larvae. Notice the damage holes to the floral tubes. In this example, each flower head would be recorded as damaged (or undamaged) and ideally 30 flower heads would be assessed per plant. Often this species does not produce 30 flowers per plant, so smaller numbers would be acceptable. If most plants have fewer than 10 flowers, this would not be a good population to survey for reproductive damage. Photo: Phil Hahn.
+Lonicera fruit with chewing damage. In this example, each of 30 fruits would be scored for damage. Photo: Susan Whitehead.](images/img5.png){#fig-fistulosa}
+
+
+![Lonicera fruit with piercing damage. In this example, each of 30 fruits would be scored for damage. Photo: Susan Whitehead.
+Aquilegia shockleyi with chewing damage to fruits (from Heliothis phloxiphaga). In this example, each fruit could be scored for damage, or each fruit could be opened and seeds could be counted (infer missing, fully-consumed seeds from pod features). Photo: Eric LoPresti.](images/img6.png){#fig-lonicera}
+
+:::
+
+
+
+
 
 

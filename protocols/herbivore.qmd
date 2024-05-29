@@ -1,75 +1,63 @@
 # Herbivores, Mines, and Galls {#sec-herbivore}
 
-MOST RECENT UPDATE:
-
-TODO: NEED TO INSERT IMAGES FROM: https://docs.google.com/document/d/1l6ucJc6JpohcgPXBhg9e3hLPWImjTZM-/edit
-
-
-
-Protocol
-Mines & Galls Visual Guide
-Insect Herbivore ID Visual Guide
-
 ## Overview
 
 Though a lower priority than the damage data, these data will permit us to pilot some more mechanistic questions about the distribution of herbivory (e.g. spatial aggregation of herbivores). So far, observers have been recording as much herbivore data as they can via a quick visual survey; however, this may not be feasible for all observers or systems. 
 
-## Objectives
+::: {.callout-important}
 
-For all plants, record the number of leaf mines and galls on the entire plant. 
+For all plants, record the number of leaf mines and galls on the entire plant. If there are too many to count individually, please estimate (for example, by counting the number present on some module of the plant [e.g., a branch] and multiply by the number of modules). 
 
-If there are too many to count individually, please estimate (for example, by counting the number present on some module of the plant [e.g., a branch] and multiply by the number of modules). Separate from counting mines and galls, if you are confident in insect ID (see below for specifics) please also collect insect herbivore data
+Separate from counting mines and galls, please also collect insect herbivore data if you are confident in insect ID (see below for specifics).
+
+:::
+
 ## Protocol
 
-Deciding whether to sample “core” herbivores. Please use the following questions to help you decide.
+### **Deciding whether to sample “core” herbivores.** 
 
-Are you comfortable distinguishing the following 5 groups of herbivores? If not, prioritize another herbivory survey (see the Primary Protocol)
+Please use the following questions to help you decide whether to sample “core” herbivores.  
 
-Grasshoppers/crickets/katydids (Orthoptera)
+1. **Are you comfortable distinguishing the following 5 groups of herbivores? **If not, prioritize another herbivory survey (see the Primary Protocol).  
 
-Caterpillar-like larvae (i.e., eruciform larvae)
+    - Grasshoppers/crickets/katydids (Orthoptera).
 
-Note this includes moth/butterfly caterpillars, sawfly (Hymenoptera: Symphyta) larvae, and some beetle larvae but does not include larval true flies (i.e., maggots)
+    - Caterpillar-like larvae (i.e., eruciform larvae). **_Note_: **this includes moth/butterfly caterpillars, sawfly (Hymenoptera: Symphyta) larvae, and some beetle larvae but does not include larval true flies (i.e., maggots)
 
-Aphids (Aphididae)
+    - Aphids (Aphididae)
 
-Hoppers (Hemiptera: Auchenorrhyncha)
+    - Hoppers (Hemiptera: Auchenorrhyncha). This includes planthoppers (Fulgoromorpha), leafhoppers (Cicadellidae/Cercopidae), treehoppers (Membracidae), & cicadas (Cicadidae). If you are confident, you may also identify non-”hopper” Auchenorrhynchans in the column provided in the template Excel file
 
-This includes planthoppers (Fulgoromorpha), leafhoppers (Cicadellidae/Cercopidae), treehoppers (Membracidae), & cicadas (Cicadidae)
+    - Non-Aphid Sternorrhynchans. This includes whiteflies, scale insects, and mealybugs
 
-If you are confident, you may also identify non-”hopper” Auchenorrhynchans in the column provided in the template Excel file
-Non-Aphid Sternorrhynchans
+2. **Are you confident that you can visually detect the herbivores on the selected plant species,** considering the complexity of plant structure? If not, prioritize another herbivory survey  (see the Primary Protocol). If you have the ability to sample herbivores in another way (e.g., a beat-sheet) and feel excited about this, feel free – but be judicious of the added time required for sorting through a loaded beat-sheet!
 
-This includes whiteflies, scale insects, and mealybugs
+3. **Could you do another herbivory survey with the time required to conduct an herbivore survey?** If yes, prioritize another herbivory survey (see the Primary Protocol). If not, please collect herbivore data!
 
-Are you confident that you can visually detect* the herbivores on the selected plant species (consider complexity of plant structure)? If not, prioritize another herbivory survey  (see the Primary Protocol)
-* = If you have the ability to sample herbivores in another way (e.g., a beat-sheet) and feel excited about this, feel free – but be judicious of the added time required for sorting through a loaded beat-sheet!
+### Sampling insects beyond “core” herbivores.  
 
-Could you do another herbivory survey with the time required to conduct an herbivore survey? If yes, prioritize another herbivory survey (see the Primary Protocol). If not, please collect herbivore data!
+1. In an effort to standardize the insect data we have included 5 groupings to use for tallying herbivores. This is to avoid counting insects which may be predatory, rather than herbivorous (e.g., “true bugs”). **_Please prioritize counting herbivores belonging to the 5 aforementioned groups_** (see visual guide below if needed).
 
-## Sampling insects beyond “core” herbivores.
+2. Please indicate whether you are recording herbivores as a count or as presence/absence data (see “insectUnit” in the “herbivoreData” tab of the template Excel file)  
 
-In an effort to standardize the insect data we have included 5 groupings to use for tallying herbivores. This is to avoid counting insects which may be predatory, rather than herbivorous (e.g., “true bugs”). Please prioritize counting herbivores belonging to the 5 aforementioned groups (see visual guide below if needed)
+3. For both core and non-core insects, please herbivorous count insects whether or not they are actively feeding. You are welcome to make a note of their behavior in the “notes” column but all potential herbivores on the plant should be included in your survey
 
-Please indicate whether you are recording herbivores as a count or as presence/absence data (see “insectUnit” in the “herbivoreData” tab of the template Excel file) 
+4. If you have more intimate knowledge of insect herbivores (e.g., can distinguish herbivorous true bugs from predatory), please add columns for these other insects in the “herbivoreData” tab of the template Excel file.
 
-For both core and non-core insects, please herbivorous count insects whether or not they are actively feeding. You are welcome to make a note of their behavior in the “notes” column but all potential herbivores on the plant should be included in your survey
+    - To facilitate this, we have added “beetleHerbivore”, “thysanopteraHerbivore”, “gastropod”, “stemBorers”, and “heteropteraHerbivore” to the template digital datasheet but you are welcome to add other columns as needed.
 
-If you have more intimate knowledge of insect herbivores (e.g., can distinguish herbivorous true bugs from predatory), please add columns for these other insects in the “herbivoreData” tab of the template Excel file.
+    - We also recognize that herbivore surveys may differ dramatically among sampling sites and have modified our printable datasheet for this survey to include an “Insect ID” column rather than predefined columns
 
-To facilitate this, we have added “beetleHerbivore”, “thysanopteraHerbivore”, “gastropod”, “stemBorers”, and “heteropteraHerbivore” to the template digital datasheet but you are welcome to add other columns as needed.
+      - Please continue to record the 5 required insects (even when there are none please put a zero)
 
-We also recognize that herbivore surveys may differ dramatically among sampling sites and have modified our printable datasheet for this survey to include an “Insect ID” column rather than predefined columns
+    - While mines/galls are recorded in the Primary Protocol, mine-/gall-forming insects should be counted here if you have the time and identification ability to search within galls/mines for insects
 
-Please continue to record the 5 required insects (even when there are none please put a zero)
-
-While mines/galls are recorded in the Primary Protocol, mine-/gall-forming insects should be counted here if you have the time and identification ability to search within galls/mines for insects
+## Herbivore Guide 
 
 ### Mines & Galls Visual Guide
 
-Leaf mines – Linear/Serpentine
+![Leaf mines – Linear/Serpentine. Left/right = single mine. Center = multiple mines](images/img19.png){#fig-mines1}
 
-Left/right = single mine, center = multiple mines
 
 How do you count multiple mines? It’s a confusing picture but in that way is more likely something that would be seen in the field! One of our gall gurus (Eric LoPresti) thinks this is probably two mines. He says, “the one that terminates at the top in a blotch and the one that terminates at the bottom center in a wider figure 8 - looks confusing since the bottom one doubled back, making a weird hanging trail. But you can tell that it is a single mine, since there is no nearby really thin trail where it starts. The intermediate width mine on the right is odd - whether it was aborted/eaten or doubled back is not obvious to me, however, I suspect it is the latter, as I only see two really thin sections, both on the upper half, which indicates a start and a very small caterpillar.”
 
@@ -78,63 +66,77 @@ This can get confusing, but do your best. Each count doesn’t have to be exactl
 
 ### Leaf Mines – Blotch Mines
 
-Several examples of multiple blotch mines on single leaves
 
-Galls – Leaf Galls
+![Several examples of multiple blotch mines on single leaves](images/img20.png){#fig-mines2}
 
-Galls – Stem/Branch Galls
+
+
+### Galls – Leaf Galls
+
+![Leaf Galls](images/img21.png){#fig-galls1}
+
+### Galls – Stem/Branch Galls
+
+
+![Stem/Branch Galls](images/img22.png){#fig-galls2}
 
 
 ## Insect Herbivore ID Visual Guide
 
 Some groups of insects (e.g. Hemipterans, Coleopterans) include predatory, herbivorous, and omnivorous species - and it can be challenging to tell the two groups apart. Other groups are more certain to be herbivores. Use this visual guide to identify insects within the five core groups.
 
-Grasshoppers / crickets / katydids (Orthoptera)
-
-Grasshoppers (suborder: Caelifera); crickets/katydids (suborder: Ensifera)
-
-May be confused with: mantids (left) or hoppers (right)
-Synapomorphies & Identifying Marks: Have swollen “knee” joints of hind legs (femoro-tibial joints), “chewing” mouthparts (mandibulate) and forelegs are never raptorial
+### Grasshoppers / crickets / katydids (Orthoptera)
 
 
-Caterpillar-like (larval forms ONLY)
+![](images/img23.png){#fig-herbvivores1}
+
+<!-- Grasshoppers (suborder: Caelifera); crickets/katydids (suborder: Ensifera) -->
+
+<!-- May be confused with: mantids (left) or hoppers (right) -->
+<!-- Synapomorphies & Identifying Marks: Have swollen “knee” joints of hind legs (femoro-tibial joints), “chewing” mouthparts (mandibulate) and forelegs are never raptorial -->
 
 
-Lepidopteran caterpillars; sawfly larvae; herbivorous beetle larvae
+### Caterpillar-like (larval forms ONLY)
 
- May be confused with: syrphid larvae (left) or coccinellid larvae (right)
+![](images/img24.png){#fig-herbvivores2}
 
-Synapomorphies & Identifying Marks: Have cylindrical bodies with a well-developed head capsule. Have both true (thoracic) legs and abdominal prolegs. Specimens lacking legs entirely or with only six legs do not belong in this group.
+<!-- Lepidopteran caterpillars; sawfly larvae; herbivorous beetle larvae -->
 
+<!--  May be confused with: syrphid larvae (left) or coccinellid larvae (right) -->
 
-Hoppers (Hemiptera: Auchenorrhyncha)
-
-
-Leafhoppers, treehoppers, planthoppers, and cicadas
-
-May be confused with: true bugs (i.e., Hemiptera: Heteroptera)
-
-Synapomorphies & Identifying Marks: Have piercing/sucking mouthparts with “beak” seeming to originate from the neck. Wings or dorsal exoskeleton sometimes modified into leathery covering. Antennae bristle-like (aristate) and short originating beneath eyes
+<!-- Synapomorphies & Identifying Marks: Have cylindrical bodies with a well-developed head capsule. Have both true (thoracic) legs and abdominal prolegs. Specimens lacking legs entirely or with only six legs do not belong in this group. -->
 
 
-Aphids (Hemiptera: Aphididae)
+### Hoppers (Hemiptera: Auchenorrhyncha)
+
+![](images/img25.png){#fig-herbvivores3}
+<!-- Leafhoppers, treehoppers, planthoppers, and cicadas -->
+
+<!-- May be confused with: true bugs (i.e., Hemiptera: Heteroptera) -->
+
+<!-- Synapomorphies & Identifying Marks: Have piercing/sucking mouthparts with “beak” seeming to originate from the neck. Wings or dorsal exoskeleton sometimes modified into leathery covering. Antennae bristle-like (aristate) and short originating beneath eyes -->
 
 
+### Aphids (Hemiptera: Aphididae)
+
+![](images/img26.png){#fig-herbvivores4}
 
 
-May be confused with: whitefly
+<!-- May be confused with: whitefly -->
 
-Synapomorphies & Identifying Marks: Have a pear-shaped body and may/may not have wings. Pair of tubes (cornicles) projecting from rear often present
-
-
-Non-Aphid Sternorrhynchans (whiteflies, mealybugs, scale insects)
+<!-- Synapomorphies & Identifying Marks: Have a pear-shaped body and may/may not have wings. Pair of tubes (cornicles) projecting from rear often present -->
 
 
-Whitefly (Aleyrodidae); mealybug (Pseudococcidae); scale insect (Coccoidea)
+### Non-Aphid Sternorrhynchans (whiteflies, mealybugs, scale insects)
 
-May be confused with: aphids
+![](images/img27.png){#fig-herbvivores5}
 
-Synapomorphies & Identifying Marks: Relatively distant relatedness among these three taxa but each is relatively small (i.e., <5 mm) and distinctive. Mealybugs and scales are often found clustered on stems at high densities.
+
+<!-- Whitefly (Aleyrodidae); mealybug (Pseudococcidae); scale insect (Coccoidea) -->
+
+<!-- May be confused with: aphids -->
+
+<!-- Synapomorphies & Identifying Marks: Relatively distant relatedness among these three taxa but each is relatively small (i.e., <5 mm) and distinctive. Mealybugs and scales are often found clustered on stems at high densities. -->
 
 
 		

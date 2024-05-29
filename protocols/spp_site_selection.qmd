@@ -8,7 +8,7 @@ Based on Phase 1 of data collection, we ask that you prioritize the following 3 
 
 ### Species Objective 1: Focal species across gradients
 
-**Goal: **Sample our three focal species (Taraxacum officinale, Plantago major, and Plantago lanceolata) across broad geographic and/or environmental gradients.
+**Goal: **Sample our three focal species (_Taraxacum officinale_, _Plantago major_, and _Plantago lanceolata_) across broad geographic and/or environmental gradients.
 
 **Justification: **Sampling within these three species will increase the depth of our understanding of the effects of particular abiotic gradients (e.g., elevation, precipitation, temperature, etc.) as drivers of variability in herbivory pressure within plant species. Each species is standardized within itself so studies of herbivory across a range of contexts allows for strong inference on the effects of those contexts.
 
