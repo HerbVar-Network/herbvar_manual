@@ -14,7 +14,7 @@ Contents
 Protocol
 Data Recording Tips
 
-Overview: This protocol aims to assess damage by insect herbivores to reproductive parts of plants (i.e., flowers, fruits, and/or seeds). This is a supplement to the Primary Protocol, which aims to randomly select and sample 30 plants, plus their nearest conspecific neighbor, within a population.
+**Overview:** This protocol aims to assess damage by insect herbivores to reproductive parts of plants (i.e., flowers, fruits, and/or seeds). This is a supplement to the Primary Protocol, which aims to randomly select and sample 30 plants, plus their nearest conspecific neighbor, within a population.
 
 Objectives: The goal is to measure the proportional damage to reproductive organs on each plant within the surveyed population. That is, for each individual plant we will record the number of damaged and undamaged reproductive organs. Ideally, these measurements should be taken as supplemental data for the same individual plants (focal and neighbor plants) for which leaf damage was taken for the primary protocol, although reproductive damage measurements are welcome from other plant populations from which no leaf damage measurements have been taken. 
 
