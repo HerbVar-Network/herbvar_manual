@@ -4,8 +4,6 @@ author: Tree Subgroup (Bastien Castagneyrol, Amy Trowbridge, Will Wetzel, Moria 
 
 # Trees {#sec-tree}
 
-MOST RECENT UPDATE: 
-
 
 Protocol – Tree Seedlings & Saplings
 Protocol – Mature Trees
@@ -70,3 +68,6 @@ Ideally, leaves will be sampled in proportion to their frequency on the tree. He
 
 **Perhaps the most rigorous but most time-consuming method: ** is to haphazardly strip several times as many leaves as you need (e.g., >200 leaves). Place leaves individually into a large bag. Mix them. Close your eyes and draw 30 leaves for percent herbivory and 30 leaves for presence/absence of herbivory.
 
+----
+**Originally published: **  
+**Updated: ** 

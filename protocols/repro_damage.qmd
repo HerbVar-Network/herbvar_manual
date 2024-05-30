@@ -4,8 +4,6 @@ author: Phil Hahn (hahnp@ufl.edu), Susan Whitehead (swhitehead@vt.edu), Paul Ode
 
 #  Reproductive Damage {#sec-repro}
 
-MOST RECENT UPDATE:
-
 _Please send any comments or suggestions you have regarding the protocol to the authors or post as issues/pull requests on the repository (see the Manual Preamble)._
 
 
@@ -86,7 +84,9 @@ Aquilegia shockleyi with chewing damage to fruits (from Heliothis phloxiphaga). 
 :::
 
 
-
+----
+**Originally published: **  
+**Updated: ** 
 
 
 

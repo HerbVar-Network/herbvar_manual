@@ -13,3 +13,6 @@
 2. Create a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the `new_analysis_and_paper_template`.
 3. This template can also be used to write the manuscript in markfdown using a template such as `papaja` or one of the 'rticles` templates.
 
+----
+**Originally published: **  
+**Updated: ** 

@@ -2,8 +2,6 @@
 author: Danielle Salcido, Lee Dyer, Will Wetzel
 ---
 
-Most Recent Update: 
-
 # Low Density/Abundance Plants {#sec-low_density}
 
 ## Overview
@@ -73,3 +71,6 @@ This method is similar to the comprehensive census of a patch (#1 above), but it
 
     a. Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. _We do not recommend doing this unless your plants truly are all widely dispersed._
 
+----
+**Originally published: **  
+**Updated: ** 

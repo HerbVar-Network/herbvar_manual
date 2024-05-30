@@ -3,8 +3,6 @@ author: Judie Bronstein and Victoria Luizzi (University of Arizona)
 ---
 # Cacti & Succulents {#sec-succulents}
 
-MOST RECENT UPDATE:
-
 ## Overview
 
 This document discusses issues relevant for quantifying herbivory on cacti and outlines a hopefully widely applicable protocol for doing so. The protocol is designed for cacti that have many jointed segments, but we also discuss ways to modify the protocol for other architectural types. Although we focus on cacti, we think this document will also be helpful for other succulents. Please share feedback, particularly ways we can make this widely useful.
@@ -110,3 +108,7 @@ Randomly select 10 terminal pads, and record a visual estimate of the percent he
 If your plant has reproductive organs, please randomly (arbitrarily) select up to 20 units of one type (e.g., flowers or fruits) and record the number of units you examined and the number that were damaged (>0.5%). Please see the Reproductive Damage Protocol for more information. You will need to add columns to the HerbVar Template Datasheet to accommodate this.
 
 Note presence of pathogens.
+
+----
+**Originally published: **  
+**Updated: ** 
