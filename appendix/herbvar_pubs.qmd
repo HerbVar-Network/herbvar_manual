@@ -1,4 +1,6 @@
 ---
+bibliography: "../project_publications.bib"
+
 nocite: |
   @*
 ---

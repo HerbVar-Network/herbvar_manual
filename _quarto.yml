@@ -47,10 +47,19 @@ book:
         
     
 # output-file: "HerbVar_Manual"
+# Would like to have section specific bibliography, here is how:
+# https://github.com/pandoc-ext/section-bibliographies
+# filters:
+#   - section-bibliographies
+# bibliography: manual.bib
+# reference-section-title: References
+# citeproc: false
+
 bibliography: 
-  - manual.bib
-  - project_publications.bib
-# csl: ecology.csl
+     - HerbVar.bib
+     - project_publications.bib
+     # - project_presentations.bib
+csl: ecology.csl
 format:
   html:
     theme: 
