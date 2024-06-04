@@ -1,6 +1,5 @@
 ---
-bibliography: "../project_publications.bib"
-
+# bibliography: "project_publications.bib"
 nocite: |
   @*
 ---

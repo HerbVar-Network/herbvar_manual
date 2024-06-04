@@ -44,21 +44,9 @@ book:
       chapters: 
         - appendix/herbvar_pubs.qmd
         - appendix/herbvar_presentations.qmd
-        
-    
 # output-file: "HerbVar_Manual"
-# Would like to have section specific bibliography, here is how:
-# https://github.com/pandoc-ext/section-bibliographies
-# filters:
-#   - section-bibliographies
-# bibliography: manual.bib
-# reference-section-title: References
-# citeproc: false
-
-bibliography: 
-     - HerbVar.bib
-     - project_publications.bib
-     # - project_presentations.bib
+bibliography: HerbVar.bib
+# bibliography: ["manual.bib","project_publications.bib","project_presentations.bib"]
 csl: ecology.csl
 format:
   html:

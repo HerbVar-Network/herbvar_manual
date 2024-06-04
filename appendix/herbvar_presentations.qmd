@@ -1,9 +1,9 @@
 ---
-# bibliography: "../project_presentations.bib"
-
-# nocite: |
-#  @*
+# bibliography: project_presentations.bib
+nocite: |
+    @*
 ---
+
 
 
 # HerbVar Presentations {.unnumbered}
