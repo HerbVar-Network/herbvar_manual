@@ -1,8 +1,9 @@
----
-# bibliography: "project_publications.bib"
-nocite: |
-  @*
----
+
+<!-- --- -->
+<!-- # bibliography: "project_publications.bib" -->
+<!-- nocite: | -->
+<!--   @* -->
+<!-- --- -->
 
 # HerbVar Publications {.unnumbered}
 
@@ -10,5 +11,5 @@ A .bib file of all HerbVar publications is available for download here.
 
 This will eventually have a list of all publications from the HerbVar Project
 
-::: {#refs}
-:::
+<!-- ::: {#refs} -->
+<!-- ::: -->
