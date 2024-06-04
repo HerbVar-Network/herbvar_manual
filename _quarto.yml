@@ -54,8 +54,8 @@ format:
     theme: 
       - cosmo
       - r4ds.scss
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+  #   documentclass: scrreprt
 editor: source
 
 execute:
