@@ -7,6 +7,8 @@
 
 [@brunaGithubToolPromoting2024]
 
+(if you hove over the citation you can see the whole reference!)
+
 # HerbVar Presentations {.unnumbered}
 
 A .bib file of all HerbVar presentations is available for download here.
