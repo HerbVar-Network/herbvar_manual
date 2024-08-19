@@ -9,11 +9,18 @@ book:
   # favicon: images/cover.png
   chapters:
     - index.qmd
-    - intro.qmd
+    # - intro.qmd
+    - part: "What is HerbVar?"
+      chapters: 
+        - introduction/intro.qmd
     - part: "New Collaborators: Start Here"
       chapters: 
         - new_collaborators/onboarding_intro.qmd
-        - new_collaborators/contacts.qmd
+        - new_collaborators/collabo_agreement.qmd
+        - new_collaborators/group_proposal.qmd
+        - new_collaborators/addon_proposal.qmd
+        - new_collaborators/site_pi.qmd
+        # - new_collaborators/contacts.qmd
     - part: "Research Workflow" 
       chapters:
         - research/workflow.qmd

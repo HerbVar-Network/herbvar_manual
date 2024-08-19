@@ -10,23 +10,36 @@
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  What is HerbVar?",
+    "objectID": "introduction/intro.html",
+    "href": "introduction/intro.html",
+    "title": "1  HerbVar Overview",
     "section": "",
     "text": "1.1 Motivation\nPublished studies and personal observations suggest the distribution of herbivore feeding damage among individual plants within a population is often highly skewed such that most plants experience relatively low levels of damage, and a small fraction of plants experience disproportionately high levels of damage. Theory suggests that such variability can have dramatic ecological and evolutionary consequences. For example, variability among plants can lead overall herbivore population size to be greater or less than expected based on average plant quality and asymmetric fitness surfaces can lead to over-investment in defensive traits. Surprisingly, despite the theoretical importance and potential generality of variability in herbivory, it has received little empirical attention, limiting our fundamental understanding of how plants and herbivores interact. We are a global collaboration to quantify the distribution of herbivory for diverse plant species in multiple ecosystems across the world.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What is HerbVar?</span>"
+      "What is HerbVar?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>HerbVar Overview</span>"
     ]
   },
   {
-    "objectID": "intro.html#herbvar-goals",
-    "href": "intro.html#herbvar-goals",
-    "title": "1  What is HerbVar?",
-    "section": "1.2 HerbVar Goals",
-    "text": "1.2 HerbVar Goals\nThe goals of HerbVar are (1) to assess if variability in herbivory is indeed a common feature of plant–herbivore interactions, and (2) to examine how the amount of variability and skew varies among different types of plant species, herbivore communities, and ecosystems. Quantifying general patterns in the distribution of herbivore damage within populations would be a major contribution to our fundamental understanding of herbivory. In addition, identifying the factors that correlate with variability in herbivory would provide the field with a new paradigm for describing plant–herbivore interactions and allow us to generate novel hypotheses about the ecology and evolution of plant–herbivore interactions. Among the factors under consideration are:\n\nPlant species identity,\nPlant functional traits (from literature),\nPlant ecology (e.g., rarity),\nHerbivore species,\nHerbivore functional groups,\nEcosystem type,\nLatitude,\n…and many others (e.g., seasonality, precipitation).\n\nThe HerbVar Website can be found here.",
+    "objectID": "introduction/intro.html#objectives",
+    "href": "introduction/intro.html#objectives",
+    "title": "1  HerbVar Overview",
+    "section": "1.2 Objectives",
+    "text": "1.2 Objectives\nThe goals of HerbVar are (1) to assess if variability in herbivory is indeed a common feature of plant–herbivore interactions, and (2) to examine how the amount of variability and skew varies among different types of plant species, herbivore communities, and ecosystems. Quantifying general patterns in the distribution of herbivore damage within populations would be a major contribution to our fundamental understanding of herbivory. In addition, identifying the factors that correlate with variability in herbivory would provide the field with a new paradigm for describing plant–herbivore interactions and allow us to generate novel hypotheses about the ecology and evolution of plant–herbivore interactions. Among the factors under consideration are:\n\nPlant species identity,\nPlant functional traits (from literature),\nPlant ecology (e.g., rarity),\nHerbivore species,\nHerbivore functional groups,\nEcosystem type,\nLatitude,\n…and many others (e.g., seasonality, precipitation).",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What is HerbVar?</span>"
+      "What is HerbVar?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>HerbVar Overview</span>"
+    ]
+  },
+  {
+    "objectID": "introduction/intro.html#questions",
+    "href": "introduction/intro.html#questions",
+    "title": "1  HerbVar Overview",
+    "section": "1.3 Questions?",
+    "text": "1.3 Questions?\nMore information on the HerbVar Project is available on the project website. If you can’t find the information you’re looking for in this manual or the website, please contact a member of the HerbVar Steering Committee:\n\nNora Underwood nunderwood@bio.fsu.edu\n\nBrian Inouye binouye@bio.fsu.edu\n\nSusan Whitehead swhitehead@vt.edu\n\nPhil Hahn hahnp@ufl.edu\n\nLee Dyer nolaclimber@gmail.com\n\nEmilio Bruna embruna@ufl.edu\n\nIvalu Cacho ivalu.cacho@gmail.com\n\nKaren Abbott kca27@case.edu\n\nWill Wetzel william.wetzel@montana.edu",
+    "crumbs": [
+      "What is HerbVar?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>HerbVar Overview</span>"
     ]
   },
   {
@@ -89,7 +102,7 @@
     "href": "research/data_collection.html",
     "title": "5  Data Collection",
     "section": "",
-    "text": "5.1 Overview\nChapter 1: This describes the larger strategic vision and project goals of the HerbVar Network. Below are links to the HerbVar sampling protocols.",
+    "text": "5.1 Overview\n?sec-overview: This describes the larger strategic vision and project goals of the HerbVar Network. Below are links to the HerbVar sampling protocols.",
     "crumbs": [
       "Research Workflow",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data Collection</span>"
@@ -1012,7 +1025,7 @@
     "href": "appendix/herbvar_presentations.html",
     "title": "HerbVar Presentations",
     "section": "",
-    "text": "(Bruna 2024)\nA .bib file of all HerbVar presentations is available for download here.\nThis will eventually have a list of all presentations (eg talks or posters at meetings) by HerbVar Members.\n\n\n\n\n\n\nBruna, E. M. 2024, March. Github as a tool for promoting reproducibility and collaboration in the HerbVar Network. HerbVar Steeting Committee Meeting.",
+    "text": "(Bruna 2024)\n(if you hove over the citation you can see the whole reference!)\nA .bib file of all HerbVar presentations is available for download here.\nThis will eventually have a list of all presentations (eg talks or posters at meetings) by HerbVar Members.\n\n\n\n\n\n\nBruna, E. M. 2024, March. Github as a tool for promoting reproducibility and collaboration in the HerbVar Network. HerbVar Steeting Committee Meeting.",
     "crumbs": [
       "Appendix",
       "HerbVar Presentations"
