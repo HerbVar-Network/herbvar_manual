@@ -10,16 +10,23 @@ The same template for analyses can be used for creating a manuscript with Rmd
 
 ## Prior to Submission
 
-[ ] All HerbVar publications must include the following text in the Acknoweldgements:
+[ ] All HerbVar publications must include the following text in the Acknowledgements:
 
-"---- NSF Grant ______"
+"This work was supported by the National Science Foundation (Grant No. DEB-2203582)."
 
-[ ] If the data set used has been archived at Dryad, please cite both the Dataset and the Paper as follows:
+
+
+[ ] If the data set used has been archived at Dryad, please cite both the data set and the original article in your paper section. For example, include citations to both: 
+
+Wetzel, William et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. [https://doi.org/10.5061/dryad.44j0zpckm](https://doi.org/10.5061/dryad.44j0zpckm)
+
+and 
+
+The Herbivory Variability Network. 2023. Plant size, latitude, and phylogeny explain within-population variability in herbivory. _Science_ 382: 679-683. [DOI:10.1126/science.adh8830](DOI:10.1126/science.adh8830)
 
 ## Following Submission
 
-[ ] Add the MS to the Zotero Group
-Important for NSF reporting to know how many manuscripts are in review.
+[ ] Add the MS to the Zotero Group (Important for NSF reporting to know how many manuscripts are in review.)
 
 [ ] Post a Preprint (optional but encouraged)
 

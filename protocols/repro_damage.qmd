@@ -1,5 +1,9 @@
 ---
 author: Phil Hahn, Susan Whitehead, Paul Ode, & Will Wetzel
+title-block-style: plain
+date: 11/01/2021
+date-modified: last-modified
+
  # (hahnp@ufl.edu),(paul.ode@colostate.edu)(william.wetzel@montana.edu) (swhitehead@vt.edu)
 ---
 
@@ -99,11 +103,4 @@ Lonicera fruit with chewing damage. In this example, each of 30 fruits would be 
 Aquilegia shockleyi with chewing damage to fruits (from Heliothis phloxiphaga). In this example, each fruit could be scored for damage, or each fruit could be opened and seeds could be counted (infer missing, fully-consumed seeds from pod features). Photo: Eric LoPresti.](images/img6.png){#fig-lonicera}
 
 :::
-
-
-----
-**Originally published: **  
-**Updated: ** 
-
-
 

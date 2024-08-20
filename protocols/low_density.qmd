@@ -1,5 +1,9 @@
 ---
 author: Danielle Salcido, Lee Dyer, Will Wetzel
+title-block-style: plain
+date: 11/01/2021
+date-modified: last-modified
+
 ---
 
 # Low Density/Abundance Plants {#sec-low_density}
@@ -70,7 +74,3 @@ This method is similar to the comprehensive census of a patch (#1 above), but it
 2. **Option 3B: Comprehensive survey radiating out from a random starting point within a population. ** With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population. The cons of this approach are that if your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch''.
 
     a. Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. _We do not recommend doing this unless your plants truly are all widely dispersed._
-
-----
-**Originally published: **  
-**Updated: ** 

@@ -31,8 +31,8 @@ book:
       chapters: 
         - protocols/spp_site_selection.qmd
         - protocols/primary.qmd
-        - protocols/repro_damage.qmd
         - protocols/damage.qmd
+        - protocols/repro_damage.qmd
         - protocols/low_density.qmd
         - protocols/succulents.qmd
         - protocols/tree.qmd

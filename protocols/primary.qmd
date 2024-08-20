@@ -1,7 +1,13 @@
 ---
-editor: 
-  markdown: 
-    wrap: 72
+# editor: 
+#   markdown: 
+#     wrap: 72
+# 
+title-block-style: plain
+date: 11/01/2021
+date-modified: last-modified
+
+
 ---
 
 # Primary Protocol {#sec-primary}
@@ -421,7 +427,3 @@ from wild populations. We may still be able to use such datasets, but
 only if we have enough to use them in a separate analysis. Please get in
 touch if you would like to contribute common garden data.
 
-------------------------------------------------------------------------
-
-**Originally published:**\
-**Updated:**

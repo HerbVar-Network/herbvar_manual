@@ -1,6 +1,9 @@
 ---
 author: Yuval Sapir (Tel Aviv University)
 bibliography: "../HerbVar.bib"
+title-block-style: plain
+date: 11/01/2021
+date-modified: last-modified
 ---
 
 # Rhizomatous Geophytes {#sec-rhizo}
@@ -69,7 +72,3 @@ Note that tip of the leaf may be dry due to climate fluctuations in the arid reg
 
 <!-- Not cited in document, EMB inserted where looked relevant -->
 <!-- Wilson, C. A., J. Padiernos, and Y. Sapir. 2016. The royal irises (Iris subg. Iris sect. Oncocyclus): Plastid and low-copy nuclear data contribute to an understanding of their phylogenetic relationships. Taxon 65:35-46. -->
-
-----
-**Originally published: **  
-**Updated: ** 

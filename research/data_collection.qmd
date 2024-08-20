@@ -6,40 +6,46 @@ Below are links to the HerbVar sampling protocols. Please be sure to review the 
 
 :::
 
-## Species and site selection
+## Species & site selection
 
-@sec-species_site: This describes our approach to select plant species and/or sites to survey. In brief, we suggest collaborators strive to survey either (1) one of our three focal species (_Taraxacum officinale_, _Plantago lanceolata_, and _Plantago major_) in a novel geographic/environmental context, (2) new clades or growth forms of species in our five focal families (Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae), or (3) reproductive tissue damage of any species.
+Our approach to select plant species and/or sites to survey is described in @sec-species_site. Briefly, we suggest collaborators strive to survey either:
 
+  (1) One of our three focal species -- _Taraxacum officinale_, _Plantago lanceolata_, and _Plantago major_ -- in a novel geographic/environmental context  
+  (2) New clades or growth forms of species in our five focal families: Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae, or  
+  (3) Reproductive tissue damage of any species. 
+ 
 
 ## Primary Protocol
 
-**Herbivory:** The primary data collection protocol for most species & sites is described in @sec-primary. If there is a reason why you believe it will not work for your species or site, then please consider one of our alternative protocols below or contact the HerbVar Planning Group.  
+The **Primary Protocol** for collecting HerbVar data with most species (e.g., sample sizes, selecting individuals to sample) is described in @sec-primary. If there is a reason why you think this protocol will not work for your species or in your field sites, please consider one of the alternative protocols below or contact the HerbVar Planning Group.  
 
-**Reproductive Tissues:** If your plants have reproductive tissues (flowers, fruits, seeds), please follow the protocol in @sec-repro to quantify damage to these tissues.  
+**Estimating damage by herbivores**: @sec-damage provides a detailed walk-through of the process for estimating herbivore damage on leaves and whole plants, including suggestions for different types of leaves and damage. There is also an [Illustrated Guide to Percent Leaf Damage](/protocols/Illustrated Guide to Percent Leaf Damage.pdf) to help estimate different levels of to damage to leaves. _We suggest printing this guide and taking it with you to the field to help estimate percent herbivory._ It currently includes leaves of two species as examples, but it will be updated periodically with examples from other species.  
+
+
 
  - [Datasheet - Excel File](protocols/HerbVar_Datasheet_Template.xlsx). This Excel file is a template datasheet designed to work for the HerbVar Primary Protocol. It contains a "data dictionary" sheet that defines all columns if any abbreviations are unclear.
 
-- [Datasheet - Printable PDFs](https://drive.google.com/drive/folders/10-9xPm9yOAvGCtL3dmVaoz7ODI1fghYG?usp=sharing). We have split the printable datasheets into three parts, one each for the Primary, Reproductive, and Herbivore Protocols. The herbivore datasheet is built for you to print as many copies of the second page as you have identified herbivore groups.
-
-## How to estimate herbivory
-
-@sec-damage provides a detailed walk-through of the process for estimating herbivore damage on leaves and whole plants, including suggestions for different types of leaves and damage. There is also an [Illustrated Guide to Percent Leaf Damage](/protocols/Illustrated Guide to Percent Leaf Damage.pdf) to help estimate different levels of to damage to leaves. _We suggest printing this out and taking it to the field with you to aid in estimation of percent herbivory._ It currently includes leaves of two species as examples, but more are on the way.  
+ - [Datasheet - Printable PDFs](https://drive.google.com/drive/folders/10-9xPm9yOAvGCtL3dmVaoz7ODI1fghYG?usp=sharing). We have split the printable datasheets into three parts, one each for the Primary, Reproductive, and Herbivore Protocols. The herbivore datasheet is built for you to print as many copies of the second page as you have identified herbivore groups.
 
 
-## Alternative survey protocols for other plant types
+## Damage to reproductive tissues
 
-Rare Plants: @sec-low_density describes protocols for rare plants (i.e., plants found at low densities or abundances).  
+If your plants have reproductive tissues (e.g., flowers, fruits, seeds), please follow the protocol in @sec-repro to quantify damage to these tissues.  
 
-Cacti & Other Succulents: @sec-succulents describes protocols and issues related to quantifying herbivory on cacti and other succulents.  
+## Alternative survey protocols
 
-Trees: @sec-tree is a protocol for surveying mature trees for HerbVar. It also discusses how to handle seedlings and saplings of tree species. If you are sampling tree species in their seedling or sapling stage (i.e., <2m tall) please refer to the [Primary Protocol](https://docs.google.com/document/d/1XKK78S-2hX9kVZq6OwF7-UBfnAV4UCrR/edit?usp=sharing&ouid=116537863331430920281&rtpof=true&sd=true)
+- **Rare Plants:** @sec-low_density describes protocols for rare plants (i.e., plants found at low densities / abundances).  
 
-rhizomatous species: @sec-rhizo is a protocol for rhizomatous species for which it is feasible to determine what constitutes a genet (e.g., by identifying rhizomatous connections) and for which genets are small enough that herbivory could feasibly be estimated (e.g., on 30 genets and their nearest neighbors within a site).
+- **Cacti & Other Succulents:** @sec-succulents describes protocols and issues related to quantifying herbivory on cacti and other succulents.  
 
-## Insects
-@sec-herbivore: This document discusses *whether and how* to sample insects. All surveys should note internally-feeding herbivores (e.g., gallers and miners), but only some should take the extra time to sample external herbivores. The document also includes visual cheatsheets for pre-selected groups of insects and gall/mine counting.
+- **Trees:** @sec-tree is a protocol for surveying mature trees. It also discusses how to handle seedlings and saplings of tree species. If you are sampling tree species in their seedling or sapling stage (i.e., <2m tall) please refer to the Primary Protocol.
 
+- **Rhizomatous species:** @sec-rhizo is a protocol for rhizomatous species for which it is feasible to determine what constitutes a genet (e.g., by identifying rhizomatous connections) and for which genets are small enough that herbivory could be estimated on ~30 genets in a site and their nearest neighbors.
+
+## Sampling Insects
+
+All surveys should note internally-feeding herbivores (e.g., gallers and miners), but only some should take the extra time to sample external herbivores. @sec-herbivore discusses *whether and how* to sample insects, and includes visual cheatsheets for several identifying several focal groups of insects and for counting galls and mines.
 
 ## Entering and Correcting Data
 
-Do ***not*** make any changes to the raw data files once you have entered the data. Make any corrections using R scripts. For additional information on how to do this, see @sec-data-analysis
+***Do not make any changes to the raw data files once you have entered the data.*** Make any corrections using R scripts. For additional information on how to do this, see @sec-data-analysis
