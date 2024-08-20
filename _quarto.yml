@@ -60,8 +60,10 @@ format:
     theme: 
       - cosmo
       - r4ds.scss
-  # pdf:
-  #   documentclass: scrreprt
+  pdf:
+    # pdf-engine: xelatex
+    documentclass: scrreprt
+# see fpr engine-opt: https://stackoverflow.com/questions/74261557/quarto-rendering-pdf-running-xelatex-faster-in-rstudio    
 editor: source
 
 execute:
