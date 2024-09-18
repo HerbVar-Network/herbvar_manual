@@ -51,7 +51,7 @@ You can format text using markdown syntax (see this [cheetsheet](https://rstudio
 **STep 5:** Submit a pull request so the Manual's 'Administrators' can review and incorporate your suggested edits. (tutorials  [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and [here](https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html))
 
 
-## Publishing the Manual
+## Publishing the Manual (Admins Only)
 
 The admins of the repo can publish the book in HTML format (to Github pages) and pdf format (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see [here](https://quarto.org/docs/publishing/github-pages.html)):
 
