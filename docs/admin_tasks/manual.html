@@ -484,15 +484,21 @@ Tip
 </section>
 <section id="publishing-the-manual" class="level2" data-number="22.3">
 <h2 data-number="22.3" class="anchored" data-anchor-id="publishing-the-manual"><span class="header-section-number">22.3</span> Publishing the Manual</h2>
-<p>The admins of the repo can publish the book after it has been edited. Detailed instructions can be found <a href="https://quarto.org/docs/books/">here</a>, but the short version is</p>
-<p>use the render command to render all output formats:</p>
+<p>The admins of the repo can publish the book in HTML format (to Github pages) and pdf format (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see <a href="https://quarto.org/docs/publishing/github-pages.html">here</a>):</p>
+<ol type="1">
+<li><p>Render sites on their local machine to the docs directory, check the rendered site into GitHub, and then configure the GitHub repo to publish from the docs directory.</p></li>
+<li><p>Render on their local machine and then use the <code>quarto publish</code> command to publish content rendered on the local machine.</p></li>
+<li><p>Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change is pushed to the repository.</p></li>
+</ol>
+<p>More detailed instructions can be found <a href="https://quarto.org/docs/books/">here</a>, but for now <strong>the HerbVar publishing protocol is as follows: (1)</strong> Use the <code>quarto render</code> command from the Terminal to render all output formats (the output of your book will be written to the <code>_book</code> sub-directory of your book project), then (2) use the <code>quarto publish gh-pages</code> command to publish the locally rendered content online.</p>
+<p><strong>Rendering the manual:</strong></p>
 <div class="code-with-filename">
 <div class="code-with-filename-file">
 <pre><strong>from the Terminal</strong></pre>
 </div>
 <div class="sourceCode" id="cb2" data-filename="from the Terminal"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>quarto render</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>If you pass no arguments to quarto render, all formats will be rendered. You can also render individual formats via the –to argument:</p>
+<p>Note that if you pass no arguments to <code>quarto render</code> as above, all formats will be rendered. You can instead render individual formats via the –to argument:</p>
 <div class="code-with-filename">
 <div class="code-with-filename-file">
 <pre><strong>from the Terminal</strong></pre>
@@ -501,7 +507,13 @@ Tip
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>quarto render           <span class="co"># render all formats</span></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>quarto render <span class="sc">--</span>to pdf  <span class="co"># render PDF format only</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>The output of your book will be written to the <code>_book</code> sub-directory of your book project:</p>
+<p><strong>Publishing the manual:</strong></p>
+<div class="code-with-filename">
+<div class="code-with-filename-file">
+<pre><strong>from the Terminal</strong></pre>
+</div>
+<div class="sourceCode" id="cb4" data-filename="from the Terminal"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>quarto publish gh<span class="sc">-</span>pages</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 
 
 </section>
