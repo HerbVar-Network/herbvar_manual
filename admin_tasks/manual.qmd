@@ -30,7 +30,7 @@ A tutorial on getting started with Quarto and RStudio can be found [here](https:
 To edit the manual you will need a Github account and RStudio. The process for editing the Manual is:
 
 1. Install the `quarto` package
-1. Fork the `Herbvar Manual Repository` and clone it into your personal Github
+1. Fork the Herbvar Manual's Repository and clone it into your personal Github
 1. Edit files (or create a new ones)
 1. Commit and push the changes
 1. Submit a pull request with your suggested edits
@@ -43,7 +43,7 @@ To edit the manual you will need a Github account and RStudio. The process for e
 install.packages("quarto")
 ```
 
-**Step 2.** Fork the repository for the HerbVar Manual [link](https://github.com/HerbVar-Network/herbvar_manual) from the HerbVar Organization Github into your personal Github account (tutorials [here](https://github.com/rstats-tln/fork-and-clone-repo) and  [here](https://datacarpentry.org/rr-version-control/03-git-in-rstudio/)).
+**Step 2.** Fork the repository for the HerbVar Manual [[repo link]](https://github.com/HerbVar-Network/herbvar_manual) from the HerbVar Organization Github into your personal Github account (tutorials [here](https://github.com/rstats-tln/fork-and-clone-repo) and  [here](https://datacarpentry.org/rr-version-control/03-git-in-rstudio/)).
 
 **Step 3:** Edit files (or create a new ones)
 
@@ -51,7 +51,7 @@ You can format text using markdown syntax (see this [cheetsheet](https://rstudio
 
 **Step 4:** Commit and push the changes using RStudio (or the command line if you feel the need to flex).
 
-**STep 5:** Submit a pull request so the Manual's 'Administrators' can review and incorporate your suggested edits. (tutorials  [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and [here](https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html))
+**Step 5:** Submit a pull request so the Manual's 'Administrators' can review and incorporate your suggested edits. (tutorials  [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and [here](https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html))
 
 
 ## Publishing the Manual (Admins Only)
