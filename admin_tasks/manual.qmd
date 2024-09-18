@@ -54,8 +54,17 @@ You can format text using markdown syntax (see this [cheetsheet](https://rstudio
 
 ## Publishing the Manual
 
-The admins of the repo can publish the book after it has been edited. Detailed instructions can be found [here](https://quarto.org/docs/books/), but the short version is: **"Use the `quarto render` command from the Terminal to render all output formats; the output of your book will be written to the `_book` sub-directory of your book project.**:
+The admins of the repo can publish the book in HTML format (to Github pages) and pdf format (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see [here](https://quarto.org/docs/publishing/github-pages.html)):
 
+1. Render sites on their local machine to the docs directory, check the rendered site into GitHub, and then configure the GitHub repo to publish from the docs directory.
+
+2. Render on their local machine and then use the `quarto publish` command to publish content rendered on the local machine.
+
+3. Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change is pushed to the repository.
+
+More detailed instructions can be found [here](https://quarto.org/docs/books/), but for now **the HerbVar publishing protocol is as follows: (1)** Use the `quarto render` command from the Terminal to render all output formats (the output of your book will be written to the `_book` sub-directory of your book project), then (2) use the `quarto publish gh-pages` command to publish the locally rendered content online. 
+
+**Rendering the  manual:**
 
 ```{.r filename="from the Terminal"}
 quarto render
@@ -63,21 +72,13 @@ quarto render
 
 Note that if you pass no arguments to `quarto render` as above, all formats will be rendered. You can instead render individual formats via the --to argument:
 
-
 ```{.r filename="from the Terminal"}
 
 quarto render           # render all formats
 quarto render --to pdf  # render PDF format only
 
 ```
-
-Finally, you need to publish the book. The following will automatically publish to online with Github Pages. 
-
-
+**Publishing the  manual:**
 ```{.r filename="from the Terminal"}
-
-quarto publish
 quarto publish gh-pages
-quarto publish quarto-pub
-
 ```
