@@ -41,6 +41,7 @@ book:
     - part: "Admin Tasks"
       chapters: 
         - admin_tasks/potential_collaborators.qmd
+        - admin_tasks/manual.qmd
         - admin_tasks/website.qmd
         - admin_tasks/data_portal.qmd
         - admin_tasks/google_drive.qmd
