@@ -56,15 +56,15 @@ You can format text using markdown syntax (see this [cheetsheet](https://rstudio
 
 ## Publishing the Manual (Admins Only)
 
-The admins of the repo can publish the book in HTML format (to Github pages) and pdf format (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see [here](https://quarto.org/docs/publishing/github-pages.html)):
+The admins of the repo can publish the book in HTML (to a Github pages site) and as a pdf (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see [here](https://quarto.org/docs/publishing/github-pages.html)):
 
 1. Render sites on their local machine to the docs directory, check the rendered site into GitHub, and then configure the GitHub repo to publish from the docs directory.
 
 2. Render on their local machine and then use the `quarto publish` command to publish content rendered on the local machine.
 
-3. Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change is pushed to the repository.
+3. Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change (e.g., any edit of the manual) is pushed to the repository.
 
-More detailed instructions can be found [here](https://quarto.org/docs/books/), but for now **the HerbVar publishing protocol is as follows: (1)** Use the `quarto render` command from the Terminal to render all output formats (the output of your book will be written to the `_book` sub-directory of your book project), then **(2)** use the `quarto publish gh-pages` command to publish the locally rendered content online. 
+**_We are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github._**  However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: (1)** Use the `quarto render` command from the Terminal to render all output formats (the output of your book will be written to the `_book` sub-directory of your book project), then **(2)** use the `quarto publish gh-pages` command to publish the locally rendered content online (more detailed instructions can be found [here](https://quarto.org/docs/books/)).
 
 **Rendering the  manual:**
 
