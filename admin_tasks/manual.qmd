@@ -54,16 +54,14 @@ You can format text using markdown syntax (see this [cheetsheet](https://rstudio
 
 ## Publishing the Manual
 
-The admins of the repo can publish the book after it has been edited. Detailed instructions can be found [here](https://quarto.org/docs/books/), but the short version is
-
-use the render command to render all output formats:
+The admins of the repo can publish the book after it has been edited. Detailed instructions can be found [here](https://quarto.org/docs/books/), but the short version is: **"Use the `quarto render` command from the Terminal to render all output formats; the output of your book will be written to the `_book` sub-directory of your book project.**:
 
 
 ```{.r filename="from the Terminal"}
 quarto render
 ```
 
-If you pass no arguments to quarto render, all formats will be rendered. You can also render individual formats via the --to argument:
+Note that if you pass no arguments to `quarto render` as above, all formats will be rendered. You can instead render individual formats via the --to argument:
 
 
 ```{.r filename="from the Terminal"}
@@ -73,5 +71,13 @@ quarto render --to pdf  # render PDF format only
 
 ```
 
+Finally, you need to publish the book. The following will automatically publish to online with Github Pages. 
 
-The output of your book will be written to the `_book` sub-directory of your book project:
+
+```{.r filename="from the Terminal"}
+
+quarto publish
+quarto publish gh-pages
+quarto publish quarto-pub
+
+```
