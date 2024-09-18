@@ -1,0 +1,77 @@
+---
+title: Editing the Manual
+author: Emilio Bruna
+---
+
+# Editing the Manual
+
+## Overview
+
+This guide is a [Quarto Book](https://quarto.org/docs/books) hosted on the [HerbVar Network's Github site](https://github.com/HerbVar-Network). Users can edit the manual, add new sections, or make suggestions for improvement either via [pull request](https://github.com/HerbVar-Network/project_manual/pulls), [posting an issue](https://github.com/HerbVar-Network/project_manual/issues) on the HerbVar Manual's repository, or editing the manual directly. 
+
+## How to Edit the Manual 
+
+### Getting Started
+
+Quarto is the next-generation of R Markdown. Like R Markdown it allows for rendering files in multiple formats (.pdf,.docx., .html) and it can be used to make websites, reports, and presentations, but it has the advantage of being able to run embeded code chunks in multiple languages (e.g., R, Python) and allowing users to execute code (i.e., for demonstrations) in the rendered quarto file. Users of Markdown / R Markown will recognize the structure and format of quarto files (.qmd), and the content of R Markdown files can be executed in .qmd files. 
+
+::: {.callout-tip}
+
+A tutorial on getting started with Quarto and RStudio can be found [here](https://quarto.org/docs/get-started/hello/rstudio.html). Posit (_née_ 'R Studio') has also prepared an excellent [Quarto Cheatsheet](https://rstudio.github.io/cheatsheets/html/quarto.html) that will prove very helpful .
+
+:::
+
+
+
+
+To edit the manual you will need a Github account and RStudio. The process for editing the Manual is:
+
+1. Install the `quarto` package
+1. Fork the `Herbvar Manual Repository` and clone it into your personal Github
+1. Edit files (or create a new ones)
+1. Commit and push the changes
+1. Submit a pull request with your suggested edits (tutorials  [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and [here](https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html))
+
+
+
+**Step 1.** Open R Studio and install the `quarto` package using either the 'install' button on Rstudio or by executing the following command.
+
+```{.r filename="from the R Studio Command Line"}
+install.packages("quarto")
+```
+
+**Step 2.** Fork the repository for the HerbVar Manual [link](https://github.com/HerbVar-Network/herbvar_manual) from the HerbVar Organization Github into your personal Github account (tutorials [here](https://github.com/rstats-tln/fork-and-clone-repo) and  [here](https://datacarpentry.org/rr-version-control/03-git-in-rstudio/)).
+
+**Step 3:** Edit files (or create a new ones)
+
+You can format text using markdown syntax (see this [cheetsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)), but if you would prefer to edit text and simply leave formatting notes (e.g., "bold this", species names in italics")  that's fine too.
+
+**Step 4:** Commit and push the changes using RStudio (or the command line if you feel the need to flex).
+
+
+
+
+
+## Publishing the Manual
+
+The admins of the repo can publish the book after it has been edited. Detailed instructions can be found [here](https://quarto.org/docs/books/), but the short version is
+
+use the render command to render all output formats:
+
+
+```{.r filename="from the Terminal"}
+quarto render
+```
+
+If you pass no arguments to quarto render, all formats will be rendered. You can also render individual formats via the --to argument:
+
+
+```{.r filename="from the Terminal"}
+
+quarto render           # render all formats
+quarto render --to pdf  # render PDF format only
+
+```
+
+
+The output of your book will be written to the `_book` sub-directory of your book project:
