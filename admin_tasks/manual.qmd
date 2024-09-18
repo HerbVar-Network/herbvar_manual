@@ -30,7 +30,7 @@ To edit the manual you will need a Github account and RStudio. The process for e
 1. Fork the `Herbvar Manual Repository` and clone it into your personal Github
 1. Edit files (or create a new ones)
 1. Commit and push the changes
-1. Submit a pull request with your suggested edits (tutorials  [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and [here](https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html))
+1. Submit a pull request with your suggested edits
 
 
 
@@ -48,8 +48,7 @@ You can format text using markdown syntax (see this [cheetsheet](https://rstudio
 
 **Step 4:** Commit and push the changes using RStudio (or the command line if you feel the need to flex).
 
-
-
+**STep 5:** Submit a pull request so the Manual's 'Administrators' can review and incorporate your suggested edits. (tutorials  [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and [here](https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html))
 
 
 ## Publishing the Manual
@@ -62,7 +61,7 @@ The admins of the repo can publish the book in HTML format (to Github pages) and
 
 3. Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change is pushed to the repository.
 
-More detailed instructions can be found [here](https://quarto.org/docs/books/), but for now **the HerbVar publishing protocol is as follows: (1)** Use the `quarto render` command from the Terminal to render all output formats (the output of your book will be written to the `_book` sub-directory of your book project), then (2) use the `quarto publish gh-pages` command to publish the locally rendered content online. 
+More detailed instructions can be found [here](https://quarto.org/docs/books/), but for now **the HerbVar publishing protocol is as follows: (1)** Use the `quarto render` command from the Terminal to render all output formats (the output of your book will be written to the `_book` sub-directory of your book project), then **(2)** use the `quarto publish gh-pages` command to publish the locally rendered content online. 
 
 **Rendering the  manual:**
 
