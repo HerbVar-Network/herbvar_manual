@@ -45,9 +45,7 @@ install.packages("quarto")
 
 **Step 2.** Fork the repository for the HerbVar Manual [[repo link]](https://github.com/HerbVar-Network/herbvar_manual) from the HerbVar Organization Github into your personal Github account (tutorials [here](https://github.com/rstats-tln/fork-and-clone-repo) and  [here](https://datacarpentry.org/rr-version-control/03-git-in-rstudio/)).
 
-**Step 3:** Edit files (or create a new ones)
-
-You can format text using markdown syntax (see this [cheetsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)), but if you would prefer to edit text and simply leave formatting notes (e.g., "bold this", species names in italics")  that's fine too.
+**Step 3:** Edit files (or create a new ones). You can format your text using markdown syntax (see this [cheetsheet](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)), but if you would prefer to edit text and simply leave formatting notes (e.g., "bold this", species names in italics") that's fine too.
 
 **Step 4:** Commit and push the changes using RStudio (or the command line if you feel the need to flex).
 
