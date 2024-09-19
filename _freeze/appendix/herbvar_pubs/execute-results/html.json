@@ -3,9 +3,7 @@
   "result": {
     "engine": "knitr",
     "markdown": "---\ntitle: Herbvar Products\ndate: today\n---\n\n::: {.cell}\n\n:::\n\n# Publications {.unnumbered}\n\nA .bib file of all HerbVar publications is available for download here.\n\n\n<a name=bib-pan_neutrality_2024></a>[Pan, V. S. and W. C.\nWetzel](#cite-pan_neutrality_2024) (2024). \"Neutrality in\nplant–herbivore interactions\". In: _Proceedings of the Royal Society B:\nBiological Sciences_ 291.2017, p. 20232687. DOI:\n[10.1098/rspb.2023.2687](https://doi.org/10.1098%2Frspb.2023.2687).\n\n<a name=bib-the_herbivory_variability_network__plant_2023></a>[The\nHerbivory Variability Network* †, M. L. Robinson, P. G. Hahn, et\nal.](#cite-the_herbivory_variability_network__plant_2023) (2023).\n\"Plant size, latitude, and phylogeny explain within-population\nvariability in herbivory\". In: _Science_ 382.6671, pp. 679-683. DOI:\n[10.1126/science.adh8830](https://doi.org/10.1126%2Fscience.adh8830).\n\n<a name=bib-wetzel_variability_2023></a>[Wetzel, W. C., B. D. Inouye,\nP. G. Hahn, et al.](#cite-wetzel_variability_2023) (2023). \"Variability\nin Plant–Herbivore Interactions\". In: _Annual Review of Ecology,\nEvolution, and Systematics_ 54.1, pp. 451-474. DOI:\n[10.1146/annurev-ecolsys-102221-045015](https://doi.org/10.1146%2Fannurev-ecolsys-102221-045015).\n\n\n\n# Presentations {.unnumbered}\n\nA .bib file of all HerbVar presentations is available for download here.\n\n\n<a name=bib-bruna_github_2024></a>[Bruna, E.\nM.](#cite-bruna_github_2024) (2024). _Github as a tool for promoting\nreproducibility and collaboration in the HerbVar Network._ HerbVar\nSteeting Committee Meeting.\n\n\n  \n\n\n\n\n\n<!-- ::: {#refs} -->\n<!-- ::: -->\n",
-    "supporting": [
-      "herbvar_pubs_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

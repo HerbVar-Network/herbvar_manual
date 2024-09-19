@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  19 SEP 2024 14:55
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  19 SEP 2024 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -806,7 +806,7 @@ Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count357
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 230.
-No file index.aux.
+(./index.aux)
 \openout1 = `index.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 236.
@@ -1079,9 +1079,6 @@ Package microtype Info: No adjustment of kerning.
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Modern Roman (RS)
 )
 Package hyperref Info: Link coloring ON on input line 236.
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1130,17 +1127,67 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 ]
 Package tocbasic Info: character protrusion at toc deactivated on input line 243.
-No file index.toc.
-\tf@toc=\write5
-\openout5 = `index.toc'.
-
+(./index.toc
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.665pt on input line 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.475pt on input line 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.95099pt on input line 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.66568pt on input line 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.4755pt on input line 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.66417pt on input line 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.47441pt on input line 4.
 
 
 [2
 
 ]
 
-[3
+[3]
+
+[4]
+
+[5]
+Overfull \hbox (1.09497pt too wide) detected at line 150
+ []\TU/lmss/bx/n/10.95 101
+ []
+
+
+Overfull \hbox (2.82748pt too wide) detected at line 151
+ []\TU/lmss/bx/n/12 102
+ []
+
+
+Overfull \hbox (1.09497pt too wide) detected at line 152
+ []\TU/lmss/bx/n/10.95 103
+ []
+
+
+Overfull \hbox (1.09497pt too wide) detected at line 153
+ []\TU/lmss/bx/n/10.95 104
+ []
+
+
+Overfull \hbox (1.09497pt too wide) detected at line 154
+ []\TU/lmss/bx/n/10.95 105
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `index.toc'.
+
+
+
+[6]
+
+[7
 
 ]
 part I.
@@ -1149,7 +1196,7 @@ Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)              on input line 273.
 
 
-[4
+[8
 
 ]
 chapter 1.
@@ -1170,26 +1217,9 @@ Class scrreprt Warning: \float@addtolists detected!
 
 
 
-[5
+[9
 
 ]
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 341.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 341.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 341.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 341.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 341.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 341.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 341.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 341.
-
 Underfull \hbox (badness 10000) in paragraph at lines 340--343
 
  []
@@ -1231,38 +1261,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 360--363
 
 
 
-[6]
+[10]
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 367.
 
 
-[7
+[11
 
 ]
 chapter 2.
 
 
-[8
+[12
 
 ]
 chapter 3.
 
 
-[9
+[13
 
 ]
 chapter 4.
 
 
-[10
+[14
 
 ]
 chapter 5.
 
 
-[11
+[15
 
 ]
 part III.
@@ -1271,26 +1301,19 @@ Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)              on input line 422.
 
 
-[12
+[16
 
 ]
 chapter 6.
 
 
-[13
+[17
 
 ]
 chapter 7.
 (/Users/emiliobruna/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonstandard glyph set (RS)
 )
-
-LaTeX Warning: Reference `sec-overview' on page 14 undefined on input line 475.
-
-
-LaTeX Warning: Reference `sec-species_site' on page 14 undefined on input line 482.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 489--493
 
  []
@@ -1301,72 +1324,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 493--496
  []
 
 
-LaTeX Warning: Reference `sec-primary' on page 14 undefined on input line 503.
 
-
-LaTeX Warning: Reference `sec-damage' on page 14 undefined on input line 508.
-
-
-
-[14
+[18
 
 ]
 
-LaTeX Warning: Reference `sec-repro' on page 15 undefined on input line 537.
+[19]
 
-
-LaTeX Warning: Reference `sec-low_density' on page 15 undefined on input line 545.
-
-
-LaTeX Warning: Reference `sec-succulents' on page 15 undefined on input line 549.
-
-
-LaTeX Warning: Reference `sec-tree' on page 15 undefined on input line 553.
-
-
-LaTeX Warning: Reference `sec-rhizo' on page 15 undefined on input line 559.
-
-
-LaTeX Warning: Reference `sec-herbivore' on page 15 undefined on input line 570.
-
-
-LaTeX Warning: Reference `sec-data-analysis' on page 15 undefined on input line 581.
-
-
-
-[15]
-
-[16]
+[20]
 chapter 8.
 
-LaTeX Warning: Reference `sec-data-collection' on page 17 undefined on input line 588.
 
-
-
-[17
+[21
 
 ]
 chapter 9.
 
 
-[18
+[22
 
 ]
 chapter 10.
 
 
-[19
+[23
 
 ]
 
-[20]
+[24]
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 663.
 
 
-[21
+[25
 
 ]
 chapter 11.
@@ -1377,50 +1369,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 675--677
 
 
 
-[22
+[26
 
 ]
 
-LaTeX Warning: Reference `sec-primary' on page 23 undefined on input line 741.
-
-
-
-[23]
+[27]
 chapter 12.
 
-LaTeX Warning: Reference `sec-repro' on page 24 undefined on input line 779.
 
-
-LaTeX Warning: Reference `sec-low_density' on page 24 undefined on input line 781.
-
-
-LaTeX Warning: Reference `sec-succulents' on page 24 undefined on input line 783.
-
-
-LaTeX Warning: Reference `sec-tree' on page 24 undefined on input line 785.
-
-
-LaTeX Warning: Reference `sec-rhizo' on page 24 undefined on input line 788.
-
-
-LaTeX Warning: Reference `sec-herbivore' on page 24 undefined on input line 790.
-
-
-
-[24
+[28
 
 ]
-
-LaTeX Warning: Reference `sec-damage' on page 25 undefined on input line 831.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 831--836
 
  []
 
 
 
-[25]
+[29]
 Missing character: There is no π (U+03C0) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1429,4 +1395,73 @@ Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=
 Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ≤ (U+2264) in font [lmrom
+Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[30]
+
+[31]
+Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[32]
+Missing character: There is no ≥ (U+2265) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[33]
+File: protocols/images/img1.png Graphic file (type bmp)
+<protocols/images/img1.png>
+
+
+[34]
+Overfull \vbox (91.64796pt too high) has occurred while \output is active []
+
+
+
+[35]
+
+[36]
+
+[37]
+
+[38]
+chapter 13.
+
+
+[39
+
+]
+Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≤ (U+2264) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[40]
+File: protocols/images/img9.png Graphic file (type bmp)
+<protocols/images/img9.png>
+
+
+[41]
+
+[42]
+File: protocols/images/img10.png Graphic file (type bmp)
+<protocols/images/img10.png>
+File: protocols/images/img11.png Graphic file (type bmp)
+<protocols/images/img11.png>
+
+
+[43]
+File: protocols/images/img12.png Graphic file (type bmp)
+<protocols/images/img12.png>
+File: protocols/images/img13.png Graphic file (type bmp)
+<protocols/images/img13.png>
+
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+File: protocols/images/img14.png Graphic file (type
