@@ -1,5 +1,7 @@
 # First Steps
 
+If you are interested in becoming an HerbVar member, by contributing data as a Site PI or by joining or proposing a Working Group...
+
 1. Add info to Collaborator Contact Information file
 - make sure you have:
   - orcid id

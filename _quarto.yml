@@ -16,15 +16,17 @@ book:
     - part: "New Collaborators: Start Here"
       chapters: 
         - new_collaborators/onboarding_intro.qmd
-        - new_collaborators/collabo_agreement.qmd
-        - new_collaborators/new_projects.qmd
         - new_collaborators/site_pi.qmd
         # - new_collaborators/contacts.qmd
+    - part: "Collaboration and Authorship Guidelines"
+      chapters: 
+        - collab_auth/collabo_agreement.qmd
+        - collab_auth/authorship_guidelines.qmd
     - part: "Research Workflow" 
       chapters:
         - research/workflow.qmd
         - research/data_collection.qmd
-        - research/uploading_data.qmd 
+        - research/uploading_data.qmd
         - research/data_analysis.qmd
         - research/publications.qmd
     - part: "Protocols"
