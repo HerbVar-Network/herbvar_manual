@@ -47,7 +47,7 @@
     "href": "new_collaborators/onboarding_intro.html",
     "title": "2  First Steps",
     "section": "",
-    "text": "Add info to Collaborator Contact Information file\n\n\nmake sure you have:\n\norcid id\ngithub account\n\n\n\nGet added as “Contributor” to the HerbVar Shared Drive (see if this is still best way)\nget added to slack\nget added to herbvar zotero group\nrequest access to github\nReview Authorship Guidelines\nSign Data Use Agreement",
+    "text": "If you are interested in becoming an HerbVar member, by contributing data as a Site PI or by joining or proposing a Working Group…\n\nAdd info to Collaborator Contact Information file\n\n\nmake sure you have:\n\norcid id\ngithub account\n\n\n\nGet added as “Contributor” to the HerbVar Shared Drive (see if this is still best way)\nget added to slack\nget added to herbvar zotero group\nrequest access to github\nReview Authorship Guidelines\nSign Data Use Agreement",
     "crumbs": [
       "New Collaborators: Start Here",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>First Steps</span>"
@@ -1084,6 +1084,17 @@
     "crumbs": [
       "Appendix",
       "HerbVar Presentations"
+    ]
+  },
+  {
+    "objectID": "new_collaborators/site_pi.html",
+    "href": "new_collaborators/site_pi.html",
+    "title": "3  Becoming a Site PI",
+    "section": "",
+    "text": "A Site PI is a superhero of herbivory studies…",
+    "crumbs": [
+      "New Collaborators: Start Here",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Becoming a Site PI</span>"
     ]
   }
 ]
