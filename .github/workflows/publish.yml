@@ -21,8 +21,7 @@ jobs:
         with:
          packages: any::knitr, any::rmarkdown, any::knitr, any::remotes
         run: remotes::install_github("ropensci/RefManageR")
-         shell: Rscript {0}
-        
+  
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         env:
