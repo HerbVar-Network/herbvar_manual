@@ -19,6 +19,7 @@ book:
         - new_collaborators/site_pi.qmd
         # - new_collaborators/contacts.qmd
     - part: "Collaboration and Authorship Guidelines"
+      chapters: 
         - collab_auth/collabo_agreement.qmd
         - collab_auth/authorship_guidelines.qmd
     - part: "Research Workflow" 
