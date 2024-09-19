@@ -49,7 +49,7 @@ install.packages("quarto")
 
 **Step 4:** Commit and push the changes using RStudio (or the command line if you feel the need to flex).
 
-**Step 5:** Submit a pull request so the Manual's 'Administrators' can review and incorporate your suggested edits. (tutorials  [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and [here](https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html))
+**Step 5:** Submit a pull request so the Manual's 'Administrators' can review and incorporate your suggested edits. (tutorials: how to submit a pull request from a forked repo [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork),  general introduction [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and [here](https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html).)
 
 
 ## Publishing the Manual (Admins Only)
@@ -62,7 +62,7 @@ The admins of the repo can publish the book in HTML (to a Github pages site) and
 
 3. Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change (e.g., any edit of the manual) is pushed to the repository.
 
-**_We are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github._**  However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: (1)** Use the `quarto render` command from the Terminal to render all output formats (the output of your book will be written to the `_book` sub-directory of your book project), then **(2)** use the `quarto publish gh-pages` command to publish the locally rendered content online (more detailed instructions can be found [here](https://quarto.org/docs/books/)).
+**_We are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github._**  However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: **(1)** Use the `quarto render` command from the Terminal to render all output formats (the output of your book will be written to the `_book` sub-directory of your book project), then **(2)** use the `quarto publish gh-pages` command to publish the locally rendered content online (more detailed instructions can be found [here](https://quarto.org/docs/books/)).
 
 **Rendering the  manual:**
 
