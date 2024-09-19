@@ -19,7 +19,11 @@ jobs:
         uses: actions/checkout@v4
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-         packages: any::knitr, any::rmarkdown, any::knitr
+         packages: any::knitr, any::rmarkdown, any::knitr, any::remotes
+    
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        run: remotes::install_github("ropensci/RefManageR")
+        shell: Rscript {0}
         
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
