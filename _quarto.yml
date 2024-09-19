@@ -51,7 +51,6 @@ book:
     - part: "Appendix"
       chapters: 
         - appendix/herbvar_pubs.qmd
-        - appendix/herbvar_presentations.qmd
 # output-file: "HerbVar_Manual"
 bibliography: HerbVar.bib
 # bibliography: ["manual.bib","project_publications.bib","project_presentations.bib"]

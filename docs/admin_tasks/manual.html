@@ -7,6 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Emilio Bruna">
+<meta name="dcterms.date" content="2024-09-18">
 
 <title>HerbVar Project Manual &amp; Field Protocols - 21&nbsp; Editing the Manual</title>
 <style>
@@ -404,7 +405,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul class="collapse">
   <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started"><span class="header-section-number">22.2.1</span> Getting Started</a></li>
   </ul></li>
-  <li><a href="#publishing-the-manual" id="toc-publishing-the-manual" class="nav-link" data-scroll-target="#publishing-the-manual"><span class="header-section-number">22.3</span> Publishing the Manual</a></li>
+  <li><a href="#publishing-the-manual-admins-only" id="toc-publishing-the-manual-admins-only" class="nav-link" data-scroll-target="#publishing-the-manual-admins-only"><span class="header-section-number">22.3</span> Publishing the Manual (Admins Only)</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -428,7 +429,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           </div>
   </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 18, 2024</p>
+    </div>
+  </div>
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">September 19, 2024</p>
+    </div>
+  </div>
     
   </div>
   
@@ -464,10 +477,10 @@ Tip
 <p>To edit the manual you will need a Github account and RStudio. The process for editing the Manual is:</p>
 <ol type="1">
 <li>Install the <code>quarto</code> package</li>
-<li>Fork the <code>Herbvar Manual Repository</code> and clone it into your personal Github</li>
+<li>Fork the Herbvar Manual’s Repository and clone it into your personal Github</li>
 <li>Edit files (or create a new ones)</li>
 <li>Commit and push the changes</li>
-<li>Submit a pull request with your suggested edits (tutorials <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">here</a> and <a href="https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html">here</a>)</li>
+<li>Submit a pull request with your suggested edits</li>
 </ol>
 <p><strong>Step 1.</strong> Open R Studio and install the <code>quarto</code> package using either the ‘install’ button on Rstudio or by executing the following command.</p>
 <div class="code-with-filename">
@@ -476,21 +489,21 @@ Tip
 </div>
 <div class="sourceCode" id="cb1" data-filename="from the R Studio Command Line"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"quarto"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p><strong>Step 2.</strong> Fork the repository for the HerbVar Manual <a href="https://github.com/HerbVar-Network/herbvar_manual">link</a> from the HerbVar Organization Github into your personal Github account (tutorials <a href="https://github.com/rstats-tln/fork-and-clone-repo">here</a> and <a href="https://datacarpentry.org/rr-version-control/03-git-in-rstudio/">here</a>).</p>
-<p><strong>Step 3:</strong> Edit files (or create a new ones)</p>
-<p>You can format text using markdown syntax (see this <a href="https://rstudio.github.io/cheatsheets/html/rmarkdown.html">cheetsheet</a>), but if you would prefer to edit text and simply leave formatting notes (e.g., “bold this”, species names in italics”) that’s fine too.</p>
+<p><strong>Step 2.</strong> Fork the repository for the HerbVar Manual <a href="https://github.com/HerbVar-Network/herbvar_manual">[repo link]</a> from the HerbVar Organization Github into your personal Github account (tutorials <a href="https://github.com/rstats-tln/fork-and-clone-repo">here</a> and <a href="https://datacarpentry.org/rr-version-control/03-git-in-rstudio/">here</a>).</p>
+<p><strong>Step 3:</strong> Edit files (or create a new ones). You can format your text using markdown syntax (see this <a href="https://rstudio.github.io/cheatsheets/html/rmarkdown.html">cheetsheet</a>), but if you would prefer to edit text and simply leave formatting notes (e.g., “bold this”, species names in italics”) that’s fine too.</p>
 <p><strong>Step 4:</strong> Commit and push the changes using RStudio (or the command line if you feel the need to flex).</p>
+<p><strong>Step 5:</strong> Submit a pull request so the Manual’s ‘Administrators’ can review and incorporate your suggested edits. (tutorials: how to submit a pull request from a forked repo <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork">here</a>, general introduction <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">here</a> and <a href="https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html">here</a>.)</p>
 </section>
 </section>
-<section id="publishing-the-manual" class="level2" data-number="22.3">
-<h2 data-number="22.3" class="anchored" data-anchor-id="publishing-the-manual"><span class="header-section-number">22.3</span> Publishing the Manual</h2>
-<p>The admins of the repo can publish the book in HTML format (to Github pages) and pdf format (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see <a href="https://quarto.org/docs/publishing/github-pages.html">here</a>):</p>
+<section id="publishing-the-manual-admins-only" class="level2" data-number="22.3">
+<h2 data-number="22.3" class="anchored" data-anchor-id="publishing-the-manual-admins-only"><span class="header-section-number">22.3</span> Publishing the Manual (Admins Only)</h2>
+<p>The admins of the repo can publish the book in HTML (to a Github pages site) and as a pdf (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see <a href="https://quarto.org/docs/publishing/github-pages.html">here</a>):</p>
 <ol type="1">
 <li><p>Render sites on their local machine to the docs directory, check the rendered site into GitHub, and then configure the GitHub repo to publish from the docs directory.</p></li>
 <li><p>Render on their local machine and then use the <code>quarto publish</code> command to publish content rendered on the local machine.</p></li>
-<li><p>Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change is pushed to the repository.</p></li>
+<li><p>Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change (e.g., any edit of the manual) is pushed to the repository.</p></li>
 </ol>
-<p>More detailed instructions can be found <a href="https://quarto.org/docs/books/">here</a>, but for now <strong>the HerbVar publishing protocol is as follows: (1)</strong> Use the <code>quarto render</code> command from the Terminal to render all output formats (the output of your book will be written to the <code>_book</code> sub-directory of your book project), then (2) use the <code>quarto publish gh-pages</code> command to publish the locally rendered content online.</p>
+<p><strong><em>We are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github.</em></strong> However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: <strong>(1)</strong> Use the <code>quarto render</code> command from the Terminal to render all output formats (the output of your book will be written to the <code>_book</code> sub-directory of your book project), then <strong>(2)</strong> use the <code>quarto publish gh-pages</code> command to publish the locally rendered content online (more detailed instructions can be found <a href="https://quarto.org/docs/books/">here</a>).</p>
 <p><strong>Rendering the manual:</strong></p>
 <div class="code-with-filename">
 <div class="code-with-filename-file">
