@@ -23,8 +23,6 @@ jobs:
         extra-packages: |
           any::rmarkdown
           any::knitr
-        needs: | 
-          website
         
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
