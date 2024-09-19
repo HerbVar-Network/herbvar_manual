@@ -439,7 +439,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">September 18, 2024</p>
+      <p class="date-modified">September 19, 2024</p>
     </div>
   </div>
     
@@ -492,7 +492,7 @@ Tip
 <p><strong>Step 2.</strong> Fork the repository for the HerbVar Manual <a href="https://github.com/HerbVar-Network/herbvar_manual">[repo link]</a> from the HerbVar Organization Github into your personal Github account (tutorials <a href="https://github.com/rstats-tln/fork-and-clone-repo">here</a> and <a href="https://datacarpentry.org/rr-version-control/03-git-in-rstudio/">here</a>).</p>
 <p><strong>Step 3:</strong> Edit files (or create a new ones). You can format your text using markdown syntax (see this <a href="https://rstudio.github.io/cheatsheets/html/rmarkdown.html">cheetsheet</a>), but if you would prefer to edit text and simply leave formatting notes (e.g., “bold this”, species names in italics”) that’s fine too.</p>
 <p><strong>Step 4:</strong> Commit and push the changes using RStudio (or the command line if you feel the need to flex).</p>
-<p><strong>Step 5:</strong> Submit a pull request so the Manual’s ‘Administrators’ can review and incorporate your suggested edits. (tutorials <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">here</a> and <a href="https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html">here</a>)</p>
+<p><strong>Step 5:</strong> Submit a pull request so the Manual’s ‘Administrators’ can review and incorporate your suggested edits. (tutorials: how to submit a pull request from a forked repo <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork">here</a>, general introduction <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">here</a> and <a href="https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html">here</a>.)</p>
 </section>
 </section>
 <section id="publishing-the-manual-admins-only" class="level2" data-number="22.3">
@@ -503,7 +503,7 @@ Tip
 <li><p>Render on their local machine and then use the <code>quarto publish</code> command to publish content rendered on the local machine.</p></li>
 <li><p>Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change (e.g., any edit of the manual) is pushed to the repository.</p></li>
 </ol>
-<p><strong><em>We are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github.</em></strong> However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: (1)** Use the <code>quarto render</code> command from the Terminal to render all output formats (the output of your book will be written to the <code>_book</code> sub-directory of your book project), then <strong>(2)</strong> use the <code>quarto publish gh-pages</code> command to publish the locally rendered content online (more detailed instructions can be found <a href="https://quarto.org/docs/books/">here</a>).</p>
+<p><strong><em>We are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github.</em></strong> However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: <strong>(1)</strong> Use the <code>quarto render</code> command from the Terminal to render all output formats (the output of your book will be written to the <code>_book</code> sub-directory of your book project), then <strong>(2)</strong> use the <code>quarto publish gh-pages</code> command to publish the locally rendered content online (more detailed instructions can be found <a href="https://quarto.org/docs/books/">here</a>).</p>
 <p><strong>Rendering the manual:</strong></p>
 <div class="code-with-filename">
 <div class="code-with-filename-file">
