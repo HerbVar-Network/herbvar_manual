@@ -17,13 +17,13 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-      - uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-         packages: any::knitr, any::rmarkdown, any::knitr, any::remotes
-         
-      - name: Install remotes
-        run: |
-          Rscript -e "remotes::install_github("ropensci/RefManageR")"
+      # - uses: r-lib/actions/setup-r-dependencies@v2
+      #   with:
+      #    packages: any::knitr, any::rmarkdown, any::knitr, any::remotes
+      #    
+      # - name: Install remotes
+      #   run: |
+      #     Rscript -e "remotes::install_github("ropensci/RefManageR")"
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
