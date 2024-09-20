@@ -13,7 +13,28 @@ Working groups are currently analyzing parts of the core dataset that did not ma
 
 ## Ongoing data collection
 
-Additional data collection _**“add-on projects”**_ has since been added (e.g., data on reproductive damage, data on focal plant families, and data on focal plant species). HerbVar network members are also welcome to propose new add-on projects. 
+Additional add-on data collection projects have since been added. We are currently prioritizing collection of data on damage to plant reproductive structures, data from species in our five focal plant families, and data from our three focal plant species. 
+
+See @sec-reproductive_protocol for our Reproductive Damage Protocol. 
+
+Our five focal families are:
+
+- Apocynaceae
+- Asteraceae
+- Fabaceae
+- Rubiaceae
+- Solanaceae
+
+Our three focal species are:
+
+- Taraxacum officinale
+- Plantago lanceolata
+- Plantago major
+
+
+## Proposing new data collection
+
+HerbVar network members are also welcome to propose new add-on projects. See @sec-new_data_collection for details on how to propose add-on projects.
 
 
 
