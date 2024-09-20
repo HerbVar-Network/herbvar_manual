@@ -28,15 +28,15 @@ jobs:
           # uncomment below and fill to pin a version
           # version: SPECIFIC-QUARTO-VERSION-HERE
       
-      # add software dependencies here and any libraries
-      - name: packages from CRAN
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          cache-version: 2
-          packages: |
-            any::knitr
-            any::rmarkdown
-            any::RefManageR
+      # # add software dependencies here and any libraries
+      # - name: packages from CRAN
+      #   uses: r-lib/actions/setup-r-dependencies@v2
+      #   with:
+      #     cache-version: 2
+      #     packages: |
+      #       any::knitr
+      #       any::rmarkdown
+      #       any::RefManageR
     
       
       # To publish to GitHub Pages
