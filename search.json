@@ -208,19 +208,41 @@
     ]
   },
   {
-    "objectID": "collab_auth/collabo_agreement.html",
-    "href": "collab_auth/collabo_agreement.html",
-    "title": "8  Collaborator Agreement",
+    "objectID": "collab_auth/authorship_overview.html",
+    "href": "collab_auth/authorship_overview.html",
+    "title": "8  Authoring HerbVar Papers",
     "section": "",
-    "text": "8.0.1 Introduction\ntext",
+    "text": "8.1 Authorship on “Core HerbVar Papers”\nThe HerbVar Network launched with a Steering Committee commitment to produce two papers using the core HerbVar data. Site PIs earn co-authorship on these papers by providing at least 3 surveys (though more are always welcome) to the core dataset.",
     "crumbs": [
       "Collaboration & Authorship Guidelines",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Collaborator Agreement</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Authoring HerbVar Papers</span>"
     ]
   },
   {
-    "objectID": "collab_auth/authorship_guidelines.html",
-    "href": "collab_auth/authorship_guidelines.html",
+    "objectID": "collab_auth/authorship_overview.html#authorship-on-add-on-project-papers",
+    "href": "collab_auth/authorship_overview.html#authorship-on-add-on-project-papers",
+    "title": "8  Authoring HerbVar Papers",
+    "section": "8.2 Authorship on “add-on project” Papers",
+    "text": "8.2 Authorship on “add-on project” Papers\nThe Steering Committee has so far launched three add-on projects (Focal Species, Focal Families, Reproductive Damage). Additional add-on projects may be created – see Datasets and Proposals for New Data Collection. Site PIs earn co-authorship on one paper from each add-on project by contributing at least three surveys (or equivalent) that advance that project, in addition to the minimum three surveys required for Site PI status and authorship on the core HerbVar papers.",
+    "crumbs": [
+      "Collaboration & Authorship Guidelines",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Authoring HerbVar Papers</span>"
+    ]
+  },
+  {
+    "objectID": "collab_auth/authorship_overview.html#standards-for-authorship-and-the-herbvar-authorship-process",
+    "href": "collab_auth/authorship_overview.html#standards-for-authorship-and-the-herbvar-authorship-process",
+    "title": "8  Authoring HerbVar Papers",
+    "section": "8.3 Standards for Authorship and the HerbVar Authorship Process",
+    "text": "8.3 Standards for Authorship and the HerbVar Authorship Process\nAuthorship on papers arising from HerbVar data will be earned through significant contribution to the scientific process, including but in addition to contributing data. Final authorship assignment is the responsibility of the lead author of the manuscript (where the lead author is the project leader approved by the Steering Committee). We strongly favor being inclusive in authorship. The detailed authorship guidelines can be found here.\nIf you wish to write a new paper using HerbVar data, follow the HerbVar Authorship Process [here]. In summary, the prospective author(s) look at the list of products already being worked on, submit a working title and abstract to the HerbVar Steering Committee, and receive feedback/approval. The proposed publication is then listed on the HerbVar site for other network members to see. Authors are encouraged, but not required, to invite additional network members to work with them as appropriate. See Authorship Guidelines for discussion of how and when to invite others. This process provides benefits such as access to unpublished data, information on potential overlap of the paper with other completed or ongoing analyses, advice about how to interpret the data, GitHub tools customized for analysis and publication of HerbVar data, and publicity for the publication through HerbVar channels. Working Groups typically have six months to initiate work and two years from proposal to manuscript submission (or equivalent for non-manuscript projects). If manuscripts do not progress within those time frames the Steering Committee may make the data available to others interested in working on those questions.",
+    "crumbs": [
+      "Collaboration & Authorship Guidelines",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Authoring HerbVar Papers</span>"
+    ]
+  },
+  {
+    "objectID": "collab_auth/authorship_process.html",
+    "href": "collab_auth/authorship_process.html",
     "title": "9  Authorship Guidelines",
     "section": "",
     "text": "9.0.1 Introduction\ntext",
@@ -256,7 +278,7 @@
     "href": "collab_auth/project_review.html",
     "title": "11  Evaluating Progress & Participation",
     "section": "",
-    "text": "The HerbVar Steering Committee will review ongoing HerbVar projects, working groups and site PI’s periodically. Site PI’s whose behavior does not align with HerbVar guidelines (e.g., not reporting data errors, not treating collaborators with respect) will be asked to leave the project. Working Group leaders will be responsible for sharing their progress (e.g., manuscript drafts, results, data, code) with the Steering Committee when requested. If working groups do not make progress on their project within the first 6 months after a manuscript is proposed, or if they do not submit a manuscript within 2 years after proposal, the Steering Committee may suggest that the working group change its approach, or open the project to others who are interested in carrying it forward.\nFigure 1\nFigure 2",
+    "text": "The HerbVar Steering Committee will review ongoing HerbVar projects, working groups and site PI’s periodically. Site PI’s whose behavior does not align with HerbVar guidelines (e.g., not reporting data errors, not treating collaborators with respect) will be asked to leave the project. Working Group leaders will be responsible for sharing their progress (e.g., manuscript drafts, results, data, code) with the Steering Committee when requested. If working groups do not make progress on their project within the first 6 months after a manuscript is proposed, or if they do not submit a manuscript within 2 years after proposal, the Steering Committee may suggest that the working group change its approach, or open the project to others who are interested in carrying it forward.",
     "crumbs": [
       "Collaboration & Authorship Guidelines",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Evaluating Progress & Participation</span>"
