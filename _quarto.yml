@@ -13,6 +13,7 @@ book:
     - part: "What is HerbVar?"
       chapters: 
         - introduction/intro.qmd
+        - introduction/herbvar_pubs.qmd
     - part: "Research with Herbvar"
       chapters: 
         - collaborators/data_overview.qmd
@@ -33,7 +34,8 @@ book:
         - research/uploading_data.qmd
         - research/data_analysis.qmd
         - research/publications.qmd
-    - part: "Protocols"
+    - references.qmd
+    - part: "Appendix 1: Protocols"
       chapters: 
         - protocols/spp_site_selection.qmd
         - protocols/primary.qmd
@@ -44,20 +46,19 @@ book:
         - protocols/tree.qmd
         - protocols/rhizo_geo.qmd
         - protocols/herbivore.qmd    
-    - part: "Admin Tasks"
+    - part: "Appendix 2: Forms & Checklists"
       chapters: 
-        - admin_tasks/potential_collaborators.qmd
-        - admin_tasks/manual.qmd
-        - admin_tasks/website.qmd
-        - admin_tasks/data_portal.qmd
-        - admin_tasks/google_drive.qmd
-        - admin_tasks/wrangling_repo.qmd
-        - admin_tasks/unfinished_tasks.qmd
-    - references.qmd
-    - part: "Appendix"
+        - forms/onboarding_intro.qmd
+    - part: "Appendix 3: HerbVar Admin"
       chapters: 
-        - appendix/onboarding_intro.qmd
-        - appendix/herbvar_pubs.qmd
+        - admin/potential_collaborators.qmd
+        - admin/manual.qmd
+        - admin/website.qmd
+        - admin/data_portal.qmd
+        - admin/google_drive.qmd
+        - admin/wrangling_repo.qmd
+        - admin/unfinished_tasks.qmd
+    
 # output-file: "HerbVar_Manual"
 bibliography: HerbVar.bib
 # bibliography: ["manual.bib","project_publications.bib","project_presentations.bib"]
