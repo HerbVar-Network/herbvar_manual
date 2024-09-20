@@ -120,14 +120,36 @@
     ]
   },
   {
-    "objectID": "collaborators/data_overview.html",
-    "href": "collaborators/data_overview.html",
-    "title": "5  HerbVar Data Sets",
+    "objectID": "introduction/data_overview.html",
+    "href": "introduction/data_overview.html",
+    "title": "4  HerbVar Datasets",
     "section": "",
-    "text": "6 HerbVar Data Sets\nThe “core” HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the core dataset, we prioritized surveys that added phylogenetic and geographic breadth.\nAdditional data collection “add-on projects” have since been added (e.g., data on reproductive damage, data on focal plant families, and data on focal plant species). HerbVar network members are welcome to propose new add-on projects.",
+    "text": "5 HerbVar Datasets",
     "crumbs": [
-      "Research with Herbvar",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>HerbVar Data Sets</span>"
+      "What is HerbVar?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
+    ]
+  },
+  {
+    "objectID": "introduction/data_overview.html#the-first-core-herbvar-dataset",
+    "href": "introduction/data_overview.html#the-first-core-herbvar-dataset",
+    "title": "4  HerbVar Datasets",
+    "section": "5.1 The first core HerbVar dataset",
+    "text": "5.1 The first core HerbVar dataset\nThe first core HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the core dataset, we prioritized surveys that added phylogenetic and geographic breadth. It includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.\nYou can read about our first analyses of this data set in our Science paper here. The published dataset is available at Dryad here.\nWorking groups are currently analyzing parts of the core dataset that did not make it into our Science paper, and HerbVar members are welcome to propose analyses using unpublished parts of the dataset. These parts of the dataset will be made available with each publication.",
+    "crumbs": [
+      "What is HerbVar?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
+    ]
+  },
+  {
+    "objectID": "introduction/data_overview.html#ongoing-data-collection",
+    "href": "introduction/data_overview.html#ongoing-data-collection",
+    "title": "4  HerbVar Datasets",
+    "section": "5.2 Ongoing data collection",
+    "text": "5.2 Ongoing data collection\nAdditional data collection “add-on projects” has since been added (e.g., data on reproductive damage, data on focal plant families, and data on focal plant species). HerbVar network members are also welcome to propose new add-on projects.",
+    "crumbs": [
+      "What is HerbVar?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
     ]
   },
   {
@@ -137,7 +159,7 @@
     "section": "",
     "text": "6.1 Proposing a new add-on project\nThe steps to proposing a new add-on project are as follows:",
     "crumbs": [
-      "Research with Herbvar",
+      "Research with HerbVar",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Proposing New Analyses</span>"
     ]
   },
@@ -148,7 +170,7 @@
     "section": "",
     "text": "Review the current add-on projects and proposals for add-on projects to determine whether your idea is already being addressed. If not, proceed to step 2.\nEmail a proposal to a Steering Committee member (https://herbvar.org/leadership.html) . The proposal should have:\n\n\nA title\nOne paragraph describing the knowledge gap and why it is important\nOne paragraph describing the data to be collected to fill that knowledge gap and the protocol for collecting those data\nA statement of how individuals who contribute data for this project will receive credit for their work. We strongly recommend following the HerbVar core data authorship model, where individuals who contribute at least three appropriate surveys, or similar contributions depending on protocol, will automatically be included on one publication using those data, assuming enough data are collected to support a publication.\n\n\nThe Steering Committee will review the proposal, ensuring there is no overlap with an ongoing data collection effort, and provide feedback. You will work with the Steering Committee to incorporate their feedback. If the proposal is approved, move to the next step.\nPost your proposal for network members to read and email the network with “HerbVar add-on data project” in the subject line. Use some mechanism (return email, google form, etc.) to find out how many people want to opt-in to this project by contributing at least three surveys.\nIf you have enough people opting-in to make the project viable, inform the Steering Committee and the project will be moved to “in-progress” on the HerbVar website. Depending on the complexity of your data, the Steering Committee or you will update our data structures to receive the new data.\nCreate and post your protocol, with Steering Committee input.\nSend out another email to the people opting in to your project telling them to start data collection.",
     "crumbs": [
-      "Research with Herbvar",
+      "Research with HerbVar",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Proposing New Analyses</span>"
     ]
   },
@@ -159,7 +181,7 @@
     "section": "6.2 Working Group Projects",
     "text": "6.2 Working Group Projects",
     "crumbs": [
-      "Research with Herbvar",
+      "Research with HerbVar",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Proposing New Analyses</span>"
     ]
   },
@@ -170,7 +192,7 @@
     "section": "6.3 Add-on Projects",
     "text": "6.3 Add-on Projects",
     "crumbs": [
-      "Research with Herbvar",
+      "Research with HerbVar",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Proposing New Analyses</span>"
     ]
   },
@@ -181,7 +203,7 @@
     "section": "",
     "text": "The HerbVar Steering Committee will review ongoing HerbVar projects, working groups and site PI’s periodically. Site PI’s whose behavior does not align with HerbVar guidelines (e.g., not reporting data errors, not treating collaborators with respect) will be asked to leave the project. Working Group leaders will be responsible for sharing their progress (e.g., manuscript drafts, results, data, code) with the Steering Committee when requested. If working groups do not make progress on their project within the first 6 months after a manuscript is proposed, or if they do not submit a manuscript within 2 years after proposal, the Steering Committee may suggest that the working group change its approach, or open the project to others who are interested in carrying it forward.\nFigure 1\nFigure 2",
     "crumbs": [
-      "Research with Herbvar",
+      "Research with HerbVar",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluating Progress & Participation</span>"
     ]
   },
