@@ -9,7 +9,6 @@ date: today
 # pull the publications and presentations from Zotero via api
 # with Refmanager (see
 # https://docs.ropensci.org/RefManageR/index.html)
-pak::pkg_install("ropensci/RefManageR")
 library(RefManageR)
 library(knitr)
 library(markdown)
