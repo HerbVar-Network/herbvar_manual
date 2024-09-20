@@ -1,0 +1,12 @@
+# Authoring HerbVar Papers
+
+## Authorship on “Core HerbVar Papers”
+The HerbVar Network launched with a Steering Committee commitment to produce two papers using the core HerbVar data. Site PIs earn co-authorship on these papers by providing at least 3 surveys (though more are always welcome) to the core dataset. 
+
+## Authorship on “add-on project” Papers
+The Steering Committee has so far launched three add-on projects (Focal Species, Focal Families, Reproductive Damage). Additional add-on projects may be created – see Datasets and Proposals for New Data Collection. Site PIs earn co-authorship on one paper from each add-on project by contributing at least three surveys (or equivalent) that advance that project, in addition to the minimum three surveys required for Site PI status and authorship on the core HerbVar papers. 
+
+## Standards for Authorship and the HerbVar Authorship Process
+Authorship on papers arising from HerbVar data will be earned through significant contribution to the scientific process, including but in addition to contributing data. Final authorship assignment is the responsibility of the lead author of the manuscript (where the lead author is the project leader approved by the Steering Committee). We strongly favor being inclusive in authorship. The detailed authorship guidelines can be found here.
+
+If you wish to write a new paper using HerbVar data, follow the HerbVar Authorship Process [here]. In summary, the prospective author(s) look at the list of products already being worked on, submit a working title and abstract to the HerbVar Steering Committee, and receive feedback/approval. The proposed publication is then listed on the HerbVar site for other network members to see. Authors are encouraged, but not required, to invite additional network members to work with them as appropriate. See Authorship Guidelines for discussion of how and when to invite others. This process provides benefits such as access to unpublished data, information on potential overlap of the paper with other completed or ongoing analyses, advice about how to interpret the data, GitHub tools customized for analysis and publication of HerbVar data, and publicity for the publication through HerbVar channels. Working Groups typically have six months to initiate work and two years from proposal to manuscript submission (or equivalent for non-manuscript projects). If manuscripts do not progress within those time frames the Steering Committee may make the data available to others interested in working on those questions.
