@@ -65,6 +65,28 @@
     ]
   },
   {
+    "objectID": "collab_auth/collabo_agreement.html",
+    "href": "collab_auth/collabo_agreement.html",
+    "title": "4  Collaborator Agreement",
+    "section": "",
+    "text": "4.0.1 Introduction\ntext",
+    "crumbs": [
+      "Collaboration and Authorship Guidelines",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Collaborator Agreement</span>"
+    ]
+  },
+  {
+    "objectID": "collab_auth/authorship_guidelines.html",
+    "href": "collab_auth/authorship_guidelines.html",
+    "title": "5  Authorship Guidelines",
+    "section": "",
+    "text": "5.0.1 Introduction\ntext",
+    "crumbs": [
+      "Collaboration and Authorship Guidelines",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Authorship Guidelines</span>"
+    ]
+  },
+  {
     "objectID": "research/workflow.html",
     "href": "research/workflow.html",
     "title": "6  HerbVar Workflow Overview",
