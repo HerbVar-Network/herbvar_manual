@@ -232,45 +232,23 @@
   {
     "objectID": "collab_auth/new_projects.html",
     "href": "collab_auth/new_projects.html",
-    "title": "10  Proposing New Analyses",
+    "title": "10  Proposing New Data Collection",
     "section": "",
     "text": "10.1 Proposing a new add-on project\nThe steps to proposing a new add-on project are as follows:",
     "crumbs": [
       "Collaboration & Authorship Guidelines",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Proposing New Analyses</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Proposing New Data Collection</span>"
     ]
   },
   {
     "objectID": "collab_auth/new_projects.html#proposing-a-new-add-on-project",
     "href": "collab_auth/new_projects.html#proposing-a-new-add-on-project",
-    "title": "10  Proposing New Analyses",
+    "title": "10  Proposing New Data Collection",
     "section": "",
     "text": "Review the current add-on projects and proposals for add-on projects to determine whether your idea is already being addressed. If not, proceed to step 2.\nEmail a proposal to a Steering Committee member (https://herbvar.org/leadership.html) . The proposal should have:\n\n\nA title\nOne paragraph describing the knowledge gap and why it is important\nOne paragraph describing the data to be collected to fill that knowledge gap and the protocol for collecting those data\nA statement of how individuals who contribute data for this project will receive credit for their work. We strongly recommend following the HerbVar core data authorship model, where individuals who contribute at least three appropriate surveys, or similar contributions depending on protocol, will automatically be included on one publication using those data, assuming enough data are collected to support a publication.\n\n\nThe Steering Committee will review the proposal, ensuring there is no overlap with an ongoing data collection effort, and provide feedback. You will work with the Steering Committee to incorporate their feedback. If the proposal is approved, move to the next step.\nPost your proposal for network members to read and email the network with “HerbVar add-on data project” in the subject line. Use some mechanism (return email, google form, etc.) to find out how many people want to opt-in to this project by contributing at least three surveys.\nIf you have enough people opting-in to make the project viable, inform the Steering Committee and the project will be moved to “in-progress” on the HerbVar website. Depending on the complexity of your data, the Steering Committee or you will update our data structures to receive the new data.\nCreate and post your protocol, with Steering Committee input.\nSend out another email to the people opting in to your project telling them to start data collection.",
     "crumbs": [
       "Collaboration & Authorship Guidelines",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Proposing New Analyses</span>"
-    ]
-  },
-  {
-    "objectID": "collab_auth/new_projects.html#working-group-projects",
-    "href": "collab_auth/new_projects.html#working-group-projects",
-    "title": "10  Proposing New Analyses",
-    "section": "10.2 Working Group Projects",
-    "text": "10.2 Working Group Projects",
-    "crumbs": [
-      "Collaboration & Authorship Guidelines",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Proposing New Analyses</span>"
-    ]
-  },
-  {
-    "objectID": "collab_auth/new_projects.html#add-on-projects",
-    "href": "collab_auth/new_projects.html#add-on-projects",
-    "title": "10  Proposing New Analyses",
-    "section": "10.3 Add-on Projects",
-    "text": "10.3 Add-on Projects",
-    "crumbs": [
-      "Collaboration & Authorship Guidelines",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Proposing New Analyses</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Proposing New Data Collection</span>"
     ]
   },
   {
