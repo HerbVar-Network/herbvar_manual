@@ -17,6 +17,32 @@ Published studies and personal observations suggest the distribution of herbivor
   - Latitude,
   - ...and many others (e.g., seasonality, precipitation).
   
+
+## HerbVar Structure and Coordination
+
+We are a collaborative and inclusive group of researchers who are working together to advance our understanding of plant–herbivore interactions. Membership in HerbVar is determined by participation in data collection and/or significant managerial work ***(see Guidelines for Participation)***.
+
+### Network PIs
+
+HerbVar is led by Will Wetzel at Montana State University, Nora Underwood and Brian Inouye at Florida State University, Susan Whitehead at Virginia Tech, and Phil Hahn at the University of Florida. These are the network PIs.
+
+### Steering Committee
+
+The HerbVar Steering Committee guides the development and implementation of HerbVar policy with input from HerbVar members as needed. This includes the organization of the project, participation guidelines, authorship guidelines and protocols, review of proposals for papers and expanded data collection, and curation of HerbVar data and GitHub tools for working with the data. The Steering Committee is also responsible for producing core papers using the HerbVar data and involving all relevant Site PIs that meet Authorship Guidelines.
+
+### Site PIs
+
+Data are collected and contributed by Site PIs and their collaborators or colleagues. Site PIs earn authorship on core papers according to the Authorship Guidelines.
+
+### Members 
+
+HerbVar membership is open to all professionally-trained researchers with expertise in plant-herbivore interactions who plan to collect data or participate in a working group. Members can become Site PIs (see below for guidelines), can join or lead working groups, or both.
+
+### Working Groups
+
+Specific HerbVar goals, projects, and papers are pursued by Working Groups. The formation of each Working Group, including its goal and plan for leadership and member recruitment, will be reviewed and approved by the HerbVar Steering Committee. All HerbVar members are invited to propose working groups for papers based on HerbVar data and/or new types of network data collection. The proposal process typically involves emailing a one page description of the project, including goals, methods, and plans for running the group, to the Steering Committee. For more details, see Data Use Guidelines and Datasets and Proposals for New Data Collection and Authorship Guidelines. Approved working groups will have the support of the network including access to relevant unpublished data, use of pre-written R code for wrangling and cleaning HerbVar data, use of the HerbVar GitHub organization, and publicity for completed work.
+
+
 ## Questions?
 
 More information on the HerbVar Project is available on the [project website](https://herbvar.org/). If you can't find the information you're looking for in this manual or the website, please contact a member of the HerbVar Steering Committee: 

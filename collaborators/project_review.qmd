@@ -1,0 +1,10 @@
+# Review of HerbVar Projects and Participants
+
+
+The HerbVar Steering Committee will review ongoing HerbVar projects, working groups and site PI’s periodically. Site PI’s whose behavior does not align with HerbVar guidelines (e.g., not reporting data errors, not treating collaborators with respect) will be asked to leave the project. Working Group leaders will be responsible for sharing their progress (e.g., manuscript drafts, results, data, code) with the Steering Committee when requested. If working groups do not make progress on their project within the first 6 months after a manuscript is proposed, or if they do not submit a manuscript within 2 years after proposal, the Steering Committee may suggest that the working group change its approach, or open the project to others who are interested in carrying it forward.
+
+Figure 1
+
+
+
+Figure 2

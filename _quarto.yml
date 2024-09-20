@@ -13,13 +13,15 @@ book:
     - part: "What is HerbVar?"
       chapters: 
         - introduction/intro.qmd
-    - part: "New Collaborators: Start Here"
+    - part: "Research with Herbvar"
       chapters: 
-        - new_collaborators/onboarding_intro.qmd
-        - new_collaborators/site_pi.qmd
-        # - new_collaborators/contacts.qmd
-    - part: "Collaboration and Authorship Guidelines"
+        - collaborators/new_projects.qmd
+        - collaborators/project_review.qmd
+        - collaborators/site_pi.qmd
+        # - collaborators/contacts.qmd
+    - part: "Collaboration & Authorship Guidelines"
       chapters: 
+        - collab_auth/data_use_guidelines.qmd
         - collab_auth/collabo_agreement.qmd
         - collab_auth/authorship_guidelines.qmd
     - part: "Research Workflow" 
@@ -52,6 +54,7 @@ book:
     - references.qmd
     - part: "Appendix"
       chapters: 
+        - appendix/onboarding_intro.qmd
         - appendix/herbvar_pubs.qmd
 # output-file: "HerbVar_Manual"
 bibliography: HerbVar.bib
