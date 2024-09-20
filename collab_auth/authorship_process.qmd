@@ -1,12 +1,15 @@
+
 ---
-title: HerbVar Authorship Process
+title: HerbVar Authorship Process 
 title-block-style: plain
 date: 09/15/2024
 date-modified: last-modified
 ---
 
+# HerbVar Authorship Process {#sec-authorship_process}
 
-## NutNet Acknowledgement
+
+## NutNet Acknowledgement 
 The HerbVar authorship process has been heavily influenced by the NutNet authorship process (https://nutnet.org/). This process provides ground rules for a fair and inclusive process for establishing authorship while not diluting the value of authorship on a manuscript. HerbVar is grateful to be able to build on the foundation of NutNet’s model for collaborative international ecology. The text below is edited to reflect HerbVar-specific policies, but some is drawn directly from the NutNet authorship document (https://nutnet.org/authorship). Differences reflect the fact that HerbVar is a much larger network (with hundreds of contributors) and a more fluid network (contributors might only contribute data once, rather than activity maintaining an experimental site). 
 
 ## Philosophy - Goals and Benefits
