@@ -32,10 +32,11 @@ jobs:
       - name: packages from CRAN
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          packages:
+          cache-version: 2
+          packages: |
             any::knitr
             any::rmarkdown
-            any::RefManageR
+            # any::RefManageR
     
       
       # To publish to GitHub Pages
