@@ -16,7 +16,7 @@ book:
         - introduction/getting_involved.qmd
         - introduction/Network_Structure.qmd
         - introduction/herbvar_pubs.qmd
-    - part: "Research with Herbvar"
+    - part: "Research with HerbVar"
       chapters: 
         - collaborators/data_overview.qmd
         - collaborators/new_projects.qmd
