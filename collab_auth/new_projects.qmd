@@ -1,6 +1,6 @@
-# Proposing New Analyses
+# Proposing New Data Collection
 
-The Steering Committee will open calls for proposals periodically and review proposals, including by surveying the network membership for interest in each proposal, to ensure the network is focusing its efforts on the most important data collection objectives with the highest probability of success. **_Leaders of add-on projects must commit to:_**
+HerbVar network members are welcome to propose new add-on data collection efforts. These will typically involve sending a new protocol to HerbVar Site PIs to use in field data collection. The Steering Committee will open calls for proposals for new add-on data collection periodically and review proposals, including by surveying the network membership for interest in each proposal, to ensure the network is focusing its efforts on the most important data collection objectives with the highest probability of success. **_Leaders of add-on projects must commit to:_**
 
 - Creating the data-collection protocol with input from the Steering Committee.
 - Recruiting site PIs to collect sufficient data for at least one publication.
@@ -30,12 +30,6 @@ The steps to proposing a new add-on project are as follows:
 
 7. Send out another email to the people opting in to your project telling them to start data collection.
 
-
-## Working Group Projects
-
-
-
-## Add-on Projects
 
 
 
