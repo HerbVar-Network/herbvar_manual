@@ -4,9 +4,9 @@ title: "HerbVar Datasets"
 
 # HerbVar Datasets
 
-## The first core HerbVar dataset
+## The phase 1 core HerbVar dataset
 
-The first core HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the core dataset, we prioritized surveys that added phylogenetic and geographic breadth. It includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries. 
+The phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the phase 1 core dataset, we prioritized surveys that added phylogenetic and geographic breadth. It includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries. 
 
 You can read about our first analyses of this data set in [our Science paper here](https://www.science.org/doi/10.1126/science.adh8830). [The published dataset is available at Dryad here](https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm).
 
