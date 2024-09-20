@@ -1,8 +1,6 @@
 # Proposing New Analyses
 
-The “core” HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the core dataset, we prioritized surveys that added phylogenetic and geographic breadth.
-
-Additional data collection _**“add-on projects”**_ have since been added (e.g., data on reproductive damage, data on focal plant families, and data on focal plant species). HerbVar network members are welcome to propose new add-on projects. The Steering Committee will open calls for proposals periodically and review proposals, including by surveying the network membership for interest in each proposal, to ensure the network is focusing its efforts on the most important data collection objectives with the highest probability of success. **_Leaders of add-on projects must commit to:_**
+The Steering Committee will open calls for proposals periodically and review proposals, including by surveying the network membership for interest in each proposal, to ensure the network is focusing its efforts on the most important data collection objectives with the highest probability of success. **_Leaders of add-on projects must commit to:_**
 
 - Creating the data-collection protocol with input from the Steering Committee.
 - Recruiting site PIs to collect sufficient data for at least one publication.

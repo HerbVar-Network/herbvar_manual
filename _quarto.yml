@@ -15,15 +15,17 @@ book:
         - introduction/intro.qmd
     - part: "Research with Herbvar"
       chapters: 
+        - collaborators/data_overview.qmd
         - collaborators/new_projects.qmd
         - collaborators/project_review.qmd
-        - collaborators/site_pi.qmd
         # - collaborators/contacts.qmd
     - part: "Collaboration & Authorship Guidelines"
       chapters: 
         - collab_auth/data_use_guidelines.qmd
+        - collab_auth/site_pi.qmd
         - collab_auth/collabo_agreement.qmd
         - collab_auth/authorship_guidelines.qmd
+        
     - part: "Research Workflow" 
       chapters:
         - research/workflow.qmd

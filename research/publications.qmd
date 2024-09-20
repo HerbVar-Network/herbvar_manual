@@ -1,4 +1,4 @@
-# Preparing HerbVar Manuscripts
+# Writing Manuscripts
 
 Manuscript Preparation using the github repository / template
 
