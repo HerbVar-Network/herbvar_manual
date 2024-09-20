@@ -1,14 +1,13 @@
 # Getting involved
 
-All professionally-trained researchers with expertise in plant-herbivore interactions are welcome to join HerbVar as a member. We ask members to read this manual before reaching out about joining. Once you have decided to join, please email Will Wetzel (william.wetzel@montana.edu) to get the process started.
-
+All professionally-trained researchers with expertise in plant-herbivore interactions are welcome to join HerbVar as a member. We ask members to read this manual before reaching out about joining. Once you have decided to join, please email Will Wetzel (william.wetzel\@montana.edu) to get the process started.
 
 Members can get involved in the network in three main ways:
 
-1. Become a Site PI by collecting data using one of the HerbVar Protocols. Submit data towards a sampling objective and become a co-author on a publication resulting from that sampling objective.
+1.  Become a **Site PI** by collecting data using one of the HerbVar Protocols. Submit data towards a sampling objective and become a co-author on a publication resulting from that sampling objective.
 
-2. Join an existing open Working Group advancing an HerbVar Project. These include the analysis of existing data, the design and coordination of new data collection efforts, and the development of educational resources.
+2.  Join an **existing Working Group** open to new members. Working Groups analyze and publish existing data, design and coordinate of new add-on data collection efforts, and develop educational resources.
 
-3. Propose a new Working Group for a project analyzing existing HerbVar data or a project coordinating a new data collection effort.
+3.  Propose a **new Working Group** for a project analyzing existing HerbVar data or a project coordinating a new data collection effort.
 
 This manual explains the process for each of these ways of getting involved.
