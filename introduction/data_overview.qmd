@@ -1,0 +1,21 @@
+---
+title: "HerbVar Datasets"
+---
+
+# HerbVar Datasets
+
+## The first core HerbVar dataset
+
+The first core HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the core dataset, we prioritized surveys that added phylogenetic and geographic breadth. It includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries. 
+
+You can read about our first analyses of this data set in [our Science paper here](https://www.science.org/doi/10.1126/science.adh8830). [The published dataset is available at Dryad here](https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm).
+
+Working groups are currently analyzing parts of the core dataset that did not make it into our Science paper, and HerbVar members are welcome to propose analyses using unpublished parts of the dataset. These parts of the dataset will be made available with each publication.
+
+## Ongoing data collection
+
+Additional data collection _**“add-on projects”**_ has since been added (e.g., data on reproductive damage, data on focal plant families, and data on focal plant species). HerbVar network members are also welcome to propose new add-on projects. 
+
+
+
+<!-- detail the datasets in more detail....links to protocols and workflow... -->
