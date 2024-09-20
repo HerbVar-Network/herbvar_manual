@@ -58,7 +58,7 @@
     "href": "introduction/getting_involved.html",
     "title": "2  Getting involved",
     "section": "",
-    "text": "All professionally-trained researchers with expertise in plant-herbivore interactions are welcome to join HerbVar as a member. We ask members to read this manual before reaching out about joining. Once you have decided to join, please email Will Wetzel (william.wetzel@montana.edu) to get the process started.\nMembers can get involved in the network in three main ways:\n\nBecome a Site PI by collecting data using one of the HerbVar Protocols. Submit data towards a sampling objective and become a co-author on a publication resulting from that sampling objective.\nJoin an existing open Working Group advancing an HerbVar Project. These include the analysis of existing data, the design and coordination of new data collection efforts, and the development of educational resources.\nPropose a new Working Group for a project analyzing existing HerbVar data or a project coordinating a new data collection effort.\n\nThis manual explains the process for each of these ways of getting involved.",
+    "text": "All professionally-trained researchers with expertise in plant-herbivore interactions are welcome to join HerbVar as a member. We ask members to read this manual before reaching out about joining. Once you have decided to join, please email Will Wetzel (william.wetzel@montana.edu) to get the process started.\nMembers can get involved in the network in three main ways:\n\nBecome a Site PI by collecting data using one of the HerbVar Protocols. Submit data towards a sampling objective and become a co-author on a publication resulting from that sampling objective.\nJoin an existing Working Group open to new members. Working Groups analyze and publish existing data, design and coordinate of new add-on data collection efforts, and develop educational resources.\nPropose a new Working Group for a project analyzing existing HerbVar data or a project coordinating a new data collection effort.\n\nThis manual explains the process for each of these ways of getting involved.",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting involved</span>"
@@ -131,11 +131,11 @@
     ]
   },
   {
-    "objectID": "introduction/data_overview.html#the-first-core-herbvar-dataset",
-    "href": "introduction/data_overview.html#the-first-core-herbvar-dataset",
+    "objectID": "introduction/data_overview.html#the-phase-1-core-herbvar-dataset",
+    "href": "introduction/data_overview.html#the-phase-1-core-herbvar-dataset",
     "title": "4  HerbVar Datasets",
-    "section": "5.1 The first core HerbVar dataset",
-    "text": "5.1 The first core HerbVar dataset\nThe first core HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the core dataset, we prioritized surveys that added phylogenetic and geographic breadth. It includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.\nYou can read about our first analyses of this data set in our Science paper here. The published dataset is available at Dryad here.\nWorking groups are currently analyzing parts of the core dataset that did not make it into our Science paper, and HerbVar members are welcome to propose analyses using unpublished parts of the dataset. These parts of the dataset will be made available with each publication.",
+    "section": "5.1 The phase 1 core HerbVar dataset",
+    "text": "5.1 The phase 1 core HerbVar dataset\nThe phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the phase 1 core dataset, we prioritized surveys that added phylogenetic and geographic breadth. It includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.\nYou can read about our first analyses of this data set in our Science paper here. The published dataset is available at Dryad here.\nWorking groups are currently analyzing parts of the core dataset that did not make it into our Science paper, and HerbVar members are welcome to propose analyses using unpublished parts of the dataset. These parts of the dataset will be made available with each publication.",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
