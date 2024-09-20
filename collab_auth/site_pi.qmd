@@ -1,4 +1,7 @@
-# Guidelines for Site PIs
+# Being an HerbVar Site PI
+
+The HerbVar Site PI is one of the most important roles in the network. Site PIs establish research sites, collect and submit data to ongoing sampling objectives, and assist with analyses and manuscript editing.
+
 
 ## Guidelines for Participation as a Site PI
 
