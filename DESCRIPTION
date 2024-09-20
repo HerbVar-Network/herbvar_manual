@@ -1,0 +1,42 @@
+Type: Package
+Package: HerbVarManual
+Title: HerbVar Project Manual & Field Protocols
+Version: 1.0
+Authors@R: 
+    c(person(given = "A",
+             family = "Aa",
+             role = c("aut", "cre"),
+             email = "a@gmail.com"),
+      person(given = "B.",
+             family = "Bb",
+             role = "aut"),
+      person(given = "C",
+             family = "Cc",
+             role = "aut"),
+      person(given = "Emilio",
+             family = "Bruna",
+             role = "aut",
+             email = "embruna@ufl.edu"))
+Description: Description of the Manual.
+License: GPL-3
+URL: https://github.com/HerbVar-Network/herbvar_manual
+BugReports: https://github.com/HerbVar-Network/herbvar_manual/issues
+Depends: 
+    R (>= 2.10)
+Imports: 
+    rmarkdown,
+    knitr,
+    RefManageR
+Suggests: 
+    here
+VignetteBuilder: 
+    knitr
+Remotes: 
+Encoding: UTF-8
+# RoxygenNote: 7.1.2
+X-schema.org-keywords: 
+    herbivory, 
+    NSF
+X-schema.org-isPartOf: https://github.com/HerbVar-Network
+# Roxygen: list(markdown = TRUE)
+# LazyData: true
