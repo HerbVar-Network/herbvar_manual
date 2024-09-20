@@ -135,7 +135,18 @@
     "href": "introduction/data_overview.html#ongoing-data-collection",
     "title": "4  HerbVar Datasets",
     "section": "4.2 Ongoing data collection",
-    "text": "4.2 Ongoing data collection\nAdditional data collection “add-on projects” has since been added (e.g., data on reproductive damage, data on focal plant families, and data on focal plant species). HerbVar network members are also welcome to propose new add-on projects.",
+    "text": "4.2 Ongoing data collection\nAdditional add-on data collection projects have since been added. We are currently prioritizing collection of data on damage to plant reproductive structures, data from species in our five focal plant families, and data from our three focal plant species.\nSee Chapter 20 for our Reproductive Damage Protocol.\nOur five focal families are:\n\nApocynaceae\nAsteraceae\nFabaceae\nRubiaceae\nSolanaceae\n\nOur three focal species are:\n\nTaraxacum officinale\nPlantago lanceolata\nPlantago major",
+    "crumbs": [
+      "What is HerbVar?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
+    ]
+  },
+  {
+    "objectID": "introduction/data_overview.html#proposing-new-data-collection",
+    "href": "introduction/data_overview.html#proposing-new-data-collection",
+    "title": "4  HerbVar Datasets",
+    "section": "4.3 Proposing new data collection",
+    "text": "4.3 Proposing new data collection\nHerbVar network members are also welcome to propose new add-on projects. See Chapter 10 for details on how to propose add-on projects.",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
