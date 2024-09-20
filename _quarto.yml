@@ -28,7 +28,6 @@ book:
         - collab_auth/site_pi.qmd
         - collab_auth/collabo_agreement.qmd
         - collab_auth/authorship_guidelines.qmd
-        
     - part: "Research Workflow" 
       chapters:
         - research/workflow.qmd
