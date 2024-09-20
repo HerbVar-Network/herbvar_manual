@@ -1,11 +1,11 @@
 ---
-title: Data Use Guidelines
+title: Using HerbVar Data
 author: ----, ----, -----, Will Wetzel
 title-block-style: plain
 date: 09/15/2024
 date-modified: last-modified
 ---
-# Data Use Guidelines
+
 
 ## Publicly Available HerbVar Data
 
