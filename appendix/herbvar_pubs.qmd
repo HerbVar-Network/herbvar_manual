@@ -9,9 +9,10 @@ date: today
 # pull the publications and presentations from Zotero via api
 # with Refmanager (see
 # https://docs.ropensci.org/RefManageR/index.html)
-# remotes::install_github("ropensci/RefManageR")
+pak::pkg_install("ropensci/RefManageR")
 library(RefManageR)
-
+library(knitr)
+library(markdown)
 
 pubs<-ReadZotero(group = "5539815",
            .params = list(key = "p7F1H0PRo5JpntQLrESjj1al",
