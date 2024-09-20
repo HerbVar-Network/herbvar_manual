@@ -23,7 +23,7 @@ book:
         - collab_auth/data_use_guidelines.qmd
         - collab_auth/authorship_overview.qmd
         - collab_auth/authorship_process.qmd
-        - collab_auth/new_projects.qmd
+        - collab_auth/new_data_collection.qmd
         - collab_auth/project_review.qmd
     - part: "Research Workflow" 
       chapters:
