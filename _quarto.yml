@@ -17,17 +17,14 @@ book:
         - introduction/Network_Structure.qmd
         - introduction/data_overview.qmd
         - introduction/herbvar_pubs.qmd
-    - part: "Research with HerbVar"
-      chapters: 
-        - collaborators/new_projects.qmd
-        - collaborators/project_review.qmd
-        # - collaborators/contacts.qmd
     - part: "Collaboration & Authorship Guidelines"
       chapters: 
         - collab_auth/data_use_guidelines.qmd
         - collab_auth/site_pi.qmd
         - collab_auth/collabo_agreement.qmd
         - collab_auth/authorship_guidelines.qmd
+        - collab_auth/new_projects.qmd
+        - collab_auth/project_review.qmd
     - part: "Research Workflow" 
       chapters:
         - research/workflow.qmd
