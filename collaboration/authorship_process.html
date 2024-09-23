@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-09-15">
 
-<title>4&nbsp; HerbVar Datasets – HerbVar Project Manual &amp; Field Protocols</title>
+<title>9&nbsp; HerbVar Authorship Process – HerbVar Project Manual &amp; Field Protocols</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../introduction/herbvar_pubs.html" rel="next">
-<link href="../introduction/Network_Structure.html" rel="prev">
+<link href="../collaboration/new_data_collection.html" rel="next">
+<link href="../collaboration/new_analyses.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/data_overview.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../collaboration/site_pi.html">Become a Collaborator</a></li><li class="breadcrumb-item"><a href="../collaboration/authorship_process.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">HerbVar Authorship Process</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -141,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../introduction/data_overview.html" class="sidebar-item-text sidebar-link active">
+  <a href="../introduction/data_overview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></span></a>
   </div>
 </li>
@@ -182,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../collaboration/authorship_process.html" class="sidebar-item-text sidebar-link">
+  <a href="../collaboration/authorship_process.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">HerbVar Authorship Process</span></span></a>
   </div>
 </li>
@@ -392,18 +393,34 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#the-phase-1-core-herbvar-dataset" id="toc-the-phase-1-core-herbvar-dataset" class="nav-link active" data-scroll-target="#the-phase-1-core-herbvar-dataset"><span class="header-section-number">4.1</span> The phase 1 core HerbVar dataset</a></li>
-  <li><a href="#ongoing-data-collection" id="toc-ongoing-data-collection" class="nav-link" data-scroll-target="#ongoing-data-collection"><span class="header-section-number">4.2</span> Ongoing data collection</a></li>
-  <li><a href="#proposing-new-data-collection" id="toc-proposing-new-data-collection" class="nav-link" data-scroll-target="#proposing-new-data-collection"><span class="header-section-number">4.3</span> Proposing new data collection</a></li>
+  <li><a href="#sec-authorship_process" id="toc-sec-authorship_process" class="nav-link active" data-scroll-target="#sec-authorship_process"><span class="header-section-number">10</span> HerbVar Authorship Process</a>
+  <ul class="collapse">
+  <li><a href="#nutnet-acknowledgement" id="toc-nutnet-acknowledgement" class="nav-link" data-scroll-target="#nutnet-acknowledgement"><span class="header-section-number">10.1</span> NutNet Acknowledgement</a></li>
+  <li><a href="#philosophy---goals-and-benefits" id="toc-philosophy---goals-and-benefits" class="nav-link" data-scroll-target="#philosophy---goals-and-benefits"><span class="header-section-number">10.2</span> Philosophy - Goals and Benefits</a></li>
+  <li><a href="#herbvar-network-contributors" id="toc-herbvar-network-contributors" class="nav-link" data-scroll-target="#herbvar-network-contributors"><span class="header-section-number">10.3</span> Herbvar Network contributors</a></li>
+  <li><a href="#two-types-of-papers" id="toc-two-types-of-papers" class="nav-link" data-scroll-target="#two-types-of-papers"><span class="header-section-number">10.4</span> Two types of papers</a></li>
+  <li><a href="#authorship-on-all-pi-papers" id="toc-authorship-on-all-pi-papers" class="nav-link" data-scroll-target="#authorship-on-all-pi-papers"><span class="header-section-number">10.5</span> Authorship on “All-PI” Papers</a></li>
+  <li><a href="#encouraging-inclusive-authorship-for-working-group-papers" id="toc-encouraging-inclusive-authorship-for-working-group-papers" class="nav-link" data-scroll-target="#encouraging-inclusive-authorship-for-working-group-papers"><span class="header-section-number">10.6</span> Encouraging Inclusive Authorship for Working Group Papers</a>
+  <ul class="collapse">
+  <li><a href="#identifying-potential-co-authors" id="toc-identifying-potential-co-authors" class="nav-link" data-scroll-target="#identifying-potential-co-authors"><span class="header-section-number">10.6.1</span> Identifying potential co-authors</a></li>
+  <li><a href="#approaches-for-inviting-co-authors" id="toc-approaches-for-inviting-co-authors" class="nav-link" data-scroll-target="#approaches-for-inviting-co-authors"><span class="header-section-number">10.6.2</span> Approaches for inviting co-authors</a></li>
+  <li><a href="#instructions-for-the-opt-in-approaches" id="toc-instructions-for-the-opt-in-approaches" class="nav-link" data-scroll-target="#instructions-for-the-opt-in-approaches"><span class="header-section-number">10.6.3</span> Instructions for the Opt-in approaches</a></li>
+  <li><a href="#when-to-invite-co-authors" id="toc-when-to-invite-co-authors" class="nav-link" data-scroll-target="#when-to-invite-co-authors"><span class="header-section-number">10.6.4</span> When to invite co-authors</a></li>
+  </ul></li>
+  <li><a href="#authoring-a-working-group-paper" id="toc-authoring-a-working-group-paper" class="nav-link" data-scroll-target="#authoring-a-working-group-paper"><span class="header-section-number">10.7</span> Authoring a working group paper</a></li>
+  <li><a href="#who-should-accept-invitations-to-be-a-co-author" id="toc-who-should-accept-invitations-to-be-a-co-author" class="nav-link" data-scroll-target="#who-should-accept-invitations-to-be-a-co-author"><span class="header-section-number">10.8</span> Who should accept invitations to be a co-author?</a></li>
+  <li><a href="#authorship-disputes" id="toc-authorship-disputes" class="nav-link" data-scroll-target="#authorship-disputes"><span class="header-section-number">10.9</span> Authorship Disputes</a></li>
+  <li><a href="#author-lists-acknowledgements-and-keywords" id="toc-author-lists-acknowledgements-and-keywords" class="nav-link" data-scroll-target="#author-lists-acknowledgements-and-keywords"><span class="header-section-number">10.10</span> Author Lists, Acknowledgements, and Keywords</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/data_overview.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../collaboration/site_pi.html">Become a Collaborator</a></li><li class="breadcrumb-item"><a href="../collaboration/authorship_process.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">HerbVar Authorship Process</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></h1>
+<h1 class="title"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">HerbVar Authorship Process</span></h1>
 </div>
 
 
@@ -411,7 +428,19 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 15, 2024</p>
+    </div>
+  </div>
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">September 23, 2024</p>
+    </div>
+  </div>
     
   </div>
   
@@ -420,37 +449,116 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="the-phase-1-core-herbvar-dataset" class="level2" data-number="4.1">
-<h2 data-number="4.1" class="anchored" data-anchor-id="the-phase-1-core-herbvar-dataset"><span class="header-section-number">4.1</span> The phase 1 core HerbVar dataset</h2>
-<p>The phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the phase 1 core dataset, we prioritized surveys that added phylogenetic and geographic breadth. It includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.</p>
-<p>You can read about our first analyses of this data set in <a href="https://www.science.org/doi/10.1126/science.adh8830">our Science paper here</a>. The published dataset is <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm">available at Dryad here</a>.</p>
-<p>Working groups are currently analyzing parts of the core dataset that did not make it into our Science paper, and HerbVar members are welcome to propose analyses using unpublished parts of the dataset. These parts of the dataset will be made available with each publication.</p>
+<section id="sec-authorship_process" class="level1" data-number="10">
+<h1 data-number="10"><span class="header-section-number">10</span> HerbVar Authorship Process</h1>
+<section id="nutnet-acknowledgement" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="nutnet-acknowledgement"><span class="header-section-number">10.1</span> NutNet Acknowledgement</h2>
+<p>The HerbVar authorship process has been heavily influenced by the NutNet authorship process (https://nutnet.org/). This process provides ground rules for a fair and inclusive process for establishing authorship while not diluting the value of authorship on a manuscript. HerbVar is grateful to be able to build on the foundation of NutNet’s model for collaborative international ecology. The text below is edited to reflect HerbVar-specific policies, but some is drawn directly from the NutNet authorship document (https://nutnet.org/authorship). Differences reflect the fact that HerbVar is a much larger network (with hundreds of contributors) and a more fluid network (contributors might only contribute data once, rather than activity maintaining an experimental site).</p>
 </section>
-<section id="ongoing-data-collection" class="level2" data-number="4.2">
-<h2 data-number="4.2" class="anchored" data-anchor-id="ongoing-data-collection"><span class="header-section-number">4.2</span> Ongoing data collection</h2>
-<p>Additional add-on data collection projects have since been added. We are currently prioritizing collection of data on damage to plant reproductive structures, data from species in our five focal plant families, and data from our three focal plant species.</p>
-<p>See <a href="../protocols/repro_damage.html" class="quarto-xref"><span>Chapter 20</span></a> for our Reproductive Damage Protocol.</p>
-<p>Our five focal families are:</p>
+<section id="philosophy---goals-and-benefits" class="level2" data-number="10.2">
+<h2 data-number="10.2" class="anchored" data-anchor-id="philosophy---goals-and-benefits"><span class="header-section-number">10.2</span> Philosophy - Goals and Benefits</h2>
+<p>The primary goals of the HerbVar authorship process are to consistently, accurately, and transparently attribute the contribution of each author on a paper, to encourage participation in manuscripts by interested scientists, and to ensure that each author has made sufficient contribution to the paper to warrant authorship. Secondarily, authoring a paper within the HerbVar process benefits authors by reducing overlap among papers, fostering collaboration, streamlining use of HerbVar data to produce papers through GitHut tools, and helping to publicize HerbVar products. While prospective authors can use published HerbVar data to create products on their own, we encourage all authors working with HerbVar data to work with the network.</p>
+</section>
+<section id="herbvar-network-contributors" class="level2" data-number="10.3">
+<h2 data-number="10.3" class="anchored" data-anchor-id="herbvar-network-contributors"><span class="header-section-number">10.3</span> Herbvar Network contributors</h2>
+<p>The following are definitions for the different types of network contributors:</p>
+<p>Steering committee: Responsible for overall network administration.</p>
+<p>Site PI: A contributor that has submitted at least three herbvar surveys for one of the main or subobjectives. Note that a person can be a site PI for the main objective, but not necessarily a site PI for one or all of the the subobjectives, depending on the completed surveys.</p>
+<p>Member: Anyone who is currently or planning to work with the data, either through data collection, working group, etc.</p>
+</section>
+<section id="two-types-of-papers" class="level2" data-number="10.4">
+<h2 data-number="10.4" class="anchored" data-anchor-id="two-types-of-papers"><span class="header-section-number">10.4</span> Two types of papers</h2>
+<p>In general, HerbVar aims to be as inclusive as possible. At the same time, we acknowledge that massively multi-authored papers (e.g.&nbsp;with all HerbVar members) present substantial challenges for lead authors and might discourage initiation of new projects. To balance these factors, there are two types of published products in the HerbVar process – “all PI” papers and working group papers. All-PI papers invite all site PIs meeting authorship requirements to be co-authors, acknowledging the fundamental importance of contributing data to HerbVar. Working group papers allow for smaller teams to assemble to write additional papers using HerbVar data, broadening the scope of our collective work without requiring every lead author to manage hundreds of contributors. Typically, working group papers will be centered around already published HerbVar data analyzed in a new way and potentially combined with some new data. HerbVar supports working group paper authors in being as inclusive as is practical, and in connecting with appropriate co-authors to build new collaborations.</p>
+</section>
+<section id="authorship-on-all-pi-papers" class="level2" data-number="10.5">
+<h2 data-number="10.5" class="anchored" data-anchor-id="authorship-on-all-pi-papers"><span class="header-section-number">10.5</span> Authorship on “All-PI” Papers</h2>
+<p>The HerbVar Network launched with a Steering Committee commitment to produce two papers using the core HerbVar data collected during the first phase of sampling. Site PIs earn co-authorship on these papers by providing at least 3 surveys (though more are always welcome) to the core dataset. The Steering Committee has so far launched three add-on projects (Focal Species, Focal Families, Reproductive Damage). Additional add-on projects may be created - see Datasets and Proposals for New Data Collection. Site PIs earn co-authorship on one paper from each add-on project by contributing at least three surveys that advance that project, in addition to the minimum three surveys required for Site PI status and authorship on the core HerbVar papers. See our website (www.herbvar.org) and our Species selection document (in the HerbVar Protocols folder) for information on our current sampling objectives and planned manuscripts. We will be flexible on the minimum number of surveys, particularly if substantial additional intellectual contributions are made to project development (e.g., creation of documents and protocols, recruitment of collaborators able to work in under-sampled regions or with under-sampled taxa, or other network coordination work). The Steering Committee will review instances that do not meet the minimum criteria on a case-by-case basis. Please reach out if you have questions or concerns. Collaborators who set out to complete 3+ surveys but are only able to contribute 1-2 surveys will be given the opportunity to maintain authorship by contributing in other ways. Potential contributions that could make up for missing surveys include but are not limited to working on our primary database, developing our traits and/or environmental databases, and/or collecting other metadata. In addition to contributing data, Site PIs who want to be co-authors must also contribute intellectually to at least one of the following: development of questions and overall study design, data analysis or interpretation, writing, or editing.</p>
+<p>Site PIs who contribute data but do not meet the criteria for co-authorship (e.g., submitting too few surveys, deciding to not make up for missing surveys with additional contributions (see criteria for authorship below, etc.) have two options for their data:</p>
 <ul>
-<li>Apocynaceae</li>
-<li>Asteraceae</li>
-<li>Fabaceae</li>
-<li>Rubiaceae</li>
-<li>Solanaceae</li>
-</ul>
-<p>Our three focal species are:</p>
-<ul>
-<li>Taraxacum officinale</li>
-<li>Plantago lanceolata</li>
-<li>Plantago major</li>
+<li><p>The Site PI will not be a co-author, but they agree to let HerbVar use and publish the data they contributed. They will be recognized via the HerbVar member list. The HerbVar member list will serve to acknowledge all contributors (even if they didn’t meet co-authorship criteria), and will be associated with each manuscript.</p></li>
+<li><p>The Site PI will not be a co-author, and they do not agree to let HerbVar use and publish their data. All their data will be removed from all HerbVar databases. HerbVar will not use or publish their data. They will be removed from the HerbVar member list.</p></li>
 </ul>
 </section>
-<section id="proposing-new-data-collection" class="level2" data-number="4.3">
-<h2 data-number="4.3" class="anchored" data-anchor-id="proposing-new-data-collection"><span class="header-section-number">4.3</span> Proposing new data collection</h2>
-<p>HerbVar network members are also welcome to propose new add-on projects. See <a href="../collaboration/new_data_collection.html" class="quarto-xref"><span>Chapter 10</span></a> for details on how to propose add-on projects.</p>
-<!-- detail the datasets in more detail....links to protocols and workflow... -->
+<section id="encouraging-inclusive-authorship-for-working-group-papers" class="level2" data-number="10.6">
+<h2 data-number="10.6" class="anchored" data-anchor-id="encouraging-inclusive-authorship-for-working-group-papers"><span class="header-section-number">10.6</span> Encouraging Inclusive Authorship for Working Group Papers</h2>
+<p>We encourage lead authors of working group papers to include as many co-authors as they can productively work with, to prioritize inviting HerbVar network members, and to prioritize inviting early-career scientists and scientists from under-represented groups or regions.</p>
+<section id="identifying-potential-co-authors" class="level3" data-number="10.6.1">
+<h3 data-number="10.6.1" class="anchored" data-anchor-id="identifying-potential-co-authors"><span class="header-section-number">10.6.1</span> Identifying potential co-authors</h3>
+<p>HerbVar provides a tool to help lead authors identify potential co-authors to invite to assist with working group papers. All Site PI’s are asked if they would like to be included in a database of individuals interested in co-authorship on small-group papers. The database lists name, career stage, institution and location, areas of expertise and/or topics of particular interest, number of HerbVar papers or manuscripts this person is an author on, what HerbVar datasets they have contributed to, and a link to their website or google scholar page or researchgate page.</p>
+</section>
+<section id="approaches-for-inviting-co-authors" class="level3" data-number="10.6.2">
+<h3 data-number="10.6.2" class="anchored" data-anchor-id="approaches-for-inviting-co-authors"><span class="header-section-number">10.6.2</span> Approaches for inviting co-authors</h3>
+<p>Note that for any of the approaches listed below, authorship requires at least two types of contribution to a paper; see Qualifying for Authorship. The approaches for inviting co-authors listed below are on a continuum from least to most inclusive.</p>
+<ol type="1">
+<li><p>Traditional. The lead author invites known individuals with value for the particular paper. These individuals may not necessarily be HerbVar members.</p></li>
+<li><p>Traditional Plus. The lead author invites known individuals with value for the particular paper, plus a few people chosen from the HerbVar database as a good match for this project.</p></li>
+<li><p>Application-based. The lead author invites all HerbVar site PI’s who have contributed data to be used in the project to apply to be one of some limited number of authors, and chooses applicants to create the best team.</p></li>
+<li><p>Opt-in Limited. The lead author decides on a number of co-authors they feel they can manage, and offers their paper to all HerbVar site PI’s who have contributed data to be used in this project on an “opt-in” basis. Site PI’s can opt-in until the desired number of collaborators is reached (first-come first-served).</p></li>
+<li><p>Opt-in Open. The lead author offers their paper to all HerbVar site PI’s who have contributed data to this project on an opt-in basis. Any site PI who wants to participate is invited. If considering this approach, we suggest reading this paper about writing a massively multi-authored paper.</p></li>
+</ol>
+</section>
+<section id="instructions-for-the-opt-in-approaches" class="level3" data-number="10.6.3">
+<h3 data-number="10.6.3" class="anchored" data-anchor-id="instructions-for-the-opt-in-approaches"><span class="header-section-number">10.6.3</span> Instructions for the Opt-in approaches</h3>
+<ol type="1">
+<li><p>The lead author identifies site PIs who have contributed data to be used in this project using the HerbVar co-author database.</p></li>
+<li><p>The lead author circulates the manuscript proposal to the appropriate site PIs by attaching it as an email to the HerbVar email list. The subject line of the email should include the phrase “OPT-IN PAPER.” This email should also include a deadline by which time co-authors should respond.</p></li>
+<li><p>Individuals wishing to opt-in respond to the lead author.</p></li>
+<li><p>The lead author is then responsible for organizing all co-authors to complete the paper.</p></li>
+</ol>
+</section>
+<section id="when-to-invite-co-authors" class="level3" data-number="10.6.4">
+<h3 data-number="10.6.4" class="anchored" data-anchor-id="when-to-invite-co-authors"><span class="header-section-number">10.6.4</span> When to invite co-authors</h3>
+<p>The right time to share your working draft and solicit co-authors is different for each manuscript, but in general:</p>
+<ul>
+<li><p>Sharing early drafts or figures allows for more effective co-author contribution. This would mean inviting co-authors at a very early stage.</p></li>
+<li><p>Circulating almost-complete manuscripts does not allow the opportunity for meaningful contribution from co-authors, and is discouraged.</p></li>
+</ul>
+</section>
+</section>
+<section id="authoring-a-working-group-paper" class="level2" data-number="10.7">
+<h2 data-number="10.7" class="anchored" data-anchor-id="authoring-a-working-group-paper"><span class="header-section-number">10.7</span> Authoring a working group paper</h2>
+<p>If an HerbVar member would like to lead an HerbVar working group paper (that is, serve as “lead author”), they should follow the steps below.</p>
+<ol type="1">
+<li><p>Read the following authorship policies and guidelines.</p></li>
+<li><p>Consult the HerbVar website (https://herbvar.org/) for current manuscript proposals and active manuscripts, and contact the listed lead author on any similar proposal to minimize overlap, or to join forces.</p></li>
+<li><p>Decide what approach you will use to form your working group and invite co-authors.</p></li>
+<li><p>Prepare a manuscript proposal, and email it to one of the HerbVar Steering Committee members (https://herbvar.org/leadership.html). Your proposal should list the lead author(s) and any other known authors, plans for recruiting additional authors if any, the title and abstract, and the specific types of data that you wish to use. You can also specify more detail about response and predictor variables (if appropriate), and indicate a timeline for analysis and writing. Proposed ideas are reviewed by the Steering Committee to ensure there is sufficient distinction from proposed and ongoing HerbVar papers. The Steering Committee may suggest altering or combining analyses and papers to resolve issues of overlap.</p></li>
+<li><p>After receiving Steering Committee Feedback, your proposal will be posted on the HerbVar website.</p></li>
+<li><p>Recruit co-authors as planned. Any invited co-authors should signal their intention to opt-in by responding by email to the lead author before the stated deadline. Lead authors are responsible for communicating regularly with co-authors about progress, including sharing drafts of analyses, figures, and text as often as is productive and practical.</p></li>
+<li><p>Lead authors should create and use a GitHub repository for the paper in the HerbVar GitHub organization. This will allow the authors to use HerbVar tools for accessing data, for standardizing analyses and manuscript preparation, and for keeping track of co-authors. We ask that authors use our GitHub organization to store and share code and data within their team and with the HerbVar Steering Committee. This helps ensure reproducibility and provides a secure backup for all data, work, and products.</p></li>
+<li><p>Lead authors and their working group should start work on the project within six months of the approval of their project proposal by the Steering Committee. If there are extenuating circumstances that delay the start of work, the lead author should communicate this to the Steering Committee. Extensions can be granted if needed but should be accompanied by a clear timeline.</p></li>
+<li><p>Lead authors and their working groups should submit their paper to a journal within two years. If there are extenuating circumstances that delay paper submission, the lead author should communicate this to the Steering Committee. Extensions can be granted if needed but should be accompanied by a clear timeline.</p></li>
+<li><p>Lead authors should circulate complete drafts among co-authors and consider comments and changes. Co-authors on papers with large numbers of authors should recognize the final decisions belong to the lead author, given that suggestions from co-authors may conflict.</p></li>
+<li><p>Final manuscripts should be reviewed and approved by each co-author before submission.</p></li>
+<li><p>All authors and co-authors should fill out their contribution in the authorship rubric and attach it as supplementary material to any HerbVar manuscript. Lead authors are responsible for ensuring consistency in credit given for contributions, and may alter co-author’s entries in the table to do so. An easy way to manage the author table is with an online spreadsheet. Note that the last author position may be appropriate to assign in some cases. For example, this would be appropriate for advisors of lead authors who are graduate students or postdocs and for papers that two people worked very closely to produce.</p></li>
+<li><p>The lead author should carefully review the authorship contribution table to ensure that all authors have contributed at a level that warrants authorship and that contributions are consistently attributed among authors. Has each author made contributions in at least two areas in the authorship rubric? Did each author provide thoughtful, detailed feedback on the manuscript? Authors are encouraged to contact the HerbVar Steering Committee about any confusion or conflicts.</p></li>
+</ol>
+</section>
+<section id="who-should-accept-invitations-to-be-a-co-author" class="level2" data-number="10.8">
+<h2 data-number="10.8" class="anchored" data-anchor-id="who-should-accept-invitations-to-be-a-co-author"><span class="header-section-number">10.8</span> Who should accept invitations to be a co-author?</h2>
+<p>Authorship must be earned through a substantial contribution. For co-authorship, each individual must contribute in <em>at least two ways</em> listed in the rubric below, including contribution to the writing process. Traditionally, project initiation and framing, data analysis and interpretation, and manuscript preparation are all authorship-worthy contributions, and remain so for HerbVar manuscripts. However, HerbVar collaborators have also agreed that contribution of data being used in a paper can be one factor qualifying a site PI for co-authorship, as long as the collaborator makes additional contributions to the particular manuscript, including data analysis, writing, or editing. HerbVar manuscripts will be accompanied by a supplemental table indicating authorship contributions. These guidelines apply equally to manuscripts led by graduate students.</p>
+<div class="line-block">Rubric item | Example contributions counting towards authorship |<br>
+Developed and framed research question(s) | Originated idea for current analysis of HerbVar data; contributed significantly to framing the ideas in this analysis at early stage of manuscript |<br>
+Analyzed data | Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc.; generated a Network-scale dataset being used in this manuscript’s analysis |<br>
+Contributed to data analyses | Provided comments, suggestions, and code for data analysis |<br>
+Wrote the paper | Wrote the majority of at least one of the sections of the paper |<br>
+Contributed to paper writing | Provided new text, help with organization framing, and provided citations linking to new literature areas |<br>
+Site PI | Coordinated data collection, proofing, and submission of data for at least one site used in this manuscript |<br>
+Network level coordinators | Contributed substantially to network level activities such as management of network data, recruiting and assisting new sites, finding funding for network level management activities |</div>
+</section>
+<section id="authorship-disputes" class="level2" data-number="10.9">
+<h2 data-number="10.9" class="anchored" data-anchor-id="authorship-disputes"><span class="header-section-number">10.9</span> Authorship Disputes</h2>
+<p>The steering committee works to ensure communication across projects to avoid overlap of manuscripts, and provides guidance on procedures and guidelines. Disputes over authorship and manuscripts should be brought to the Steering Committee for resolution.</p>
+<p>Current Steering Committee: Will Wetzel (Montana State University, wcwetzel@msu.edu), Phil Hahn (University of Florida, hahnp@ufl.edu), Susan Whitehead (Virginia Tech, swhitehead@vt.edu), Nora Underwood (Florida State University, nunderwood@bio.fsu.edu), Brian Inouye (Florida State University, binouye@bio.fsu.edu), Emilio Bruna (University of Florida, embruna@uf.edu), Ivalu Cacho (Universidad Nacional Autonoma de Mexico, ivalu.cacho@gmail.com), Karen Abbott (Case Western Reserve University, kca27@case.edu)</p>
+</section>
+<section id="author-lists-acknowledgements-and-keywords" class="level2" data-number="10.10">
+<h2 data-number="10.10" class="anchored" data-anchor-id="author-lists-acknowledgements-and-keywords"><span class="header-section-number">10.10</span> Author Lists, Acknowledgements, and Keywords</h2>
+<p>When full lists of authors are not feasible (e.g., on oral presentation abstracts), a short authorship list can be published with “the Members of the Herbivory Variability Network” as a coauthor, and a link to the full HerbVar author list. If possible, include the full author list in the supplement.</p>
+<p>Please use this text in the acknowledgments of HerbVar manuscripts: “This work was generated using data from the HerbVar Network (https://herbvar.org/) funded at the site-scale by individual researchers. Coordination and data management have been supported by funding to Will Wetzel and co-PIs from the National Science Foundation Research Coordination Network program (NSF-DEB-2203582)”</p>
+<p>Please use the following as one of your keywords on submitted manuscripts, so that HerbVar work is easily indexed and searchable: “HerbVar”</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -876,13 +984,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../introduction/Network_Structure.html" class="pagination-link" aria-label="Network Structure">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Network Structure</span></span>
+      <a href="../collaboration/new_analyses.html" class="pagination-link" aria-label="Proposing New Analyses and Papers">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Proposing New Analyses and Papers</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../introduction/herbvar_pubs.html" class="pagination-link" aria-label="Herbvar Products">
-        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Herbvar Products</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../collaboration/new_data_collection.html" class="pagination-link" aria-label="Proposing New Data Collection">
+        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Proposing New Data Collection</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

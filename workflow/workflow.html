@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="HerbVar Manual Authorship Team">
+<meta name="dcterms.date" content="2024-11-01">
 
-<title>4&nbsp; HerbVar Datasets – HerbVar Project Manual &amp; Field Protocols</title>
+<title>12&nbsp; Workflow Overview – HerbVar Project Manual &amp; Field Protocols</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +22,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +52,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../introduction/herbvar_pubs.html" rel="next">
-<link href="../introduction/Network_Structure.html" rel="prev">
+<link href="../workflow/data_collection.html" rel="next">
+<link href="../collaboration/project_review.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/data_overview.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../workflow/workflow.html">Research Workflow</a></li><li class="breadcrumb-item"><a href="../workflow/workflow.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Workflow Overview</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -141,7 +163,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../introduction/data_overview.html" class="sidebar-item-text sidebar-link active">
+  <a href="../introduction/data_overview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></span></a>
   </div>
 </li>
@@ -211,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../workflow/workflow.html" class="sidebar-item-text sidebar-link">
+  <a href="../workflow/workflow.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Workflow Overview</span></span></a>
   </div>
 </li>
@@ -392,26 +414,43 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#the-phase-1-core-herbvar-dataset" id="toc-the-phase-1-core-herbvar-dataset" class="nav-link active" data-scroll-target="#the-phase-1-core-herbvar-dataset"><span class="header-section-number">4.1</span> The phase 1 core HerbVar dataset</a></li>
-  <li><a href="#ongoing-data-collection" id="toc-ongoing-data-collection" class="nav-link" data-scroll-target="#ongoing-data-collection"><span class="header-section-number">4.2</span> Ongoing data collection</a></li>
-  <li><a href="#proposing-new-data-collection" id="toc-proposing-new-data-collection" class="nav-link" data-scroll-target="#proposing-new-data-collection"><span class="header-section-number">4.3</span> Proposing new data collection</a></li>
+  <li><a href="#collecting-new-herbvar-data" id="toc-collecting-new-herbvar-data" class="nav-link active" data-scroll-target="#collecting-new-herbvar-data"><span class="header-section-number">12.1</span> Collecting new HerbVar Data</a></li>
+  <li><a href="#new-analysis-with-herbvar-datasets" id="toc-new-analysis-with-herbvar-datasets" class="nav-link" data-scroll-target="#new-analysis-with-herbvar-datasets"><span class="header-section-number">12.2</span> New analysis with Herbvar Datasets</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/data_overview.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../workflow/workflow.html">Research Workflow</a></li><li class="breadcrumb-item"><a href="../workflow/workflow.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Workflow Overview</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></h1>
+<h1 class="title"><span id="sec-workflow" class="quarto-section-identifier"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Workflow Overview</span></span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>HerbVar Manual Authorship Team </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 1, 2024</p>
+    </div>
+  </div>
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">September 23, 2024</p>
+    </div>
+  </div>
     
   </div>
   
@@ -420,37 +459,45 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="the-phase-1-core-herbvar-dataset" class="level2" data-number="4.1">
-<h2 data-number="4.1" class="anchored" data-anchor-id="the-phase-1-core-herbvar-dataset"><span class="header-section-number">4.1</span> The phase 1 core HerbVar dataset</h2>
-<p>The phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the phase 1 core dataset, we prioritized surveys that added phylogenetic and geographic breadth. It includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.</p>
-<p>You can read about our first analyses of this data set in <a href="https://www.science.org/doi/10.1126/science.adh8830">our Science paper here</a>. The published dataset is <a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm">available at Dryad here</a>.</p>
-<p>Working groups are currently analyzing parts of the core dataset that did not make it into our Science paper, and HerbVar members are welcome to propose analyses using unpublished parts of the dataset. These parts of the dataset will be made available with each publication.</p>
+<p>HerbVar relies heavily on version control with Git/Github to facilitate data validation and management <span class="citation" data-cites="goodmanTenSimpleRules2014 kimImplementingGitHubActions2022 yenniDevelopingModernData2019">(<a href="../references.html#ref-goodmanTenSimpleRules2014" role="doc-biblioref">Goodman et al. 2014</a>, <a href="../references.html#ref-yenniDevelopingModernData2019" role="doc-biblioref">Yenni et al. 2019</a>, <a href="../references.html#ref-kimImplementingGitHubActions2022" role="doc-biblioref">Kim et al. 2022</a>)</span>, promote collaboration <span class="citation" data-cites="bolandTenSimpleRules2017 bragaNotJustProgrammers2023">(<a href="../references.html#ref-bolandTenSimpleRules2017" role="doc-biblioref">Boland et al. 2017</a>, <a href="../references.html#ref-bragaNotJustProgrammers2023" role="doc-biblioref">Braga et al. 2023</a>)</span>, and streamline data access, analysis, and archiving <span class="citation" data-cites="champieuxTenSimpleRules2023">(<a href="../references.html#ref-champieuxTenSimpleRules2023" role="doc-biblioref">Champieux et al. 2023</a>)</span>. Below we describe the workflow for (a) collecting data for HerbVar and uploading it for integration with the global data set and (b) analyzing some or all of the global HerbVar data set and preparing a manuscript based on these analyses.</p>
+<section id="collecting-new-herbvar-data" class="level2" data-number="12.1">
+<h2 data-number="12.1" class="anchored" data-anchor-id="collecting-new-herbvar-data"><span class="header-section-number">12.1</span> Collecting new HerbVar Data</h2>
+<ol type="1">
+<li>Review and Select Protocols</li>
+<li>Collect Data</li>
+<li>Create a repository for cleaning the data using the <code>new_dataset_template</code>.</li>
+<li>Upload the clean version of the data using the portal</li>
+</ol>
 </section>
-<section id="ongoing-data-collection" class="level2" data-number="4.2">
-<h2 data-number="4.2" class="anchored" data-anchor-id="ongoing-data-collection"><span class="header-section-number">4.2</span> Ongoing data collection</h2>
-<p>Additional add-on data collection projects have since been added. We are currently prioritizing collection of data on damage to plant reproductive structures, data from species in our five focal plant families, and data from our three focal plant species.</p>
-<p>See <a href="../protocols/repro_damage.html" class="quarto-xref"><span>Chapter 20</span></a> for our Reproductive Damage Protocol.</p>
-<p>Our five focal families are:</p>
-<ul>
-<li>Apocynaceae</li>
-<li>Asteraceae</li>
-<li>Fabaceae</li>
-<li>Rubiaceae</li>
-<li>Solanaceae</li>
-</ul>
-<p>Our three focal species are:</p>
-<ul>
-<li>Taraxacum officinale</li>
-<li>Plantago lanceolata</li>
-<li>Plantago major</li>
-</ul>
-</section>
-<section id="proposing-new-data-collection" class="level2" data-number="4.3">
-<h2 data-number="4.3" class="anchored" data-anchor-id="proposing-new-data-collection"><span class="header-section-number">4.3</span> Proposing new data collection</h2>
-<p>HerbVar network members are also welcome to propose new add-on projects. See <a href="../collaboration/new_data_collection.html" class="quarto-xref"><span>Chapter 10</span></a> for details on how to propose add-on projects.</p>
-<!-- detail the datasets in more detail....links to protocols and workflow... -->
+<section id="new-analysis-with-herbvar-datasets" class="level2" data-number="12.2">
+<h2 data-number="12.2" class="anchored" data-anchor-id="new-analysis-with-herbvar-datasets"><span class="header-section-number">12.2</span> New analysis with Herbvar Datasets</h2>
+<ol type="1">
+<li>Identify Questions, Submit for Review to make sure no overlap</li>
+<li>Create a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the <code>new_analysis_and_paper_template</code>.</li>
+<li>This template can also be used to write the manuscript in markfdown using a template such as <code>papaja</code> or one of the ’rticles` templates.</li>
+</ol>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-bolandTenSimpleRules2017" class="csl-entry" role="listitem">
+Boland, M. R., K. J. Karczewski, and N. P. Tatonetti. 2017. <a href="https://doi.org/10.1371/journal.pcbi.1005278">Ten <span>Simple Rules</span> to <span class="nocase">Enable Multi-site Collaborations</span> through <span>Data Sharing</span></a>. PLOS Computational Biology 13:e1005278.
+</div>
+<div id="ref-bragaNotJustProgrammers2023" class="csl-entry" role="listitem">
+Braga, P. H. P., K. Hébert, E. J. Hudgins, E. R. Scott, B. P. M. Edwards, L. L. Sánchez Reyes, M. J. Grainger, V. Foroughirad, F. Hillemann, A. D. Binley, C. B. Brookson, K. M. Gaynor, S. Shafiei Sabet, A. Güncan, H. Weierbach, D. G. E. Gomes, and R. Crystal-Ornelas. 2023. <a href="https://doi.org/10.1111/2041-210X.14108">Not just for programmers: <span>How GitHub</span> can accelerate collaborative and reproducible research in ecology and evolution</a>. Methods in Ecology and Evolution 14:1364–1380.
+</div>
+<div id="ref-champieuxTenSimpleRules2023" class="csl-entry" role="listitem">
+Champieux, R., A. Solomonides, M. Conte, S. Rojevsky, J. Phuong, D. A. Dorr, E. Zampino, A. Wilcox, M. B. Carson, and K. Holmes. 2023. <a href="https://doi.org/10.1371/journal.pcbi.1011136">Ten simple rules for organizations to support research data sharing</a>. PLOS Computational Biology 19:e1011136.
+</div>
+<div id="ref-goodmanTenSimpleRules2014" class="csl-entry" role="listitem">
+Goodman, A., A. Pepe, A. W. Blocker, C. L. Borgman, K. Cranmer, M. Crosas, R. D. Stefano, Y. Gil, P. Groth, M. Hedstrom, D. W. Hogg, V. Kashyap, A. Mahabal, A. Siemiginowska, and A. Slavkovic. 2014. <a href="https://doi.org/10.1371/journal.pcbi.1003542">Ten <span>Simple Rules</span> for the <span>Care</span> and <span>Feeding</span> of <span>Scientific Data</span></a>. PLOS Computational Biology 10:e1003542.
+</div>
+<div id="ref-kimImplementingGitHubActions2022" class="csl-entry" role="listitem">
+Kim, A. Y., V. Herrmann, R. Barreto, B. Calkins, E. Gonzalez-Akre, D. J. Johnson, J. A. Jordan, L. Magee, I. R. McGregor, N. Montero, K. Novak, T. Rogers, J. Shue, and K. J. Anderson-Teixeira. 2022. <a href="https://doi.org/10.1111/2041-210X.13982">Implementing <span>GitHub Actions</span> continuous integration to reduce error rates in ecological data collection</a>. Methods in Ecology and Evolution 13:2572–2585.
+</div>
+<div id="ref-yenniDevelopingModernData2019" class="csl-entry" role="listitem">
+Yenni, G. M., E. M. Christensen, E. K. Bledsoe, S. R. Supp, R. M. Diaz, E. P. White, and S. K. M. Ernest. 2019. <a href="https://doi.org/10.1371/journal.pbio.3000125">Developing a modern data workflow for regularly updated data</a>. PLOS Biology 17:e3000125.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -876,13 +923,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../introduction/Network_Structure.html" class="pagination-link" aria-label="Network Structure">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Network Structure</span></span>
+      <a href="../collaboration/project_review.html" class="pagination-link" aria-label="Evaluating Progress &amp; Participation">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Evaluating Progress &amp; Participation</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../introduction/herbvar_pubs.html" class="pagination-link" aria-label="Herbvar Products">
-        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Herbvar Products</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../workflow/data_collection.html" class="pagination-link" aria-label="Data Collection Protocols">
+        <span class="nav-page-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Data Collection Protocols</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
