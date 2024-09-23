@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="HerbVar Manual Authorship Team">
-<meta name="dcterms.date" content="2024-11-01">
+<meta name="author" content="Emilio Bruna">
+<meta name="dcterms.date" content="2024-09-18">
 
-<title>HerbVar Project Manual &amp; Field Protocols - 1&nbsp; HerbVar Overview</title>
+<title>HerbVar Project Manual &amp; Field Protocols - 28&nbsp; Editing the Manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,6 +22,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -32,8 +66,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../introduction/getting_involved.html" rel="next">
-<link href="../index.html" rel="prev">
+<link href="../admin/website.html" rel="next">
+<link href="../admin/potential_collaborators.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -83,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/intro.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../admin/potential_collaborators.html">Appendix 3: HerbVar Admin</a></li><li class="breadcrumb-item"><a href="../admin/manual.html"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Editing the Manual</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -125,14 +159,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../introduction/intro.html" class="sidebar-item-text sidebar-link active">
+  <a href="../introduction/intro.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../introduction/getting_involved.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting Involved</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting involved</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -158,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Become a Collaborator</span></a>
+ <span class="menu-text">Collaboration &amp; Authorship Guidelines</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -166,37 +200,37 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../collaboration/site_pi.html" class="sidebar-item-text sidebar-link">
+  <a href="../collab_auth/site_pi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Being an HerbVar Site PI</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../collaboration/data_use_guidelines.html" class="sidebar-item-text sidebar-link">
+  <a href="../collab_auth/data_use_guidelines.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Using HerbVar Data</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../collaboration/new_analyses.html" class="sidebar-item-text sidebar-link">
+  <a href="../collab_auth/new_analyses.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Proposing New Analyses and Papers</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../collaboration/authorship_process.html" class="sidebar-item-text sidebar-link">
+  <a href="../collab_auth/authorship_process.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">HerbVar Authorship Process</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../collaboration/new_data_collection.html" class="sidebar-item-text sidebar-link">
+  <a href="../collab_auth/new_data_collection.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Proposing New Data Collection</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../collaboration/project_review.html" class="sidebar-item-text sidebar-link">
+  <a href="../collab_auth/project_review.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Evaluating Progress &amp; Participation</span></span></a>
   </div>
 </li>
@@ -213,31 +247,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../workflow/workflow.html" class="sidebar-item-text sidebar-link">
+  <a href="../research/workflow.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Workflow Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../workflow/data_collection.html" class="sidebar-item-text sidebar-link">
+  <a href="../research/data_collection.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Data Collection Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../workflow/uploading_data.html" class="sidebar-item-text sidebar-link">
+  <a href="../research/uploading_data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Uploading Data</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../workflow/data_analysis.html" class="sidebar-item-text sidebar-link">
+  <a href="../research/data_analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../workflow/publications.html" class="sidebar-item-text sidebar-link">
+  <a href="../research/publications.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Writing Manuscripts</span></span></a>
   </div>
 </li>
@@ -348,7 +382,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../admin/manual.html" class="sidebar-item-text sidebar-link">
+  <a href="../admin/manual.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Editing the Manual</span></span></a>
   </div>
 </li>
@@ -394,18 +428,24 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#project-goals" id="toc-project-goals" class="nav-link active" data-scroll-target="#project-goals"><span class="header-section-number">1.1</span> Project Goals</a></li>
-  <li><a href="#motivation" id="toc-motivation" class="nav-link" data-scroll-target="#motivation"><span class="header-section-number">1.2</span> Motivation</a></li>
-  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions"><span class="header-section-number">1.3</span> Questions?</a></li>
+  <li><a href="#editing-the-manual" id="toc-editing-the-manual" class="nav-link active" data-scroll-target="#editing-the-manual"><span class="header-section-number">29</span> Editing the Manual</a>
+  <ul class="collapse">
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview"><span class="header-section-number">29.1</span> Overview</a></li>
+  <li><a href="#how-to-edit-the-manual" id="toc-how-to-edit-the-manual" class="nav-link" data-scroll-target="#how-to-edit-the-manual"><span class="header-section-number">29.2</span> How to Edit the Manual</a>
+  <ul class="collapse">
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started"><span class="header-section-number">29.2.1</span> Getting Started</a></li>
+  </ul></li>
+  <li><a href="#publishing-the-manual-admins-only" id="toc-publishing-the-manual-admins-only" class="nav-link" data-scroll-target="#publishing-the-manual-admins-only"><span class="header-section-number">29.3</span> Publishing the Manual (Admins Only)</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/intro.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../admin/potential_collaborators.html">Appendix 3: HerbVar Admin</a></li><li class="breadcrumb-item"><a href="../admin/manual.html"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Editing the Manual</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-overview" class="quarto-section-identifier"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></span></h1>
+<h1 class="title"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Editing the Manual</span></h1>
 </div>
 
 
@@ -415,21 +455,21 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>HerbVar Manual Authorship Team </p>
+             <p>Emilio Bruna </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">November 1, 2024</p>
+      <p class="date">September 18, 2024</p>
     </div>
   </div>
   
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">September 23, 2024</p>
+      <p class="date-modified">September 19, 2024</p>
     </div>
   </div>
     
@@ -440,45 +480,86 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to HerbVar! We are a collaborative network of researchers interested in understanding how plant–herbivore interactions vary across plant species around the globe. Most of the field’s current understanding of large-scale patterns in herbivory and plant–herbivore interactions come from studies focused on average levels of herbivory. We aim to advance our fundamental understanding of plant–herbivore interactions by quantifying variation in intraspecific patterns of plant–herbivore interactions within sites.</p>
-<section id="project-goals" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="project-goals"><span class="header-section-number">1.1</span> Project Goals</h2>
-<ul>
-<li>To gather standardized data on the distribution of herbivory and herbivores among plant individuals within populations for species and sites across the globe.</li>
-<li>To promote the use of HerbVar data to generate testable hypotheses and publications that advance our fundamental and applied understanding of the role of variability and distributions in plant–herbivore interactions.</li>
-<li>To develop theory and statistical tools for studying the role of distributions in plant-herbivore interactions.</li>
-<li>To engage researchers globally and across career stages and backgrounds in collaborative science.</li>
-<li>To increase awareness of and education about the importance of variability in biological processes at graduate and undergraduate levels.</li>
-</ul>
+<section id="editing-the-manual" class="level1" data-number="29">
+<h1 data-number="29"><span class="header-section-number">29</span> Editing the Manual</h1>
+<section id="overview" class="level2" data-number="29.1">
+<h2 data-number="29.1" class="anchored" data-anchor-id="overview"><span class="header-section-number">29.1</span> Overview</h2>
+<p>This guide is a <a href="https://quarto.org/docs/books">Quarto Book</a> hosted on the <a href="https://github.com/HerbVar-Network">HerbVar Network’s Github site</a>. Users can edit the manual, add new sections, or make suggestions for improvement either via <a href="https://github.com/HerbVar-Network/project_manual/pulls">pull request</a>, <a href="https://github.com/HerbVar-Network/project_manual/issues">posting an issue</a> on the HerbVar Manual’s repository, or editing the manual directly.</p>
 </section>
-<section id="motivation" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="motivation"><span class="header-section-number">1.2</span> Motivation</h2>
-<p>Published studies and personal observations suggest the distribution of herbivore feeding damage among individual plants within a population is often highly skewed such that most plants experience relatively low levels of damage, and a small fraction of plants experience disproportionately high levels of damage. Theory suggests that such variability can have dramatic ecological and evolutionary consequences. For example, variability among plants can lead overall herbivore population size to be greater or less than expected based on average plant quality and asymmetric fitness surfaces can lead to over-investment in defensive traits. <strong><em>Surprisingly, despite the theoretical importance and potential generality of variability in herbivory, it has received little empirical attention, limiting our fundamental understanding of how plants and herbivores interact.</em></strong></p>
+<section id="how-to-edit-the-manual" class="level2" data-number="29.2">
+<h2 data-number="29.2" class="anchored" data-anchor-id="how-to-edit-the-manual"><span class="header-section-number">29.2</span> How to Edit the Manual</h2>
+<section id="getting-started" class="level3" data-number="29.2.1">
+<h3 data-number="29.2.1" class="anchored" data-anchor-id="getting-started"><span class="header-section-number">29.2.1</span> Getting Started</h3>
+<p>Quarto is the next-generation of R Markdown. Like R Markdown it allows for rendering files in multiple formats (.pdf,.docx., .html) and it can be used to make websites, reports, and presentations, but it has the advantage of being able to run embeded code chunks in multiple languages (e.g., R, Python) and allowing users to execute code (i.e., for demonstrations) in the rendered quarto file. Users of Markdown / R Markown will recognize the structure and format of quarto files (.qmd), and the content of R Markdown files can be executed in .qmd files.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A tutorial on getting started with Quarto and RStudio can be found <a href="https://quarto.org/docs/get-started/hello/rstudio.html">here</a>. Posit (<em>née</em> ‘R Studio’) has also prepared an excellent <a href="https://rstudio.github.io/cheatsheets/html/quarto.html">Quarto Cheatsheet</a> that will prove very helpful .</p>
+</div>
+</div>
+<p>To edit the manual you will need a Github account and RStudio. The process for editing the Manual is:</p>
+<ol type="1">
+<li>Install the <code>quarto</code> package</li>
+<li>Fork the Herbvar Manual’s Repository and clone it into your personal Github</li>
+<li>Edit files (or create a new ones)</li>
+<li>Commit and push the changes</li>
+<li>Submit a pull request with your suggested edits</li>
+</ol>
+<p><strong>Step 1.</strong> Open R Studio and install the <code>quarto</code> package using either the ‘install’ button on Rstudio or by executing the following command.</p>
+<div class="code-with-filename">
+<div class="code-with-filename-file">
+<pre><strong>from the R Studio Command Line</strong></pre>
+</div>
+<div class="sourceCode" id="cb1" data-filename="from the R Studio Command Line"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"quarto"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p><strong>Step 2.</strong> Fork the repository for the HerbVar Manual <a href="https://github.com/HerbVar-Network/herbvar_manual">[repo link]</a> from the HerbVar Organization Github into your personal Github account (tutorials <a href="https://github.com/rstats-tln/fork-and-clone-repo">here</a> and <a href="https://datacarpentry.org/rr-version-control/03-git-in-rstudio/">here</a>).</p>
+<p><strong>Step 3:</strong> Edit files (or create a new ones). You can format your text using markdown syntax (see this <a href="https://rstudio.github.io/cheatsheets/html/rmarkdown.html">cheetsheet</a>), but if you would prefer to edit text and simply leave formatting notes (e.g., “bold this”, species names in italics”) that’s fine too.</p>
+<p><strong>Step 4:</strong> Commit and push the changes using RStudio (or the command line if you feel the need to flex).</p>
+<p><strong>Step 5:</strong> Submit a pull request so the Manual’s ‘Administrators’ can review and incorporate your suggested edits. (tutorials: how to submit a pull request from a forked repo <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork">here</a>, general introduction <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">here</a> and <a href="https://gcapes.github.io/swc-pr-tutorial/01-git-collaboration/index.html">here</a>.)</p>
 </section>
-<section id="questions" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="questions"><span class="header-section-number">1.3</span> Questions?</h2>
-<p>More information on the HerbVar Project is available on the <a href="https://herbvar.org/">project website</a>. If you can’t find the information you’re looking for in this manual or the website, please contact a member of the HerbVar Steering Committee:</p>
-<ul>
-<li>Nora Underwood <a href="mailto:nunderwood@bio.fsu.edu" class="email">nunderwood@bio.fsu.edu</a><br>
-</li>
-<li>Brian Inouye <a href="mailto:binouye@bio.fsu.edu" class="email">binouye@bio.fsu.edu</a><br>
-</li>
-<li>Susan Whitehead <a href="mailto:swhitehead@vt.edu" class="email">swhitehead@vt.edu</a><br>
-</li>
-<li>Phil Hahn <a href="mailto:hahnp@ufl.edu" class="email">hahnp@ufl.edu</a><br>
-</li>
-<li>Lee Dyer <a href="mailto:nolaclimber@gmail.com" class="email">nolaclimber@gmail.com</a><br>
-</li>
-<li>Emilio Bruna <a href="mailto:embruna@ufl.edu" class="email">embruna@ufl.edu</a><br>
-</li>
-<li>Ivalu Cacho <a href="mailto:ivalu.cacho@gmail.com" class="email-">ivalu.cacho@gmail.com</a><br>
-</li>
-<li>Karen Abbott <a href="mailto:kca27@case.edu" class="email">kca27@case.edu</a><br>
-</li>
-<li>Will Wetzel <a href="mailto:william.wetzel@montana.edu" class="email">william.wetzel@montana.edu</a></li>
-</ul>
+</section>
+<section id="publishing-the-manual-admins-only" class="level2" data-number="29.3">
+<h2 data-number="29.3" class="anchored" data-anchor-id="publishing-the-manual-admins-only"><span class="header-section-number">29.3</span> Publishing the Manual (Admins Only)</h2>
+<p>The admins of the repo can publish the book in HTML (to a Github pages site) and as a pdf (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see <a href="https://quarto.org/docs/publishing/github-pages.html">here</a>):</p>
+<ol type="1">
+<li><p>Render sites on their local machine to the docs directory, check the rendered site into GitHub, and then configure the GitHub repo to publish from the docs directory.</p></li>
+<li><p>Render on their local machine and then use the <code>quarto publish</code> command to publish content rendered on the local machine.</p></li>
+<li><p>Use a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change (e.g., any edit of the manual) is pushed to the repository.</p></li>
+</ol>
+<p><strong><em>We are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github.</em></strong> However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: <strong>(1)</strong> Use the <code>quarto render</code> command from the Terminal to render all output formats (the output of your book will be written to the <code>_book</code> sub-directory of your book project), then <strong>(2)</strong> use the <code>quarto publish gh-pages</code> command to publish the locally rendered content online (more detailed instructions can be found <a href="https://quarto.org/docs/books/">here</a>).</p>
+<p><strong>Rendering the manual:</strong></p>
+<div class="code-with-filename">
+<div class="code-with-filename-file">
+<pre><strong>from the Terminal</strong></pre>
+</div>
+<div class="sourceCode" id="cb2" data-filename="from the Terminal"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>quarto render</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Note that if you pass no arguments to <code>quarto render</code> as above, all formats will be rendered. You can instead render individual formats via the –to argument:</p>
+<div class="code-with-filename">
+<div class="code-with-filename-file">
+<pre><strong>from the Terminal</strong></pre>
+</div>
+<div class="sourceCode" id="cb3" data-filename="from the Terminal"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>quarto render           <span class="co"># render all formats</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>quarto render <span class="sc">--</span>to pdf  <span class="co"># render PDF format only</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p><strong>Publishing the manual:</strong></p>
+<div class="code-with-filename">
+<div class="code-with-filename-file">
+<pre><strong>from the Terminal</strong></pre>
+</div>
+<div class="sourceCode" id="cb4" data-filename="from the Terminal"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>quarto publish gh<span class="sc">-</span>pages</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -893,13 +974,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link" aria-label="Preamble">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Preamble</span>
+      <a href="../admin/potential_collaborators.html" class="pagination-link" aria-label="Potential Collaborators">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Potential Collaborators</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../introduction/getting_involved.html" class="pagination-link" aria-label="Getting Involved">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting Involved</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../admin/website.html" class="pagination-link" aria-label="Editing the Website">
+        <span class="nav-page-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Editing the Website</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

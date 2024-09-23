@@ -1,0 +1,41 @@
+---
+author: HerbVar Manual Authorship Team
+title-block-style: plain
+date: 11/01/2024
+date-modified: last-modified
+---
+# Proposing New Data Collection {#sec-new_data_collection}
+
+HerbVar network members are welcome to propose new add-on data collection efforts. These will typically involve sending a new protocol to HerbVar Site PIs to use in field data collection. The Steering Committee will open calls for proposals for new add-on data collection periodically and review proposals, including by surveying the network membership for interest in each proposal, to ensure the network is focusing its efforts on the most important data collection objectives with the highest probability of success. **_Leaders of add-on projects must commit to:_**
+
+- Creating the data-collection protocol with input from the Steering Committee.
+- Recruiting site PIs to collect sufficient data for at least one publication.
+- Leading the writing of at least one paper using their add-on project data.
+- Including all site PIs who contribute substantially to the project as co-authors on at least one paper using project data. In most cases, a substantial contribution would be at least three surveys, although if other data collection is required (e.g., plant traits, herbivore counts, etc.), then “substantial” will be defined by the project leaders. All individuals who contribute data must have their efforts recognized with authorship, assuming that they also contribute to one additional aspect of authorship (see Authorship guidelines). 
+
+## Proposing a new add-on project
+
+The steps to proposing a new add-on project are as follows: 
+
+1. Review the current add-on projects and proposals for add-on projects to determine whether your idea is already being addressed. If not, proceed to step 2. 
+
+2. Email a proposal to a Steering Committee member (https://herbvar.org/leadership.html) . The proposal should have: 
+
+- A title
+- One paragraph describing the knowledge gap and why it is important
+- One paragraph describing the data to be collected to fill that knowledge gap and the protocol for collecting those data 
+- A statement of how individuals who contribute data for this project will receive credit for their work. We strongly recommend following the HerbVar core data authorship model, where individuals who contribute at least three appropriate surveys, or similar contributions depending on protocol, will automatically be included on one publication using those data, assuming enough data are collected to support a publication. 
+
+3. The Steering Committee will review the proposal, ensuring there is no overlap with an ongoing data collection effort, and provide feedback. You will work with the Steering Committee to incorporate their feedback. If the proposal is approved, move to the next step.
+
+4. Post your proposal for network members to read and email the network with “HerbVar add-on data project” in the subject line. Use some mechanism (return email, google form, etc.) to find out how many people want to opt-in to this project by contributing at least three surveys. 
+
+5. If you have enough people opting-in to make the project viable, inform the Steering Committee and the project will be moved to “in-progress” on the HerbVar website. Depending on the complexity of your data, the Steering Committee or you will update our data structures to receive the new data.
+
+6. Create and post your protocol, with Steering Committee input.
+
+7. Send out another email to the people opting in to your project telling them to start data collection.
+
+
+
+

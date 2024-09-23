@@ -1,3 +1,10 @@
+---
+author: HerbVar Manual Authorship Team
+title-block-style: plain
+date: 11/01/2024
+date-modified: last-modified
+---
+
 # HerbVar Overview {#sec-overview}
 
 Welcome to HerbVar! We are a collaborative network of researchers interested in understanding how plant–herbivore interactions vary across plant species around the globe. Most of the field’s current understanding of large-scale patterns in herbivory and plant–herbivore interactions come from studies focused on average levels of herbivory. We aim to advance our fundamental understanding of plant–herbivore interactions by quantifying variation in intraspecific patterns of plant–herbivore interactions within sites.

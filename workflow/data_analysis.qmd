@@ -1,0 +1,10 @@
+---
+author: HerbVar Manual Authorship Team
+title-block-style: plain
+date: 11/01/2024
+date-modified: last-modified
+---
+
+# Data Analysis {#sec-data-analysis}
+
+Instructions for using setting up a github repository for data analysis and making reproducible corrections using scripts. 

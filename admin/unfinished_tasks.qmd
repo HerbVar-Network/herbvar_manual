@@ -1,20 +1,14 @@
-# To-Do List for Manual 
+---
+title-block-style: plain
+date: 11/01/2024
+date-modified: last-modified
+---
 
-(as of 2/1/22)
+# To-Do List for Manual 
 
 1. Edit the "Google Drive" chapter
 2. Convert "data portal troubleshooting" to a flowchart/checklist
-3. Edit Protocols:
-  a. Insert Photos
-  b. link to pdf versions for downloading by users
-  c. edit / correct formatting 
-4. review and expand the workflow chapter
-5. review and expand the data analysis chapter; include tutoriual for repo
-5. review and expand the publications chapter; include tutoriual for repo
-6. References/multiple .bib files
-7. herbvar publications, herbvar presentations
-8. add tutorial for editing the manual and publishing with actions
-https://quarto.org/docs/publishing/github-pages.html
+
 ---
 
 Unfortunately I (Nick) took a new position while there were still some loose ends left hanging but I can list them here so they don’t completely fall between the cracks -

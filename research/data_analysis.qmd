@@ -1,3 +1,0 @@
-# Data Analysis {#sec-data-analysis}
-
-Instructions for using setting up a github repository for data analysis and making reproducible corrections using scripts. 

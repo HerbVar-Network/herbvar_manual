@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="HerbVar Manual Authorship Team">
+<meta name="author" content="Nick Lyon">
 <meta name="dcterms.date" content="2024-11-01">
 
-<title>HerbVar Project Manual &amp; Field Protocols - 1&nbsp; HerbVar Overview</title>
+<title>HerbVar Project Manual &amp; Field Protocols - 31&nbsp; Google Drive Structure</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,8 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../introduction/getting_involved.html" rel="next">
-<link href="../index.html" rel="prev">
+<link href="../admin/wrangling_repo.html" rel="next">
+<link href="../admin/data_portal.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/intro.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../admin/potential_collaborators.html">Appendix 3: HerbVar Admin</a></li><li class="breadcrumb-item"><a href="../admin/google_drive.html"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Google Drive Structure</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -125,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../introduction/intro.html" class="sidebar-item-text sidebar-link active">
+  <a href="../introduction/intro.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></span></a>
   </div>
 </li>
@@ -366,7 +366,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../admin/google_drive.html" class="sidebar-item-text sidebar-link">
+  <a href="../admin/google_drive.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Google Drive Structure</span></span></a>
   </div>
 </li>
@@ -394,18 +394,22 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#project-goals" id="toc-project-goals" class="nav-link active" data-scroll-target="#project-goals"><span class="header-section-number">1.1</span> Project Goals</a></li>
-  <li><a href="#motivation" id="toc-motivation" class="nav-link" data-scroll-target="#motivation"><span class="header-section-number">1.2</span> Motivation</a></li>
-  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions"><span class="header-section-number">1.3</span> Questions?</a></li>
+  <li><a href="#phase-i-data-wrangling" id="toc-phase-i-data-wrangling" class="nav-link active" data-scroll-target="#phase-i-data-wrangling"><span class="header-section-number">31.1</span> Phase I Data Wrangling</a></li>
+  <li><a href="#phase-ii-data-wrangling" id="toc-phase-ii-data-wrangling" class="nav-link" data-scroll-target="#phase-ii-data-wrangling"><span class="header-section-number">31.2</span> Phase II Data Wrangling</a></li>
+  <li><a href="#phase-ii-completed-surveys-versions" id="toc-phase-ii-completed-surveys-versions" class="nav-link" data-scroll-target="#phase-ii-completed-surveys-versions"><span class="header-section-number">31.3</span> Phase II Completed Surveys Versions</a></li>
+  <li><a href="#phase-ii-metadata" id="toc-phase-ii-metadata" class="nav-link" data-scroll-target="#phase-ii-metadata"><span class="header-section-number">31.4</span> Phase II Metadata</a></li>
+  <li><a href="#phase-ii-raw-data" id="toc-phase-ii-raw-data" class="nav-link" data-scroll-target="#phase-ii-raw-data"><span class="header-section-number">31.5</span> Phase II Raw Data</a></li>
+  <li><a href="#phase-ii-wrangled-data--" id="toc-phase-ii-wrangled-data--" class="nav-link" data-scroll-target="#phase-ii-wrangled-data--"><span class="header-section-number">31.6</span> Phase II Wrangled Data - …</a></li>
+  <li><a href="#miscellaneous-other-files" id="toc-miscellaneous-other-files" class="nav-link" data-scroll-target="#miscellaneous-other-files"><span class="header-section-number">31.7</span> Miscellaneous Other Files</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/intro.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../admin/potential_collaborators.html">Appendix 3: HerbVar Admin</a></li><li class="breadcrumb-item"><a href="../admin/google_drive.html"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Google Drive Structure</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-overview" class="quarto-section-identifier"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></span></h1>
+<h1 class="title"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Google Drive Structure</span></h1>
 </div>
 
 
@@ -415,7 +419,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>HerbVar Manual Authorship Team </p>
+             <p>Nick Lyon </p>
           </div>
   </div>
     
@@ -440,42 +444,70 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to HerbVar! We are a collaborative network of researchers interested in understanding how plant–herbivore interactions vary across plant species around the globe. Most of the field’s current understanding of large-scale patterns in herbivory and plant–herbivore interactions come from studies focused on average levels of herbivory. We aim to advance our fundamental understanding of plant–herbivore interactions by quantifying variation in intraspecific patterns of plant–herbivore interactions within sites.</p>
-<section id="project-goals" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="project-goals"><span class="header-section-number">1.1</span> Project Goals</h2>
+<p>This project has a lot of files coming and going so this is a brief description of all of those folders.</p>
+<section id="phase-i-data-wrangling" class="level2" data-number="31.1">
+<h2 data-number="31.1" class="anchored" data-anchor-id="phase-i-data-wrangling"><span class="header-section-number">31.1</span> Phase I Data Wrangling</h2>
 <ul>
-<li>To gather standardized data on the distribution of herbivory and herbivores among plant individuals within populations for species and sites across the globe.</li>
-<li>To promote the use of HerbVar data to generate testable hypotheses and publications that advance our fundamental and applied understanding of the role of variability and distributions in plant–herbivore interactions.</li>
-<li>To develop theory and statistical tools for studying the role of distributions in plant-herbivore interactions.</li>
-<li>To engage researchers globally and across career stages and backgrounds in collaborative science.</li>
-<li>To increase awareness of and education about the importance of variability in biological processes at graduate and undergraduate levels.</li>
+<li><p>HerbVar Phase I Data</p></li>
+<li><p>All Uploads</p></li>
+<li><p>All of the phase 1 raw data (and we’ve since moved to phase 2 so there should not be any more new data)</p></li>
+<li><p>Phase I</p></li>
+<li><p>Herbivore Data</p></li>
+<li><p>herbivoreData (from the eponymous Excel sheet) raw, tidied at plant-level (one row per plant) and tidied at survey level (one row per survey)</p></li>
+<li><p>Raw is the herbivore columns sliced off of the plantData sheet as part of the main wrangling script</p></li>
+<li><p>Phase I - Primary Productivity</p></li>
+<li><p>Primary productivity metadata to go along with phase 1 data</p></li>
+<li><p>Phase I - Reproductive Data</p></li>
+<li><p>Raw reproductive data columns sliced off of the plantData sheet as part of the main wrangling script</p></li>
+<li><p>Phase I - Richness Data</p></li>
+<li><p>Extracted native/invasive species richness from Ellis et al.&nbsp;2012</p></li>
+<li><p>Phase I - siteData - Tidied version of siteData (from eponymous Excel sheet)</p></li>
+<li><p>Phase I - Survey Indices - Attempt (later abandoned) to split off just the site and plant-identifying information without any of the “actual” data. This would allow wide sharing of location information to enable all interested HerbVar members to harvest publicly-available metadata</p></li>
+<li><p>Phase I Data - Wrangled</p></li>
+<li><p>The “abiotic” (i.e., climatic) data for each site’s lat/long coordinates</p></li>
+<li><p>The tidied plant-level data (one row per plant) for all phase 1 data</p></li>
+<li><p>The tidied survey-level data (one row per survey) for all phase 1 data</p></li>
+<li><p>HerbVar Foliage Index.xlsx - Index describing whether each species (from each PI) is deciduous, evergreen, or annual (this information was integrated into the phase 2 data submission portal so no equivalent Google Sheet will exist for phase 2</p></li>
 </ul>
 </section>
-<section id="motivation" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="motivation"><span class="header-section-number">1.2</span> Motivation</h2>
-<p>Published studies and personal observations suggest the distribution of herbivore feeding damage among individual plants within a population is often highly skewed such that most plants experience relatively low levels of damage, and a small fraction of plants experience disproportionately high levels of damage. Theory suggests that such variability can have dramatic ecological and evolutionary consequences. For example, variability among plants can lead overall herbivore population size to be greater or less than expected based on average plant quality and asymmetric fitness surfaces can lead to over-investment in defensive traits. <strong><em>Surprisingly, despite the theoretical importance and potential generality of variability in herbivory, it has received little empirical attention, limiting our fundamental understanding of how plants and herbivores interact.</em></strong></p>
-</section>
-<section id="questions" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="questions"><span class="header-section-number">1.3</span> Questions?</h2>
-<p>More information on the HerbVar Project is available on the <a href="https://herbvar.org/">project website</a>. If you can’t find the information you’re looking for in this manual or the website, please contact a member of the HerbVar Steering Committee:</p>
+<section id="phase-ii-data-wrangling" class="level2" data-number="31.2">
+<h2 data-number="31.2" class="anchored" data-anchor-id="phase-ii-data-wrangling"><span class="header-section-number">31.2</span> Phase II Data Wrangling</h2>
 <ul>
-<li>Nora Underwood <a href="mailto:nunderwood@bio.fsu.edu" class="email">nunderwood@bio.fsu.edu</a><br>
-</li>
-<li>Brian Inouye <a href="mailto:binouye@bio.fsu.edu" class="email">binouye@bio.fsu.edu</a><br>
-</li>
-<li>Susan Whitehead <a href="mailto:swhitehead@vt.edu" class="email">swhitehead@vt.edu</a><br>
-</li>
-<li>Phil Hahn <a href="mailto:hahnp@ufl.edu" class="email">hahnp@ufl.edu</a><br>
-</li>
-<li>Lee Dyer <a href="mailto:nolaclimber@gmail.com" class="email">nolaclimber@gmail.com</a><br>
-</li>
-<li>Emilio Bruna <a href="mailto:embruna@ufl.edu" class="email">embruna@ufl.edu</a><br>
-</li>
-<li>Ivalu Cacho <a href="mailto:ivalu.cacho@gmail.com" class="email-">ivalu.cacho@gmail.com</a><br>
-</li>
-<li>Karen Abbott <a href="mailto:kca27@case.edu" class="email">kca27@case.edu</a><br>
-</li>
-<li>Will Wetzel <a href="mailto:william.wetzel@montana.edu" class="email">william.wetzel@montana.edu</a></li>
+<li><p>_Data Submitted Via Email - I need to put it through the App - This is a clearinghouse for all raw phase 2 data that users send via email rather than using the submission portal. While discouraged, we don’t want to completely block data in such instances. So, once you receive data via email, drop it into this folder until you have the time to run it through the app (the handful of times this has occurred the data went through the portal fine, users just got frustrated from unrelated things)</p></li>
+<li><p>App Uploads - Phase 2 - Raw data submitted via the portal arrive here</p></li>
+</ul>
+</section>
+<section id="phase-ii-completed-surveys-versions" class="level2" data-number="31.3">
+<h2 data-number="31.3" class="anchored" data-anchor-id="phase-ii-completed-surveys-versions"><span class="header-section-number">31.3</span> Phase II Completed Surveys Versions</h2>
+<ul>
+<li>All phase 2 wrangling scripts copy the completed surveys file with a time stamp to this folder for posterity. I can think of no direct utility of these backups but it doesn’t hurt to save them -</li>
+</ul>
+</section>
+<section id="phase-ii-metadata" class="level2" data-number="31.4">
+<h2 data-number="31.4" class="anchored" data-anchor-id="phase-ii-metadata"><span class="header-section-number">31.4</span> Phase II Metadata</h2>
+<ul>
+<li>Rather than have separate folders for each metadata type (as was the case in phase 1) I have created this folder to contain them. Only abiotic (i.e., climatic) data have been retrieved so far but all should be placed here to keep the Drive folder hierarchy clean</li>
+</ul>
+</section>
+<section id="phase-ii-raw-data" class="level2" data-number="31.5">
+<h2 data-number="31.5" class="anchored" data-anchor-id="phase-ii-raw-data"><span class="header-section-number">31.5</span> Phase II Raw Data</h2>
+<ul>
+<li>All data submitted through the submission portal should be manually moved from the “App Uploads - Phase 2” folder to here. The wrangling scripts will prompt you to do this if you do not before running them.</li>
+</ul>
+</section>
+<section id="phase-ii-wrangled-data--" class="level2" data-number="31.6">
+<h2 data-number="31.6" class="anchored" data-anchor-id="phase-ii-wrangled-data--"><span class="header-section-number">31.6</span> Phase II Wrangled Data - …</h2>
+<ul>
+<li>Each sheet of the Excel file has its own version of the above folder where the ellipses (…) is replaced by that sheet’s name. Where applicable (e.g., plantData, reproData, herbivoreData) there are survey-level (i.e., one row per survey) versions of the data</li>
+</ul>
+</section>
+<section id="miscellaneous-other-files" class="level2" data-number="31.7">
+<h2 data-number="31.7" class="anchored" data-anchor-id="miscellaneous-other-files"><span class="header-section-number">31.7</span> Miscellaneous Other Files</h2>
+<p><em>Note: this heading is not a folder name but refers to the random other files in the Drive.</em></p>
+<ul>
+<li>This manual is unfiled in the Drive!</li>
+<li>The Data Management Plan (DMP) in graphical form</li>
+<li>Tutorials for one-off tasks you may need to explain to others</li>
 </ul>
 
 
@@ -893,13 +925,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link" aria-label="Preamble">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Preamble</span>
+      <a href="../admin/data_portal.html" class="pagination-link" aria-label="The Data Portal">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">The Data Portal</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../introduction/getting_involved.html" class="pagination-link" aria-label="Getting Involved">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting Involved</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../admin/wrangling_repo.html" class="pagination-link" aria-label="Wrangling Repository">
+        <span class="nav-page-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Wrangling Repository</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

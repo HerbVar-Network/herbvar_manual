@@ -1,3 +1,10 @@
+---
+author: HerbVar Manual Authorship Team
+title-block-style: plain
+date: 11/01/2024
+date-modified: last-modified
+---
+
 # Potential Collaborators
 
 Potential collaborators typically get email either Will or the HerbVar Admin gmail address. If they contact will, he replies thanking them for their interest and forwards the email to you for follow-up. **These are the steps for handling new expressions of interest in collaborating:**     

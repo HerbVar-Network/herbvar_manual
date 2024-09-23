@@ -1,0 +1,12 @@
+---
+author: HerbVar Manual Authorship Team
+title-block-style: plain
+date: 11/01/2024
+date-modified: last-modified
+---
+
+# Uploading Data {#sec-uploading_data}
+
+
+To upload data, please visit our [data submission portal](https://herbvar.shinyapps.io/data_portal_actual/) and be sure to use the template Excel file linked in @sec-data-collection
+

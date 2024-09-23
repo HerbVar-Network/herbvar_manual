@@ -17,21 +17,21 @@ book:
         - introduction/Network_Structure.qmd
         - introduction/data_overview.qmd
         - introduction/herbvar_pubs.qmd
-    - part: "Collaboration & Authorship Guidelines"
+    - part: "Become a Collaborator"
       chapters: 
-        - collab_auth/site_pi.qmd
-        - collab_auth/data_use_guidelines.qmd
-        - collab_auth/new_analyses.qmd
-        - collab_auth/authorship_process.qmd
-        - collab_auth/new_data_collection.qmd
-        - collab_auth/project_review.qmd
+        - collaboration/site_pi.qmd
+        - collaboration/data_use_guidelines.qmd
+        - collaboration/new_analyses.qmd
+        - collaboration/authorship_process.qmd
+        - collaboration/new_data_collection.qmd
+        - collaboration/project_review.qmd
     - part: "Research Workflow" 
       chapters:
-        - research/workflow.qmd
-        - research/data_collection.qmd
-        - research/uploading_data.qmd
-        - research/data_analysis.qmd
-        - research/publications.qmd
+        - workflow/workflow.qmd
+        - workflow/data_collection.qmd
+        - workflow/uploading_data.qmd
+        - workflow/data_analysis.qmd
+        - workflow/publications.qmd
     - references.qmd
     - part: "Appendix 1: Protocols"
       chapters: 
