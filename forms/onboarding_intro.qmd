@@ -1,3 +1,8 @@
+---
+title-block-style: plain
+date: 11/01/2021
+date-modified: last-modified
+---
 # Onboarding Checklist - New Collaborators 
 
 If you are interested in becoming an HerbVar member, by contributing data as a Site PI or by joining or proposing a Working Group...

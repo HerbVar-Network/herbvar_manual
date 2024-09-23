@@ -1,12 +1,11 @@
 ---
-title: Editing the Manual
 author: Emilio Bruna
 title-block-style: plain
 date: 09/18/2024
 date-modified: last-modified
 ---
 
-# Editing the Manual
+# Editing the Manual  {#sec-manual}
 
 ## Overview
 

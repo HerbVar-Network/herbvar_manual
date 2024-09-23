@@ -6,9 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-09-15">
+<meta name="author" content="Yuval Sapir (Tel Aviv University)">
+<meta name="dcterms.date" content="2021-11-01">
 
-<title>HerbVar Project Manual &amp; Field Protocols - 2&nbsp; Getting involved</title>
+<title>HerbVar Project Manual &amp; Field Protocols - 24&nbsp; Rhizomatous Geophytes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,7 +22,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -31,8 +52,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../introduction/Network_Structure.html" rel="next">
-<link href="../introduction/intro.html" rel="prev">
+<link href="../protocols/herbivore.html" rel="next">
+<link href="../protocols/tree.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -82,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/getting_involved.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting involved</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../protocols/spp_site_selection.html">Appendix 1: Protocols</a></li><li class="breadcrumb-item"><a href="../protocols/rhizo_geo.html"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Rhizomatous Geophytes</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -130,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../introduction/getting_involved.html" class="sidebar-item-text sidebar-link active">
+  <a href="../introduction/getting_involved.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting involved</span></span></a>
   </div>
 </li>
@@ -301,7 +322,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../protocols/rhizo_geo.html" class="sidebar-item-text sidebar-link">
+  <a href="../protocols/rhizo_geo.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Rhizomatous Geophytes</span></span></a>
   </div>
 </li>
@@ -389,32 +410,50 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background"><span class="header-section-number">24.1</span> Background</a></li>
+  <li><a href="#protocol-rhizomatous-geophytes" id="toc-protocol-rhizomatous-geophytes" class="nav-link" data-scroll-target="#protocol-rhizomatous-geophytes"><span class="header-section-number">24.2</span> Protocol – Rhizomatous Geophytes</a>
+  <ul class="collapse">
+  <li><a href="#calculate-a-custom-radius-for-circular-quadrats" id="toc-calculate-a-custom-radius-for-circular-quadrats" class="nav-link" data-scroll-target="#calculate-a-custom-radius-for-circular-quadrats"><span class="header-section-number">24.2.1</span> Calculate a custom radius for circular quadrats</a></li>
+  <li><a href="#genet-life-stage-seedling-vegetative-reproductive" id="toc-genet-life-stage-seedling-vegetative-reproductive" class="nav-link" data-scroll-target="#genet-life-stage-seedling-vegetative-reproductive"><span class="header-section-number">24.2.2</span> Genet life stage: seedling, vegetative, reproductive</a></li>
+  <li><a href="#herbivore-damage-in-one-of-3-ways" id="toc-herbivore-damage-in-one-of-3-ways" class="nav-link" data-scroll-target="#herbivore-damage-in-one-of-3-ways"><span class="header-section-number">24.2.3</span> Herbivore damage in one of 3 ways:</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../introduction/intro.html">What is HerbVar?</a></li><li class="breadcrumb-item"><a href="../introduction/getting_involved.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting involved</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../protocols/spp_site_selection.html">Appendix 1: Protocols</a></li><li class="breadcrumb-item"><a href="../protocols/rhizo_geo.html"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Rhizomatous Geophytes</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-getting_involved" class="quarto-section-identifier"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting involved</span></span></h1>
+<h1 class="title"><span id="sec-rhizo" class="quarto-section-identifier"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Rhizomatous Geophytes</span></span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Yuval Sapir (Tel Aviv University) </p>
+          </div>
+  </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 15, 2024</p>
+      <p class="date">November 1, 2021</p>
     </div>
   </div>
   
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">September 23, 2024</p>
+      <p class="date-modified">August 20, 2024</p>
     </div>
   </div>
     
@@ -425,17 +464,84 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>All professionally-trained researchers with expertise in plant-herbivore interactions are welcome to join HerbVar as a member. We ask members to read this manual before reaching out about joining. Once you have decided to join, please email <a href="mailto:william.wetzel@montana.edu" class="email">Will Wetzel</a> to get the process started.</p>
-<p>Members can get involved in the network in four main ways:</p>
+<p>Clonal plants present an interesting challenge and opportunity within the HerbVar Network. From a question-based perspective, we may be able to compare patterns of herbivory variability between clonal vs non-clonal plant species. These different modes of reproduction may confer different levels of genetic and phenotypic diversity within plant populations <span class="citation" data-cites="sapirSpeciesConceptsEcogeographical2002 wilsonRoyalIrisesIris2016">(<a href="../references.html#ref-sapirSpeciesConceptsEcogeographical2002" role="doc-biblioref">Sapir and Shmida 2002</a>, <a href="../references.html#ref-wilsonRoyalIrisesIris2016" role="doc-biblioref">Wilson et al. 2016</a>)</span> , which could affect patterns of herbivory. However, from a practical perspective, quantifying herbivory among plant ‘individuals’ is a challenge in these systems (i.e., what constitutes an ‘individual’?).</p>
+<p><strong>Objectives:</strong> Provide a protocol for surveying herbivory on a rhizomatous plant species that meets two conditions: (1) it is feasible to determine what constitutes a genet by examining rhizomatous connections, and (2) genets are small enough at your study site that you could feasibly survey 30 genets and their nearest neighbors and estimate herbivory on each genet.</p>
+<section id="background" class="level2" data-number="24.1">
+<h2 data-number="24.1" class="anchored" data-anchor-id="background"><span class="header-section-number">24.1</span> Background</h2>
+<p>In semi-arid and arid climates, a considerably large number of plant species are rhizomatous geophytes. Their major characteristic is that they grow as patches of individuals, forming either dense (phalanx) or sparse (guerrilla) mats of individual ramets, each visible as a single leaf fan, and all connected through below-ground rhizomes and/or above-ground stolons into one plant (genet) <span class="citation" data-cites="harperPopulationBiologyPlants1977 herbenEvolutionClonalGrowth2020">(terms following <a href="../references.html#ref-harperPopulationBiologyPlants1977" role="doc-biblioref">Harper 1977</a>, <a href="../references.html#ref-herbenEvolutionClonalGrowth2020" role="doc-biblioref">Herben and Klimešová 2020</a>)</span>. The extent of clonal growth defines the spread of the genet, and is on a continuous scale of density <span class="citation" data-cites="vallejo-marinEcologicalEvolutionaryConsequences2010">(<a href="../references.html#ref-vallejo-marinEcologicalEvolutionaryConsequences2010" role="doc-biblioref">Vallejo-Marín et al. 2010</a>)</span>. See Figure 1 for examples of two density levels of genets in irises.</p>
+</section>
+<section id="protocol-rhizomatous-geophytes" class="level2" data-number="24.2">
+<h2 data-number="24.2" class="anchored" data-anchor-id="protocol-rhizomatous-geophytes"><span class="header-section-number">24.2</span> Protocol – Rhizomatous Geophytes</h2>
 <ol type="1">
-<li><p>Become a <strong>Site PI</strong> by collecting data using one of the HerbVar Protocols. Submit data towards a sampling objective and become a co-author on a publication resulting from that sampling objective (see <a href="../collaboration/site_pi.html" class="quarto-xref"><span>Chapter 6</span></a>).</p></li>
-<li><p>Join an <strong>existing Working Group</strong> open to new members. Working Groups analyze and publish existing data, design and coordinate of new add-on data collection efforts, and develop educational resources.</p></li>
-<li><p>Propose a <strong>new Working Group</strong> for a project analyzing existing HerbVar data.</p></li>
-<li><p>Propose a <strong>new add-on data collection effort</strong> to have HerbVar members and Site PIs collect data you would like to analyze and publish.</p></li>
+<li><p>When first starting this for a new species or at a new site, we suggest spending time investigating what constitutes a genet. Follow rhizome connections from ramet to ramet to get a sense of what a single genet looks like before following the rest of this protocol.</p></li>
+<li><p>Follow the Primary Protocol &amp; Site Selection Protocol to pick a site, set up a transect, and randomly select focal quadrats’ locations</p></li>
 </ol>
-<p>This manual explains the process for each of these ways of getting involved.</p>
+<section id="calculate-a-custom-radius-for-circular-quadrats" class="level3" data-number="24.2.1">
+<h3 data-number="24.2.1" class="anchored" data-anchor-id="calculate-a-custom-radius-for-circular-quadrats"><span class="header-section-number">24.2.1</span> Calculate a custom radius for circular quadrats</h3>
+<p>Estimate mean density of genets per square meter by counting the number of plants in 1 m2 at 10 random locations within the site</p>
+<ul>
+<li>If genet area (clone/genet diameter) is &gt;1 m and/or distances between genets are apparently irregular (that is, secondary dispersion of plants within population is patchy), count the number of genets in 1 m2 every 5 meters along a 50 m transect.</li>
+<li>If a quadrat has &gt;0 focal plants, randomly choose 1 of the genets to survey and record the following data:</li>
+</ul>
+</section>
+<section id="genet-life-stage-seedling-vegetative-reproductive" class="level3" data-number="24.2.2">
+<h3 data-number="24.2.2" class="anchored" data-anchor-id="genet-life-stage-seedling-vegetative-reproductive"><span class="header-section-number">24.2.2</span> Genet life stage: seedling, vegetative, reproductive</h3>
+<p>Genet size, measured as the height of the tallest leaf for plants in vegetative stage, or height of the taller flower for plants in reproductive stage. Record which metric you used in the “plantSizeMetric” column</p>
+</section>
+<section id="herbivore-damage-in-one-of-3-ways" class="level3" data-number="24.2.3">
+<h3 data-number="24.2.3" class="anchored" data-anchor-id="herbivore-damage-in-one-of-3-ways"><span class="header-section-number">24.2.3</span> Herbivore damage in one of 3 ways:</h3>
+<ol type="1">
+<li>Total number of leaf fans (ramets)</li>
+</ol>
+<ul>
+<li><p>For genets with &gt;100 ramets, write “100” and make a note that your estimate was capped at 100 Estimated percent damage across the whole genet. Visually scan all the green areas of all ramets and all leaves, and estimate the percentage of damage.</p></li>
+<li><p>If the plant has &lt;10 ramets, sample all ramets. From each chosen ramet, pick the 2nd or 3rd leaf from top and estimate percent herbivory. These leaves are putatively in the same developmental stage and are the same age, thus exposed to herbivory for equal time</p></li>
+</ul>
+<p>Note that tip of the leaf may be dry due to climate fluctuations in the arid regions. This area of dry leaf counts as leaf area, but not as herbivory damage</p>
+<ol start="2" type="1">
+<li><p>If a quadrat has 0 focal plants, record a 0 and move to the next quadrat</p></li>
+<li><p>Record the same data for the first nearest conspecific neighbor (of a different genet) that you recorded for the focal plant.</p></li>
+<li><p>Continue visiting randomly select points until ≥ 30 focal genets and 30 nearest neighbor genets have been surveyed</p></li>
+</ol>
+<div id="fig-rhizo" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-rhizo-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/img18.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-rhizo-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;24.1: Top left: Dense (“phalanx type”) genet of Iris atrofusca; Top right: Sparse (“guerrilla type”) genet of Iris bismarckiana; Bottom left: Compact rhizome of Iris atrofusca (this one has ~4 leaf-fan ramets); Bottom right: Stolons connecting ramets of Iris bismarckiana.
+</figcaption>
+</figure>
+</div>
+<!-- ### References -->
+<!-- Harper, J. L. 1977. Population Biology of Plants. Academic Press, London. -->
+<!-- Herben, T., and J. Klimešová. 2020. Evolution of clonal growth forms in angiosperms. New Phytologist 225:999-1010. -->
+<!-- Not cited in document, EMB inserted where looked relevant -->
+<!-- Sapir, Y., and A. Shmida. 2002. Species concepts and ecogeographical divergence of Oncocyclus irises. Israel Journal of Plant Sciences 50:S119-S127. -->
+<!-- Vallejo-Marin, M., M. E. Dorken, and S. C. H. Barrett. 2010. The Ecological and Evolutionary Consequences of Clonality for Plant Mating. Annual Review of Ecology, Evolution and Systematics 41:193-213. -->
+<!-- Not cited in document, EMB inserted where looked relevant -->
+<!-- Wilson, C. A., J. Padiernos, and Y. Sapir. 2016. The royal irises (Iris subg. Iris sect. Oncocyclus): Plastid and low-copy nuclear data contribute to an understanding of their phylogenetic relationships. Taxon 65:35-46. -->
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-harperPopulationBiologyPlants1977" class="csl-entry" role="listitem">
+Harper, J. L. 1977. Population biology of plants. Academic Press.
+</div>
+<div id="ref-herbenEvolutionClonalGrowth2020" class="csl-entry" role="listitem">
+Herben, T., and J. Klimešová. 2020. <a href="https://doi.org/10.1111/nph.16188">Evolution of clonal growth forms in angiosperms</a>. New Phytologist 225:999–1010.
+</div>
+<div id="ref-sapirSpeciesConceptsEcogeographical2002" class="csl-entry" role="listitem">
+Sapir, Y., and A. Shmida. 2002. <a href="https://doi.org/10.1560/DJXH-QX0M-5P0H-DLMW">Species concepts and ecogeographical divergence of <span>Oncocyclus</span> irises</a>. Israel Journal of Plant Sciences 50:119–127.
+</div>
+<div id="ref-vallejo-marinEcologicalEvolutionaryConsequences2010" class="csl-entry" role="listitem">
+Vallejo-Marín, M., M. E. Dorken, and S. C. H. Barrett. 2010. <a href="https://doi.org/10.1146/annurev.ecolsys.110308.120258">The <span>Ecological</span> and <span>Evolutionary Consequences</span> of <span>Clonality</span> for <span>Plant Mating</span></a>. Annual Review of Ecology, Evolution, and Systematics 41:193–213.
+</div>
+<div id="ref-wilsonRoyalIrisesIris2016" class="csl-entry" role="listitem">
+Wilson, C. A., J. Padiernos, and Y. Sapir. 2016. <a href="https://doi.org/10.12705/651.3">The royal irises (<span>Iris</span> subg. <span>Iris</span> sect. <span>Oncocyclus</span>): <span>Plastid</span> and low-copy nuclea data contribute to an understanding of their phylogenetic relationships</a>. Taxon 65:35–46.
+</div>
+</div>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -849,13 +955,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../introduction/intro.html" class="pagination-link" aria-label="HerbVar Overview">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></span>
+      <a href="../protocols/tree.html" class="pagination-link" aria-label="Trees">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Trees</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../introduction/Network_Structure.html" class="pagination-link" aria-label="Network Structure">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Network Structure</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../protocols/herbivore.html" class="pagination-link" aria-label="Herbivores, Mines, and Galls">
+        <span class="nav-page-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Herbivores, Mines, and Galls</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

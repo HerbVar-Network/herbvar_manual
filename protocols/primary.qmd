@@ -1,13 +1,7 @@
 ---
-# editor: 
-#   markdown: 
-#     wrap: 72
-# 
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified
-
-
 ---
 
 # Primary Protocol {#sec-primary}
