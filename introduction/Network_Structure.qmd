@@ -6,7 +6,7 @@ date-modified: last-modified
 
 # Network Structure
 
-We are a collaborative and inclusive group of researchers who are working together to advance our understanding of plant–herbivore interactions. Membership in HerbVar is determined by participation in data collection and/or significant managerial work.
+We are a collaborative and inclusive group of researchers who are working together to advance our understanding of plant–herbivore interactions. Membership in HerbVar is determined by participation in data collection and/or significant managerial work, writing or analysis.
 
 ## Network PIs
 
