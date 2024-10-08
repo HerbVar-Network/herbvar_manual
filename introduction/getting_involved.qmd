@@ -4,7 +4,7 @@ date: 09/15/2024
 date-modified: last-modified
 ---
 
-# Getting involved {#sec-getting_involved}
+# Getting Involved {#sec-getting_involved}
 
 All professionally-trained researchers with expertise in plant-herbivore interactions are welcome to join HerbVar as a member. We ask members to read this manual before reaching out about joining. Once you have decided to join, please email [Will Wetzel](mailto:william.wetzel\@montana.edu){.email} to get the process started.
 
