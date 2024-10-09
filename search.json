@@ -153,6 +153,17 @@
     ]
   },
   {
+    "objectID": "introduction/herbvar_pubs.html",
+    "href": "introduction/herbvar_pubs.html",
+    "title": "5  Herbvar Products",
+    "section": "",
+    "text": "Publications\nA .bib file of all HerbVar publications is available for download here.\nPan, V. S. and W. C. Wetzel (2024). “Neutrality in plant–herbivore interactions”. In: Proceedings of the Royal Society B: Biological Sciences 291.2017, p. 20232687. DOI: 10.1098/rspb.2023.2687.\nThe Herbivory Variability Network* †, M. L. Robinson, P. G. Hahn, et al. (2023). “Plant size, latitude, and phylogeny explain within-population variability in herbivory”. In: Science 382.6671, pp. 679-683. DOI: 10.1126/science.adh8830.\nWetzel, W. C., B. D. Inouye, P. G. Hahn, et al. (2023). “Variability in Plant–Herbivore Interactions”. In: Annual Review of Ecology, Evolution, and Systematics 54.1, pp. 451-474. DOI: 10.1146/annurev-ecolsys-102221-045015.\n\n\nPresentations\nA .bib file of all HerbVar presentations is available for download here.\nBruna, E. M. (2024). Github as a tool for promoting reproducibility and collaboration in the HerbVar Network. HerbVar Steeting Committee Meeting.\nWetzel, W. C., M. L. Robinson, L. A. Dyer, et al. (2020). Variability is a pervasive feature of plant–herbivore interactions: Data from The Herbivory Variability Network. virtual meeting.",
+    "crumbs": [
+      "What is HerbVar?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Herbvar Products</span>"
+    ]
+  },
+  {
     "objectID": "collaboration/site_pi.html",
     "href": "collaboration/site_pi.html",
     "title": "6  Being an HerbVar Site PI",
