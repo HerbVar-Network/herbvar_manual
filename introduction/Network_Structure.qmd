@@ -10,7 +10,14 @@ We are a collaborative and inclusive group of researchers who are working togeth
 
 ## Network PIs
 
-HerbVar is led by Will Wetzel at Montana State University, Nora Underwood and Brian Inouye at Florida State University, Susan Whitehead at Virginia Tech, and Phil Hahn at the University of Florida. These are the network PIs.
+HerbVar is led by the Network PIs:  
+
+- [Will Wetzel](https://wetzellab.com/), Montana State University  
+- [Nora Underwood](https://underwood-inouye-lab.weebly.com/dr-underwood1.html), Florida State University  
+- [Brian Inouye](https://underwood-inouye-lab.weebly.com/dr-underwood1.html), Florida State University   
+- [Susan Whitehead](https://www.speciesinteractions.com/), Virginia Tech, and   
+- [Phil Hahn](https://plant-herbivore-interactions.net/), University of Florida
+
 
 ## Steering Committee
 
