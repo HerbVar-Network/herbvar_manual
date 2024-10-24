@@ -141,7 +141,7 @@ Visual estimation is essentially as simple as it sounds. You look at a leaf and 
 Record estimates at a high resolution. We usually record at a resolution of 2.5% (@tbl-herbiv). This may seem like unreasonably high resolution when you first try, but with a little practice and calibration you will get surprisingly good. We encourage trying for high resolution because—even with considerable error—high resolution estimates will likely be closer to the true values on average than estimates reported as broad categories (e.g., 0%, 1-10%, 11-25%, 26-50%... too coarse!). Plus, if you report your best guesses we can model the error statistically; we’re out of luck if you just report broad categories.  
 
 
-: Table 1. Recommended resolution for recording percent herbivory {#tbl-herbiv}
+: Recommended resolution for recording percent herbivory {#tbl-herbiv}
 
 | Herbivory (%) | Meaning 
 |---------|:-----|
