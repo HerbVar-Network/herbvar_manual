@@ -14,12 +14,12 @@ HerbVar relies heavily on version control with Git/Github to facilitate data val
 
 1. Review and Select Protocols
 2. Collect Data
-3. Create a repository for cleaning the data using the `new_dataset_template`.
-4. Upload the clean version of the data using the portal
+3. Create a repository for cleaning the data using HerbVar's [`new_dataset_template`](https://github.com/HerbVar-Network/new_dataset_template).
+4. Upload the clean version of the data using the [Herbvar Data Portal](https://herbvar.shinyapps.io/data_portal_actual/)
 
 ## New analysis with Herbvar Datasets
 
-1. Identify Questions, Submit for Review to make sure no overlap
-2. Create a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the `new_analysis_and_paper_template`.
-3. This template can also be used to write the manuscript in markdown using a template such as `papaja` or one of the 'rticles` templates.
+1. Identify Questions & Submit for Review (see @sec-project_review) to ensure no overlap with ongoing projects  
+2. Create a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the [`new_analysis_and_paper_template`](https://github.com/HerbVar-Network/analysis_and_paper_template).
+3. This template can also be used to write the manuscript in markdown using a template such as [`papaja`](https://github.com/crsh/papaja) or one of the [`rticles`](https://github.com/rstudio/rticles) templates.
 

@@ -16,8 +16,8 @@ The HerbVar Network launched with a Steering Committee commitment to produce two
 ### Authorship on “add-on project” Papers
 The Steering Committee has so far launched three add-on projects (Focal Species, Focal Families, Reproductive Damage). Additional add-on projects may be created – see Datasets and Proposals for New Data Collection. Site PIs earn co-authorship on one paper from each add-on project by contributing at least three surveys (or equivalent) that advance that project, in addition to the minimum three surveys required for Site PI status and authorship on the core HerbVar papers. 
 
-### Standards for Authorship and the HerbVar Authorship Process
-     Authorship on papers arising from HerbVar data will be earned through significant contribution to the scientific process. Final authorship assignment is the responsibility of the lead author of the manuscript (where the lead author is the project leader approved by the Steering Committee). We strongly favor being inclusive in authorship. The detailed authorship guidelines can be found here. Site PIs who contribute to sampling objectives will earn authorship on the core paper that arises from that sampling effort. For more details on criteria for authorship see @sec-authorship_process .
+### Standards for Authorship and the HerbVar Authorship Process  
+Authorship on papers arising from HerbVar data will be earned through significant contribution to the scientific process. Final authorship assignment is the responsibility of the lead author of the manuscript (where the lead author is the project leader approved by the Steering Committee). We strongly favor being inclusive in authorship. The detailed authorship guidelines can be found here. Site PIs who contribute to sampling objectives will earn authorship on the core paper that arises from that sampling effort. For more details on criteria for authorship see @sec-authorship_process .
 
 
 ## Guidelines for Participation as a Site PI
