@@ -7,11 +7,11 @@ date-modified: last-modified
 
 # HerbVar Overview {#sec-overview}
 
-Welcome to HerbVar! We are a collaborative network of researchers interested in understanding how plant–herbivore interactions vary across plant species around the globe. Most of the field’s current understanding of large-scale patterns in herbivory and plant–herbivore interactions come from studies focused on average levels of herbivory. We aim to advance our fundamental understanding of plant–herbivore interactions by quantifying variation in intraspecific patterns of plant–herbivore interactions within sites.
+Welcome to HerbVar! We are a collaborative network of researchers interested in understanding how plant–herbivore interactions vary across plant species around the globe. Most of the field’s current understanding of large-scale patterns in herbivory and plant–herbivore interactions come from studies focused on average levels of herbivory. We aim to advance our fundamental understanding of plant–herbivore interactions by quantifying variation in patterns of plant–herbivore interactions within and across sites.
 
 ## Project Goals
 
-- To gather standardized data on the distribution of herbivory and herbivores among plant individuals within populations for species and sites across the globe.
+- To gather standardized data on the distribution of herbivory on individual plants within populations for species and sites across the globe.
 - To promote the use of HerbVar data to generate testable hypotheses and publications that advance our fundamental and applied understanding of the role of variability and distributions in plant–herbivore interactions.
 - To develop theory and statistical tools for studying the role of distributions in plant-herbivore interactions.
 - To engage researchers globally and across career stages and backgrounds in collaborative science.
@@ -20,7 +20,7 @@ Welcome to HerbVar! We are a collaborative network of researchers interested in 
 
 ## Motivation
 
-Published studies and personal observations suggest the distribution of herbivore feeding damage among individual plants within a population is often highly skewed such that most plants experience relatively low levels of damage, and a small fraction of plants experience disproportionately high levels of damage. Theory suggests that such variability can have dramatic ecological and evolutionary consequences. For example, variability among plants can lead overall herbivore population size to be greater or less than expected based on average plant quality and asymmetric fitness surfaces can lead to over-investment in defensive traits. ***Surprisingly, despite the theoretical importance and potential generality of variability in herbivory, it has received little empirical attention, limiting our fundamental understanding of how plants and herbivores interact.***
+Published studies and personal observations suggest the distribution of herbivore feeding damage among individual plants within a population is often highly skewed such that most plants and plant parts (leaves, reproductive structures, etc.) experience relatively low levels of damage, and a small fraction of plants experience disproportionately high levels of damage. Theory suggests that such variability can have dramatic ecological and evolutionary consequences. For example, variability among plants can lead overall herbivore population size to be greater or less than expected based on average plant quality and asymmetric fitness surfaces can lead to over-investment in defensive traits. ***Surprisingly, despite the established theoretical importance and potential generality of variability in herbivory, it has received little empirical attention, limiting our fundamental understanding of how plants and herbivores interact.***
 
 
 ## Questions?
@@ -34,6 +34,6 @@ More information on the HerbVar Project is available on the [project website](ht
 - Lee Dyer [nolaclimber\@gmail.com](mailto:nolaclimber@gmail.com){.email}  
 - Emilio Bruna [embruna\@ufl.edu](mailto:embruna@ufl.edu){.email}  
 - Ivalu Cacho [ivalu.cacho\@gmail.com](mailto:ivalu.cacho@gmail.com){.email- }  
-- Karen Abbott [kca27\@case.edu](mailto:kca27@case.edu){.email}  
+- Karen Abbott [kcabbott\@case.edu](mailto:kcabbott@case.edu){.email}  
 - Will Wetzel [william.wetzel\@montana.edu](mailto:william.wetzel@montana.edu){.email}
 
