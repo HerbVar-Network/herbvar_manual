@@ -4,7 +4,7 @@ date: 11/01/2021
 date-modified: last-modified
 ---
 
-# Network Structure
+# Network Structure {#sec-structure}
 
 We are a collaborative and inclusive group of researchers who are working together to advance our understanding of plant–herbivore interactions. Membership in HerbVar is determined by participation in data collection and/or significant managerial work, writing or analysis.
 
@@ -21,7 +21,19 @@ HerbVar is led by the Network PIs:
 
 ## Steering Committee
 
-The HerbVar Steering Committee guides the development and implementation of HerbVar policy with input from HerbVar members as needed. This includes the organization of the network, participation guidelines, authorship guidelines and protocols, review of proposals for papers and expanded data collection, and curation of HerbVar data and GitHub tools for working with the data. The Steering Committee is also responsible for producing core papers using the HerbVar data and involving all relevant Site PIs that meet Authorship Guidelines.
+The HerbVar Steering Committee guides the development and implementation of HerbVar policy with input from HerbVar members as needed. This includes the organization of the network, participation guidelines, authorship guidelines and protocols, review of proposals for papers and expanded data collection, and curation of HerbVar data and GitHub tools for working with the data. The Steering Committee is also responsible for producing core papers using the HerbVar data and involving all relevant Site PIs that meet Authorship Guidelines. The members of the Steering Committee are:
+
+- Nora Underwood [nunderwood\@bio.fsu.edu](mailto:nunderwood@bio.fsu.edu){.email}  
+- Brian Inouye [binouye\@bio.fsu.edu](mailto:binouye@bio.fsu.edu){.email}  
+- Susan Whitehead [swhitehead\@vt.edu](mailto:swhitehead@vt.edu){.email}  
+- Phil Hahn [hahnp\@ufl.edu](mailto:hahnp@ufl.edu){.email}  
+- Lee Dyer [nolaclimber\@gmail.com](mailto:nolaclimber@gmail.com){.email}  
+- Emilio Bruna [embruna\@ufl.edu](mailto:embruna@ufl.edu){.email}  
+- Ivalu Cacho [ivalu.cacho\@gmail.com](mailto:ivalu.cacho@gmail.com){.email- }  
+- Karen Abbott [kcabbott\@case.edu](mailto:kcabbott@case.edu){.email}  
+- Will Wetzel [william.wetzel\@montana.edu](mailto:william.wetzel@montana.edu){.email}
+
+
 
 ## Members 
 

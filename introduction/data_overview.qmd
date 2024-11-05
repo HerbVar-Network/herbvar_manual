@@ -3,33 +3,21 @@ title: "HerbVar Datasets"
 ---
 
 
-## The phase 1 core HerbVar dataset {#sec-datasets}
+## Phase 1: Core HerbVar Dataset {#sec-datasets}
 
-The phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the phase 1 core dataset, we prioritized surveys that added phylogenetic and geographic breadth. The core dataset includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries. 
+The Phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 paper in _Science_. For the Phase 1 Core Dataset we prioritized surveys that added phylogenetic and geographic breadth to analyses - it includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries. 
 
-You can read about our first analyses of this data set in [our Science paper here](https://www.science.org/doi/10.1126/science.adh8830). The published dataset is [available at Dryad here](https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm).
+The first papert that made use of this dataset was published in _Science_ and can be read [here](https://www.science.org/doi/10.1126/science.adh8830). The subset of the Core Data was used in the paper is [archived and available at Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm).
 
-Working groups are currently analyzing parts of the core dataset that did not make it into our Science paper, and HerbVar members are welcome to propose analyses using unpublished parts of the dataset. These parts of the dataset will be made available with each publication.
+Working groups are currently analyzing parts of the Core Dataset that were not used for the _Science_ paper, and HerbVar members are welcome to propose additional analyses using unpublished portions of the Core Dataset. The still-unpublished Core Data used in these analyses will be archived at Dryad when the resulting papers are are published. 
 
-## Ongoing data collection
+## Phase 2: Ongoing Data Collection
 
-Additional add-on data collection projects have since been added. We are currently prioritizing collection of data on damage to plant reproductive structures, data from species in our five focal plant families, and data from our three focal plant species. 
+Add-on data collection projects have been added since the completion of Phase 1. We are currently prioritizing:
 
-See @sec-repro for our Reproductive Damage Protocol. 
-
-Our five focal families are:
-
-- Apocynaceae
-- Asteraceae
-- Fabaceae
-- Rubiaceae
-- Solanaceae
-
-Our three focal species are:
-
-- Taraxacum officinale
-- Plantago lanceolata
-- Plantago major
+(i) data collection to assess damage to plant reproductive structures (see @sec-repro),
+(ii) data from species in our five focal plant families (Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae), and  
+(iii) data from our three focal plant species (_Taraxacum officinale_ (Asteraceae), _Plantago lanceolata_ (Plantaginaceae), _Plantago major_ (Plantaginaceae)).  
 
 
 ## Proposing new data collection

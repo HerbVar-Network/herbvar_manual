@@ -25,15 +25,4 @@ Published studies and personal observations suggest the distribution of herbivor
 
 ## Questions?
 
-More information on the HerbVar Project is available on the [project website](https://herbvar.org/). If you can't find the information you're looking for in this manual or the website, please contact a member of the HerbVar Steering Committee: 
-
-- Nora Underwood [nunderwood\@bio.fsu.edu](mailto:nunderwood@bio.fsu.edu){.email}  
-- Brian Inouye [binouye\@bio.fsu.edu](mailto:binouye@bio.fsu.edu){.email}  
-- Susan Whitehead [swhitehead\@vt.edu](mailto:swhitehead@vt.edu){.email}  
-- Phil Hahn [hahnp\@ufl.edu](mailto:hahnp@ufl.edu){.email}  
-- Lee Dyer [nolaclimber\@gmail.com](mailto:nolaclimber@gmail.com){.email}  
-- Emilio Bruna [embruna\@ufl.edu](mailto:embruna@ufl.edu){.email}  
-- Ivalu Cacho [ivalu.cacho\@gmail.com](mailto:ivalu.cacho@gmail.com){.email- }  
-- Karen Abbott [kcabbott\@case.edu](mailto:kcabbott@case.edu){.email}  
-- Will Wetzel [william.wetzel\@montana.edu](mailto:william.wetzel@montana.edu){.email}
-
+More information on the HerbVar Project is available on the [project website](https://herbvar.org/). If you can't find the information you're looking for in this manual or the website, please contact one of the HerbVar PIs or a member of the HerbVar Steering Committee (see @sec-structure for their contact information).
