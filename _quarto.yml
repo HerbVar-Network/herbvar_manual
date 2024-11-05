@@ -1,11 +1,18 @@
 project:
   type: book
   output-dir: docs
+  
 book:
   title: "HerbVar Project Manual & Field Protocols"
   author: "The Herbvar Steering Committee"
   date: "5/3/2024"
   cover-image: images/cover.png
+  search: true
+  repo-url: https://github.com/HerbVar-Network
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+
   # favicon: images/cover.png
   chapters:
     - index.qmd
@@ -67,8 +74,10 @@ format:
       - cosmo
       - r4ds.scss
   pdf:
+      documentclass: scrreprt
+  epub:
+      cover-image: images
     # pdf-engine: xelatex
-    documentclass: scrreprt
 # see fpr engine-opt: https://stackoverflow.com/questions/74261557/quarto-rendering-pdf-running-xelatex-faster-in-rstudio    
 editor: source
 
