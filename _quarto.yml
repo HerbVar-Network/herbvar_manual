@@ -77,7 +77,7 @@ format:
   pdf:
       documentclass: scrreprt
   epub:
-      cover-image: images
+      cover-image: images/cover.png
     # pdf-engine: xelatex
 # see fpr engine-opt: https://stackoverflow.com/questions/74261557/quarto-rendering-pdf-running-xelatex-faster-in-rstudio    
 editor: source
