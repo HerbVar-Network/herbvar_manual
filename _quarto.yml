@@ -6,14 +6,20 @@ book:
   title: "HerbVar Project Manual & Field Protocols"
   output-file: "herbvar-manual"
   author: "The Herbvar Steering Committee"
-  date: "5/3/2024"
+  # date: 11/15/2024
+  # doi
+  # license
+  # url
+  original-date: 11/15/2024
+  date-format: long
+  date-modified: last-modified
+  edition: 1
   cover-image: images/cover.png
   search: true
   repo-url: https://github.com/HerbVar-Network/herbvar_manual
   repo-actions: [edit]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
-
   favicon: images/cover.png
   chapters:
     - index.qmd
