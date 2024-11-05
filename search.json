@@ -47,7 +47,7 @@
     "href": "introduction/intro.html#questions",
     "title": "1  HerbVar Overview",
     "section": "1.3 Questions?",
-    "text": "1.3 Questions?\nMore information on the HerbVar Project is available on the project website. If you can’t find the information you’re looking for in this manual or the website, please contact a member of the HerbVar Steering Committee:\n\nNora Underwood nunderwood@bio.fsu.edu\n\nBrian Inouye binouye@bio.fsu.edu\n\nSusan Whitehead swhitehead@vt.edu\n\nPhil Hahn hahnp@ufl.edu\n\nLee Dyer nolaclimber@gmail.com\n\nEmilio Bruna embruna@ufl.edu\n\nIvalu Cacho ivalu.cacho@gmail.com\n\nKaren Abbott kcabbott@case.edu\n\nWill Wetzel william.wetzel@montana.edu",
+    "text": "1.3 Questions?\nMore information on the HerbVar Project is available on the project website. If you can’t find the information you’re looking for in this manual or the website, please contact one of the HerbVar PIs or a member of the HerbVar Steering Committee (see Chapter 3 for their contact information).",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>HerbVar Overview</span>"
@@ -91,7 +91,7 @@
     "href": "introduction/Network_Structure.html#steering-committee",
     "title": "3  Network Structure",
     "section": "3.2 Steering Committee",
-    "text": "3.2 Steering Committee\nThe HerbVar Steering Committee guides the development and implementation of HerbVar policy with input from HerbVar members as needed. This includes the organization of the network, participation guidelines, authorship guidelines and protocols, review of proposals for papers and expanded data collection, and curation of HerbVar data and GitHub tools for working with the data. The Steering Committee is also responsible for producing core papers using the HerbVar data and involving all relevant Site PIs that meet Authorship Guidelines.",
+    "text": "3.2 Steering Committee\nThe HerbVar Steering Committee guides the development and implementation of HerbVar policy with input from HerbVar members as needed. This includes the organization of the network, participation guidelines, authorship guidelines and protocols, review of proposals for papers and expanded data collection, and curation of HerbVar data and GitHub tools for working with the data. The Steering Committee is also responsible for producing core papers using the HerbVar data and involving all relevant Site PIs that meet Authorship Guidelines. The members of the Steering Committee are:\n\nNora Underwood nunderwood@bio.fsu.edu\n\nBrian Inouye binouye@bio.fsu.edu\n\nSusan Whitehead swhitehead@vt.edu\n\nPhil Hahn hahnp@ufl.edu\n\nLee Dyer nolaclimber@gmail.com\n\nEmilio Bruna embruna@ufl.edu\n\nIvalu Cacho ivalu.cacho@gmail.com\n\nKaren Abbott kcabbott@case.edu\n\nWill Wetzel william.wetzel@montana.edu",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Network Structure</span>"
@@ -135,18 +135,18 @@
     "href": "introduction/data_overview.html",
     "title": "4  HerbVar Datasets",
     "section": "",
-    "text": "4.1 The phase 1 core HerbVar dataset\nThe phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 Science paper. For the phase 1 core dataset, we prioritized surveys that added phylogenetic and geographic breadth. The core dataset includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.\nYou can read about our first analyses of this data set in our Science paper here. The published dataset is available at Dryad here.\nWorking groups are currently analyzing parts of the core dataset that did not make it into our Science paper, and HerbVar members are welcome to propose analyses using unpublished parts of the dataset. These parts of the dataset will be made available with each publication.",
+    "text": "4.1 Phase 1: Core HerbVar Dataset\nThe Phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 paper in Science. For the Phase 1 Core Dataset we prioritized surveys that added phylogenetic and geographic breadth to analyses - it includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.\nThe first papert that made use of this dataset was published in Science and can be read here. The subset of the Core Data was used in the paper is archived and available at Dryad.\nWorking groups are currently analyzing parts of the Core Dataset that were not used for the Science paper, and HerbVar members are welcome to propose additional analyses using unpublished portions of the Core Dataset. The still-unpublished Core Data used in these analyses will be archived at Dryad when the resulting papers are are published.",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
     ]
   },
   {
-    "objectID": "introduction/data_overview.html#ongoing-data-collection",
-    "href": "introduction/data_overview.html#ongoing-data-collection",
+    "objectID": "introduction/data_overview.html#phase-2-ongoing-data-collection",
+    "href": "introduction/data_overview.html#phase-2-ongoing-data-collection",
     "title": "4  HerbVar Datasets",
-    "section": "4.2 Ongoing data collection",
-    "text": "4.2 Ongoing data collection\nAdditional add-on data collection projects have since been added. We are currently prioritizing collection of data on damage to plant reproductive structures, data from species in our five focal plant families, and data from our three focal plant species.\nSee Chapter 20 for our Reproductive Damage Protocol.\nOur five focal families are:\n\nApocynaceae\nAsteraceae\nFabaceae\nRubiaceae\nSolanaceae\n\nOur three focal species are:\n\nTaraxacum officinale\nPlantago lanceolata\nPlantago major",
+    "section": "4.2 Phase 2: Ongoing Data Collection",
+    "text": "4.2 Phase 2: Ongoing Data Collection\nAdd-on data collection projects have been added since the completion of Phase 1. We are currently prioritizing:\n\ndata collection to assess damage to plant reproductive structures (see Chapter 20),\ndata from species in our five focal plant families (Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae), and\n\ndata from our three focal plant species (Taraxacum officinale (Asteraceae), Plantago lanceolata (Plantaginaceae), Plantago major (Plantaginaceae)).",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
