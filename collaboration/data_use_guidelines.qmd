@@ -16,14 +16,24 @@ As papers using HerbVar data are published, HerbVar data associated with those p
 
 In short, potential authors share their idea for a product with the Steering Committee, potentially inviting some members to join them although not necessarily for papers that are best done by a small author group. In return, HerbVar provides information on potential overlap of the paper with other completed or ongoing analyses, advice about how to use and interpret our data, pre-written R code for data wrangling and cleaning (via our GitHub organization), and publicity for the publication through HerbVar channels. An additional benefit of working as an HerbVar-sponsored working group is access to unpublished data (see below).
 
-Although people are free to work with our public data independently, we hope that people choose to work with the network.
+
+::: {.callout-note appearance="simple"}
+
+## HerbVar's Collaborative Ethos
+
+Although people are free to work with HerbVar's publicly available data independently, we hope that they will choose to work collaboratively with members of the network.
+
+:::
+
 
 ## Unpublished HerbVar Data
 
-Unpublished data will be available to relevant HerbVar Working Groups as soon as they are compiled by the Steering Committee. Access will be provided through the HerbVar GitHub organization. We encourage HerbVar Working Groups to use our data to publish papers and educational materials, but it is important that all products be conceptually distinct from ongoing projects. Therefore, please review the proposed add-ons and in progress papers and read the HerbVar Authorship Guidelines, which describe the process for forming a working group.
+Unpublished data will be available to relevant HerbVar Working Groups as soon as they are compiled by the Steering Committee. Access will be provided through the [HerbVar GitHub organization](https://github.com/HerbVar-Network). We encourage HerbVar Working Groups to use our data to publish papers and educational materials, but it is important that all products be conceptually distinct from ongoing projects. Therefore, please review the proposed add-ons and in progress papers and read the HerbVar Authorship Guidelines, which describe the process for forming a working group (see @sec-authorship_process).
 
-### For unpublished uses such as presentations or coursework
-No permission is required. We ask that you acknowledge use of the data as follows: “Data were made available through the HerbVar Network, a project funded by NSF DEB-​​2203582 (W. Wetzel et al.)”, and notify the Steering Committee of this use so we can track HerbVar impact.
+### Citing Unpublished HerbVar Data 
 
-### For products to be published such as papers or published educational materials
-Use of the unpublished data for a product intended for publication should follow the HerbVar Network Authorship Process (see Authorship Guidelines). This process is designed to make sure contributors get credit for their data, to reduce overlap, to foster collaboration, to streamline use of HerbVar data to produce papers, and to help publicize HerbVar products. 
+***No permission is required to use Herbvar Data for educational purposes*** (e.g., course assignments) or presentations. We do ask, however, that you **(1)** notify the Steering Committee so we can track HerbVar's impact and **(2)** acknowledge the data as follows: “Data were made available through the HerbVar Network, a project supported by the National Science Foundation (DEB-2203582 to W. Wetzel _et al._)”
+
+***If you intend to eventually publish the material in which you are using unpublished HerbVar Data, ***you must follow the HerbVar Network Authorship Process (see Authorship Guidelines in @sec-authorship_process). This process is designed to make sure contributors get credit for their data, to reduce overlap, to foster collaboration, to streamline use of HerbVar data to produce papers, and to help publicize HerbVar products. 
+
+
