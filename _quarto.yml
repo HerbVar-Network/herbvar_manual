@@ -9,12 +9,12 @@ book:
   date: "5/3/2024"
   cover-image: images/cover.png
   search: true
-  repo-url: https://github.com/HerbVar-Network
+  repo-url: https://github.com/HerbVar-Network/herbvar_manual
   repo-actions: [edit]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
 
-  # favicon: images/cover.png
+  favicon: images/cover.png
   chapters:
     - index.qmd
     # - intro.qmd
