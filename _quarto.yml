@@ -4,6 +4,7 @@ project:
   
 book:
   title: "HerbVar Project Manual & Field Protocols"
+  output-file: "herbvar-manual"
   author: "The Herbvar Steering Committee"
   date: "5/3/2024"
   cover-image: images/cover.png
