@@ -99,9 +99,9 @@ format:
       documentclass: scrbook
       classoption: ["oneside", "open=any"]
       cover-image: images/cover.png
-      template-partials:
-        - "before-body.tex"
-        - "_titlepage.tex" 
+      # template-partials:
+      #   - "before-body.tex"
+      #   - "_titlepage.tex" 
       toc: true
       lof: true
       lot: true
