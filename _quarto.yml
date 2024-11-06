@@ -100,10 +100,10 @@ format:
     # Numbering
     number-sections: true
     # Fonts
-    mainfont: Georgia
-    sansfont: Verdana
-    monofont: Source Code Pro
-    fontsize: 12pt
+    # mainfont: Georgia
+    # sansfont: Verdana
+    # monofont: Source Code Pro
+    # fontsize: 12pt
     microtypeoptions: ["final"]
     # Colors
     colorlinks: true
