@@ -27,9 +27,10 @@ book:
       The HerbVar Manual was written by the HerbVar RCN STeering Committee.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
+  
   chapters:
     - index.qmd
-    # - intro.qmd
+    
     - part: "What is HerbVar?"
       chapters: 
         - introduction/intro.qmd
@@ -37,6 +38,7 @@ book:
         - introduction/Network_Structure.qmd
         - introduction/data_overview.qmd
         - introduction/herbvar_pubs.qmd
+        
     - part: "Become a Collaborator"
       chapters: 
         - collaboration/site_pi.qmd
@@ -45,6 +47,7 @@ book:
         - collaboration/authorship_process.qmd
         - collaboration/new_data_collection.qmd
         - collaboration/project_review.qmd
+        
     - part: "Research Workflow" 
       chapters:
         - workflow/workflow.qmd
@@ -52,7 +55,9 @@ book:
         - workflow/uploading_data.qmd
         - workflow/data_analysis.qmd
         - workflow/publications.qmd
+        
     - references.qmd
+    
     - part: "Appendix 1: Protocols"
       chapters: 
         - protocols/spp_site_selection.qmd
@@ -64,9 +69,11 @@ book:
         - protocols/tree.qmd
         - protocols/rhizo_geo.qmd
         - protocols/herbivore.qmd    
+        
     - part: "Appendix 2: Forms & Checklists"
       chapters: 
         - forms/onboarding_intro.qmd
+        
     - part: "Appendix 3: HerbVar Admin"
       chapters: 
         - admin/potential_collaborators.qmd
@@ -77,9 +84,7 @@ book:
         - admin/wrangling_repo.qmd
         - admin/unfinished_tasks.qmd
     
-# output-file: "HerbVar_Manual"
 bibliography: HerbVar.bib
-# bibliography: ["manual.bib","project_publications.bib","project_presentations.bib"]
 csl: ecology.csl
 format:
   html:
@@ -91,7 +96,8 @@ format:
       cover-image: images/cover.png
   epub:
       epub-cover-image: images/cover.png
-    # pdf-engine: xelatex
+
+# pdf-engine: xelatex
 # see fpr engine-opt: https://stackoverflow.com/questions/74261557/quarto-rendering-pdf-running-xelatex-faster-in-rstudio    
 editor: source
 
