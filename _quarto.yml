@@ -92,8 +92,17 @@ format:
       - cosmo
       - r4ds.scss
   pdf:
+      # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
+      # documentclass: scrreport
       documentclass: scrbook
+      classoption: ["oneside", "open=any"]
       cover-image: images/cover.png
+      template-partials:
+        - "before-body.tex"
+        - "_titlepage.tex" 
+      toc: true
+      lof: true
+      lot: true
   epub:
       epub-cover-image: images/cover.png
 
