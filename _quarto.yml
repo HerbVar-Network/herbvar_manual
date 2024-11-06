@@ -92,14 +92,18 @@ format:
       - cosmo
       - format/r4ds.scss
   pdf:
+    documentclass: scrreprt
+    classoption: ["oneside", "open=any"]
+    cover-image: images/cover.png
     toc: true
-    toc-depth: 3
+    toc-depth: 2
     toc-title: Table of Contents
     lof: true
     lot: true
     # Numbering
     number-sections: true
     # Fonts
+    fontfamily: libertinus
     # mainfont: Georgia
     # sansfont: Verdana
     # monofont: Source Code Pro
@@ -108,14 +112,17 @@ format:
     # Colors
     colorlinks: true
     # Layout
-    documentclass: scrbook
     geometry:
       - margin=1in
       - bindingoffset=0.5in
-      - heightrounded
-      - footskip=0.475in
-      - showframe
-    pagestyle: plain
+      # - left=24mm
+      # - top=24mm
+      # - bottom=24mm 
+      # - right=50mm
+      # - heightrounded
+      # - footskip=0.475in
+      # - showframe
+    # pagestyle: plain
     # Rendering
     keep-tex: true
     # https://github.com/nmfs-opensci/quarto_titlepages_v1
@@ -123,10 +130,8 @@ format:
     # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
     # https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/
     # https://github.com/nrennie/PrettyPDF
-    # documentclass: scrreport
-    # documentclass: scrreport
-    classoption: ["oneside", "open=any"]
-    cover-image: images/cover.png
+
+    
     # include-in-header: 
     #  - "format/PrettyPDF.tex"
     # include-before-body:
@@ -134,11 +139,7 @@ format:
     # template-partials:
     #   - "format/before-body.tex"
     #   - "format/_titlepage.tex" 
-    # geometry:
-      # - left=24mm
-      # - top=24mm
-      # - bottom=24mm 
-      # - right=50mm
+  
       
   epub:
       epub-cover-image: images/cover.png
