@@ -96,7 +96,7 @@ format:
       # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
       # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
       # documentclass: scrreport
-      documentclass: scrbook
+      documentclass: scrreport
       classoption: ["oneside", "open=any"]
       cover-image: images/cover.png
       # template-partials:
@@ -105,6 +105,11 @@ format:
       toc: true
       lof: true
       lot: true
+      geometry:
+        - top=25mm
+        - left=25mm
+        - right=25mm
+        - bottom=25mm
   epub:
       epub-cover-image: images/cover.png
 
