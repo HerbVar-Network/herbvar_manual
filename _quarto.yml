@@ -97,21 +97,18 @@ format:
     toc-title: Table of Contents
     lof: true
     lot: true
-  # Numbering
+    # Numbering
     number-sections: true
-  # Fonts
+    # Fonts
     mainfont: Georgia
     sansfont: Verdana
     monofont: Source Code Pro
     fontsize: 12pt
     microtypeoptions: ["final"]
-  # Colors
+    # Colors
     colorlinks: true
-  # Layout
+    # Layout
     documentclass: scrbook
-    classoption: 
-      - oneside
-      - open=any
     geometry:
       - margin=1in
       - bindingoffset=0.5in
@@ -119,37 +116,30 @@ format:
       - footskip=0.475in
       - showframe
     pagestyle: plain
-  # Rendering
-    template: format/template.tex
+    # Rendering
     keep-tex: true
-      # https://github.com/nmfs-opensci/quarto_titlepages_v1
-      # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
-      # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
-      # https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/
-      # https://github.com/nrennie/PrettyPDF
-      # documentclass: scrreport
-      # documentclass: scrreport
-      # classoption: ["oneside", "open=any"]
-      cover-image: images/cover.png
-      # include-in-header: 
-      #  - "format/PrettyPDF.tex"
-      # include-before-body:
-      #  - "format/pagestyle.tex"
-      # template-partials:
-      #   - "format/before-body.tex"
-      #   - "format/_titlepage.tex" 
-      # toc: true
-      # lof: true
-      # lot: true
-      # geometry:
-          # - left=24mm
-          # - top=24mm
-          # - bottom=24mm 
-          # - right=50mm
-        # - top=25mm
-        # - left=25mm
-        # - right=25mm
-        # - bottom=25mm
+    # https://github.com/nmfs-opensci/quarto_titlepages_v1
+    # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
+    # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
+    # https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/
+    # https://github.com/nrennie/PrettyPDF
+    # documentclass: scrreport
+    # documentclass: scrreport
+    classoption: ["oneside", "open=any"]
+    cover-image: images/cover.png
+    # include-in-header: 
+    #  - "format/PrettyPDF.tex"
+    # include-before-body:
+    #  - "format/pagestyle.tex"
+    # template-partials:
+    #   - "format/before-body.tex"
+    #   - "format/_titlepage.tex" 
+    # geometry:
+      # - left=24mm
+      # - top=24mm
+      # - bottom=24mm 
+      # - right=50mm
+      
   epub:
       epub-cover-image: images/cover.png
 
