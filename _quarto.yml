@@ -90,7 +90,7 @@ format:
   html:
     theme: 
       - cosmo
-      - r4ds.scss
+      - format/r4ds.scss
   pdf:
       # https://github.com/nmfs-opensci/quarto_titlepages_v1
       # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
@@ -100,16 +100,20 @@ format:
       # classoption: ["oneside", "open=any"]
       cover-image: images/cover.png
       include-in-header: 
-       - "PrettyPDF.tex"
+       - "format/PrettyPDF.tex"
       include-before-body:
-       - "pagestyle.tex"
+       - "format/pagestyle.tex"
       # template-partials:
-      #   - "before-body.tex"
-      #   - "_titlepage.tex" 
+      #   - "format/before-body.tex"
+      #   - "format/_titlepage.tex" 
       # toc: true
       # lof: true
       # lot: true
-      # geometry:
+      geometry:
+          - left=24mm
+          - top=24mm
+          - bottom=24mm 
+          - right=50mm
       #   - top=25mm
       #   - left=25mm
       #   - right=25mm
