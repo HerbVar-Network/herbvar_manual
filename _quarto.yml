@@ -92,7 +92,9 @@ format:
       - cosmo
       - r4ds.scss
   pdf:
+      # https://github.com/nmfs-opensci/quarto_titlepages_v1
       # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
+      # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
       # documentclass: scrreport
       documentclass: scrbook
       classoption: ["oneside", "open=any"]
