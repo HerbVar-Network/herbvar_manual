@@ -103,7 +103,7 @@ format:
     # Numbering
     number-sections: true
     # Fonts
-    fontfamily: libertinus
+    # fontfamily: libertinus
     # mainfont: Georgia
     # sansfont: Verdana
     # monofont: Source Code Pro
