@@ -95,14 +95,16 @@ format:
       # https://github.com/nmfs-opensci/quarto_titlepages_v1
       # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
       # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
+      # https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/
+      # https://github.com/nrennie/PrettyPDF
       # documentclass: scrreport
       documentclass: scrreport
       # classoption: ["oneside", "open=any"]
       cover-image: images/cover.png
-      include-in-header: 
-       - "format/PrettyPDF.tex"
-      include-before-body:
-       - "format/pagestyle.tex"
+      # include-in-header: 
+      #  - "format/PrettyPDF.tex"
+      # include-before-body:
+      #  - "format/pagestyle.tex"
       # template-partials:
       #   - "format/before-body.tex"
       #   - "format/_titlepage.tex" 
@@ -110,14 +112,14 @@ format:
       # lof: true
       # lot: true
       geometry:
-          - left=24mm
-          - top=24mm
-          - bottom=24mm 
-          - right=50mm
-      #   - top=25mm
-      #   - left=25mm
-      #   - right=25mm
-      #   - bottom=25mm
+          # - left=24mm
+          # - top=24mm
+          # - bottom=24mm 
+          # - right=50mm
+        - top=25mm
+        - left=25mm
+        - right=25mm
+        - bottom=25mm
   epub:
       epub-cover-image: images/cover.png
 
