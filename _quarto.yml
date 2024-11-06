@@ -20,7 +20,13 @@ book:
   repo-actions: [edit]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
+  reader-mode: true
   favicon: images/cover.png
+  page-footer:
+    left: |
+      The HerbVar Manual was written by the HerbVar RCN STeering Committee.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
   chapters:
     - index.qmd
     # - intro.qmd
@@ -81,9 +87,10 @@ format:
       - cosmo
       - r4ds.scss
   pdf:
-      documentclass: scrreprt
-  epub:
+      documentclass: scrbook
       cover-image: images/cover.png
+  epub:
+      epub-cover-image: images/cover.png
     # pdf-engine: xelatex
 # see fpr engine-opt: https://stackoverflow.com/questions/74261557/quarto-rendering-pdf-running-xelatex-faster-in-rstudio    
 editor: source
