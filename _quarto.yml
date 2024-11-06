@@ -97,19 +97,23 @@ format:
       # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
       # documentclass: scrreport
       documentclass: scrreport
-      classoption: ["oneside", "open=any"]
+      # classoption: ["oneside", "open=any"]
       cover-image: images/cover.png
+      include-in-header: 
+       - "PrettyPDF.tex"
+      include-before-body:
+       - "pagestyle.tex"
       # template-partials:
       #   - "before-body.tex"
       #   - "_titlepage.tex" 
-      toc: true
-      lof: true
-      lot: true
-      geometry:
-        - top=25mm
-        - left=25mm
-        - right=25mm
-        - bottom=25mm
+      # toc: true
+      # lof: true
+      # lot: true
+      # geometry:
+      #   - top=25mm
+      #   - left=25mm
+      #   - right=25mm
+      #   - bottom=25mm
   epub:
       epub-cover-image: images/cover.png
 

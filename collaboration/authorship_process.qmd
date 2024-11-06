@@ -12,7 +12,7 @@ The HerbVar authorship process has been heavily influenced by the authorship pro
 
 ## Philosophy - Goals and Benefits
 
-The primary goals of the HerbVar authorship process are to consistently, accurately, and transparently attribute the contribution of each author on a paper, to encourage participation in manuscripts by interested scientists, and to ensure that each author has made sufficient contribution to the paper to warrant authorship. Secondarily, authoring a paper within the HerbVar process benefits authors by reducing overlap among papers, fostering collaboration, streamlining use of HerbVar data to produce papers through GitHut tools, and helping to publicize HerbVar products. While prospective authors can use published HerbVar data to create products on their own, we encourage all authors working with HerbVar data to work with the network.
+The primary goals of the HerbVar authorship process are to consistently, accurately, and transparently attribute the contribution of each author to a paper, to encourage participation in manuscripts by interested scientists, and to ensure that each author has made sufficient contribution to the paper to warrant authorship. Secondarily, authoring a paper within the HerbVar process benefits authors by reducing overlap among papers, fostering collaboration, streamlining use of HerbVar data to produce papers through GitHut tools, and helping to publicize HerbVar products. While prospective authors can use published HerbVar data to create products on their own, we encourage all authors working with HerbVar data to work with the network.
 
 ## Herbvar Network contributors
 
@@ -20,7 +20,7 @@ The following are definitions for the different types of network contributors:
 
 - **Steering committee:** Responsible for overall network administration. 
 
-- **Site PI:** A contributor that has submitted at least three herbvar surveys for one of the main or subobjectives. Note that a person can be a site PI for the main objective, but not necessarily a site PI for one or all of the the subobjectives, depending on the completed surveys.
+- **Site PI:** A contributor that has submitted at least three herbvar surveys for one of the main or subobjectives. Note that a person can be a site PI for the main objective, but not necessarily a site PI for one or all of the the sub-objectives, depending on the completed surveys.
 
 - **Member:** Anyone who is currently or planning to work with the data, either through data collection, working group, etc. 
 
