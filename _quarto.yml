@@ -20,7 +20,7 @@ book:
   repo-actions: [edit]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
-  reader-mode: true
+  reader-mode: false
   favicon: images/cover.png
   page-footer:
     left: |

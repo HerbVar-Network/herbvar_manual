@@ -9,7 +9,7 @@ date-modified: last-modified
 
 ## Overview
 
-This guide is a [Quarto Book](https://quarto.org/docs/books) hosted on the [HerbVar Network's Github site](https://github.com/HerbVar-Network). Users can edit the manual, add new sections, or make suggestions for improvement either via [pull request](https://github.com/HerbVar-Network/project_manual/pulls), [posting an issue](https://github.com/HerbVar-Network/project_manual/issues) on the HerbVar Manual's repository, or editing the manual directly. 
+This guide is a [Quarto Book](https://quarto.org/docs/books) hosted on the [HerbVar Network's Github site](https://github.com/HerbVar-Network). Any HerbVar member can edit the manual, add new sections, or make suggestions for improvement either via [pull request](https://github.com/HerbVar-Network/project_manual/pulls), [posting an issue](https://github.com/HerbVar-Network/project_manual/issues) on the HerbVar Manual's repository, or editing the manual directly. 
 
 ## How to Edit the Manual 
 
@@ -19,7 +19,7 @@ Quarto is the next-generation of R Markdown. Like R Markdown it allows for rende
 
 ::: {.callout-tip}
 
-A tutorial on getting started with Quarto and RStudio can be found [here](https://quarto.org/docs/get-started/hello/rstudio.html). Posit (_née_ 'R Studio') has also prepared an excellent [Quarto Cheatsheet](https://rstudio.github.io/cheatsheets/html/quarto.html) that will prove very helpful .
+A tutorial on getting started with Quarto and RStudio can be found [here](https://quarto.org/docs/get-started/hello/rstudio.html). Posit (_née_ 'R Studio') has also prepared an excellent [Quarto Cheatsheet](https://rstudio.github.io/cheatsheets/html/quarto.html) that will prove very helpful.
 
 :::
 
