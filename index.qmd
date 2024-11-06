@@ -1,10 +1,4 @@
 
-<!-- --- -->
-<!-- title-block-banner: true -->
-<!-- title-block-banner-color: "#ffffff" -->
-<!-- date: last-modified -->
-<!-- --- -->
-
 # Preamble {.unnumbered}
 
 
