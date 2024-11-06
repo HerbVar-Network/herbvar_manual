@@ -13,7 +13,7 @@ book:
   original-date: 11/15/2024
   date-format: long
   date-modified: last-modified
-  edition: 1
+  edition: "1st Edition"
   cover-image: images/cover.png
   search: true
   repo-url: https://github.com/HerbVar-Network/herbvar_manual
