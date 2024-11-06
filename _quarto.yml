@@ -85,7 +85,7 @@ book:
         - admin/unfinished_tasks.qmd
     
 bibliography: HerbVar.bib
-csl: ecology.csl
+csl: format/ecology.csl
 format:
   html:
     theme: 
