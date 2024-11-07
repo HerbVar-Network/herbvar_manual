@@ -8,8 +8,8 @@ date-modified: last-modified
 
 1. Edit the "Google Drive" chapter
 2. Convert "data portal troubleshooting" to a flowchart/checklist
-3. tex fiules to format pdf (see quarto yaml)
-4. it is re-rendering all files every push. Why isnt it using the freeze folder to only rerender the ones that changed? see [here](https://github.com/quarto-dev/quarto-cli/issues/3628)
+~~3. tex files to format pdf (see quarto yaml)~~
+~~4. it is re-rendering all files every push. Why isnt it using the freeze folder to only rerender the ones that changed? see [here](https://github.com/quarto-dev/quarto-cli/issues/3628). ~~NB: appears [this is on purpose](https://github.com/quarto-dev/quarto-cli/discussions/3674) (unlike Hugo), so no fix to be made
 
 ---
 
