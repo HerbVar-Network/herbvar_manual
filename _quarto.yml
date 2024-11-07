@@ -98,12 +98,12 @@ format:
     documentclass: scrbook
     classoption: ["oneside", "open=any"]
     cover-image: images/cover.png
-    # template-partials:
-    #    - "format/title.tex"
+    template-partials:
+       - "format/title.tex"
     header-includes: |
       \titlehead{\includegraphics[width=6in]{images/cover.png}}
       \publishers{Published by HerbVar\\ Missoula, MT}
-      \text{1st Edition}
+    # \text{1st Edition}
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
