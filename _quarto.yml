@@ -96,7 +96,8 @@ format:
     classoption: ["oneside", "open=any"]
     cover-image: images/cover.png
     header-includes: |
-      \titlehead{\includegraphics[width=6in]{images/cover.png.png}}
+      \titlehead{\includegraphics[width=6in]{images/cover.png}}
+      \publishers{Published by HerbVar\\ Missoula, MT}
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
@@ -127,6 +128,8 @@ format:
     # pagestyle: plain
     # Rendering
     keep-tex: true
+    # https://github.com/quarto-dev/quarto-cli/discussions/1941
+    # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
     # https://github.com/nmfs-opensci/quarto_titlepages_v1
     # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
     # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
