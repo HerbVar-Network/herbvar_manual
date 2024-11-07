@@ -6,25 +6,26 @@ book:
   title: "HerbVar Project Manual & Field Protocols"
   output-file: "herbvar-manual"
   author: "The Herbvar Steering Committee"
-  # date: 11/15/2024
-  # doi
-  # license
-  # url
+  date: 11/15/2024
   date: last-modified
   original-date: 11/15/2024
+  # doi
+  url: https://herbvar-network.github.io/herbvar_manual
+  pdf-url: https://herbvar-network.github.io/herbvar_manual/herbvar-manual.pdf 
   date-format: long
-  edition: "1st Edition"
+  license: "This work is licensed under CC BY-NC-SA 4.0. //To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  edition: "1st Ed."
   cover-image: images/cover.png
   search: true
   repo-url: https://github.com/HerbVar-Network/herbvar_manual
   repo-actions: [edit]
   downloads: [pdf, epub]
-  sharing: [twitter, facebook]
+  # sharing: [twitter, facebook]
   reader-mode: false
   favicon: images/cover.png
   page-footer:
     left: |
-      The HerbVar Manual was written by the HerbVar RCN STeering Committee.
+      HerbVar Project Manual & Field Protocols
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   
@@ -87,17 +88,22 @@ book:
 bibliography: HerbVar.bib
 csl: format/ecology.csl
 format:
+
   html:
     theme: 
       - cosmo
       - format/r4ds.scss
+      
   pdf:
     documentclass: scrbook
     classoption: ["oneside", "open=any"]
     cover-image: images/cover.png
+    # template-partials:
+    #    - "format/title.tex"
     header-includes: |
       \titlehead{\includegraphics[width=6in]{images/cover.png}}
       \publishers{Published by HerbVar\\ Missoula, MT}
+      \edition{1st Edition}
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
@@ -140,9 +146,7 @@ format:
     # include-in-header: 
     #  - "format/PrettyPDF.tex"
     # include-before-body:
-    #  - "format/pagestyle.tex"
-    # template-partials:
-    #   - "format/before-body.tex"
+    #  - "format/pagestyle.tex
     #   - "format/_titlepage.tex" 
   
       
