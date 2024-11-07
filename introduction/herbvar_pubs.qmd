@@ -4,7 +4,7 @@ date: today
 ---
 
 
-# Publications {.unnumbered}
+## Publications {.unnumbered}
 
 **A .bib file of all HerbVar presentations is available for download** [**here**](https://raw.githubusercontent.com/HerbVar-Network/herbvar_manual/refs/heads/main/project_publications.bib?token=GHSAT0AAAAAAC2ASX4DDIAV62IX3MHNIRPQZZKNNXQ).
 
@@ -16,7 +16,7 @@ The Herbivory Variability Network* †, M. L. Robinson, P. G. Hahn, et al. (2023
 Wetzel, W. C., B. D. Inouye, P. G. Hahn, et al. (2023). “Variability in Plant–Herbivore Interactions”. In: Annual Review of Ecology, Evolution, and Systematics 54.1, pp. 451-474. [DOI: 10.1146/annurev-ecolsys-102221-045015](https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102221-045015).
 
 
-# Presentations {.unnumbered}
+## Presentations {.unnumbered}
 
 **A .bib file of all HerbVar presentations is available for download** [**here**](https://raw.githubusercontent.com/HerbVar-Network/herbvar_manual/refs/heads/main/project_presentations.bib?token=GHSAT0AAAAAACX4VYS42HAPGEYMRUA6F7F2ZYGXO6A).
 
@@ -29,6 +29,11 @@ is a pervasive feature of plant–herbivore interactions: Data from The
 Herbivory Variability Network_ virtual meeting.
 
 
+## Datasets {.unnumbered}
+
+Wetzel, William; Hahn, Philip; Inouye, Brian et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. https://doi.org/10.5061/dryad.44j0zpckm
+
+Pan, Vincent; Wetzel, William (2024). Neutrality in plant–herbivore interactions [Dataset]. Dryad. https://doi.org/10.5061/dryad.qjq2bvqnz
 
 
 
