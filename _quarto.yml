@@ -103,7 +103,6 @@ format:
     header-includes: |
       \titlehead{\includegraphics[width=6in]{images/cover.png}}
       \publishers{Published by HerbVar\\ Missoula, MT}
-    # \text{1st Edition}
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
