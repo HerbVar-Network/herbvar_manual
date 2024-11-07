@@ -135,7 +135,7 @@
     "href": "introduction/data_overview.html",
     "title": "4  HerbVar Datasets",
     "section": "",
-    "text": "4.1 Phase 1: Core HerbVar Dataset\nThe Phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 paper in Science. For the Phase 1 Core Dataset we prioritized surveys that added phylogenetic and geographic breadth to analyses - it includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.\nThe first papert that made use of this dataset was published in Science and can be read here. The subset of the Core Data was used in the paper is archived and available at Dryad.\nWorking groups are currently analyzing parts of the Core Dataset that were not used for the Science paper, and HerbVar members are welcome to propose additional analyses using unpublished portions of the Core Dataset. The still-unpublished Core Data used in these analyses will be archived at Dryad when the resulting papers are are published.",
+    "text": "4.1 Phase 1: Core HerbVar Dataset\nThe Phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 paper in Science. For the Phase 1 Core Dataset we prioritized surveys that added phylogenetic and geographic breadth to analyses - it includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries.\nThe first paper that made use of this dataset was published in Science and can be read here. The subset of the Core Data that was used in the paper is archived and available at Dryad.\nWorking groups are currently analyzing parts of the Core Dataset that were not used for the Science paper, and HerbVar members are welcome to propose additional analyses using unpublished portions of the Core Dataset. The still-unpublished Core Data used in these analyses will be archived at Dryad when the resulting papers are are published.",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>HerbVar Datasets</span>"
@@ -168,7 +168,29 @@
     "href": "introduction/herbvar_pubs.html",
     "title": "5  Herbvar Products",
     "section": "",
-    "text": "Publications\nA .bib file of all HerbVar presentations is available for download here.\nPan, V. S. and W. C. Wetzel (2024). “Neutrality in plant–herbivore interactions”. In: Proceedings of the Royal Society B: Biological Sciences 291.2017, p. 20232687. [DOI: 10.1098/rspb.2023.2687](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.2687.\nThe Herbivory Variability Network* †, M. L. Robinson, P. G. Hahn, et al. (2023). “Plant size, latitude, and phylogeny explain within-population variability in herbivory”. In: Science 382.6671, pp. 679-683. DOI: 10.1126/science.adh8830.\nWetzel, W. C., B. D. Inouye, P. G. Hahn, et al. (2023). “Variability in Plant–Herbivore Interactions”. In: Annual Review of Ecology, Evolution, and Systematics 54.1, pp. 451-474. DOI: 10.1146/annurev-ecolsys-102221-045015.\n\n\nPresentations\nA .bib file of all HerbVar presentations is available for download here.\nBruna, E. M. (2024). Github as a tool for promoting reproducibility and collaboration in the HerbVar Network. HerbVar Steeting Committee Meeting.\nWetzel, W. C., M. L. Robinson, L. A. Dyer, et al. (2020). Variability is a pervasive feature of plant–herbivore interactions: Data from The Herbivory Variability Network virtual meeting.",
+    "text": "Publications\nA .bib file of all HerbVar presentations is available for download here.\nPan, V. S. and W. C. Wetzel (2024). “Neutrality in plant–herbivore interactions”. In: Proceedings of the Royal Society B: Biological Sciences 291.2017, p. 20232687. [DOI: 10.1098/rspb.2023.2687](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.2687.\nThe Herbivory Variability Network* †, M. L. Robinson, P. G. Hahn, et al. (2023). “Plant size, latitude, and phylogeny explain within-population variability in herbivory”. In: Science 382.6671, pp. 679-683. DOI: 10.1126/science.adh8830.\nWetzel, W. C., B. D. Inouye, P. G. Hahn, et al. (2023). “Variability in Plant–Herbivore Interactions”. In: Annual Review of Ecology, Evolution, and Systematics 54.1, pp. 451-474. DOI: 10.1146/annurev-ecolsys-102221-045015.",
+    "crumbs": [
+      "What is HerbVar?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Herbvar Products</span>"
+    ]
+  },
+  {
+    "objectID": "introduction/herbvar_pubs.html#presentations",
+    "href": "introduction/herbvar_pubs.html#presentations",
+    "title": "5  Herbvar Products",
+    "section": "Presentations",
+    "text": "Presentations\nA .bib file of all HerbVar presentations is available for download here.\nBruna, E. M. (2024). Github as a tool for promoting reproducibility and collaboration in the HerbVar Network. HerbVar Steeting Committee Meeting.\nWetzel, W. C., M. L. Robinson, L. A. Dyer, et al. (2020). Variability is a pervasive feature of plant–herbivore interactions: Data from The Herbivory Variability Network virtual meeting.",
+    "crumbs": [
+      "What is HerbVar?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Herbvar Products</span>"
+    ]
+  },
+  {
+    "objectID": "introduction/herbvar_pubs.html#datasets",
+    "href": "introduction/herbvar_pubs.html#datasets",
+    "title": "5  Herbvar Products",
+    "section": "Datasets",
+    "text": "Datasets\nWetzel, William; Hahn, Philip; Inouye, Brian et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. https://doi.org/10.5061/dryad.44j0zpckm\nPan, Vincent; Wetzel, William (2024). Neutrality in plant–herbivore interactions [Dataset]. Dryad. https://doi.org/10.5061/dryad.qjq2bvqnz",
     "crumbs": [
       "What is HerbVar?",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Herbvar Products</span>"
@@ -179,40 +201,18 @@
     "href": "collaboration/site_pi.html",
     "title": "6  Guidelines for Participation as a Site PI",
     "section": "",
-    "text": "7 Site PIs and authorship on HerbVar papers",
+    "text": "6.1 Site PIs and authorship on HerbVar papers",
     "crumbs": [
       "Become a Collaborator",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Guidelines for Participation as a Site PI</span>"
     ]
   },
   {
-    "objectID": "collaboration/site_pi.html#authorship-on-core-herbvar-papers",
-    "href": "collaboration/site_pi.html#authorship-on-core-herbvar-papers",
+    "objectID": "collaboration/site_pi.html#site-pis-and-authorship-on-herbvar-papers",
+    "href": "collaboration/site_pi.html#site-pis-and-authorship-on-herbvar-papers",
     "title": "6  Guidelines for Participation as a Site PI",
-    "section": "7.1 Authorship on “Core HerbVar Papers”",
-    "text": "7.1 Authorship on “Core HerbVar Papers”\nThe HerbVar Network launched with a Steering Committee commitment to produce two papers using the core HerbVar data. Site PIs earn co-authorship on these papers by providing at least 3 surveys (though more are always welcome) to the core dataset.",
-    "crumbs": [
-      "Become a Collaborator",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Guidelines for Participation as a Site PI</span>"
-    ]
-  },
-  {
-    "objectID": "collaboration/site_pi.html#authorship-on-add-on-project-papers",
-    "href": "collaboration/site_pi.html#authorship-on-add-on-project-papers",
-    "title": "6  Guidelines for Participation as a Site PI",
-    "section": "7.2 Authorship on “add-on project” Papers",
-    "text": "7.2 Authorship on “add-on project” Papers\nThe Steering Committee has so far launched three add-on projects (“Focal Species”, “Focal Families”, “Reproductive Damage”); proposals for additional add-on projects are welcome (Chapter 10). Site PIs earn co-authorship on one paper from each add-on project by contributing at least three surveys (or equivalent) that advance that project, in addition to the minimum three surveys required for Site PI status and authorship on the core HerbVar papers.",
-    "crumbs": [
-      "Become a Collaborator",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Guidelines for Participation as a Site PI</span>"
-    ]
-  },
-  {
-    "objectID": "collaboration/site_pi.html#standards-for-authorship-and-the-herbvar-authorship-process",
-    "href": "collaboration/site_pi.html#standards-for-authorship-and-the-herbvar-authorship-process",
-    "title": "6  Guidelines for Participation as a Site PI",
-    "section": "7.3 Standards for Authorship and the HerbVar Authorship Process",
-    "text": "7.3 Standards for Authorship and the HerbVar Authorship Process\nAuthorship on papers arising from HerbVar data will be earned through significant contribution to the scientific process. Final authorship assignment is the responsibility of the lead author of the manuscript (where the lead author is the project leader approved by the Steering Committee). We strongly favor being inclusive in authorship. The detailed authorship guidelines can be found here. Site PIs who contribute to sampling objectives will earn authorship on the core paper that arises from that sampling effort. For more details on criteria for authorship see Chapter 9.",
+    "section": "",
+    "text": "6.1.1 Authorship on “Core HerbVar Papers”\nThe HerbVar Network launched with a Steering Committee commitment to produce two papers using the core HerbVar data. Site PIs earn co-authorship on these papers by providing at least 3 surveys (though more are always welcome) to the core dataset.\n\n\n6.1.2 Authorship on “add-on project” Papers\nThe Steering Committee has so far launched three add-on projects (“Focal Species”, “Focal Families”, “Reproductive Damage”); proposals for additional add-on projects are welcome (Chapter 10). Site PIs earn co-authorship on one paper from each add-on project by contributing at least three surveys (or equivalent) that advance that project, in addition to the minimum three surveys required for Site PI status and authorship on the core HerbVar papers.\n\n\n6.1.3 Standards for Authorship and the HerbVar Authorship Process\nAuthorship on papers arising from HerbVar data will be earned through significant contribution to the scientific process. Final authorship assignment is the responsibility of the lead author of the manuscript (where the lead author is the project leader approved by the Steering Committee). We strongly favor being inclusive in authorship. The detailed authorship guidelines can be found here. Site PIs who contribute to sampling objectives will earn authorship on the core paper that arises from that sampling effort. For more details on criteria for authorship see Chapter 9.",
     "crumbs": [
       "Become a Collaborator",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Guidelines for Participation as a Site PI</span>"
@@ -245,7 +245,7 @@
     "href": "collaboration/data_use_guidelines.html#unpublished-herbvar-data",
     "title": "7  Using HerbVar Data",
     "section": "7.2 Unpublished HerbVar Data",
-    "text": "7.2 Unpublished HerbVar Data\nUnpublished data will be available to relevant HerbVar Working Groups as soon as they are compiled by the Steering Committee. Access will be provided through the HerbVar GitHub organization. We encourage HerbVar Working Groups to use our data to publish papers and educational materials, but it is important that all products be conceptually distinct from ongoing projects. Therefore, please review the proposed add-ons and in progress papers and read the HerbVar Authorship Guidelines, which describe the process for forming a working group (see Chapter 9).\n\n7.2.1 Citing Unpublished HerbVar Data\nNo permission is required to use Herbvar Data for educational purposes (e.g., course assignments) or presentations. We do ask, however, that you (1) notify the Steering Committee so we can track HerbVar’s impact and (2) acknowledge the data as follows: “Data were made available through the HerbVar Network, a project supported by the National Science Foundation (DEB-2203582 to W. Wetzel et al.)”\nIf you intend to eventually publish the material in which you are using unpublished HerbVar Data, you must follow the HerbVar Network Authorship Process (see Authorship Guidelines in Chapter 9). This process is designed to make sure contributors get credit for their data, to reduce overlap, to foster collaboration, to streamline use of HerbVar data to produce papers, and to help publicize HerbVar products.",
+    "text": "7.2 Unpublished HerbVar Data\nUnpublished data will be available to relevant HerbVar Working Groups as soon as they are compiled by the Steering Committee. Access will be provided through the HerbVar GitHub organization. We encourage HerbVar Working Groups to use our data to publish papers and educational materials, but it is important that all products be conceptually distinct from ongoing projects. Therefore, please review the proposed add-ons and in-progress papers and read the HerbVar Authorship Guidelines, which describe the process for forming a working group (see Chapter 9).\n\n7.2.1 Citing Unpublished HerbVar Data\nNo permission is required to use Herbvar Data for educational purposes (e.g., course assignments) or presentations. We do ask, however, that you (1) notify the Steering Committee so we can track HerbVar’s impact and (2) acknowledge the data as follows: “Data were made available through the HerbVar Network, a project supported by the National Science Foundation (DEB-2203582 to W. Wetzel et al.)”\nIf you intend to eventually publish the material in which you are using unpublished HerbVar Data, you must follow the HerbVar Network Authorship Process (see Authorship Guidelines in Chapter 9). This process is designed to make sure contributors get credit for their data, to reduce overlap, to foster collaboration, to streamline use of HerbVar data to produce papers, and to help publicize HerbVar products.",
     "crumbs": [
       "Become a Collaborator",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Using HerbVar Data</span>"
