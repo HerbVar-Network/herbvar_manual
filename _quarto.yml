@@ -92,9 +92,11 @@ format:
       - cosmo
       - format/r4ds.scss
   pdf:
-    documentclass: scrreprt
+    documentclass: scrbook
     classoption: ["oneside", "open=any"]
     cover-image: images/cover.png
+    header-includes: |
+      \titlehead{\includegraphics[width=6in]{images/cover.png.png}}
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
