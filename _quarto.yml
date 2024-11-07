@@ -6,7 +6,7 @@ book:
   title: "HerbVar Project Manual & Field Protocols"
   output-file: "herbvar-manual"
   author: "The Herbvar Steering Committee"
-  date: 11/15/2024
+  # date: 11/15/2024
   date: last-modified
   original-date: 11/15/2024
   # doi
@@ -134,10 +134,11 @@ format:
     # pagestyle: plain
     # Rendering
     keep-tex: true
+    # https://quarto.org/docs/journals/templates.html#template-partials
     # https://github.com/quarto-dev/quarto-cli/discussions/1941
     # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
     # https://github.com/nmfs-opensci/quarto_titlepages_v1
-    # https://nmfs-opensci.github.io/quarto_titlepages_v1/04-how-to-modify.html
+    # https://nmfs-opensci.github.io/quarto_titlepages_v1/03-how-to-use.html
     # https://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage/210280#210280
     # https://nrennie.rbind.io/blog/pdf-quarto/making-pretty-pdf-quarto/
     # https://github.com/nrennie/PrettyPDF
