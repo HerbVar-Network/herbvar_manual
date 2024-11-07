@@ -6,9 +6,9 @@ book:
   title: "HerbVar Project Manual & Field Protocols"
   output-file: "herbvar-manual"
   author: "The Herbvar Steering Committee"
-  # date: 11/15/2024
-  date: last-modified
-  original-date: 11/15/2024
+  date: 11/15/2024
+  # date: last-modified
+  # original-date: 11/15/2024
   # doi
   url: https://herbvar-network.github.io/herbvar_manual
   pdf-url: https://herbvar-network.github.io/herbvar_manual/herbvar-manual.pdf 
@@ -98,11 +98,12 @@ format:
     documentclass: scrbook
     classoption: ["oneside", "open=any"]
     cover-image: images/cover.png
-    template-partials:
-       - "format/title.tex"
+    # template-partials:
+    #    - "format/title.tex"
     header-includes: |
       \titlehead{\includegraphics[width=6in]{images/cover.png}}
-      \publishers{Published by HerbVar\\ Missoula, MT}
+      \publishers{1st Ed.\\This work was funded by the National Science Foundation and\\licensed under CC BY-NC-SA 4.0.}
+  original-date: 11/15/2024
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
