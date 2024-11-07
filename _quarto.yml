@@ -103,7 +103,6 @@ format:
     header-includes: |
       \titlehead{\includegraphics[width=6in]{images/cover.png}}
       \publishers{1st Ed.\\This work was funded by the National Science Foundation and\\licensed under CC BY-NC-SA 4.0.}
-  original-date: 11/15/2024
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
