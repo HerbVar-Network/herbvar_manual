@@ -28,7 +28,7 @@ Although people are free to work with HerbVar's publicly available data independ
 
 ## Unpublished HerbVar Data
 
-Unpublished data will be available to relevant HerbVar Working Groups as soon as they are compiled by the Steering Committee. Access will be provided through the [HerbVar GitHub organization](https://github.com/HerbVar-Network). We encourage HerbVar Working Groups to use our data to publish papers and educational materials, but it is important that all products be conceptually distinct from ongoing projects. Therefore, please review the proposed add-ons and in progress papers and read the HerbVar Authorship Guidelines, which describe the process for forming a working group (see @sec-authorship_process).
+Unpublished data will be available to relevant HerbVar Working Groups as soon as they are compiled by the Steering Committee. Access will be provided through the [HerbVar GitHub organization](https://github.com/HerbVar-Network). We encourage HerbVar Working Groups to use our data to publish papers and educational materials, but it is important that all products be conceptually distinct from ongoing projects. Therefore, please review the proposed add-ons and in-progress papers and read the HerbVar Authorship Guidelines, which describe the process for forming a working group (see @sec-authorship_process).
 
 ### Citing Unpublished HerbVar Data 
 

@@ -7,7 +7,7 @@ title: "HerbVar Datasets"
 
 The Phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 paper in _Science_. For the Phase 1 Core Dataset we prioritized surveys that added phylogenetic and geographic breadth to analyses - it includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries. 
 
-The first papert that made use of this dataset was published in _Science_ and can be read [here](https://www.science.org/doi/10.1126/science.adh8830). The subset of the Core Data was used in the paper is [archived and available at Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm).
+The first paper that made use of this dataset was published in _Science_ and can be read [here](https://www.science.org/doi/10.1126/science.adh8830). The subset of the Core Data that was used in the paper is [archived and available at Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm).
 
 Working groups are currently analyzing parts of the Core Dataset that were not used for the _Science_ paper, and HerbVar members are welcome to propose additional analyses using unpublished portions of the Core Dataset. The still-unpublished Core Data used in these analyses will be archived at Dryad when the resulting papers are are published. 
 
