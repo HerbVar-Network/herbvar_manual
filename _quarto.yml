@@ -101,7 +101,7 @@ format:
     # template-partials:
     #    - "format/title.tex"
     header-includes: |
-      \titlehead{\includegraphics[width=6in]{images/cover.png}}
+      \titlehead{\includegraphics[width=6in]{images/cover2.png}}
       \publishers{1st Ed.\\This material is based upon work supported by the National Science Foundation under Award No. NSF DEB-2203582.\\licensed under CC BY-NC-SA 4.0.}
     toc: true
     toc-depth: 2
