@@ -15,7 +15,7 @@ book:
   date-format: long
   license: "This work is licensed under CC BY-NC-SA 4.0. //To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/"
   edition: "1st Ed."
-  cover-image: images/cover.png
+  cover-image: images/cover2.png
   search: true
   repo-url: https://github.com/HerbVar-Network/herbvar_manual
   repo-actions: [edit]
@@ -97,12 +97,12 @@ format:
   pdf:
     documentclass: scrbook
     classoption: ["oneside", "open=any"]
-    cover-image: images/cover.png
+    cover-image: images/cover2.png
     # template-partials:
     #    - "format/title.tex"
     header-includes: |
       \titlehead{\includegraphics[width=6in]{images/cover.png}}
-      \publishers{1st Ed.\\This work was funded by the National Science Foundation and\\licensed under CC BY-NC-SA 4.0.}
+      \publishers{1st Ed.\\This material is based upon work supported by the National Science Foundation under Award No. NSF DEB-2203582.\\licensed under CC BY-NC-SA 4.0.}
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
@@ -151,7 +151,7 @@ format:
   
       
   epub:
-      epub-cover-image: images/cover.png
+      epub-cover-image: images/cover2.png
 
 # pdf-engine: xelatex
 # see fpr engine-opt: https://stackoverflow.com/questions/74261557/quarto-rendering-pdf-running-xelatex-faster-in-rstudio    

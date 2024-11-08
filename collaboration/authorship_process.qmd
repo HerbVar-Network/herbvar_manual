@@ -145,7 +145,8 @@ When full lists of authors are not feasible (e.g., on oral presentation abstract
 
 ### Acknowledgments
 
-**Please use this text in the acknowledgments of HerbVar manuscripts:** "This work was generated using data from the HerbVar Network (https://herbvar.org/) funded at the site-scale by individual researchers. Coordination and data management have been supported by funding to Will Wetzel and co-PIs from the National Science Foundation Research Coordination Network program (NSF-DEB-2203582)"
+**Please use this text in the acknowledgments of HerbVar manuscripts:** "This work was generated using data from the HerbVar Network (https://herbvar.org/) funded at the site-scale by individual researchers. Coordination and data management have been supported by the National Science Foundation under Award No. NSF DEB-2203582 to Will Wetzel and co-PIs."
+
 
 ### Keywords
 
