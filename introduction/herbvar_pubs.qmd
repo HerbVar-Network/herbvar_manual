@@ -8,6 +8,7 @@ date: today
 
 **A .bib file of all HerbVar presentations is available for download** [**here**](https://raw.githubusercontent.com/HerbVar-Network/herbvar_manual/refs/heads/main/project_publications.bib?token=GHSAT0AAAAAAC2ASX4DDIAV62IX3MHNIRPQZZKNNXQ).
 
+Galmán, A., P. G. Hahn, B. D. Inouye, et al. (2024). “Global test of the enemy release hypothesis reveals similar patterns of herbivory across native and non-native plants”. In: _bioRxiv._ DOI: [https://doi.org/10.1101/2024.10.21.619365](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1101%2F2024.10.21.619365).
 
 Pan, V. S. and W. C. Wetzel (2024). “Neutrality in plant–herbivore interactions”. In: Proceedings of the Royal Society B: Biological Sciences 291.2017, p. 20232687. [DOI: 10.1098/rspb.2023.2687](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.2687.
 
@@ -20,13 +21,30 @@ Wetzel, W. C., B. D. Inouye, P. G. Hahn, et al. (2023). “Variability in Plant�
 
 **A .bib file of all HerbVar presentations is available for download** [**here**](https://raw.githubusercontent.com/HerbVar-Network/herbvar_manual/refs/heads/main/project_presentations.bib?token=GHSAT0AAAAAACX4VYS42HAPGEYMRUA6F7F2ZYGXO6A).
 
-Bruna, E. M. (2024). _Github as a tool for promoting
-reproducibility and collaboration in the HerbVar Network._ HerbVar
-Steeting Committee Meeting.
 
-Wetzel, W. C., M. L. Robinson, L. A. Dyer, et al. (2020). _Variability
-is a pervasive feature of plant–herbivore interactions: Data from The
-Herbivory Variability Network_ virtual meeting.
+Bruna, E. M. (2024). Github as a tool for promoting reproducibility and collaboration in the HerbVar Network. _HerbVar Steeting Committee Meeting_.
+
+Galmán, A., P. G. Hahn, B. D. Inouye, et al. (2024). Global analyses of enemy release indicate similar herbivory mean and variability across native and non-native plants regardless of environment and plant characteristics. _Annual Meeting of the Ecological Society of America_, Long Beach, California.
+
+Galmán, A., P. G. Hahn, B. D. Inouye, et al. (2023). Plant diversity determines differences in plant-herbivory interactions in native and exotic plants. _Annual Meeting of the Ecological Society of America_, Portland, OR.
+
+Galmán, A., W. C. Wetzel, N. Underwood, et al. (2024). Global analyses of Enemy Release Hypothesis and the effects of environment and plant growth form. _International Congress of Entomology_, Kyoto, Japan.
+
+Pan, V. S., E. Ghosh, P. Ode, et al. (2024). Spatially Heterogeneous Phytochemical Landscapes Increase Herbivore Performance by Enhancing Herbivore Foraging. _Annual Meeting of the Ecological Society of America_, Long Beach, California.
+
+Pan, V. S. and W. C. Wetzel (2022). A neutral model of herbivory: fundamental constraints on patterns and variation. _Annual Meeting of the Ecological Society of America_, Montreal, Canada.
+
+Robinson, M. L., K. C. Abbott, E. M. Bruna, et al. (2021). Plant apparency shapes the distribution of herbivory within and among plant individuals: Data from the HerbVar Network. _Annual Meeting of the Entomological Society of America_, Denver, CO.
+
+Wetzel, W. C. (2023). Macroecological and macroevolutionary patterns of variability in plant–herbivore interactions. _Advances in Mathematical Ecology_, Pittsburgh, PA.
+
+Wetzel, W. C., K. C. Abbott, E. M. Bruna, et al. (2021). Macroevolutionary and global patterns of intraspecific variability in herbivory: Data from the HerbVar Network. _Annual Meeting of the Entomological Society of America_, Denver, CO.
+
+Wetzel, W. C., M. L. Robinson, L. A. Dyer, et al. (2020). Variability is a pervasive feature of plant–herbivore interactions: Data from The Herbivory Variability Network. _Annual Meeting of the Ecological Society of America_, virtual meeting.
+
+Whitehead, S. R., K. C. Abbott, E. M. Bruna, et al. (2021). Multi-scale spatial variation in herbivore damage to plant reproductive organs: Data from the HerbVar Network. _Annual Meeting of the Entomological Society of America_, Denver, CO.
+
+Whitehead, S. R., C. Quintero, Y. Sasal, et al. (2024). From leaf to biome: multi-scale variability in plant-herbivore interactions. _Annual Meeting of the Ecological Society of America_, Long Beach, California.
 
 
 ## Datasets {.unnumbered}
