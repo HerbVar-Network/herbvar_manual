@@ -32,6 +32,6 @@ The Steering Committee has so far launched three add-on projects ("Focal Species
 
 ### Standards for Authorship and the HerbVar Authorship Process  
 
-Authorship on papers arising from HerbVar data will be earned through significant contribution to the scientific process. Final authorship assignment is the responsibility of the lead author of the manuscript (where the lead author is the project leader approved by the Steering Committee). We strongly favor being inclusive in authorship. The detailed authorship guidelines can be found here. Site PIs who contribute to sampling objectives will earn authorship on the core paper that arises from that sampling effort. For more details on criteria for authorship see @sec-authorship_process.
+Authorship on papers arising from HerbVar data will be earned through significant contribution to the scientific process. Final authorship assignment is the responsibility of the lead author of the manuscript (where the lead author is the project leader approved by the Steering Committee). We strongly favor being inclusive in authorship. Site PIs who contribute to sampling objectives will earn authorship on the core paper that arises from that sampling effort. For more details on criteria for authorship see @sec-authorship_process.
 
 
