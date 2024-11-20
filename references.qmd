@@ -4,7 +4,7 @@ nocite: |
 ---
 # References {.unnumbered}
 
-A .bib file of all HerbVar publications is available for download here.
+A .bib file of all HerbVar publications is available for download [here](https://raw.githubusercontent.com/HerbVar-Network/herbvar_manual/refs/heads/main/project_publications.bib?token=GHSAT0AAAAAAC2ASX4DDIAV62IX3MHNIRPQZZKNNXQ).
 
 ::: {#refs}
 :::
