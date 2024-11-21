@@ -5,6 +5,16 @@ date: 09/15/2024
 date-modified: last-modified
 ---
 
+## Proposing New Analyses and Papers  {#sec-new_analyses}
+
+Our network is excited about researchers using HerbVar data for new analyses and publications. People interested in analyzing HerbVar data for publication should read @sec-new_data_collection and @sec-authorship_process for a detailed outline of how to propose a project and the authorship guidelines.
+
+In brief, the prospective author(s) look at the list of products already being worked on, submit a working title and abstract to the HerbVar Steering Committee, and receive feedback/approval. The proposed publication is then listed on the HerbVar site for other network members to see. Authors are encouraged, but not required, to invite additional network members to work with them as appropriate. See Authorship Guidelines (@sec-authorship_process) for discussion of how and when to invite others. This process provides benefits such as access to unpublished data, information on potential overlap of the paper with other completed or ongoing analyses, advice about how to interpret the data, GitHub tools customized for analysis and publication of HerbVar data, and publicity for the publication through HerbVar channels. 
+
+Working Groups typically have six months to initiate work and two years from proposal to manuscript submission (or equivalent for non-manuscript projects). If manuscripts do not progress within those time frames the Steering Committee may make the data available to others interested in working on those questions.
+
+
+
 ::: {.callout-note appearance="simple"}
 
 ## HerbVar's Collaborative Ethos
@@ -13,7 +23,7 @@ Although people are free to work with HerbVar's publicly available data independ
 
 :::
 
-## Publicly Available HerbVar Data  {#sec-data_use_guidelines}
+## Using Publicly Available HerbVar Data  {#sec-data_use_guidelines}
 
 As papers using HerbVar data are published, HerbVar data associated with those papers become publicly available. There are two ways to work with these data:
 
@@ -28,7 +38,7 @@ In short, potential authors share their idea for a product with the Steering Com
 Please be sure any manuscripts or presentations include citations to the archived dataset and the original paper for which they were used, as well as an acknowledgement of NSF's funding of the HerbVar RCN, as described in @sec-authorship_process. 
 
 
-## Unpublished HerbVar Data
+## Using Unpublished HerbVar Data
 
 Unpublished data will be available to relevant HerbVar Working Groups as soon as they are compiled by the Steering Committee. Access will be provided through the [HerbVar GitHub organization](https://github.com/HerbVar-Network). We encourage HerbVar Working Groups to use our data to publish papers and educational materials, but it is important that all products be conceptually distinct from ongoing projects. Therefore, please review the proposed add-ons and in-progress papers and read the HerbVar Authorship Guidelines, which describe the process for forming a working group (see @sec-authorship_process).
 

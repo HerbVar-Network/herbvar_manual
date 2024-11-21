@@ -44,7 +44,7 @@ book:
       chapters: 
         - collaboration/site_pi.qmd
         - collaboration/data_use_guidelines.qmd
-        - collaboration/new_analyses.qmd
+        # - collaboration/new_analyses.qmd
         - collaboration/authorship_process.qmd
         - collaboration/new_data_collection.qmd
         - collaboration/project_review.qmd
