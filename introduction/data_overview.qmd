@@ -1,9 +1,9 @@
 ---
-title: "HerbVar Datasets"
+title: "Overview of HerbVar Datasets"
 ---
 
 
-## Phase 1: Core HerbVar Dataset {#sec-datasets}
+## Core HerbVar Dataset (Phase 1) {#sec-datasets}
 
 The Phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 paper in _Science_. For the Phase 1 Core Dataset we prioritized surveys that added phylogenetic and geographic breadth to analyses - it includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries. 
 
@@ -11,16 +11,15 @@ The first paper that made use of this dataset was published in _Science_ and can
 
 Working groups are currently analyzing parts of the Core Dataset that were not used for the _Science_ paper, and HerbVar members are welcome to propose additional analyses using unpublished portions of the Core Dataset. The still-unpublished Core Data used in these analyses will be archived at Dryad when the resulting papers are are published. 
 
-## Phase 2: Ongoing Data Collection
+## Ongoing Data Collection (Phase 2)
 
 Add-on data collection projects have been added since the completion of Phase 1. We are currently prioritizing:
 
-(i) data collection to assess damage to plant reproductive structures (see @sec-repro),
-(ii) data from species in our five focal plant families (Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae), and  
-(iii) data from our three focal plant species (_Taraxacum officinale_ (Asteraceae), _Plantago lanceolata_ (Plantaginaceae), _Plantago major_ (Plantaginaceae)).  
+1. Collecting data to assess damage to plant reproductive structures (see @sec-repro),
+2. Collecting data from species in our five focal plant families: Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae, 
+3. Collecting data from our three focal plant species: _Taraxacum officinale_ (Asteraceae), _Plantago lanceolata_ (Plantaginaceae), _Plantago major_ (Plantaginaceae). 
 
-
-## Proposing new data collection
+## Proposing the Collection of New Datasets
 
 HerbVar network members are also welcome to propose new add-on projects. See @sec-new_data_collection for details on how to propose add-on projects.
 
