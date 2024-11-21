@@ -6,10 +6,12 @@ date-modified: last-modified
 title: Uploading & Analyzing Data
 ---
 
+
+# Data Cleaning, Validation, & Analysis {#sec-data-analysis}
+
+Instructions for using setting up a github repository for data analysis and making reproducible corrections using scripts. 
+
+
 ## Uploading Data {#sec-uploading_data} 
 
 To upload data, please visit our [data submission portal](https://herbvar.shinyapps.io/data_portal_actual/) and be sure to use the template Excel file linked in @sec-protocols-overview
-
-# Analyzing Data {#sec-data-analysis}
-
-Instructions for using setting up a github repository for data analysis and making reproducible corrections using scripts. 

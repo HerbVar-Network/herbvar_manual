@@ -19,7 +19,7 @@ HerbVar relies heavily on version control with Git/Github to facilitate data val
 
 ## Collecting new HerbVar Data
 
-1. Review and Select Protocols (see @sec-protocols-overview). 
+1. Review and Select Protocols (see @sec-protocols-overview).
 2. Collect Data.
 3. Create a repository for cleaning the data using HerbVar's [`new_dataset_template`](https://github.com/HerbVar-Network/new_dataset_template) (see @sec-data-analysis).
 4. Upload the clean version of the data using the [Herbvar Data Portal](https://herbvar.shinyapps.io/data_portal_actual/)(see @sec-uploading_data).
