@@ -56,7 +56,7 @@ book:
         - workflow/data_analysis.qmd
         - workflow/publications.qmd
     
-    - part: "Protocols"
+    - part: "HerbVar Protocols"
       chapters: 
         - protocols/protocols_overview.qmd
         # - protocols/spp_site_selection.qmd
