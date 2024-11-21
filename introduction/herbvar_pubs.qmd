@@ -6,7 +6,7 @@ date: today
 
 ## Publications {.unnumbered}
 
-**A .bib file of all HerbVar presentations is available for download** [**here**](https://raw.githubusercontent.com/HerbVar-Network/herbvar_manual/refs/heads/main/project_publications.bib?token=GHSAT0AAAAAAC2ASX4DDIAV62IX3MHNIRPQZZKNNXQ).
+**A .bib file of all HerbVar presentations is available for download** [**here**](https://github.com/HerbVar-Network/herbvar_manual/blob/main/project_publications.bib).
 
 Galmán, A., P. G. Hahn, B. D. Inouye, et al. (2024). “Global test of the enemy release hypothesis reveals similar patterns of herbivory across native and non-native plants”. In: _bioRxiv._ DOI: [https://doi.org/10.1101/2024.10.21.619365](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1101%2F2024.10.21.619365).
 
@@ -19,7 +19,7 @@ Wetzel, W. C., B. D. Inouye, P. G. Hahn, et al. (2023). “Variability in Plant�
 
 ## Presentations {.unnumbered}
 
-**A .bib file of all HerbVar presentations is available for download** [**here**](https://raw.githubusercontent.com/HerbVar-Network/herbvar_manual/refs/heads/main/project_presentations.bib?token=GHSAT0AAAAAACX4VYS42HAPGEYMRUA6F7F2ZYGXO6A).
+**A .bib file of all HerbVar presentations is available for download** [**here**](https://github.com/HerbVar-Network/herbvar_manual/blob/main/project_presentations.bib).
 
 
 Bruna, E. M. (2024). Github as a tool for promoting reproducibility and collaboration in the HerbVar Network. _HerbVar Steeting Committee Meeting_.
