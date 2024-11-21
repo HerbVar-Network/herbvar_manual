@@ -38,7 +38,7 @@ book:
         # - introduction/getting_involved.qmd
         - introduction/Network_Structure.qmd
         - introduction/data_overview.qmd
-        - introduction/herbvar_pubs.qmd
+        - introduction/herbvar_products.qmd
         
     - part: "Become a Collaborator"
       chapters: 
