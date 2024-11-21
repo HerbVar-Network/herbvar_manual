@@ -3,8 +3,8 @@ title: Herbvar Products
 date: today
 ---
 
-
-## Publications {.unnumbered}
+<!-- ## Publications {.unnumbered} -->
+## Publications
 
 **A .bib file of all HerbVar presentations is available for download** [**here**](https://github.com/HerbVar-Network/herbvar_manual/blob/main/project_publications.bib).
 
@@ -17,7 +17,7 @@ The Herbivory Variability Network* †, M. L. Robinson, P. G. Hahn, et al. (2023
 Wetzel, W. C., B. D. Inouye, P. G. Hahn, et al. (2023). “Variability in Plant–Herbivore Interactions”. In: Annual Review of Ecology, Evolution, and Systematics 54.1, pp. 451-474. [DOI: 10.1146/annurev-ecolsys-102221-045015](https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102221-045015).
 
 
-## Presentations {.unnumbered}
+## Presentations
 
 **A .bib file of all HerbVar presentations is available for download** [**here**](https://github.com/HerbVar-Network/herbvar_manual/blob/main/project_presentations.bib).
 
@@ -47,7 +47,7 @@ Whitehead, S. R., K. C. Abbott, E. M. Bruna, et al. (2021). Multi-scale spatial 
 Whitehead, S. R., C. Quintero, Y. Sasal, et al. (2024). From leaf to biome: multi-scale variability in plant-herbivore interactions. _Annual Meeting of the Ecological Society of America_, Long Beach, California.
 
 
-## Datasets {.unnumbered}
+## Archived Datasets
 
 Wetzel, William; Hahn, Philip; Inouye, Brian et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. https://doi.org/10.5061/dryad.44j0zpckm
 
