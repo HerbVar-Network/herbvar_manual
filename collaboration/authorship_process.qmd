@@ -4,15 +4,11 @@ date: 09/15/2024
 date-modified: last-modified
 ---
 
-# HerbVar Authorship Process {#sec-authorship_process}
-
-## Introduction
-
-The HerbVar authorship process has been heavily influenced by the authorship process imnplemented by the [Nutrient Network](https://nutnet.org). This process provides ground rules for a fair and inclusive process for establishing authorship while not diluting the value of authorship on a manuscript. HerbVar is grateful to be able to build on the foundation of NutNet’s model for collaborative international ecology. The text below is edited to reflect HerbVar-specific policies, but some is drawn directly from the [NutNet authorship document](https://nutnet.org/authorship). Differences reflect the fact that HerbVar is a much larger network (with hundreds of contributors) and a more fluid network (contributors might only contribute data once, rather than activity maintaining an experimental site). 
-
-## Philosophy - Goals and Benefits
+# HerbVar Authorship Philosophy & Process {#sec-authorship_process}
 
 The primary goals of the HerbVar authorship process are to consistently, accurately, and transparently attribute the contribution of each author to a paper, to encourage participation in manuscripts by interested scientists, and to ensure that each author has made sufficient contribution to the paper to warrant authorship. Secondarily, authoring a paper within the HerbVar process benefits authors by reducing overlap among papers, fostering collaboration, streamlining use of HerbVar data to produce papers through GitHut tools, and helping to publicize HerbVar products. While prospective authors can use published HerbVar data to create products on their own, we encourage all authors working with HerbVar data to work with the network.
+
+The HerbVar authorship process has been heavily influenced by the authorship process imnplemented by the [Nutrient Network](https://nutnet.org). This process provides ground rules for a fair and inclusive process for establishing authorship while not diluting the value of authorship on a manuscript. HerbVar is grateful to be able to build on the foundation of NutNet’s model for collaborative international ecology. The text below is edited to reflect HerbVar-specific policies, but some is drawn directly from the [NutNet authorship document](https://nutnet.org/authorship). Differences reflect the fact that HerbVar is a much larger network (with hundreds of contributors) and a more fluid network (contributors might only contribute data once, rather than activity maintaining an experimental site). 
 
 ## Herbvar Network contributors
 
@@ -55,15 +51,14 @@ If an HerbVar member would like to lead an HerbVar working group paper (that is,
 
 4. Prepare a manuscript proposal, and email it to one of the memebers of the [HerbVar Steering Committee](https://herbvar.org/leadership.html). Your proposal should list:
 
-   - the lead author(s)  
-   - any other known authors  
-   - plans for recruiting additional authors, if any  - the title  
-   - the abstract  
-   - the specific types of data that you wish to use  
-   - A brief overview of the response and predictor variables (if appropriate), and 
-   - a timeline for analysis and writing. 
-
-
+   i. the lead author(s)
+   ii. any other known authors
+   iii. plans for recruiting additional authors, if any  - the title
+   iv. the abstract
+   v. the specific types of data that you wish to use
+   vi. A brief overview of the response and predictor variables (if appropriate), and
+   vii. a timeline for analysis and writing.
+   
 5. Proposed ideas are reviewed by the Steering Committee to ensure there is sufficient distinction from proposed and ongoing HerbVar papers. The Steering Committee may suggest altering or combining analyses and papers to resolve issues of overlap. After receiving Steering Committee Feedback, your proposal will be posted on the HerbVar website.
 
 6. Recruit co-authors as planned. Any invited co-authors should signal their intention to opt-in by responding by email to the lead author before the stated deadline. Lead authors are responsible for communicating regularly with co-authors about progress, including sharing drafts of analyses, figures, and text as often as is productive and practical.
@@ -84,11 +79,11 @@ If an HerbVar member would like to lead an HerbVar working group paper (that is,
 
 We encourage lead authors of working group papers to include as many co-authors as they can productively work with, to prioritize inviting HerbVar network members, and to prioritize inviting early-career scientists and scientists from under-represented groups or regions. 
 
-#### Identifying and inviting potential co-authors
+#### Identifying & inviting potential co-authors of Working Group Papers
 
 HerbVar provides a tool to help lead authors identify potential co-authors to invite to assist with working group papers. All Site PI’s are asked if they would like to be included in a database of individuals interested in co-authorship on small-group papers. The database lists name, career stage, institution and location, areas of expertise and/or topics of particular interest, number of HerbVar papers or manuscripts this person is an author on, what HerbVar datasets they have contributed to, and a link to their website or google scholar page or researchgate page. 
 
-Note that for any of the approaches listed below, authorship requires at least two types of contribution to a paper; see Qualifying for Authorship. The approaches for inviting co-authors listed below are on a continuum from least to most inclusive.
+Note that for any of the approaches listed below, authorship requires at least two types of contribution to a paper; see Qualifying for Authorship. **The approaches for inviting co-authors listed below are on a continuum from least to most inclusive.**
 
 1. **Traditional**. The lead author invites known individuals with value for the particular paper. These individuals may not necessarily be HerbVar members.
 
@@ -96,19 +91,19 @@ Note that for any of the approaches listed below, authorship requires at least t
 
 3. **Application-based**. The lead author invites all HerbVar site PI’s who have contributed data to be used in the project to apply to be one of some limited number of authors, and chooses applicants to create the best team.
 
-4. **Opt-in Limited**. The lead author decides on a number of co-authors they feel they can manage, and offers their paper to all HerbVar site PI’s who have contributed data to be used in this project on an “opt-in” basis. Site PI’s can opt-in until the desired number of collaborators is reached (first-come first-served). 
+4. **Opt-in: Limited**. The lead author decides on a number of co-authors they feel they can manage, and offers their paper to all HerbVar site PI’s who have contributed data to be used in this project on an “opt-in” basis. Site PI’s can opt-in until the desired number of collaborators is reached (first-come first-served). 
 
-5. **Opt-in Open**. The lead author offers their paper to all HerbVar site PI’s who have contributed data to this project on an opt-in basis. Any site PI who wants to participate is invited. If considering this approach, we suggest reading this paper about writing a massively multi-authored paper.
+5. **Opt-in: Open**. The lead author offers their paper to all HerbVar site PI’s who have contributed data to this project on an opt-in basis. Any site PI who wants to participate is invited. If considering this approach, we suggest reading this paper about writing a massively multi-authored paper.
 
-#### Instructions for the Opt-in approaches
+#### Instructions for the _Opt-in_ approaches
 
-Step 1. The lead author identifies site PIs who have contributed data to be used in this project using the HerbVar co-author database. 
+The following steps should be used to identify and invite authors for the Opt-in approaches.
 
-Step 2. The lead author circulates the manuscript proposal to the appropriate site PIs by attaching it as an email to the HerbVar email list. The subject line of the email should include the phrase “OPT-IN PAPER.” This email should also include a deadline by which time co-authors should respond. 
+1. The lead author uses the HerbVar co-author database to identifies site PIs who have contributed data to be used in this project. 
 
-Step 3. Individuals wishing to opt-in respond to the lead author.
+2. The lead author circulates the manuscript proposal to the appropriate site PIs by attaching it as an email to the HerbVar email list. The subject line of the email should include the phrase “OPT-IN PAPER.” This email should also include a deadline by which time co-authors should respond. 
 
-Step 4. The lead author is then responsible for organizing all co-authors to complete the paper.
+Once individuals wishing to opt-in respond to the lead author, the lead author is responsible for working with all co-authors to organzie the process and timeline for completing the paper.
 
 #### When to invite co-authors
 
@@ -137,28 +132,9 @@ Authorship must be earned through a substantial contribution. For co-authorship,
 
 The steering committee works to ensure communication across projects to avoid overlap of manuscripts, and provides guidance on procedures and guidelines. Disputes over authorship and manuscripts should be brought to the Steering Committee (@sec-structure) for resolution.
 
-## Author Lists, Acknowledgements, Keywords, & Citations
+## Manuscript Preparation
 
-### Author lists 
-
-When full lists of authors are not feasible (e.g., on oral presentation abstracts), a short authorship list can be published with “the Members of the Herbivory Variability Network” as a coauthor, and a link to the full HerbVar author list. If possible, include the full author list in the supplement.
-
-### Acknowledgments
-
-**Please use this text in the acknowledgments of HerbVar manuscripts:** "This work was generated using data from the HerbVar Network (https://herbvar.org/) funded at the site-scale by individual researchers. Coordination and data management have been supported by the National Science Foundation under Award No. NSF DEB-2203582 to Will Wetzel and co-PIs."
-
-
-### Keywords
-
-**Please use "HerbVar" as one of the keywords when submitting manuscripts.** This allows products using HerbVar to be more easily found when the articles are indexed in databases such as SCOPUS.
-
-### Citation
-
-When using HerbVar Data in an publication, please be sure to cite both the archived data set _and_ the associated article. For example:
-
-> Wetzel, William; Hahn, Philip; Inouye, Brian et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. https://doi.org/10.5061/dryad.44j0zpckm
-
-> The Herbivory Variability Network (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory. _Science_ 382,679-683. DOI:10.1126/science.adh8830
+Please refer to sec-publications for details on the HerbVar Workflow for preparing manuscripts. This Chapter also includes required information to include manuscripts such as citations of Herbvar datasets and acknowledgement of NSF support.
 
 
 
