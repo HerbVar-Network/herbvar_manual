@@ -41,7 +41,7 @@ This document is written with a focus on vegetative tissue on leafy plants ≤ 2
 
 :::
 
-**If your species is a tree or large shrub**, you have two options:** First, we recommend most HerbVar collaborators restrict themselves to seedlings and saplings, which we define as ≤ 2 m in height. In this case, just ignore any individuals > 2 m tall at your site, and follow the methods below. Make sure to note that you were excluding mature individuals. If you want to include mature trees (> 2 m) in your survey, then please follow the HerbVar Tree Protocol (@sec-tree). The Tree Protocol describes a method for estimating herbivory on a subsample of leaves on each tree. However, after you’ve chosen your subsample of leaves, you will still have to estimate damage on each leaf, so the damage estimation tips and illustrated guides below will still be very helpful.
+**If your species is a tree or large shrub**, you have two options: First, we recommend most HerbVar collaborators restrict themselves to seedlings and saplings, which we define as ≤ 2 m in height. In this case, just ignore any individuals > 2 m tall at your site, and follow the methods below. Make sure to note that you were excluding mature individuals. If you want to include mature trees (> 2 m) in your survey, then please follow the HerbVar Tree Protocol (@sec-tree). The Tree Protocol describes a method for estimating herbivory on a subsample of leaves on each tree. However, after you’ve chosen your subsample of leaves, you will still have to estimate damage on each leaf, so the damage estimation tips and illustrated guides below will still be very helpful.
 
 **If your species is a cactus or other succulent**, then please see the Cactus and Succulent Protocol (@sec-succulents).
 
@@ -82,9 +82,9 @@ Then, I turn facing the plant, open one eye, and I choose whatever leaf I am poi
 
 ::: {#fig-nose layout-ncol=2}
 
-![Is that creep trying to pick his nose with his thumb? No. This is the nose pointing method to acquire a random sample of plant parts. The creep/researcher establishes a fixed point in his field of vision with an “L”-shaped hand position while turned away from the plant.](images/img10.png){#fig-nose}
+![Is that creep trying to pick his nose with his thumb? No. This is the nose pointing method to acquire a random sample of plant parts. The creep/researcher establishes a fixed point in his field of vision with an “L”-shaped hand position while turned away from the plant.](images/img10.png){#fig-nose}{width=70%}
 
-![ He then turns to the plant, opens a single eye, and chooses the leaf that he is pointing to.](images/img11.png){#fig-point}
+![ He then turns to the plant, opens a single eye, and chooses the leaf that he is pointing to.](images/img11.png){#fig-point}{width=70%}
 
 :::
 
