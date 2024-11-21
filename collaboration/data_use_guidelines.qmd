@@ -1,11 +1,11 @@
 ---
-title: Using HerbVar Data
+title: New Analyses with HerbVar Data
 title-block-style: plain
 date: 09/15/2024
 date-modified: last-modified
 ---
 
-## Proposing New Analyses and Papers  {#sec-new_analyses}
+## Overview {#sec-new_analyses}
 
 Our network is excited about researchers using HerbVar data for new analyses and publications. People interested in analyzing HerbVar data for publication should read @sec-new_data_collection and @sec-authorship_process for a detailed outline of how to propose a project and the authorship guidelines.
 

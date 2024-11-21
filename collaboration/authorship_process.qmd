@@ -4,7 +4,9 @@ date: 09/15/2024
 date-modified: last-modified
 ---
 
-# HerbVar Authorship Philosophy & Process {#sec-authorship_process}
+# HerbVar Papers & Authorship {#sec-authorship_process}
+
+## Overview and Philosophy 
 
 The primary goals of the HerbVar authorship process are to consistently, accurately, and transparently attribute the contribution of each author to a paper, to encourage participation in manuscripts by interested scientists, and to ensure that each author has made sufficient contribution to the paper to warrant authorship. Secondarily, authoring a paper within the HerbVar process benefits authors by reducing overlap among papers, fostering collaboration, streamlining use of HerbVar data to produce papers through GitHut tools, and helping to publicize HerbVar products. While prospective authors can use published HerbVar data to create products on their own, we encourage all authors working with HerbVar data to work with the network.
 
