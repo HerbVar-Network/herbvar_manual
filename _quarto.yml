@@ -52,8 +52,8 @@ book:
     - part: "Research Workflow" 
       chapters:
         - workflow/workflow.qmd
-        - workflow/data_collection.qmd
-        - workflow/uploading_data.qmd
+        - workflow/protocols_overview.qmd
+        # - workflow/upload_data.qmd
         - workflow/data_analysis.qmd
         - workflow/publications.qmd
         
