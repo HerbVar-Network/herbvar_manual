@@ -55,13 +55,11 @@ book:
         # - workflow/upload_data.qmd
         - workflow/data_analysis.qmd
         - workflow/publications.qmd
-        
-    - references.qmd
     
     - part: "Protocols"
       chapters: 
         - protocols/protocols_overview.qmd
-        - protocols/spp_site_selection.qmd
+        # - protocols/spp_site_selection.qmd
         - protocols/primary.qmd
         - protocols/damage.qmd
         - protocols/repro_damage.qmd
@@ -70,12 +68,14 @@ book:
         - protocols/tree.qmd
         - protocols/rhizo_geo.qmd
         - protocols/herbivore.qmd    
-        
-    - part: "Appendix 2: Forms & Checklists"
+    
+    - references.qmd
+    
+    - part: "Appendix 1: Forms & Checklists"
       chapters: 
         - forms/onboarding_intro.qmd
         
-    - part: "Appendix 3: HerbVar Admin"
+    - part: "Appendix 2: HerbVar Admin"
       chapters: 
         - admin/potential_collaborators.qmd
         - admin/manual.qmd
