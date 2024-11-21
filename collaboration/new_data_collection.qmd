@@ -6,9 +6,35 @@ date-modified: last-modified
 ---
 # Proposing New Data Collection {#sec-new_data_collection}
 
-## Overview
+HerbVar network members are welcome to propose new add-on data collection efforts by sending a proposal to the Steering Committee. The Steering Committee will review proposals to ensure the network is focusing its efforts on the most important data collection objectives with the highest probability of success. 
 
-HerbVar network members are welcome to propose new add-on data collection efforts by sending a proposal to the Steering Committee. The Steering Committee will review proposals to ensure the network is focusing its efforts on the most important data collection objectives with the highest probability of success. **_Leaders of add-on projects must commit to:_**
+## Species & Site Priorities {#sec-species_site}
+
+Based on Phase 1 of data collection, we ask that you prioritize the following three objectives when proposing species for Phase 2 of data collection: 
+
+### Objective 1: Focal species across gradients
+
+**Goal: **Sample our three focal species -- _Taraxacum officinale_, _Plantago major_, and _Plantago lanceolata_ -- across broad geographic and/or environmental gradients.
+
+**Justification:** Sampling within these three species will increase the depth of our understanding of the effects of particular abiotic gradients (e.g., elevation, precipitation, temperature, etc.) as drivers of variability in herbivory pressure within plant species. Each species is standardized within itself so studies of herbivory across a range of contexts allows for strong inference on the effects of those contexts.
+
+### Objective 2: Novel species & contexts within focal families
+
+**Goal: **Sample species from novel clades or with atypical growth forms within our five focal families -- Apocynaceae, Asteraceae, Fabaceae, Rubiaceae, and Solanaceae. Surveys of plant species that were included in Phase 1 are also welcomed but should prioritize novel regions, habitats, or environmental contexts.
+
+**Justification:** Increased resolution within our five focal families allows for testing of drivers of herbivory variability in a phylogenetically-explicit framework. Understanding the impact of evolutionary differences within these families on the distribution of damage will be crucial in teasing apart macroevolutionary patterns.
+
+### Objective 3: Damage to Reproductive Tissues
+
+**Goal: **Survey damage to the fruits, flowers, and seeds of any species.
+
+**Justification:** Damage to reproductive structures has–arguably–the most direct impact on fitness so an understanding of the drivers of variation in herbivory damage to reproductive tissues is crucial for understanding population-level or fecundity-related consequences of herbivory variation.
+
+
+
+## Responsibilities of Add-on Project Leaders
+
+**_Leaders of add-on projects must commit to:_**
 
 - Creating the data-collection protocol with input from the Steering Committee.
 - Recruiting site PIs to collect sufficient data for at least one publication.

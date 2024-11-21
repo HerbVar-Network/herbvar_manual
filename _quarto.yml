@@ -52,15 +52,15 @@ book:
     - part: "Research Workflow" 
       chapters:
         - workflow/workflow.qmd
-        - workflow/protocols_overview.qmd
         # - workflow/upload_data.qmd
         - workflow/data_analysis.qmd
         - workflow/publications.qmd
         
     - references.qmd
     
-    - part: "Appendix 1: Protocols"
+    - part: "Protocols"
       chapters: 
+        - protocols/protocols_overview.qmd
         - protocols/spp_site_selection.qmd
         - protocols/primary.qmd
         - protocols/damage.qmd

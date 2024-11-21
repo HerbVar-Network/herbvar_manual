@@ -83,20 +83,11 @@ modifications will lead to adequate data.
 
 **First, review HerbVar’s Damage Estimation Training Guidelines** (see @sec-damage). Note that information on precision of estimates and acceptable binning is contained in this document This document contains valuable information on how to estimate percent damage on various leaves. **Next, train and test team members with the [ZAX Herbivory Trainer](https://zaxherbivorytrainer.com/)**. This web-based application, created by Dr. Angela Moles and Zoe Xirocostas, provide a risk-free environment for testing oneself on per-leaf damage estimation Note that the app prompts you to assess damage to the nearest percent while our protocol is slightly coarser (see @tbl-herbiv of the Damage Estimation Guidelines). The app has two stages, one in which you assess damage and are immediately told how close you are to correct and a second where you assess 50 leaves, and the results are given to you at the end. Please feel free to focus on the first part of the app until you are confident (though you are of course welcome to do the second if you want extra training). Finally, **download and familiarize yourself with the datasheets for this protocol**. There are digital (see siteData, densityData, and plantData sheets) and printable versions to facilitate standardized data entry.  If you have a question, feel free to reach out to [herbvar\@gmail.com](mailto:herbvar@gmail.com).
 
-### Delineate a Site
+### Site Selection & Delineation
 
-We realize that defining the ‘edges’ of a site can be subjective and not
-easy. We search for an area where a given plant species occurs at a high
-enough density to easily select 30 focal plants and 30 unique neighbors
-with our method. This is usually a relatively dense patch. Walk around
-and see if you see the density drop off to well below the mean density
-that is used to calculate radius size. This is usually quite simple,
-e.g., when we walk out from the center of a “site” and don’t see any
-individuals of the focal species within 5 m, we decide we’re at the edge
-of a patch. In some systems, delineating a single, sampleable population
-simply might not be possible (e.g., where a species covers a vast area).
-In these cases, collaborators should simply do their best to select a
-reasonable, representative area to sample.
+A “site” should be an area where a given plant species occurs at a high enough density to easily select 30 focal plants and 30 unique neighbors with our method. We can use any site anywhere around the world, but the most valuable sites will represent geographic regions, environmental conditions, habitats, or other ecological characteristics that we do not currently have in our database or that are currently poorly represented in our database. This is especially important for our focal species and re-surveys of other species we already have in our database. It’s less important for new species, especially when those new species are from clades that we do not currently have in the database.
+
+We realize that defining the ‘edges’ of a site can be subjective and not easy. We search for an area where a given plant species occurs at a high enough density to easily select 30 focal plants and 30 unique neighbors with our method. This is usually a relatively dense patch. Walk around and see if you see the density drop off to well below the mean density that is used to calculate radius size. This is usually quite simple, e.g., when we walk out from the center of a “site” and don’t see any individuals of the focal species within 5 m, we decide we’re at the edge of a patch. In some systems, delineating a single, sampleable population simply might not be possible (e.g., where a species covers a vast area). In these cases, collaborators should simply do their best to select a reasonable, representative area to sample.
 
 ### Pick a time to sample
 
