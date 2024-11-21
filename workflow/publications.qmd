@@ -14,22 +14,24 @@ Manuscript Preparation using the github repository / template
 The same template for analyses can be used for creating a manuscript with Rmd
 
 
-
 ## Prior to Submission
+
+[ ] Author Lists: Verify the Name, Institution, and OrcidID of all authors. If full lists of authors are not feasible (e.g., on oral presentation abstracts) or allowed by the journal, a short authorship list can be published with “The Members of the Herbivory Variability Network” as a coauthor, and a link to the full HerbVar author list. If possible, include the full author list in the supplement.
 
 [ ] All HerbVar publications must include the following text in the Acknowledgements:
 
-"This work was supported by the National Science Foundation (Grant No. DEB-2203582)."
+**Please use this text in the acknowledgments of HerbVar manuscripts:** "This work was generated using data from the HerbVar Network (https://herbvar.org/), which was supported by the National Science Foundation (Grant No. DEB-2203582). 
 
+> "This work was supported by the National Science Foundation (Grant No. DEB-2203582)."
 
+[ ] If the data set used in the manuscript has been archived in a repository, please cite both the data set archive and the original article in your paper section. For example, if using the Core Dataset archived at Dryad, your manuscript or presentation should include citations to both of the following: 
 
-[ ] If the data set used has been archived at Dryad, please cite both the data set and the original article in your paper section. For example, include citations to both: 
+> Wetzel, William; Hahn, Philip; Inouye, Brian et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. https://doi.org/10.5061/dryad.44j0zpckm
 
-Wetzel, William et al. (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory [Dataset]. Dryad. [https://doi.org/10.5061/dryad.44j0zpckm](https://doi.org/10.5061/dryad.44j0zpckm)
+> The Herbivory Variability Network (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory. _Science_ 382,679-683. DOI:10.1126/science.adh8830
 
-and 
+[ ] Keywords: **Please use "HerbVar" as one of the keywords when submitting manuscripts.** This allows products using HerbVar to be more easily found when the articles are indexed in databases such as SCOPUS.
 
-The Herbivory Variability Network. 2023. Plant size, latitude, and phylogeny explain within-population variability in herbivory. _Science_ 382: 679-683. [DOI:10.1126/science.adh8830](DOI:10.1126/science.adh8830)
 
 ## Following Submission
 
@@ -41,17 +43,24 @@ The Herbivory Variability Network. 2023. Plant size, latitude, and phylogeny exp
 
 [ ] Update the record in the Zotero library
 
-[ ] Archive the Data with Dryad 
-
-  - only if the data are new, otherwise MS will indicate data source as Dryad
+[ ] Archive any 'new' Data with Dryad
+  
+[ ] Include a citation of the 'new' data's Dryad archive in the accepted version of the manuscript in accordance with the journal's guidelines (e.g., in References, Data Availability Statement, etc.).  
 
 [ ] Archive the Analysis Repo on Zenodo 
 
-  - instructions on freezing the data analysis code repo on zenodo
+  - instructions on freezing the data analysis code repo on Zenodo can be found [here](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) 
+
+[ ] Include a citation of the Analysis Repo in the accepted version of the manuscript in accordance with the journal's guidelines (e.g., in References, Data Availability Statement, etc.).  
 
 [ ] Archive the Manuscript Repo on Zenodo (optional)
 
-  - instructions on freezing the MS repo on zenodo
+  - instructions on freezing the MS repo on Zenodo can be found [here](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) 
+
+Key Information to Include in Presentations or Publications
+
+
+
 
 
 

@@ -47,7 +47,7 @@ book:
         # - collaboration/new_analyses.qmd
         - collaboration/authorship_process.qmd
         - collaboration/new_data_collection.qmd
-        - collaboration/project_review.qmd
+        # - collaboration/project_review.qmd
         
     - part: "Research Workflow" 
       chapters:
