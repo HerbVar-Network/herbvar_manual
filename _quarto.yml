@@ -35,7 +35,7 @@ book:
     - part: "What is HerbVar?"
       chapters: 
         - introduction/intro.qmd
-        - introduction/getting_involved.qmd
+        # - introduction/getting_involved.qmd
         - introduction/Network_Structure.qmd
         - introduction/data_overview.qmd
         - introduction/herbvar_pubs.qmd
