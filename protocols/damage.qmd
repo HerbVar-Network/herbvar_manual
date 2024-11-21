@@ -136,9 +136,7 @@ Finally, the main event—this is probably the main reason you’re reading this
 
 Visual estimation is essentially as simple as it sounds. You look at a leaf and eyeball what percent was removed or damaged by herbivores. The benefit of this method is that it is quick, allowing us to obtain the large sample sizes we need to describe whole herbivory distributions. The caveat is that this method has more measurement error than other methods. For example, Zoe and Julie and Marc Johnson have found that visual estimation tends to overestimate damage by a few percent, particularly for researchers with less experience. We hope to mitigate estimation error with the guidelines below, our Illustrated guide to amounts of percent damage, an online training quiz, and a ground-truthing effort. First we explain how to estimate damage. Second, we explain how to make sure you’re doing a good job.
 
-1. How to estimate damage
-
-Record estimates at a high resolution. We usually record at a resolution of 2.5% (@tbl-herbiv). This may seem like unreasonably high resolution when you first try, but with a little practice and calibration you will get surprisingly good. We encourage trying for high resolution because—even with considerable error—high resolution estimates will likely be closer to the true values on average than estimates reported as broad categories (e.g., 0%, 1-10%, 11-25%, 26-50%... too coarse!). Plus, if you report your best guesses we can model the error statistically; we’re out of luck if you just report broad categories.  
+1. How to estimate damage. Record estimates at a high resolution. We usually record at a resolution of 2.5% (@tbl-herbiv). This may seem like unreasonably high resolution when you first try, but with a little practice and calibration you will get surprisingly good. We encourage trying for high resolution because—even with considerable error—high resolution estimates will likely be closer to the true values on average than estimates reported as broad categories (e.g., 0%, 1-10%, 11-25%, 26-50%... too coarse!). Plus, if you report your best guesses we can model the error statistically; we’re out of luck if you just report broad categories. 
 
 
 : Recommended resolution for recording percent herbivory {#tbl-herbiv}
@@ -153,9 +151,6 @@ Record estimates at a high resolution. We usually record at a resolution of 2.5%
 | 7.5       | ~7.5 % herbivory    |
 | ...       | ...    |
 | 100       | everything removed except base of leaf petiole  |
-
-
-
 
 
 
