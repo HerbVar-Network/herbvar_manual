@@ -970,18 +970,7 @@
     "href": "forms/onboarding_intro.html",
     "title": "21  Onboarding Tasks for New Collaborators",
     "section": "",
-    "text": "21.1 Collaborator Checklist\n[] orcid id [] github account [] email\n[] Data Use Agreement [] Authorship Guidelines",
-    "crumbs": [
-      "Appendix 1: Forms & Checklists",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Onboarding Tasks for New Collaborators</span>"
-    ]
-  },
-  {
-    "objectID": "forms/onboarding_intro.html#collaborator-checklist",
-    "href": "forms/onboarding_intro.html#collaborator-checklist",
-    "title": "21  Onboarding Tasks for New Collaborators",
-    "section": "",
-    "text": "Add the following information to Collaborator Contact Information file\n\n\n\nReview and Sign",
+    "text": "21.1 Collaborator Checklist\nNew collaborators should:\n[] Review and sign the Data Use Agreement\n[] Review the Authorship Guidelines (Chapter 7) [] add required information to Collaborator Contact Information file [] orcid id\n[] link to github account\n[] email",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Onboarding Tasks for New Collaborators</span>"
@@ -992,7 +981,7 @@
     "href": "forms/onboarding_intro.html#admin-checklist",
     "title": "21  Onboarding Tasks for New Collaborators",
     "section": "21.2 Admin Checklist",
-    "text": "21.2 Admin Checklist\nAdd the new collaborator as a user to the following:\n[] Slack [] HerbVar Zotero group [] Relevant Github Access",
+    "text": "21.2 Admin Checklist\nHerbVar Admins then grant access to the following as appropriate:\n[] Slack\n[] HerbVar Zotero Library\n[] Github Access",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Onboarding Tasks for New Collaborators</span>"
@@ -1001,12 +990,23 @@
   {
     "objectID": "forms/data_sharing_contract.html",
     "href": "forms/data_sharing_contract.html",
-    "title": "22  Data-Sharing and Usage Agreement",
+    "title": "22  Data-Sharing & Usage Agreement",
     "section": "",
-    "text": "## Herbivory Variability Network\n\n\n\nThe Herbivory Variability Network is a global network of scientists united in their aim to understand the role of variability in plant-herbivore interactions.\nCollaboratively gathered datasets are increasingly valuable to scientific advancement, particularly for hypotheses that can only be tested with data across a wide geographic area. It is vital however that the products of such collaborations explicitly respect the contributions of the teams and individuals responsible for the collection of the data and development of protocols.\nNote that data collected by Network members that has been published in a public repository already is not subject to this agreement and can be used freely, with appropriate citation. This agreement refers exclusively to unpublished data (including raw versions of published data).\n\n\n\nData Sharing Contract Conditions\n\n\n\n\nThe data sharer releases ownership of the data that they contribute to the HerbVar Network and allows the Network to use the data with appropriate credit given to the data sharer for scientific purposes (e.g., manuscripts, grant applications, etc.). Network members are credited as here and specific co-authorship guidelines for manuscripts produced from Network data are defined here.\nThe data sharer will not publish any findings or conclusions derived from analysis of shared Network data without a written collaboration agreement from the HerbVar Steering Committee (members here). Members are, however, entitled to publish their own personal datasets that they contribute.\nThe data sharer will not distribute, copy, or otherwise make available the shared data (either a subset or in full) to a third party without prior permission from the HerbVar Steering Committee. However, data may be shared with students for educational purposes with notification to the Steering Committee (such notification will be useful for grant annual reports and impact statements). Inappropriate distribution of data includes but is not limited to:\n\n“Committing” the data to a version-controlled repository (e.g., git, SVN, etc.) that may be made public in future (thus making the data publicly available)\nPlacing the data files in a digital folder with un- or semi-restricted access\nSharing physical copies of the data with non-Network members (aside from the teaching exception detailed above)\n\nIf a data sharer wishes to use shared Network data for a manuscript or grant application, the data sharer will provide a written Project Proposal to the HerbVar Network Steering Committee detailing plans for use of the data and any likely products. Changes to the proposed plan need to be approved by the Steering Committee.\n\nIN WITNESS WHEREOF, the Data Sharer has hereunto executed this Data Sharing Agreement as of the date below written.\nPrinted Name:_________________\nSignature:_________________\nDate:_________________",
+    "text": "22.1 Data-Sharing & Usage Agreement",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data-Sharing and Usage Agreement</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data-Sharing & Usage Agreement</span>"
+    ]
+  },
+  {
+    "objectID": "forms/data_sharing_contract.html#herbivory-variability-network",
+    "href": "forms/data_sharing_contract.html#herbivory-variability-network",
+    "title": "22  Data-Sharing & Usage Agreement",
+    "section": "22.2 Herbivory Variability Network",
+    "text": "22.2 Herbivory Variability Network\n\nThe Herbivory Variability Network is a global network of scientists united in their aim to understand the role of variability in plant-herbivore interactions.\nCollaboratively gathered datasets are increasingly valuable to scientific advancement, particularly for hypotheses that can only be tested with data across a wide geographic area. It is vital however that the products of such collaborations explicitly respect the contributions of the teams and individuals responsible for the collection of the data and development of protocols.\nNote that data collected by Network members that has been published in a public repository already is not subject to this agreement and can be used freely, with appropriate citation. This agreement refers exclusively to unpublished data (including raw versions of published data).\n\nData Sharing Contract Conditions\n\n\nThe data sharer releases ownership of the data that they contribute to the HerbVar Network and allows the Network to use the data with appropriate credit given to the data sharer for scientific purposes (e.g., manuscripts, grant applications, etc.). Network members are credited as here and specific co-authorship guidelines for manuscripts produced from Network data are defined here.\nThe data sharer will not publish any findings or conclusions derived from analysis of shared Network data without a written collaboration agreement from the HerbVar Steering Committee (members here). Members are, however, entitled to publish their own personal datasets that they contribute.\nThe data sharer will not distribute, copy, or otherwise make available the shared data (either a subset or in full) to a third party without prior permission from the HerbVar Steering Committee. However, data may be shared with students for educational purposes with notification to the Steering Committee (such notification will be useful for grant annual reports and impact statements). Inappropriate distribution of data includes but is not limited to:\n\n“Committing” the data to a version-controlled repository (e.g., git, SVN, etc.) that may be made public in future (thus making the data publicly available)\nPlacing the data files in a digital folder with un- or semi-restricted access\nSharing physical copies of the data with non-Network members (aside from the teaching exception detailed above)\n\nIf a data sharer wishes to use shared Network data for a manuscript or grant application, the data sharer will provide a written Project Proposal to the HerbVar Network Steering Committee detailing plans for use of the data and any likely products. Changes to the proposed plan need to be approved by the Steering Committee.\n\nIN WITNESS WHEREOF, the Data Sharer has hereunto executed this Data Sharing Agreement as of the date below written.\nPrinted Name:_________________\nSignature:____________________\nDate:_________________________",
+    "crumbs": [
+      "Appendix 1: Forms & Checklists",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data-Sharing & Usage Agreement</span>"
     ]
   },
   {
