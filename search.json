@@ -970,7 +970,18 @@
     "href": "forms/onboarding_checklist.html",
     "title": "21  Onboarding Checklist for New Collaborators",
     "section": "",
-    "text": "21.1 Collaborator Checklist\nNew collaborators should:\n[] Review and sign the Data Use Agreement\n[] Review the Authorship Guidelines (Chapter 7) [] add required information to Collaborator Contact Information file [] orcid id\n[] link to github account\n[] email",
+    "text": "21.1 Collaborator Checklist\nNew collaborators should:\n[] Review and sign the Data Use Agreement\n[] Review the Authorship Guidelines (Chapter 7) [] add required information to Collaborator Contact Information file",
+    "crumbs": [
+      "Appendix 1: Forms & Checklists",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Onboarding Checklist for New Collaborators</span>"
+    ]
+  },
+  {
+    "objectID": "forms/onboarding_checklist.html#collaborator-checklist",
+    "href": "forms/onboarding_checklist.html#collaborator-checklist",
+    "title": "21  Onboarding Checklist for New Collaborators",
+    "section": "",
+    "text": "[] orcid id   \n[] link to github account  \n[] email",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Onboarding Checklist for New Collaborators</span>"
@@ -992,7 +1003,18 @@
     "href": "forms/forms_list.html",
     "title": "22  HerbVar Forms",
     "section": "",
-    "text": "23 Data-Sharing & Usage Agreement",
+    "text": "22.1 Data-Sharing & Usage Agreement",
+    "crumbs": [
+      "Appendix 1: Forms & Checklists",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>HerbVar Forms</span>"
+    ]
+  },
+  {
+    "objectID": "forms/forms_list.html#data-sharing-usage-agreement",
+    "href": "forms/forms_list.html#data-sharing-usage-agreement",
+    "title": "22  HerbVar Forms",
+    "section": "",
+    "text": "Data-Sharing and Usage Agreement (.pdf format)",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>HerbVar Forms</span>"
@@ -1002,8 +1024,8 @@
     "objectID": "forms/forms_list.html#herbvar-data-collection-sheets",
     "href": "forms/forms_list.html#herbvar-data-collection-sheets",
     "title": "22  HerbVar Forms",
-    "section": "23.1 HerbVar Data Collection Sheets",
-    "text": "23.1 HerbVar Data Collection Sheets\nUse the links to download printable versions of the HerbVar Data Collection Forms in .pdf format and the HerbVar Datasheet Template in .xlsx format.\n\nPRIMARY Datasheet\nREPRO Datasheet\nHERBIVORE Datasheet\nHERBIVORE Datasheet Template (.xlsx)",
+    "section": "22.2 HerbVar Data Collection Sheets",
+    "text": "22.2 HerbVar Data Collection Sheets\nUse the links to download printable versions of the HerbVar Data Collection Forms in .pdf format and the HerbVar Datasheet Template in .xlsx format.\n\nPRIMARY Datasheet\nREPRO Datasheet\nHERBIVORE Datasheet\nHERBIVORE Datasheet Template (.xlsx)",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>HerbVar Forms</span>"
