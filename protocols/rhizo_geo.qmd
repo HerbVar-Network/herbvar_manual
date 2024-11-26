@@ -41,10 +41,12 @@ When first starting this for a new species or at a new site, we suggest spending
       c. Herbivore damage in one of 3 ways:
     
         i. Total number of leaf fans (ramets). For genets with >100 ramets, write “100” and make a note that your estimate was capped at 100. 
+        
         ii. Estimated percent damage across the whole genet. Visually scan all the green areas of all ramets and all leaves, and estimate the percentage of damage.
+
         iii. If the plant has <10 ramets, sample all ramets. From each chosen ramet, pick the 2nd or 3rd leaf from top and estimate percent herbivory. These leaves are putatively in the same developmental stage and are the same age, thus exposed to herbivory for equal time. 
     
-    Note that tip of the leaf may be dry due to climate fluctuations in the arid regions. This area of dry leaf counts as leaf area, but not as herbivory damage
+        iv. **Note:** the tip of the leaf may be dry due to climate fluctuations in the arid regions. This area of dry leaf counts as leaf area, but not as herbivory damage. 
 
 5. Record the same data for the first nearest conspecific neighbor (of a different genet) that you recorded for the focal plant.
 

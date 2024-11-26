@@ -6,9 +6,12 @@ date-modified: last-modified
 
 # Primary Protocol {#sec-primary}
 
-## Introduction
+## Overview
 
-Below, we provide a straight-forward and broadly applicable protocol to achieve project goal of quantifying variability in plant-herbivore interactions. This is HerbVar’s Primary Survey Protocol. In brief, 30 randomly selected plant individuals in a site (\~population) are surveyed for herbivore damage and (possibly) herbivore abundance. Data are also collected on the nearest conspecific neighbor of each plant (for a total of N = 60 plants). These methods yield estimates of variability, skew, and spatial patterns (e.g., autocorrelation) in herbivore damage. 
+Below, we provide a straight-forward and broadly applicable protocol to achieve project goal of quantifying variability in plant-herbivore interactions. This is HerbVar’s Primary Survey Protocol. In brief, 30 randomly selected plant individuals in a site (\~population) are surveyed for herbivore damage and (possibly) herbivore abundance. Data are also collected on the nearest conspecific neighbor of each plant (for a total of N = 60 plants). These methods yield estimates of variability, skew, and spatial patterns (e.g., autocorrelation) in herbivore damage. If the Primary Protocol is not feasible for a species or site, then we
+suggest one of the alternative protocols.
+
+
 
 ::: {.callout-important title="Alternatives to the Primary Protocol"}
 
@@ -24,10 +27,8 @@ The HerbVar Primary Survey Protocol is designed to work for many common plant gr
 
 :::
 
-If the Primary Protocol is not feasible for a species or site, then we
-suggest one of the alternative protocols. If none of these alternative
-protocols fits the situation, then collaborators may deviate from the
-primary protocol. We trust collaborators to decide how to adapt the
+
+If none of these alternative protocols fits the situation, then collaborators may deviate from the primary protocol. We trust collaborators to decide how to adapt the
 primary protocol in ways that work for their systems. We suggest,
 however, that collaborators strive to follow the spirit of the protocol
 below: randomly select at least 30 plants from a site and census them
@@ -109,14 +110,9 @@ And repeat sampling is acceptable.
 
 ### Determine a radius for your circular quadrats  
 
-a.  **If you are sampling one of the HerbVar focal species**
-        (_Taraxacum officinale, Plantago major, Plantago
-        lanceolata_): Use a radius of 0.4 m for your quadrats. This
-        will standardize across surveys of these same species. Note that
-        if your populations are sparse, you may use a larger radius
-        following the other process or pre-calculated values (@tbl-radius).
+A. **If you are sampling one of the HerbVar focal species** (_Taraxacum officinale, Plantago major, Plantago lanceolata_): Use a radius of 0.4 m for your quadrats. This will standardize across surveys of these same species. Note that if your populations are sparse, you may use a larger radius following the other process or pre-calculated values (@tbl-radius).
 
-b.  **If you are using any other species**, use the following process to determine a quadrat radius or use the table below:
+B. **If you are using any other species**, use the following process to determine a quadrat radius or use the table below:
 
       1.  Estimate mean density of plants (plants per m$^2$)
       2.  Count the number of plants in 1 m$^2$ at 10 random locations
@@ -126,7 +122,7 @@ b.  **If you are using any other species**, use the following process to determi
             would on average contain 4 plants *r* = 4/(π*_D_*).
       5. This approach seeks an optimal, intermediate quadrat size that balances the costs associated with a small quadrat size (many empty quadrats) and a large quadrat size (quadrats that require counting many plant individuals).
         
-c. Instead of calculating as above, you may also use this pre-calculated set of radii (@tbl-radius) for non-focal species. ***Remember, for focal species, please use 0.4 m***
+C. Instead of calculating as above, you may also use this pre-calculated set of radii (@tbl-radius) for non-focal species. ***Remember, for focal species, please use 0.4 m***
 
 : Table 1. Pre-Calculated Quadrat Radii {#tbl-radius}
 
@@ -182,7 +178,7 @@ c. Instead of calculating as above, you may also use this pre-calculated set of 
 5.  If the circular quadrat has 0 plants, record a zero and continue to
     the next quadrat
 
-6. If the circular quadrat has \> 0 plants: Randomly choose 1 of the
+6. If the circular quadrat has $> 0$ plants: Randomly choose 1 of the
     plants within the quadrat to survey A quicker alternative would be
     to choose the plant closest to the quadrat center. But this is
     recommended only if you think it will produce an unbiased sample of
@@ -263,12 +259,12 @@ breaking apart damage by type or even species of herbivore if possible
     selected plant: All the same data as focal plant except nothing for
     neighbor’s neighbor
 
-18. Continue visiting the randomly selected points until ≥ 30 focal
+18. Continue visiting the randomly selected points until $\ge 30$ focal
     plants and 30 nearest neighbors have been surveyed
 
 
 ![A diagram of the sampling scheme described in the text. (1)
-Record plant density in 10 randomly located 1-m2 areas to estimate
+Record plant density in 10 randomly located $1 m^{2}$ areas to estimate
 average plant density D, which is used to calculate quadrat radius r.
 (2) A quadrat with one focal plant and its nearest neighbor (outside
 quadrat). (3) A quadrat with no focal plants. (4) A quadrat with 5 focal
