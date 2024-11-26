@@ -22,11 +22,11 @@ This protocol outlines three methods for surveying sites where the focal plant p
 
 The best method, when feasible, is to census all of the individuals in a patch. This will work when there is a well-defined patch with a reasonable number of plants (e.g., < ~90). If this is possible, it is better in many ways than the Primary Protocol because it describes the whole distribution of herbivory at the site—there’s no risk of missing the tails of the distribution if every plant has been included! Also, depending on the context, this could be faster than our Primary Protocol because setting up transects and quadrats to randomly sample plants is time consuming. So comprehensively examining all of a patch’s 90 plants, for example, might be faster than randomly sampling 60 plants (30 focal plants and their 30 neighbors) from a larger population. For this method, we stress that you should strive to survey every plant.
 
-**Record spatial information via one of two methods:**
+### **Record spatial information via one of two methods**
 
-  **Option A. Record GPS position of each plant.** If you do this, you will not need to record nearest neighbor information because we can reconstruct it (and more!) easily from the geographic coordinates. This of course means that you will need a GPS sensitive enough to differentiate the locations of your plants. If your plants are on average more than 2-3 m apart, then almost any modern GPS will be precise enough. If, however, your plants average less than ~1 m apart, then you would need a very precise GPS to describe the relative locations accurately. If you don’t have such a precise GPS (or if you don’t like how slow a precise GPS can be), we recommend the second method.
+**Option A. Record GPS position of each plant.** If you do this, you will not need to record nearest neighbor information because we can reconstruct it (and more!) easily from the geographic coordinates. This of course means that you will need a GPS sensitive enough to differentiate the locations of your plants. If your plants are on average more than 2-3 m apart, then almost any modern GPS will be precise enough. If, however, your plants average less than ~1 m apart, then you would need a very precise GPS to describe the relative locations accurately. If you don’t have such a precise GPS (or if you don’t like how slow a precise GPS can be), we recommend the second method.
 
-  **Option B: Relative spatial coordinates:** You can measure the relative coordinates of your plants using two tape measures or a tape measure and a meter stick. This sounds similar to the primary protocol but it’s much quicker because you’re not using the tapes to select plants, just to record their locations.
+**Option B: Relative spatial coordinates:** You can measure the relative coordinates of your plants using two tape measures or a tape measure and a meter stick. This sounds similar to the primary protocol but it’s much quicker because you’re not using the tapes to select plants, just to record their locations.
 
   - Lay a tape measure through your patch. For each plant, record spatial coordinates as how far along the tape measure and how far from the tape measure. You can situate the tape either along the edge of the patch or through the middle of the patch.
 
@@ -34,7 +34,7 @@ The best method, when feasible, is to census all of the individuals in a patch. 
 
   - After recording this information, follow the Primary Protocol as closely as possible
 
-**Other useful information**
+### **Other useful information**
 
 1. Record `popDiameter1` and `popDiameter2` as the approximate extents of your patch/census area
 
@@ -62,11 +62,12 @@ This is similar to the Primary Protocol except pacing (rather than measuring wit
 
 This method is similar to the comprehensive census of a patch (#1 above), but it applies when there is no well-defined patch and individuals are widely dispersed over a large area. **_There are two ways to do this, but for both of these methods record spatial coordinates for each plant as described in Option #1 above._**  
 
-  **Option A - Comprehensive survey of all plants along a transect: **With this method, you are doing a comprehensive survey of a linear subset of the whole population. 
+**Option A - Comprehensive survey of all plants along a transect: **With this method, you are doing a comprehensive survey of a linear subset of the whole population. 
     1. Start by randomly picking a transect starting point and direction. 
     2. Walk the transect and survey every plant that crosses your path 
 *or* every plant within a reasonable distance of your path (e.g., 2 m). 
     3. Keep going until you get at least 60 plants. 
 
-  **Option B: Comprehensive survey radiating out from a random starting point within a population. ** With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population. The cons of this approach are that if your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch''.
-    1. Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. _We do not recommend doing this unless your plants truly are all widely dispersed._
+**Option B: Comprehensive survey radiating out from a random starting point within a population. ** With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population. The cons of this approach are that if your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch''.
+
+1. Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. _We do not recommend doing this unless your plants truly are all widely dispersed._
