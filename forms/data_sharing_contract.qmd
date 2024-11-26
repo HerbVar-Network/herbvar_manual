@@ -1,8 +1,8 @@
 ---
 title: "Data-Sharing & Usage Agreement"
 date-modified: last-modified
----
 
+---
 
 ## Data-Sharing & Usage Agreement
 ## _Herbivory Variability Network_
