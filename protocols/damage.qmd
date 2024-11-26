@@ -240,6 +240,6 @@ Please let us know if you have additional tips, suggestions, or guidelines we ca
 
 ::: {.callout-important}
 
-If you’re in an area with tick-borne diseases, don’t forget to check for ticks after!
+If you’re in an area with tick-borne diseases, don’t forget to check for ticks after finishing fieldwork!
 
 :::
