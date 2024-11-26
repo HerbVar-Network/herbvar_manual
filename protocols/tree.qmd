@@ -21,10 +21,11 @@ Mature trees, though harder to study than smaller plants, are a key plant growth
 
 1. Follow the Primary Protocol. This includes (but isn’t limited to) the following data:
 
-  a. Leaf-level percent herbivory estimates for 10 randomly selected leaves
-  b. Counts of presence/absence of herbivory for up to 60 leaves per plant
-  c. A whole-plant visual estimate of herbivory
-  d. And of course please record the number of galls, mines, and other discrete damage types from sessile herbivores
+    a. Leaf-level percent herbivory estimates for 10 randomly selected leaves 
+    b. Counts of presence/absence of herbivory for up to 60 leaves per plant
+    c. A whole-plant visual estimate of herbivory
+    d. And of course please record the number of galls, mines, and other discrete damage types from sessile herbivores
+    
 
 2. Please note in the metadata that you surveyed only immature individuals (≤ 2 m) at your site. Such a note can be complemented by recording the height of the individuals in the `plantSize` columns
 
@@ -32,15 +33,15 @@ Mature trees, though harder to study than smaller plants, are a key plant growth
 
 1. Follow the Primary Protocol & Site Selection Protocol to pick a site, set up a transect, and randomly select focal trees or quadrats. 
 
-> Many tree species cover huge geographic areas, making it unreasonable to survey an entire “population” or define a discrete study “site.” If you are working with a widespread species, it is fine to choose a “representative” study area, which actually might just be a small part of a large stand of trees.
+    Many tree species cover huge geographic areas, making it unreasonable to survey an entire “population” or define a discrete study “site.” If you are working with a widespread species, it is fine to choose a “representative” study area, which actually might just be a small part of a large stand of trees.
 
 2. Once you have selected a representative study area, you will need to randomly select 30 trees to survey (plus their nearest conspecific neighbors). There are many ways to do this. **Here are three methods in somewhat decreasing order of amount of work and rigor:**
 
-  a. Follow the Primary Protocol exactly, establishing a transect, selecting 30 points randomly (distance along main transect and distance from main transect), and using a circular quadrat at each point to randomly select 1 individual of the tree species within the quadrat (as in the Primary Protocol). Survey each selected tree and its nearest neighbor.
+    a. Follow the Primary Protocol exactly, establishing a transect, selecting 30 points randomly (distance along main transect and distance from main transect), and using a circular quadrat at each point to randomly select 1 individual of the tree species within the quadrat (as in the Primary Protocol). Survey each selected tree and its nearest neighbor.
 
-  b. Follow the Primary Protocol except skip the circular quadrat step, which could need to be prohibitively large in some tree populations: Establish a transect and randomly select 30 points (distance along main transect and distance from main transect). Then select and survey the individual nearest to each random point (plus nearest neighbor).
+    b. Follow the Primary Protocol except skip the circular quadrat step, which could need to be prohibitively large in some tree populations: Establish a transect and randomly select 30 points (distance along main transect and distance from main transect). Then select and survey the individual nearest to each random point (plus nearest neighbor).
 
-  c. For trees that are at low density or low abundance, please consult our Low Density Protocol to select trees. For low-abundance plants, we recommend surveying every plant within some area. Take GPS coordinates for each plant. Try to get as close to 60 plants as possible. If you are taking GPS coordinates for each plant, then you do not need to measure distances to nearest neighbors because we can measure spatial relationships using the GPS data.
+    c. For trees that are at low density or low abundance, please consult our Low Density Protocol to select trees. For low-abundance plants, we recommend surveying every plant within some area. Take GPS coordinates for each plant. Try to get as close to 60 plants as possible. If you are taking GPS coordinates for each plant, then you do not need to measure distances to nearest neighbors because we can measure spatial relationships using the GPS data.
 
 3. However you select trees, please make sure to take detailed notes on what you did. 
 
@@ -48,13 +49,13 @@ Mature trees, though harder to study than smaller plants, are a key plant growth
 
 5. Randomly select 30 leaves for quantitative estimates of percent herbivory on each of the 30 leaves. 
 
-  a. See Primary Protocol and Damage Estimation Training Document for guidelines on quantifying percent herbivory per leaf
+    a. See Primary Protocol and Damage Estimation Training Document for guidelines on quantifying percent herbivory per leaf
 
-  b. Please also record the number of galls, mines, and other discrete damage types. Note that mines should be included both in percent damage (because they represent damaged surface area) and as counts.
+    b. Please also record the number of galls, mines, and other discrete damage types. Note that mines should be included both in percent damage (because they represent damaged surface area) and as counts.
 
-  c. Randomly select an additional 30 leaves to score for presence/absence of herbivory. Record the number out of 30 with herbivory.
+    c. Randomly select an additional 30 leaves to score for presence/absence of herbivory. Record the number out of 30 with herbivory.
 
-  d. Do not worry about estimating herbivory at the whole-plant scale for mature trees; we will estimate this using the 30 presence/absence leaves and the 30 percent herbivory leaves
+    d. Do not worry about estimating herbivory at the whole-plant scale for mature trees; we will estimate this using the 30 presence/absence leaves and the 30 percent herbivory leaves
 
 ## Protocol for selecting leaves for herbivory estimates
 
