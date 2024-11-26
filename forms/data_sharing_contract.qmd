@@ -17,9 +17,9 @@ Note that data collected by Network members that has been published in a public 
 _Data Sharing Contract Conditions_
 ----
 
-1. The data sharer releases ownership of the data that they contribute to the HerbVar Network and allows the Network to use the data with appropriate credit given to the data sharer for scientific purposes (e.g., manuscripts, grant applications, etc.). Network members are credited as here and specific co-authorship guidelines for manuscripts produced from Network data are defined here.
+1. The data sharer releases ownership of the data that they contribute to the HerbVar Network and allows the Network to use the data with appropriate credit given to the data sharer for scientific purposes (e.g., manuscripts, grant applications, etc.). Network members are credited as [here](https://herbvar.org/CollaboratorDirectory.html) and specific co-authorship guidelines for manuscripts produced from Network data are defined [here.](https://herbvar-network.github.io/herbvar_manual/introduction/Network_Structure.html)
 
-2. The data sharer will not publish any findings or conclusions derived from analysis of shared Network data without a written collaboration agreement from the HerbVar Steering Committee (members here). Members are, however, entitled to publish their own personal datasets that they contribute.
+2. The data sharer will not publish any findings or conclusions derived from analysis of shared Network data without a written collaboration agreement from the HerbVar Steering Committee (members [here](https://herbvar-network.github.io/herbvar_manual/introduction/Network_Structure.html)). Members are, however, entitled to publish their own personal datasets that they contribute.
 
 3. The data sharer will not distribute, copy, or otherwise make available the shared data (either a subset or in full) to a third party without prior permission from the HerbVar Steering Committee. However, data may be shared with students for educational purposes with notification to the Steering Committee (such notification will be useful for grant annual reports and impact statements). Inappropriate distribution of data includes but is not limited to:
 

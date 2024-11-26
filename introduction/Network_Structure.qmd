@@ -37,7 +37,7 @@ The HerbVar Steering Committee guides the development and implementation of Herb
 
 ## Members 
 
-HerbVar membership is open to all professionally-trained researchers with expertise in plant-herbivore interactions who plan to collect data or participate in a working group. Members can become Site PIs, can join or lead working groups, or both (see below and @sec-getting_involved).
+HerbVar membership is open to all professionally-trained researchers with expertise in plant-herbivore interactions who plan to collect data or participate in a working group. Members can become Site PIs, can join or lead working groups, or both (see below and @sec-overview).
 
 ## Site PIs
 
