@@ -92,41 +92,36 @@ This can get confusing, but do your best. Each count doesn’t have to be exactl
 
 Some groups of insects (e.g. Hemipterans, Coleopterans) include predatory, herbivorous, and omnivorous species - and it can be challenging to tell the two groups apart. Other groups are more certain to be herbivores. Use this visual guide to identify insects within the five core groups.
 
-### Grasshoppers / crickets / katydids (Orthoptera)
+### Grasshoppers, crickets, & katydids (Orthoptera)
 
 
-![](images/img23.png){#fig-herbvivores1}
+![Grasshoppers, crickets, & Katydids.](images/img23.png){#fig-herbvivores1}
 
 <!-- Grasshoppers (suborder: Caelifera); crickets/katydids (suborder: Ensifera) -->
-
 <!-- May be confused with: mantids (left) or hoppers (right) -->
 <!-- Synapomorphies & Identifying Marks: Have swollen “knee” joints of hind legs (femoro-tibial joints), “chewing” mouthparts (mandibulate) and forelegs are never raptorial -->
 
 
 ### Caterpillar-like (larval forms ONLY)
 
-![](images/img24.png){#fig-herbvivores2}
+![Larval forms of caterpillar-like herbivores.](images/img24.png){#fig-herbvivores2}
 
 <!-- Lepidopteran caterpillars; sawfly larvae; herbivorous beetle larvae -->
-
 <!--  May be confused with: syrphid larvae (left) or coccinellid larvae (right) -->
-
 <!-- Synapomorphies & Identifying Marks: Have cylindrical bodies with a well-developed head capsule. Have both true (thoracic) legs and abdominal prolegs. Specimens lacking legs entirely or with only six legs do not belong in this group. -->
 
 
 ### Hoppers (Hemiptera: Auchenorrhyncha)
 
-![](images/img25.png){#fig-herbvivores3}
+![Hoppers.](images/img25.png){#fig-herbvivores3}
 <!-- Leafhoppers, treehoppers, planthoppers, and cicadas -->
-
 <!-- May be confused with: true bugs (i.e., Hemiptera: Heteroptera) -->
-
 <!-- Synapomorphies & Identifying Marks: Have piercing/sucking mouthparts with “beak” seeming to originate from the neck. Wings or dorsal exoskeleton sometimes modified into leathery covering. Antennae bristle-like (aristate) and short originating beneath eyes -->
 
 
 ### Aphids (Hemiptera: Aphididae)
 
-![](images/img26.png){#fig-herbvivores4}
+![Aphids.](images/img26.png){#fig-herbvivores4}
 
 
 <!-- May be confused with: whitefly -->
@@ -134,14 +129,12 @@ Some groups of insects (e.g. Hemipterans, Coleopterans) include predatory, herbi
 <!-- Synapomorphies & Identifying Marks: Have a pear-shaped body and may/may not have wings. Pair of tubes (cornicles) projecting from rear often present -->
 
 
-### Non-Aphid Sternorrhynchans (whiteflies, mealybugs, scale insects)
+### Non-Aphid Sternorrhynchans (whiteflies, mealybugs, & scale insects)
 
-![](images/img27.png){#fig-herbvivores5}
+![Whiteflies, Mealybugs, & Scale insects](images/img27.png){#fig-herbvivores5}
 
 
 <!-- Whitefly (Aleyrodidae); mealybug (Pseudococcidae); scale insect (Coccoidea) -->
-
 <!-- May be confused with: aphids -->
-
 <!-- Synapomorphies & Identifying Marks: Relatively distant relatedness among these three taxa but each is relatively small (i.e., <5 mm) and distinctive. Mealybugs and scales are often found clustered on stems at high densities. -->
 
