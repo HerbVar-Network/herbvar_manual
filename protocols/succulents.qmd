@@ -18,23 +18,23 @@ Cacti can be thought to consist of one or more (usually spiny) tubes with flower
 
 1. **Single, unbranched tube stuck in the ground** (e.g., in the American Southwest, a barrel or a pincushion cactus).  As they age, they get taller and wider, but they never branch or clone. If there is a cluster, they are genetically different from each other (I am almost sure, JB).  
 
-  **Entire structure should be scrutinized for herbivore damage**. When these cacti form a cluster, they should be categorized as multiple individuals rather than as a single individual.  
+    **Entire structure should be scrutinized for herbivore damage**. When these cacti form a cluster, they should be categorized as multiple individuals rather than as a single individual.  
 
 2. **Set of unbranched tubes connected underground** (e.g., a hedgehog cactus (small), or a senita or organ pipe cactus (large)). They add units as they age. 
 
-  **Either the whole thing can be scrutinized for damage, or a subset of units could be (please make a note of which path you chose)**. If there are not that many units, full sampling is possible. However, some of these cacti get very tall. Since much damage seems to accrue at tube tips, one really should look at the entire length.
+    **Either the whole thing can be scrutinized for damage, or a subset of units could be (please make a note of which path you chose)**. If there are not that many units, full sampling is possible. However, some of these cacti get very tall. Since much damage seems to accrue at tube tips, one really should look at the entire length.
 
 3. **Tube that starts to branch above the ground** as it ages (e.g., a saguaro cactus).
 
-  **Same method as #2** (again, please make a note of whether you examined the whole plant or a subset of units).
+    **Same method as #2** (again, please make a note of whether you examined the whole plant or a subset of units).
 
 4. **Large set of tubes connected at distinct joints** (e.g., a cholla cactus). New tubes are added as the plant ages.
 
-  **Subsampling within individuals will usually be necessary** because individuals often have many tubes. Our protocol below, which is focused on cacti with many joints, describes a method for subsampling up to 20 joints per plant.
+    **Subsampling within individuals will usually be necessary** because individuals often have many tubes. Our protocol below, which is focused on cacti with many joints, describes a method for subsampling up to 20 joints per plant.
 
 5. **Large set of tubes connected at distinct joints _but flattened into pancakes_** (e.g., a prickly pear cactus). New tubes are added as the plant ages.
 
-  Same method as #4.
+    Same method as #4.
 
 ## Expected Types of Herbivory
 
