@@ -18,23 +18,23 @@ Cacti can be thought to consist of one or more (usually spiny) tubes with flower
 
 1. **Single, unbranched tube stuck in the ground** (e.g., in the American Southwest, a barrel or a pincushion cactus).  As they age, they get taller and wider, but they never branch or clone. If there is a cluster, they are genetically different from each other (I am almost sure, JB).  
 
-> **Entire structure should be scrutinized for herbivore damage**. When these cacti form a cluster, they should be categorized as multiple individuals rather than as a single individual.  
+    > **Entire structure should be scrutinized for herbivore damage**. When these cacti form a cluster, they should be categorized as multiple individuals rather than as a single individual.  
 
 2. **Set of unbranched tubes connected underground** (e.g., a hedgehog cactus (small), or a senita or organ pipe cactus (large)). They add units as they age. 
 
-> **Either the whole thing can be scrutinized for damage, or a subset of units could be (please make a note of which path you chose)**. If there are not that many units, full sampling is possible. However, some of these cacti get very tall. Since much damage seems to accrue at tube tips, one really should look at the entire length.
+    > **Either the whole thing can be scrutinized for damage, or a subset of units could be (please make a note of which path you chose)**. If there are not that many units, full sampling is possible. However, some of these cacti get very tall. Since much damage seems to accrue at tube tips, one really should look at the entire length.
 
 3. **Tube that starts to branch above the ground** as it ages (e.g., a saguaro cactus).
 
-> **Same method as #2** (again, please make a note of whether you examined the whole plant or a subset of units).
+    > **Same method as #2** (again, please make a note of whether you examined the whole plant or a subset of units).
 
 4. **Large set of tubes connected at distinct joints** (e.g., a cholla cactus). New tubes are added as the plant ages.
 
-> **Subsampling within individuals will usually be necessary** because individuals often have many tubes. Our protocol below, which is focused on cacti with many joints, describes a method for subsampling up to 20 joints per plant.
+    > **Subsampling within individuals will usually be necessary** because individuals often have many tubes. Our protocol below, which is focused on cacti with many joints, describes a method for subsampling up to 20 joints per plant.
 
 5. **Large set of tubes connected at distinct joints _but flattened into pancakes_** (e.g., a prickly pear cactus). New tubes are added as the plant ages.
 
-> Same method as #4.
+    > Same method as #4.
 
 ## Expected Types of Herbivory
 
@@ -66,13 +66,13 @@ We designed this with prickly pear (_Opuntia_ spp.) in mind, but it should work 
 
 4. We recommend focusing only on young cactus pads. But you should decide if this will do a good job representing the plant-herbivore interaction and distribution of herbivory for your species. By young pads we mean those that are final joints, i.e., that don’t have another pad growing out of them. Problems with older pads include:
 
-a. Older pads can be many years old, thus integrating herbivory over a much longer time than happens for other plant species in HerbVar (few plants hold leaves as long as cacti hold their pads)
+    a. Older pads can be many years old, thus integrating herbivory over a much longer time than happens for other plant species in HerbVar (few plants hold leaves as long as cacti hold their pads)
 
-b. Practically, it’s very hard to determine and quantify what is herbivory vs physical damage on older pads
+    b. Practically, it’s very hard to determine and quantify what is herbivory vs physical damage on older pads
 
-c. Physically, it can be hard and dangerous to access older pads on spiny plants!
+    c. Physically, it can be hard and dangerous to access older pads on spiny plants!
 
-d. If you think focusing on young pads will not be good for your species, then please modify the protocol to include older pads. 
+    d. If you think focusing on young pads will not be good for your species, then please modify the protocol to include older pads. 
 Take detailed notes.
 
 5. Ideally, investigate the major types of damage you may see, potentially making a cheat sheet of photos.
@@ -87,22 +87,22 @@ Take detailed notes.
 
 3. If you have a site with >90 plant individuals, follow the Primary Protocol from the beginning until you have your first plant for herbivory estimation. Briefly: 
 
-a. Pick transect and subtransect distances that will encompass your site and lay the transect through the site.
+    a. Pick transect and subtransect distances that will encompass your site and lay the transect through the site.
 
-b. Estimate the density of plants in the population.
+    b. Estimate the density of plants in the population.
 
-c. Use the estimated plant density to calculate a quadrat radius to use for the survey.
+    c. Use the estimated plant density to calculate a quadrat radius to use for the survey.
 
-d. Randomly generate x,y points, visit them, and set up a quadrat centered on each random point, selecting 1 plant randomly within each quadrat. See the Primary Protocol for more detail.
+    d. Randomly generate x,y points, visit them, and set up a quadrat centered on each random point, selecting 1 plant randomly within each quadrat. See the Primary Protocol for more detail.
 
 4. Once the first plant is selected, survey it for herbivory. For vegetative herbivory, we recommend focusing only on terminal pads (see #4 above). Terminal pads are those at the end of a branching structure, without another pad growing out of them. Also, focus only on the visible surfaces of pads because moving spiny pads safely is difficult and time consuming! **Record herbivory from all organisms in one column and herbivory you are certain was just from insects in a second column**. We found it was difficult to distinguish insect herbivory from vertebrate herbivory, so we usually recorded “totalHerb” Occasionally it was clear some herbivory was just from insects, so then we used the “insectHerb” column to indicate what percent was definitely from insects. **There are 3-4 herbivory estimation steps, depending if your plant has reproductive organs:**
 
-a. Quickly scan all of the terminal pads across the entire plant and visually estimate percent herbivory. This is a quick estimate, but it’s important to scan the whole plant because herbivory can be patchy within plants. 
+    a. Quickly scan all of the terminal pads across the entire plant and visually estimate percent herbivory. This is a quick estimate, but it’s important to scan the whole plant because herbivory can be patchy within plants. 
 
-b. Randomly select 20 of the terminal pads. Record the number of pads you examined and the number with any herbivory present. If there are fewer than 20 pads on the plant, then do all pads. 
+    b. Randomly select 20 of the terminal pads. Record the number of pads you examined and the number with any herbivory present. If there are fewer than 20 pads on the plant, then do all pads. 
 
-c. Randomly select 10 terminal pads, and record a visual estimate of the percent herbivory on each pad, resulting in 10 numbers (one number for each of the 10 pads). We estimated percent herbivory as surface area removed on the visible faces of paddles (as opposed to volume or doubling the area for holes that went entirely through a paddle).
+    c. Randomly select 10 terminal pads, and record a visual estimate of the percent herbivory on each pad, resulting in 10 numbers (one number for each of the 10 pads). We estimated percent herbivory as surface area removed on the visible faces of paddles (as opposed to volume or doubling the area for holes that went entirely through a paddle).
 
-d. If your plant has reproductive organs, please randomly (arbitrarily) select up to 20 units of one type (e.g., flowers or fruits) and record the number of units you examined and the number that were damaged (>0.5%). Please see the Reproductive Damage Protocol for more information. You will need to add columns to the HerbVar Template Datasheet to accommodate this.
+    d. If your plant has reproductive organs, please randomly (arbitrarily) select up to 20 units of one type (e.g., flowers or fruits) and record the number of units you examined and the number that were damaged (>0.5%). Please see the Reproductive Damage Protocol for more information. You will need to add columns to the HerbVar Template Datasheet to accommodate this.
 
 5. Note presence of pathogens.
