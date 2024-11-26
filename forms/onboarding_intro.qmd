@@ -7,23 +7,22 @@ date-modified: last-modified
 
 ## Collaborator Checklist
 
-1. Add the following information to Collaborator Contact Information file
+New collaborators should:
 
-[] orcid id
-[] github account
-[] email
+[] Review and sign the _Data Use Agreement_  
+[] Review the _Authorship Guidelines_ (@sec-authorship_process)
+[] add required information to _Collaborator Contact Information_ file
+    [] orcid id   
+    [] link to github account  
+    [] email  
 
-2. Review and Sign 
-
-[] Data Use Agreement
-[] Authorship Guidelines
 
 ## Admin Checklist
 
-Add the new collaborator as a user to the following: 
+HerbVar Admins then grant access to the following as appropriate: 
 
-[] Slack
-[] HerbVar Zotero group
-[] Relevant Github Access
+[] Slack  
+[] HerbVar [Zotero Library](https://www.zotero.org/groups/5539815/herbvar)  
+[] Github Access  
 
 

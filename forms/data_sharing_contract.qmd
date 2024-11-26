@@ -1,11 +1,13 @@
 ---
-title: "Data-Sharing and Usage Agreement"
+title: "Data-Sharing & Usage Agreement"
 date-modified: last-modified
 ---
 
-----
+
+## Data-Sharing & Usage Agreement
 ## _Herbivory Variability Network_
----- 
+
+---
 
 The Herbivory Variability Network is a global network of scientists united in their aim to understand the role of variability in plant-herbivore interactions.
 
@@ -13,8 +15,10 @@ Collaboratively gathered datasets are increasingly valuable to scientific advanc
 
 Note that data collected by Network members that has been published in a public repository already is not subject to this agreement and can be used freely, with appropriate citation. This agreement refers exclusively to unpublished data (including raw versions of published data).
 
-----
-_Data Sharing Contract Conditions_
+---
+
+**_Data Sharing Contract Conditions_**
+
 ----
 
 1. The data sharer releases ownership of the data that they contribute to the HerbVar Network and allows the Network to use the data with appropriate credit given to the data sharer for scientific purposes (e.g., manuscripts, grant applications, etc.). Network members are credited as [here](https://herbvar.org/CollaboratorDirectory.html) and specific co-authorship guidelines for manuscripts produced from Network data are defined [here.](https://herbvar-network.github.io/herbvar_manual/introduction/Network_Structure.html)
@@ -34,7 +38,7 @@ IN WITNESS WHEREOF, the Data Sharer has hereunto executed this Data Sharing Agre
 
 Printed Name:_________________
 
-Signature:_________________
+Signature:____________________
 
-Date:_________________
+Date:_________________________
 
