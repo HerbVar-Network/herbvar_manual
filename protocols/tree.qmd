@@ -66,4 +66,4 @@ Trees… are tall, and we will not be able to reach top branches. We will theref
 2. **Perhaps the most rigorous but most time-consuming method: ** is to haphazardly strip several times as many leaves as you need (e.g., >200 leaves). Place leaves individually into a large bag. Mix them. Close your eyes and draw 30 leaves for percent herbivory and 30 leaves for presence/absence of herbivory.
 
 
-![Focus on low branches that can be reached from the ground with a pole pruner, and sample from multiple places around the circumference](images/img17.png){#fig-tree}
+![Focus on low branches that can be reached from the ground with a pole pruner, and sample from multiple places around the circumference](images/img17.png){#fig-tree fig-scap="Schematic of sampling from trees."}

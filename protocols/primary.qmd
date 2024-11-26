@@ -263,14 +263,14 @@ breaking apart damage by type or even species of herbivore if possible
     plants and 30 nearest neighbors have been surveyed
 
 
-![A diagram of the sampling scheme described in the text. (1)
+![A diagram of the sampling scheme. (1)
 Record plant density in 10 randomly located $1 m^{2}$ areas to estimate
 average plant density D, which is used to calculate quadrat radius r.
 (2) A quadrat with one focal plant and its nearest neighbor (outside
 quadrat). (3) A quadrat with no focal plants. (4) A quadrat with 5 focal
 plants; plant 3 is randomly selected for data collection, and its
 nearest neighbor is plant 4. Diagram by Moria
-Robinson.](images/img1.png){#fig-sampling}
+Robinson.](images/img1.png){#fig-sampling fig-scap="Sampling scheme: primary protocol."}
 
 
 ## After the Field

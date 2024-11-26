@@ -63,7 +63,7 @@ Please use the following questions to help you decide whether to sample “core�
 
 ### Mines & Galls Visual Guide
 
-![Leaf mines – Linear/Serpentine. Left/right = single mine. Center = multiple mines](images/img19.png){#fig-mines1}
+![Leaf mines – Linear/Serpentine. Left/right = single mine. Center = multiple mines](images/img19.png){#fig-mines1 fig-scap="Leaf mines"}
 
 
 How do you count multiple mines? It’s a confusing picture but in that way is more likely something that would be seen in the field! One of our gall gurus (Eric LoPresti) thinks this is probably two mines. He says, “the one that terminates at the top in a blotch and the one that terminates at the bottom center in a wider figure 8 - looks confusing since the bottom one doubled back, making a weird hanging trail. But you can tell that it is a single mine, since there is no nearby really thin trail where it starts. The intermediate width mine on the right is odd - whether it was aborted/eaten or doubled back is not obvious to me, however, I suspect it is the latter, as I only see two really thin sections, both on the upper half, which indicates a start and a very small caterpillar.”
@@ -74,7 +74,7 @@ This can get confusing, but do your best. Each count doesn’t have to be exactl
 ### Leaf Mines – Blotch Mines
 
 
-![Several examples of multiple blotch mines on single leaves](images/img20.png){#fig-mines2}
+![Examples of multiple blotch mines on single leaves](images/img20.png){#fig-mines2}
 
 
 

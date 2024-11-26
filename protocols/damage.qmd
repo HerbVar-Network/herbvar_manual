@@ -55,7 +55,7 @@ In most cases, herbivores do not eat all plant biomass. Therefore, it will be us
 
 
 
-![Senesced _Lepidium_ leaves. Leaves like this are probably best excluded from damage estimates.](images/img9.png){#fig-lepidium fig-align="center" width=80%}
+![Senesced _Lepidium_ leaves. Leaves like this are probably best excluded from damage estimates.](images/img9.png){#fig-lepidium fig-align="center" fig-scap="Senesced _Lepidium_ leaves." width=80%}
 
 Once you have decided the extent of plant you will be surveying, you can measure plant size. Because there are so many different plant growth forms, we suggest using your judgement to pick the best measure of plant size for your species. Examples of measures that work well for many species are standing plant height (e.g., ground to tallest living part), stem length (better than standing height for creeping species), foliage diameter, and stem diameter. Just make sure to be consistent within a survey, and to detail your plant size measure in the notes.
 

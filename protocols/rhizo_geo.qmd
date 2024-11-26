@@ -56,7 +56,7 @@ When first starting this for a new species or at a new site, we suggest spending
 
 
 
-![Top left: Dense (“phalanx type”) genet of Iris atrofusca; Top right: Sparse (“guerrilla type”) genet of Iris bismarckiana; Bottom left: Compact rhizome of Iris atrofusca (this one has ~4 leaf-fan ramets); Bottom right: Stolons connecting ramets of Iris bismarckiana.](images/img18.png){#fig-rhizo}
+![Top left: Dense (“phalanx type”) genet of Iris atrofusca; Top right: Sparse (“guerrilla type”) genet of Iris bismarckiana; Bottom left: Compact rhizome of Iris atrofusca (this one has ~4 leaf-fan ramets); Bottom right: Stolons connecting ramets of Iris bismarckiana.](images/img18.png){#fig-rhizo fig-scap="Rhizomatous geophyte growth forms"}
 
 
 
