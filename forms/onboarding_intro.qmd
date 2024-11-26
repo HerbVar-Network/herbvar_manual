@@ -3,17 +3,27 @@ title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified
 ---
-# Onboarding Checklist - New Collaborators 
+# Onboarding Tasks for New Collaborators 
 
-If you are interested in becoming an HerbVar member, by contributing data as a Site PI or by joining or proposing a Working Group...
+## Collaborator Checklist
 
-1. Add info to Collaborator Contact Information file
-- make sure you have:
-  - orcid id
-  - github account
-1. Get added as “Contributor” to the HerbVar Shared Drive (see if this is still best way)
-1. get added to slack
-1. get added to herbvar zotero group
-1. request access to github 
-1. Review Authorship Guidelines
-5. Sign Data Use Agreement
+1. Add the following information to Collaborator Contact Information file
+
+[] orcid id
+[] github account
+[] email
+
+2. Review and Sign 
+
+[] Data Use Agreement
+[] Authorship Guidelines
+
+## Admin Checklist
+
+Add the new collaborator as a user to the following: 
+
+[] Slack
+[] HerbVar Zotero group
+[] Relevant Github Access
+
+
