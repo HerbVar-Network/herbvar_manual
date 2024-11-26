@@ -18,43 +18,44 @@ So far, this only includes the script to separate out PlantPopNet members’ dat
 
 ## Phase 1 Scripts
 
-`phase 1 abiotic wrangling.R`: Wrangles WORLDCLIM climatic data for phase 1 surveys. 
+- `phase 1 abiotic wrangling.R`: Wrangles WORLDCLIM climatic data for phase 1 surveys. 
 
-`phase 1 herbivoreData wrangling.R`: Wrangles any information to do with herbivores from phase 1. 
+- `phase 1 herbivoreData wrangling.R`: Wrangles any information to do with herbivores from phase 1. 
 
-`phase 1 plant richness wrangling.R`: Extracts interpolated native/invasive species richness information from Ellis et al. 2012 shapefiles. 
+- `phase 1 plant richness wrangling.R`: Extracts interpolated native/invasive species richness information from Ellis et al. 2012 shapefiles. 
 
-`phase 1 primary productivity.R`: Extracts primary productivity data from satellite data for phase 1 surveys. 
+- `phase 1 primary productivity.R`: Extracts primary productivity data from satellite data for phase 1 surveys. 
 
-`phase 1 shareable index.R`: Creates files of only location information for phase 1 sites to enable other HerbVar collaborators to harvest metadata without sharing “actual” data. 
+- `phase 1 shareable index.R`: Creates files of only location information for phase 1 sites to enable other HerbVar collaborators to harvest metadata without sharing “actual” data. 
 
-`phase 1 siteData wrangling.R`: Wrangles information from siteData sheet of template Excel file. 
+- `phase 1 siteData wrangling.R`: Wrangles information from siteData sheet of template Excel file. 
 
-`phase 1 soil data wrangling.R`: Placeholder describing where soil data may someday be acquired. For now, the relevant R package does not work (though their team is aware of and working on this issue). 
+- `phase 1 soil data wrangling.R`: Placeholder describing where soil data may someday be acquired. For now, the relevant R package does not work (though their team is aware of and working on this issue). 
 
-`phase 1 survey-lvl summarizing.R`: Summarizes the tidy plant-level (one row per plant) phase 1 data to survey-level (one row per survey). 
+- `phase 1 survey-lvl summarizing.R`: Summarizes the tidy plant-level (one row per plant) phase 1 data to survey-level (one row per survey). 
 
-`phase 1 wrangling.R`: Takes all the separate phase 1 raw data files combines and wrangles them to plant-level (one row per plant). 
+- `phase 1 wrangling.R`: Takes all the separate phase 1 raw data files combines and wrangles them to plant-level (one row per plant). 
 
 
 ## Phase 2 Scripts
 
-`phase 2 densityData wrangling.R`:  Wrangles eponymous sheet from template Excel file. 
+- `phase 2 densityData wrangling.R`:  Wrangles eponymous sheet from template Excel file. 
 
-`phase 2 herbivoreData wrangling.R`: Wrangles eponymous sheet from template Excel file (at both plant-level and survey-level). 
+- `phase 2 herbivoreData wrangling.R`: Wrangles eponymous sheet from template Excel file (at both plant-level and survey-level). 
 
-`phase 2 metadata `abiotic.R`:  Extracts WORLDCLIM climatic data from phase 2 site locations (requires tidy file from siteData wrangling script). 
+- `phase 2 metadata `abiotic.R`:  Extracts WORLDCLIM climatic data from phase 2 site locations (requires tidy file from siteData wrangling script). 
 
-`phase 2 newColumns wrangling.R`:  Wrangles eponymous sheet from template Excel file. 
+- `phase 2 newColumns wrangling.R`:  Wrangles eponymous sheet from template Excel file. 
 
-`phase 2 notes wrangling.R`: Wrangles eponymous sheet from template Excel file. 
-`phase 2 plantData survey-lvl summarizing.R`:  Summarizes tidy plantData to survey-level (i.e., one row per survey). 
+- `phase 2 notes wrangling.R`: Wrangles eponymous sheet from template Excel file. 
 
-`phase 2 plantData wrangling.R`:  Wrangles eponymous sheet from template Excel file (at ONLY plant-level). 
+- `phase 2 plantData survey-lvl summarizing.R`:  Summarizes tidy plantData to survey-level (i.e., one row per survey). 
 
-`phase 2 reproData wrangling.R`: Wrangles eponymous sheet from template Excel file at plant-level only (survey level absent because insufficient raw data at this point). 
+- `phase 2 plantData wrangling.R`:  Wrangles eponymous sheet from template Excel file (at ONLY plant-level). 
 
-`phase 2 siteData wrangling.R`:  Wrangles eponymous sheet from template Excel file. 
+- `phase 2 reproData wrangling.R`: Wrangles eponymous sheet from template Excel file at plant-level only (survey level absent because insufficient raw data at this point). 
+
+- `phase 2 siteData wrangling.R`:  Wrangles eponymous sheet from template Excel file.  
 
 
 ## Script Archive
