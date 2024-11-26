@@ -51,11 +51,11 @@ This document is written with a focus on vegetative tissue on leafy plants ≤ 2
 
 In many cases, it will be clear what an individual plant is, but in cases of clonal plants, we will consider each ramet (i.e., above-ground unit) to be a unique “individual.” Move leaf litter to look for above-ground connections, but do not clear away soil.
 
-In most cases, herbivores do not eat all plant biomass. Therefore, it will be useful to note the tissue that you are measuring damage on. For most HerbVar surveys, this will be vegetative tissue: “leaves” and maybe “stems.” The key is to collect your damage estimates across all of the tissue within a plant or on a random sample of the tissue within a plant. Before you start estimating damage, give some thought as to precisely what to include. For example, it is probably best to avoid senesced leaves (like the brown leaf of the _Lepidium_ below) (perhaps unless the leaves were recently senesced such that they have not changed in size or distorted in any way). If you need to make any decisions about what to count, please remember to put detailed notes in the notes tab of the datasheet.
+In most cases, herbivores do not eat all plant biomass. Therefore, it will be useful to note the tissue that you are measuring damage on. For most HerbVar surveys, this will be vegetative tissue: “leaves” and maybe “stems.” The key is to collect your damage estimates across all of the tissue within a plant or on a random sample of the tissue within a plant. Before you start estimating damage, give some thought as to precisely what to include. For example, it is probably best to avoid senesced leaves (@fig-lepidium) unless perhaps the leaves were recently senesced such that they have not changed in size or distorted in any way. If you need to make any decisions about what to count, please remember to put detailed notes in the notes tab of the datasheet.
 
 
 
-![Lepidium](images/img9.png){#fig-lepidium fig-align="center" width=80%}
+![Senesced _Lepidium_ leaves. Leaves like this are probably best excluded from damage estimates.](images/img9.png){#fig-lepidium fig-align="center" width=80%}
 
 Once you have decided the extent of plant you will be surveying, you can measure plant size. Because there are so many different plant growth forms, we suggest using your judgement to pick the best measure of plant size for your species. Examples of measures that work well for many species are standing plant height (e.g., ground to tallest living part), stem length (better than standing height for creeping species), foliage diameter, and stem diameter. Just make sure to be consistent within a survey, and to detail your plant size measure in the notes.
 
@@ -77,16 +77,9 @@ If you are restricted to examining a subsample of leaves within plants (because 
 
 #### Subsampling Method 1: Nose-Pointing
 
-Ian Pearse’s nose-pointing method: For large plants, I like to choose four positions around the plant roughly at the cardinal directions (this never comes out as neatly as I might like since a lot of plants just don’t grow that way). I stand at each of those positions, I turn away from the plant, I close my eyes, and I put my finger against my nose, like this (below).
-Then, I turn facing the plant, open one eye, and I choose whatever leaf I am pointing to (or the closest leaf if I’m pointing to multiple or none). I’ve done this on a lot for leaves, and I think it would basically work for other tissues (twigs, flowers, etc). You can continue to do this until you have examined your full subsample of leaves. Caveats: It is important to include mostly-eaten leaves using this method, but the method probably underestimates damage because you are less likely to be randomly pointing at a mostly-eaten leaf-nub.
+Ian Pearse’s nose-pointing method: For large plants, I like to choose four positions around the plant roughly at the cardinal directions (this never comes out as neatly as I might like since a lot of plants just don’t grow that way). I stand at each of those positions, I turn away from the plant, I close my eyes, and I put my finger against my nose, like this (@fig-nose). Then, I turn facing the plant, open one eye, and I choose whatever leaf I am pointing to (or the closest leaf if I’m pointing to multiple or none). I’ve done this on a lot for leaves, and I think it would basically work for other tissues (twigs, flowers, etc). You can continue to do this until you have examined your full subsample of leaves. Caveats: It is important to include mostly-eaten leaves using this method, but the method probably underestimates damage because you are less likely to be randomly pointing at a mostly-eaten leaf-nub.
 
-::: {#fig-nose layout-ncol=2}
-
-![Is that creep trying to pick his nose with his thumb? No. This is the nose pointing method to acquire a random sample of plant parts. The creep/researcher establishes a fixed point in his field of vision with an “L”-shaped hand position while turned away from the plant.](images/img10.png){#fig-nose}{width=70%}
-
-![ He then turns to the plant, opens a single eye, and chooses the leaf that he is pointing to.](images/img11.png){#fig-point}{width=70%}
-
-:::
+![Nose pointing method to acquire a random sample of plant parts. (A) The researcher establishes a fixed point in his field of vision with an “L”-shaped hand position while turned away from the plant. (B) They then turn to the plant, open a single eye, and chooses the leaf that they are pointing to.](images/img10_2.png){#fig-nose}{width=90%}
 
 
 #### Subsampling Method 2: True Randomization
@@ -103,7 +96,7 @@ Arbitrary sampling. That sneaker-word, arbitrary! This is basically to say “I 
 Design (and make notes of!) your own subsampling scheme. Can you choose every seventh (or random-numberedth leaf along a shoot of skunkbush sumac (right)? Note how you did it, and approximately how much of the plant tissue you sampled (e.g., % of poison ivy sampled).
  
  
-![legend needed](images/img12.png){#fig-random width=70%}
+![Skunkbush sumac (_Rhus trilobata_)](images/img12.png){#fig-random width=70%}
 
 
 
@@ -115,7 +108,7 @@ Design (and make notes of!) your own subsampling scheme. Can you choose every se
 This method works well (we think) as an estimate of overall herbivory for plants with small leaves or leaflets (e.g., sagebrush, _Astragalus_, locust), but will be very imprecise for plants with fewer, larger leaves because most large leaves will have some damage, though maybe not much. So, this is probably ineffective for your Welwitschia or banana tree. However, because counting a few large leaves is easy, we suggest doing it anyway for completeness.
 
 
-![legend needed](images/img13.png){#fig-arbitrary width=70%}
+![Locust (_Robinia_)](images/img13.png){#fig-arbitrary width=70%}
 
 :::
 
@@ -183,12 +176,12 @@ Visual estimation is essentially as simple as it sounds. You look at a leaf and 
 
 7. If damage is very high and very little leaf tissue remains, take a large and small leaf and compare the leaf base width, petiole and midrib size to compare. Use these comparisons to visually reconstruct the leaf, and deduce % damage from there
 
-8. If you have marginal damage on leaves with non-smooth margins: If you draw an entire margin a third of the way between the base of the margin teeth and tip of the margin teeth, this approximately results in the same area measurement as if you had actually drawn in the margins—but it is easier/more accurate to imagine/draw a straight line than margin teeth
+8. If you have marginal damage on leaves with non-smooth margins (e.g., @fig-location): If you draw an entire margin a third of the way between the base of the margin teeth and tip of the margin teeth, this approximately results in the same area measurement as if you had actually drawn in the margins—but it is easier/more accurate to imagine/draw a straight line than margin teeth
 
 9. Piercing-sucking damage, when visible, should be mentally consolidated and estimated similarly to chewing damage. Be careful about confusing piercing-sucking damage and disease because they often look similar. If you are unsure, sleuth around your site to see if you can find the culprit in action. Sometimes it helps to find leaves that have damage at different stages of progression. This will let you reconstruct what older more necrotic tissue (and less discernible) might have looked like before it became so necrotic, perhaps inferring the cause of the damage. If this doesn’t help, consult someone who may be able to or pick another species to survey.
 
 
-![Legend Needed.](images/img14.png){#fig-location}
+![Leaf with both 'interior' and 'leaf-margin' damage.](images/img14.png){#fig-location}
 
 
 10. For leaves with herbivore-built leaf shelters (rolls and ties), please carefully peer into or open shelters to estimate damaged area and count resident herbivores.
