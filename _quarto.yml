@@ -73,9 +73,9 @@ book:
     
     - part: "Appendix 1: Forms & Checklists"
       chapters: 
-        - forms/onboarding_intro.qmd
-        - forms/data_sharing_contract.qmd
-        - forms/data_collection_forms.qmd
+        - forms/onboarding_checklist.qmd
+        # - forms/data_sharing_contract.qmd
+        - forms/forms_list.qmd
         
     - part: "Appendix 2: HerbVar Admin"
       chapters: 
