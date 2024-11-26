@@ -3,18 +3,18 @@ title: "HerbVar Forms"
 date-modified: last-modified
 ---
 
-# Data-Sharing & Usage Agreement
+## Data-Sharing & Usage Agreement
 
-- Data-Sharing and Usage Agreement (`.pdf`)
+- [Data-Sharing and Usage Agreement](forms/HerbVar-DataSharingContract-D5.pdf) (`.pdf` format)
 
 ## HerbVar Data Collection Sheets 
 
 Use the links to download printable versions of the HerbVar Data Collection Forms in `.pdf` format and the HerbVar Datasheet Template in `.xlsx` format.
 
-- [PRIMARY Datasheet](https://github.com/HerbVar-Network/herbvar_manual/blob/main/forms/HV_PRIMARY_Datasheet_Printable.pdf)
+- [PRIMARY Datasheet](forms/HV_PRIMARY_Datasheet.pdf)
 
-- [REPRO Datasheet](https://github.com/HerbVar-Network/herbvar_manual/blob/main/forms/HV_REPRO_Datasheet.pdf)
+- [REPRO Datasheet](forms/HV_REPRO_Datasheet.pdf)
 
-- [HERBIVORE Datasheet](https://github.com/HerbVar-Network/herbvar_manual/blob/main/forms/HV_HERBIVORE_Datasheet_Printable.pdf)
+- [HERBIVORE Datasheet](forms/HV_HERBIVORE_Datasheet.pdf)
 
-- [HERBIVORE Datasheet Template (.xlsx)](https://github.com/HerbVar-Network/herbvar_manual/blob/main/forms/HerbVar_Datasheet_Template.xlsx)
+- [HERBIVORE Datasheet Template (.xlsx)](forms/HerbVar_Datasheet_Template.xlsx)
