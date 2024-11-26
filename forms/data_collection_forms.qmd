@@ -3,16 +3,15 @@ title: "Data Collection Forms"
 date-modified: last-modified
 ---
 
-## Use the links to download printable versions of the HerbVar Data Collection Forms in .pdf format.
+Use the links to download printable versions of the HerbVar Data Collection Forms in `.pdf` format.
 
-
-### PRIMARY Datasheet
+## PRIMARY Datasheet
 HerbVar PRIMARY Datasheet
 
-### REPRO Datasheet
+## REPRO Datasheet
 HerbVar REPRO Datasheet
 
-### HERBIVORE Datasheet
+## HERBIVORE Datasheet
 HerbVar HERBIVORE Datasheet
 
 
