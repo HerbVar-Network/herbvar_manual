@@ -1014,7 +1014,7 @@
     "href": "forms/data_collection_forms.html",
     "title": "23  Data Collection Forms",
     "section": "",
-    "text": "23.1 PRIMARY Datasheet\nUse the links to download printable versions of the HerbVar Data Collection Forms in .pdf format.\nHerbVar PRIMARY Datasheet",
+    "text": "23.1 PRIMARY Datasheet\nUse the links to download printable versions of the HerbVar Data Collection Forms in .pdf format and the HerbVar Datasheet Template in .xlsx format.\nHerbVar_PRIMARY_Datasheet.pdf",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>Data Collection Forms</span>"
@@ -1025,7 +1025,7 @@
     "href": "forms/data_collection_forms.html#repro-datasheet",
     "title": "23  Data Collection Forms",
     "section": "23.2 REPRO Datasheet",
-    "text": "23.2 REPRO Datasheet\nHerbVar REPRO Datasheet",
+    "text": "23.2 REPRO Datasheet\nHerbVar_REPRO_Datasheet.pdf",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>Data Collection Forms</span>"
@@ -1036,7 +1036,18 @@
     "href": "forms/data_collection_forms.html#herbivore-datasheet",
     "title": "23  Data Collection Forms",
     "section": "23.3 HERBIVORE Datasheet",
-    "text": "23.3 HERBIVORE Datasheet\nHerbVar HERBIVORE Datasheet",
+    "text": "23.3 HERBIVORE Datasheet\nHerbVar_HERBIVORE_Datasheet.pdf",
+    "crumbs": [
+      "Appendix 1: Forms & Checklists",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Data Collection Forms</span>"
+    ]
+  },
+  {
+    "objectID": "forms/data_collection_forms.html#herbivore-datasheet-template",
+    "href": "forms/data_collection_forms.html#herbivore-datasheet-template",
+    "title": "23  Data Collection Forms",
+    "section": "23.4 HERBIVORE Datasheet Template",
+    "text": "23.4 HERBIVORE Datasheet Template\nHerbVar_Datasheet_Template.xlsx",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>Data Collection Forms</span>"
