@@ -49,18 +49,18 @@ The steps to proposing a new add-on project are as follows:
 
 2. Email a proposal to a Steering Committee member (contact information in @sec-structure). The proposal should have: 
 
-> i. Working title
-> ii. Current authors: including lead, co-leads, and additional authors. 
-> iii. Abstract (~200 words) describing the knowledge gap, why it is important, and briefly describing the data to be collected to fill that knowledge gap and the protocol for collecting those data
-> iv. Data: What data from the HV database will be used (e.g., Phase I, Phase II, all, etc.)
-  > - Response variables
-  > - Predictor variables
-> v. Authorship model: We strongly recommend following the HerbVar core data authorship model, although many working groups may follow a different author model. Please see the authorship process here.
-> vi. Timeline
-  > -	Data processing
-  > -	Analyses
-  > -	Writing
-  > -	Submission
+     i. Working title
+     ii. Current authors: including lead, co-leads, and additional authors. 
+     iii. Abstract (~200 words) describing the knowledge gap, why it is important, and briefly describing the data to be collected to fill that knowledge gap and the protocol for collecting those data
+     iv. Data: What data from the HV database will be used (e.g., Phase I, Phase II, all, etc.)
+       - Response variables
+       - Predictor variables
+     v. Authorship model: We strongly recommend following the HerbVar core data authorship model, although many working groups may follow a different author model. Please see the authorship process here.
+     vi. Timeline
+       -	Data processing
+       -	Analyses
+       -	Writing
+       -	Submission
 
 The Steering Committee will review the proposal, ensuring there is no overlap with an ongoing data collection effort, and provide feedback. You will work with the Steering Committee to incorporate their feedback. If the proposal is approved, move to the next step.
 
