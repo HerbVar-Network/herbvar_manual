@@ -17,11 +17,11 @@ Potential collaborators typically get email either Will or the HerbVar Admin gma
 
     **b. They say that sounds fine and they’re still interested**
 
-        i. Add them to the Collaborator Contact Information file
+      i. Add them to the Collaborator Contact Information file
 
-        ii. Add them as a “Contributor” to the HerbVar Shared Drive
+      ii. Add them as a “Contributor” to the HerbVar Shared Drive
 
-        iii. Respond with the second email template (of 2)
+      iii. Respond with the second email template (of 2)
 
 It is important you send the email after doing the steps i and ii because the email template includes links that assumes (1) you have entered preliminary information into the collaborator contact info file and (2) they have access to everything in the HerbVar Shared Drive. Note also that the second email template contains an onboarding document that you may need to update going forward as onboarding needs evolve.
 
