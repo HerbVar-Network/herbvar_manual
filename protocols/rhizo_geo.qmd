@@ -30,9 +30,7 @@ When first starting this for a new species or at a new site, we suggest spending
     
       b. If genet area (clone/genet diameter) is >1 m and/or distances between genets are apparently irregular (that is, secondary dispersion of plants within population is patchy), count the number of genets in 1 m2 every 5 meters along a 50 m transect.
   
-3. If a quadrat has 0 focal plants, record a 0 and move to the next quadrat. 
-
-4. If a quadrat has >0 focal plants, randomly choose 1 of the genets to survey and record the following data:
+3. If a quadrat has 0 focal plants, record a 0 and move to the next quadrat. If a quadrat has >0 focal plants, randomly choose 1 of the genets to survey and record the following data:
   
       a. Genet life stage: seedling, vegetative, reproductive. 
     
@@ -51,9 +49,6 @@ When first starting this for a new species or at a new site, we suggest spending
 5. Record the same data for the first nearest conspecific neighbor (of a different genet) that you recorded for the focal plant.
 
 6. Continue visiting randomly select points until ≥ 30 focal genets and 30 nearest neighbor genets have been surveyed
-
-
-
 
 ![Top left: Dense (“phalanx type”) genet of Iris atrofusca; Top right: Sparse (“guerrilla type”) genet of Iris bismarckiana; Bottom left: Compact rhizome of Iris atrofusca (this one has ~4 leaf-fan ramets); Bottom right: Stolons connecting ramets of Iris bismarckiana.](images/img18.png){#fig-rhizo fig-scap="Rhizomatous geophyte growth forms"}
 

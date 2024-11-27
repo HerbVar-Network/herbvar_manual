@@ -28,21 +28,21 @@ The best method, when feasible, is to census all of the individuals in a patch. 
 
 **Option B: Relative spatial coordinates:** You can measure the relative coordinates of your plants using two tape measures or a tape measure and a meter stick. This sounds similar to the primary protocol but it’s much quicker because you’re not using the tapes to select plants, just to record their locations.
 
-  - Lay a tape measure through your patch. For each plant, record spatial coordinates as how far along the tape measure and how far from the tape measure. You can situate the tape either along the edge of the patch or through the middle of the patch.
+1. Lay a tape measure through your patch. For each plant, record spatial coordinates as how far along the tape measure and how far from the tape measure. You can situate the tape either along the edge of the patch or through the middle of the patch.
 
-  - If your tape measure is through the middle of the patch, remember to record the distance left of the tape as negative and right of the tape as positive. The start of your tape will have the coordinate (0,0).
+2. If your tape measure is through the middle of the patch, remember to record the distance left of the tape as negative and right of the tape as positive. The start of your tape will have the coordinate (0,0).
 
-  - After recording this information, follow the Primary Protocol as closely as possible
+3. After recording this information, follow the Primary Protocol as closely as possible
 
 ### **Other useful information**
 
-1. Record `popDiameter1` and `popDiameter2` as the approximate extents of your patch/census area
+Record `popDiameter1` and `popDiameter2` as the approximate extents of your patch/census area
 
-2. For focal plant percent cover (`focalPlantCover`) and non-focal plant percent cover (`otherPlantCover`), please follow the Primary Protocol methods for estimating population density and calculating a quadrat radius size, if feasible. You can then center a quadrat on each focal plant in the census to define an area around each focal plant for recording focal and non-focal percent cover, as well as the number of focal plants in quadrat (`numPlantsinQuad`).
+For focal plant percent cover (`focalPlantCover`) and non-focal plant percent cover (`otherPlantCover`), please follow the Primary Protocol methods for estimating population density and calculating a quadrat radius size, if feasible. You can then center a quadrat on each focal plant in the census to define an area around each focal plant for recording focal and non-focal percent cover, as well as the number of focal plants in quadrat (`numPlantsinQuad`).
 
-3. In comprehensive surveys the ~60 plants will all be focal plants and there is no random selection; hence the nearest neighbors (all the ".1" plant IDs in datasheet template) become focal plants. As described above, a quadrat is centered around each plant and the three quadrat-level variables (`focalPlantCover`, `otherPlantCover`, and `numPlantsinQuad`) are recorded for each plant. The nearest neighbor distance (`NNdist`) is still recorded, but since that neighbor is treated as a focal plant, please record the unique plantID of that nearest neighbor as well (e.g. add `NNplantID` column as needed in datasheet).
+In comprehensive surveys the ~60 plants will all be focal plants and there is no random selection; hence the nearest neighbors (all the ".1" plant IDs in datasheet template) become focal plants. As described above, a quadrat is centered around each plant and the three quadrat-level variables (`focalPlantCover`, `otherPlantCover`, and `numPlantsinQuad`) are recorded for each plant. The nearest neighbor distance (`NNdist`) is still recorded, but since that neighbor is treated as a focal plant, please record the unique plantID of that nearest neighbor as well (e.g. add `NNplantID` column as needed in datasheet).
 
-4. If you cannot estimate population density (e.g., because your species is too sparse), then please pick an arbitrary quadrat radius. You can use that to define an area around each focal plant in your census for estimating percent cover variables. A 1-m radius might be a good choice for many plants, but go bigger for bigger plants. Remember to record your choice!
+If you cannot estimate population density (e.g., because your species is too sparse), then please pick an arbitrary quadrat radius. You can use that to define an area around each focal plant in your census for estimating percent cover variables. A 1-m radius might be a good choice for many plants, but go bigger for bigger plants. Remember to record your choice!
 
 ## Option 2: Walking Transect
 
@@ -64,13 +64,16 @@ This method is similar to the comprehensive census of a patch (#1 above), but it
 
 **Option A - Comprehensive survey of all plants along a transect: **With this method, you are doing a comprehensive survey of a linear subset of the whole population. 
 
-    1. Start by randomly picking a transect starting point and direction.  
+1. Start by randomly picking a transect starting point and direction.  
     
-    2. Walk the transect and survey every plant that crosses your path 
+2. Walk the transect and survey every plant that crosses your path 
 *or* every plant within a reasonable distance of your path (e.g., 2 m).  
 
-    3. Keep going until you get at least 60 plants.  
+3. Keep going until you get at least 60 plants.  
     
-**Option B: Comprehensive survey radiating out from a random starting point within a population. ** With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population. The cons of this approach are that if your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch''.
+**Option B: Comprehensive survey radiating out from a random starting point within a population. ** With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population. 
 
-1. Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. _We do not recommend doing this unless your plants truly are all widely dispersed._
+1. Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. 
+
+_We do not recommend doing this unless your plants truly are all widely dispersed._ The cons of this approach are that if your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch''.
+ 

@@ -21,17 +21,13 @@ This protocol aims to assess damage by insect herbivores to reproductive parts o
 
 **Step 1: Select a species to survey**: We are hoping to get broad taxonomic and geographic coverage of damage to reproductive organs. Therefore, any species could be surveyed. **_However, to ensure that the data are comparable across sites/species/families/etc, the plants should have the following characteristics:_**
 
-1. At least half of the individuals at your site should possess reproductive material. If most of the plants are in a vegetative stage, you probably won’t be able to survey enough reproductive individuals to get a decent sample size. Ideally, >30 of the sampled plants will have reproductive damage data.  
+At least half of the individuals at your site should possess reproductive material. If most of the plants are in a vegetative stage, you probably won’t be able to survey enough reproductive individuals to get a decent sample size. Ideally, >30 of the sampled plants will have reproductive damage data.  
 
-2. Each individual plant should produce enough flowers/fruits/seeds so that you can survey between 15-30 reproductive units per plant. These ‘units’ could be flowers, fruits, or seeds, whichever will give you enough things to count.
+Each individual plant should produce enough flowers/fruits/seeds so that you can survey between 15-30 reproductive units per plant. These ‘units’ could be flowers, fruits, or seeds, whichever will give you enough things to count. For example, if your plants have just a few fruits, try opening fruits and counting a random sample of seeds, which could get you higher numbers. If some plants have fewer units (~5-10 flowers/fruits/pods/seeds), that is okay, as long as most have at least 15. If your species typically has only one or a few flowers, we have provided a modified protocol below
 
-    a. E.g., if your plants have just a few fruits, try opening fruits and counting a random sample of seeds, which could get you higher numbers. If some plants have fewer units (~5-10 flowers/fruits/pods/seeds), that is okay, as long as most have at least 15.
+Most of the plants should be in a similar phenological stage. If there is a mixture of flowering and fruiting plants within the population, it might be difficult to get a large enough sample size for one organ type. Additionally, different phenological stages will likely be attacked by different insects.  
 
-    b. If your species typically has only one or a few flowers, we have provided a modified protocol below
-
-3. Most of the plants should be in a similar phenological stage. If there is a mixture of flowering and fruiting plants within the population, it might be difficult to get a large enough sample size for one organ type. Additionally, different phenological stages will likely be attacked by different insects.  
-
-4. If your plant does not meet these requirements, please skip measuring damage to reproductive organs. That’s okay. Or get in touch if you have questions
+If your plant does not meet these requirements, please skip measuring damage to reproductive organs. That’s okay. Or get in touch if you have questions
 
 **Step 2: Establish transect and select plants. **Use the Primary Protocol to establish a transect, pick/calculate a quadrat radius, and randomly select focal/nearest neighbor plants.
 
@@ -49,19 +45,17 @@ This protocol aims to assess damage by insect herbivores to reproductive parts o
 
 **Record the following data in the provided printable and digital datasheets.**
 
-1. Start by surveying the type of damage that is most common on the reproductive structures of plants in the population. Look for damage by insects that may chew on developing flowers (e.g. katydids, beetles), insects that bore into flower heads or seeds (e.g. larval weevils, leps, or flies), or true bugs that may probe/pierce into the seeds or fruits (looks like little black dots on the fruits). In many cases you will need to tear open the seed head/fruit to look for boring insects inside the seeds/fruit.
+Start by surveying the type of damage that is most common on the reproductive structures of plants in the population. Look for damage by insects that may chew on developing flowers (e.g. katydids, beetles), insects that bore into flower heads or seeds (e.g. larval weevils, leps, or flies), or true bugs that may probe/pierce into the seeds or fruits (looks like little black dots on the fruits). In many cases you will need to tear open the seed head/fruit to look for boring insects inside the seeds/fruit. Look for signs of chewing damage inside the fruit, such as destroyed seeds and insect frass.
 
-2. Look for signs of chewing damage inside the fruit, such as destroyed seeds and insect frass.
+The best measurements of damage will depend on the type and extent of damage present. If the plant species experiences damage to multiple organs (e.g., petals, stamens, etc.), focus on the damage to the primary reproductive parts if it is not feasible to measure multiple organs.
 
-3. The best measurements of damage will depend on the type and extent of damage present. If the plant species experiences damage to multiple organs (e.g., petals, stamens, etc.), focus on the damage to the primary reproductive parts if it is not feasible to measure multiple organs.
+In the `reproUnit` column of the `reproData` sheet in the template Excel datasheet, please record what organs you are recording damage on (e.g., stamens, petals for flowers). If present and identifiable, record the number and identity of the florivore, frugivore, seed predator
 
-4. In the `reproUnit` column of the `reproData` sheet in the template Excel datasheet, please record what organs you are recording damage on (e.g., stamens, petals for flowers). If present and identifiable, record the number and identity of the florivore, frugivore, seed predator
+If your species has only one or a few flowers per plant and it’s possible to record the percent damage to a flower or fruit, you can record these percent damages in the `percR#` columns. 15 such columns are provided but please add more if you are able to record the per-unit damage of more than 15 reproductive structures 
 
-5. If your species has only one or a few flowers per plant and it’s possible to record the percent damage to a flower or fruit, you can record these percent damages in the `percR#` columns. 15 such columns are provided but please add more if you are able to record the per-unit damage of more than 15 reproductive structures 
+In the `damageUnit` column, record ‘count’ or ‘percent’ depending on whether you are recording the number of damage reproductive units or the percent damage to a single unit
 
-6. In the `damageUnit` column, record ‘count’ or ‘percent’ depending on whether you are recording the number of damage reproductive units or the percent damage to a single unit
-
-7. Note that `numReproHerb` can be less than the sum of the counts of types of damage because a single reproductive unit can have multiple types of damage.
+Note that `numReproHerb` can be less than the sum of the counts of types of damage because a single reproductive unit can have multiple types of damage.
 
 ![Example reproData information](images/img28.png){#fig-reprotable}
 
@@ -73,24 +67,24 @@ This protocol aims to assess damage by insect herbivores to reproductive parts o
 
 ::: {#fig-damage layout-ncol=1}
 
-![_Abronia umbellata_ with chewing damage to two corolla (one is completely chewed and one is partially chewed). In this example, each floret would be scored for damage (2 damaged, 13 organs examined). _Photo: Eric LoPresti._](images/img2.png){#fig-umbellata fig-scap="_Abronia turbinata_ with chewing damage to corollas."}
+![_Abronia umbellata_ with chewing damage to two corolla (one is completely chewed and one is partially chewed). In this example, each floret would be scored for damage (2 damaged, 13 organs examined). _Photo: Eric LoPresti._](images/img2.png){#fig-umbellata fig-scap="_Abronia turbinata_ with chewing damage to corollas." width=60%}
 
-![_Abronia turbinata_ with damage and frass from a moth caterpillar (_Neogrotella macdunnoughi_). Note chewing damage to petals/corollas and caterpillars at base of florets. In this example, each of 30 florets would be scored for damage. _Photo: Eric LoPresti_.](images/img3.png){#fig-turbinata fig-scap="_Abronia turbinata_ with damage and frass from a moth caterpillar"}
+![_Abronia turbinata_ with damage and frass from a moth caterpillar (_Neogrotella macdunnoughi_). Note chewing damage to petals/corollas and caterpillars at base of florets. In this example, each of 30 florets would be scored for damage. _Photo: Eric LoPresti_.](images/img3.png){#fig-turbinata fig-scap="_Abronia turbinata_ with damage and frass from a moth caterpillar" width=60%}
 
 :::
 
 
-![_Vicia americana_ seed pod. Notice boring holes in the upper-left seed and frass in the pod. In this example, each of 30 seeds would be scored for damage. _Photo: Phil Hahn_.](images/img4.png){#fig-americana fig-scap="_Vicia americana_ seed pod"}
+![_Vicia americana_ seed pod. Notice boring holes in the upper-left seed and frass in the pod. In this example, each of 30 seeds would be scored for damage. _Photo: Phil Hahn_.](images/img4.png){#fig-americana fig-scap="_Vicia americana_ seed pod" width=60%}
 
 
-![_Monarda fistulosa_ seed head ripped open to reveal a weevil larvae. Notice the damage holes to the floral tubes. In this example, each flower head would be recorded as damaged (or undamaged) and ideally 30 flower heads would be assessed per plant. Often this species does not produce 30 flowers per plant, so smaller numbers would be acceptable. If most plants have fewer than 10 flowers, this would not be a good population to survey for reproductive damage. _Photo: Phil Hahn_.](images/img5.png){#fig-fistulosa fig-scap="_Monarda fistulosa_ seed head."}
+![_Monarda fistulosa_ seed head ripped open to reveal a weevil larvae. Notice the damage holes to the floral tubes. In this example, each flower head would be recorded as damaged (or undamaged) and ideally 30 flower heads would be assessed per plant. Often this species does not produce 30 flowers per plant, so smaller numbers would be acceptable. If most plants have fewer than 10 flowers, this would not be a good population to survey for reproductive damage. _Photo: Phil Hahn_.](images/img5.png){#fig-fistulosa fig-scap="_Monarda fistulosa_ seed head." width=60%}
 
 
-![_Lonicera_ fruit with chewing damage. In this example, each of 30 fruits would be scored for damage. _Photo: Susan Whitehead_.](images/img6.png){#lon-chew fig-scap="_Lonicera_ fruit with chewing damage"}
+![_Lonicera_ fruit with chewing damage. In this example, each of 30 fruits would be scored for damage. _Photo: Susan Whitehead_.](images/img6.png){#lon-chew fig-scap="_Lonicera_ fruit with chewing damage" width=60%}
 
-![_Lonicera_ fruit with piercing damage. In this example, each of 30 fruits would be scored for damage. _Photo: Susan Whitehead_.](images/img7.png){#lon-pierce fig-scap="_Lonicera_ fruit with piercing damage."}
+![_Lonicera_ fruit with piercing damage. In this example, each of 30 fruits would be scored for damage. _Photo: Susan Whitehead_.](images/img7.png){#lon-pierce fig-scap="_Lonicera_ fruit with piercing damage." width=60%}
 
 
-_Aquilegia shockleyi_ with chewing damage to fruits by _Heliothis phloxiphaga_. In this example, each fruit could be scored for damage, or each fruit could be opened and seeds could be counted (infer missing, fully-consumed seeds from pod features). _Photo: Eric LoPresti_.](images/img8.png){#fig-lonicera fig-scap="_Aquilegia shockleyi_ with chewing damage to fruits"}
+_Aquilegia shockleyi_ with chewing damage to fruits by _Heliothis phloxiphaga_. In this example, each fruit could be scored for damage, or each fruit could be opened and seeds could be counted (infer missing, fully-consumed seeds from pod features). _Photo: Eric LoPresti_.](images/img8.png){#fig-lonicera fig-scap="_Aquilegia shockleyi_ with chewing damage to fruits" width=60%}
 
 

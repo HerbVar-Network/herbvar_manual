@@ -56,7 +56,7 @@ In most cases, herbivores do not eat all plant biomass. Therefore, it will be us
 
 
 
-![Senesced _Lepidium_ leaves. Leaves like this are probably best excluded from damage estimates.](images/img9.png){#fig-lepidium fig-align="center" fig-scap="Senesced _Lepidium_ leaves." width=80%}
+![Senesced _Lepidium_ leaves. Leaves like this are probably best excluded from damage estimates.](images/img9.png){#fig-lepidium fig-align="center" fig-scap="Senesced _Lepidium_ leaves." width=60%}
 
 Once you have decided the extent of plant you will be surveying, you can measure plant size. Because there are so many different plant growth forms, we suggest using your judgement to pick the best measure of plant size for your species. Examples of measures that work well for many species are standing plant height (e.g., ground to tallest living part), stem length (better than standing height for creeping species), foliage diameter, and stem diameter. Just make sure to be consistent within a survey, and to detail your plant size measure in the notes.
 
@@ -97,10 +97,10 @@ Arbitrary sampling. That sneaker-word, arbitrary! This is basically to say “I 
 Design (and make notes of!) your own subsampling scheme. Can you choose every seventh (or random-numberedth leaf along a shoot of skunkbush sumac (right)? Note how you did it, and approximately how much of the plant tissue you sampled (e.g., % of poison ivy sampled).
  
  
-![Skunkbush sumac (_Rhus trilobata_)](images/img12.png){#fig-random width=70%}
+![Skunkbush sumac (_Rhus trilobata_)](images/img12.png){#fig-random width=60%}
 
 
-![Locust (_Robinia_)](images/img13.png){#fig-arbitrary width=70%}
+![Locust (_Robinia_)](images/img13.png){#fig-arbitrary width=60%}
 
 
 ::: {.callout-tip}
@@ -179,7 +179,7 @@ Visual estimation is essentially as simple as it sounds. You look at a leaf and 
 9. Piercing-sucking damage, when visible, should be mentally consolidated and estimated similarly to chewing damage. Be careful about confusing piercing-sucking damage and disease because they often look similar. If you are unsure, sleuth around your site to see if you can find the culprit in action. Sometimes it helps to find leaves that have damage at different stages of progression. This will let you reconstruct what older more necrotic tissue (and less discernible) might have looked like before it became so necrotic, perhaps inferring the cause of the damage. If this doesn’t help, consult someone who may be able to or pick another species to survey.
 
 
-![Leaf with both 'interior' and 'leaf-margin' damage.](images/img14.png){#fig-location width=70%}
+![Leaf with both 'interior' and 'leaf-margin' damage.](images/img14.png){#fig-location width=60%}
 
 
 10. For leaves with herbivore-built leaf shelters (rolls and ties), please carefully peer into or open shelters to estimate damaged area and count resident herbivores.
@@ -194,7 +194,7 @@ Visual estimation is essentially as simple as it sounds. You look at a leaf and 
     - Galls should only be counted, not included in percent damage because galls are actually extra tissue! The removed tissue is internal and can’t be seen.
     - Keep an eye out for signs of stem-boring insects. Sometimes these can be counted.
 
-![Internal feeding insects](images/img15.png){#fig-internal width=70%}
+![Internal feeding insects](images/img15.png){#fig-internal width=60%}
 
 #### How to make sure you’re doing a good job
 

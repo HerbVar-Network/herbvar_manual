@@ -8,9 +8,9 @@ date-modified: last-modified
 
 Based on Phase 1 of data collection, we ask that you prioritize the following three objectives in your site and species selections for Phase 2 of data collection: 
 
-  (1) Sampling one of three focal species across gradients,  
-  (2) Sampling novel species & contexts within focal families, and 
-  (3) Quantifying damage to reproductive tissues
+1. Sampling one of three focal species across gradients,  
+2. Sampling novel species & contexts within focal families, and 
+3. Quantifying damage to reproductive tissues
 
 
 ## Objective 1: Focal species across gradients
