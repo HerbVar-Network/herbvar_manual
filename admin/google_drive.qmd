@@ -5,7 +5,7 @@ date: 11/01/2024
 date-modified: last-modified
 ---
 
-# Google Drive Structure
+# Google Drive
 
 This project has a lot of files coming and going so this is a brief description of all of those folders.
 

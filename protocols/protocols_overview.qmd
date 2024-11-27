@@ -5,7 +5,7 @@ date: 11/01/2024
 date-modified: last-modified
 ---
 
-# Herbvar Protocols Overview {#sec-protocols-overview}
+# Protocols Overview {#sec-protocols-overview}
 
 ::: {.callout-important}
 
@@ -13,7 +13,7 @@ Below are links to the HerbVar sampling protocols. Please be sure to review the 
 
 :::
 
-## Species & site selection
+## Species & Site Selection
 
 Our approach to select plant species and/or sites to survey is described in @sec-species_site. Briefly, we suggest collaborators strive to survey one of the following:
 

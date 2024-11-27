@@ -5,7 +5,7 @@ date: 11/01/2024
 date-modified: last-modified
 ---
 
-# The Data Portal
+# Data Portal
 
 The data portal (link) is the preferred method for data submission for (at least phase 2). It is written in R Shiny and is built for the phase 2 template Excel file but will work (with some warnings) for the phase 1 Excel template. This is what you need to know to change and/or troubleshoot the app.
 

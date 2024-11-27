@@ -5,7 +5,7 @@ date: 11/01/2021
 date-modified: last-modified
 ---
 
-# Herbivores, Mines, and Galls {#sec-herbivore}
+# Herbivores, Mines, & Galls {#sec-herbivore}
 
 ## Overview
 

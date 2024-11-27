@@ -49,7 +49,7 @@ book:
         - collaboration/new_data_collection.qmd
         # - collaboration/project_review.qmd
         
-    - part: "Research Workflow" 
+    - part: "HerbVar Workflow" 
       chapters:
         - workflow/workflow.qmd
         # - workflow/upload_data.qmd
@@ -85,7 +85,6 @@ book:
         - admin/data_portal.qmd
         - admin/google_drive.qmd
         - admin/wrangling_repo.qmd
-        - admin/unfinished_tasks.qmd
     
 bibliography: HerbVar.bib
 csl: format/ecology.csl

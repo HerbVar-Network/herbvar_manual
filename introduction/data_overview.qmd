@@ -5,7 +5,6 @@ date: 11/01/2024
 date-modified: last-modified
 ---
 
-
 ## Core HerbVar Dataset (Phase 1) {#sec-datasets}
 
 The Phase 1 HerbVar dataset was begun in 2017 and closed for contributions prior to submission of our 2023 paper in _Science_. For the Phase 1 Core Dataset we prioritized surveys that added phylogenetic and geographic breadth to analyses - it includes estimates of herbivore damage on more than 50,000 plant individuals from 790 populations of 503 species in 135 families. The sampling occurred across 116 degrees of latitude and was conducted by 127 research teams working in 34 countries. 

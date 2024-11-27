@@ -7,7 +7,8 @@ date-modified: last-modified
 
 # Preparing Manuscripts & Presentations {#sec-publications}
 
-The [`new_dataset_template`](https://github.com/HerbVar-Network/new_dataset_template) on Github can also be used to write the manuscript in markdown using [`papaja`](https://github.com/crsh/papaja) or one of the [`rticles`](https://github.com/rstudio/rticles) templates. 
+Write the manuscript following the HerbVar guidelines for authorship (@sec-authorship_process) and Checklist for Writing Manuscripts below. Note that the Data Analysis Template can also be used to write the manuscript in markdown using a template such as [`papaja`](https://github.com/crsh/papaja) or one of the [`rticles`](https://github.com/rstudio/rticles) templates. 
+
 
 ## Checklist: Prior to Submission (Manuscripts &  Presentations)
 

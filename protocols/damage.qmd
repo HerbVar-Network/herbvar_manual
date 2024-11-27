@@ -5,7 +5,7 @@ date: 11/01/2021
 date-modified: last-modified
 ---
 
-# Damage Estimation {#sec-damage}
+# Estimating Damage {#sec-damage}
 
 ## Overview
 
@@ -28,9 +28,9 @@ So, you’ve figured out how to find the random set of plants to score damage on
 
 **Two related documents**:
 
-1. The _"Field Guide to Different Types of Herbivore Damage"_ found in @sec-damage, which has photos of different types of damage
+1. The [_"Field Guide to Different Types of Herbivore Damage"_]() , which has photos of different types of damage
 
-2. An [_"Illustrated Guide to Percent Leaf Damage"_](/protocols/Illustrated Guide to Percent Leaf Damage.pdf), which shows images of leaves with different percent damage to help you calibrate your visual estimates.
+2. An [_"Illustrated Guide to Percent Leaf Damage"_](), which shows images of leaves with different percent damage to help you calibrate your visual estimates.
 
 **Objectives:** First off, it is good to keep in mind the goals of these estimates: Ideally, we would like to know (1) the total amount of plant material consumed by herbivores (e.g., grams of tissue eaten) _and_ the (2) total amount of plant material remaining (e.g., grams of tissue remaining). Unfortunately, this is not feasible for most systems, so our goal is to approximate them by estimating (1) plant size and (2) percent removed by herbivores for entire plants _and_ for a sample of leaves _within_ plants.
 
@@ -59,7 +59,7 @@ In most cases, herbivores do not eat all plant biomass. Therefore, it will be us
 
 Once you have decided the extent of plant you will be surveying, you can measure plant size. Because there are so many different plant growth forms, we suggest using your judgement to pick the best measure of plant size for your species. Examples of measures that work well for many species are standing plant height (e.g., ground to tallest living part), stem length (better than standing height for creeping species), foliage diameter, and stem diameter. Just make sure to be consistent within a survey, and to detail your plant size measure in the notes.
 
-## 2. Counting Number of Total and Damaged Leaves (up to N = 60)
+## Counting Number of Total and Damaged Leaves (up to N = 60)
 
 The first damage assessment step in the HerbVar Primary Survey Protocol is estimate the proportion of leaves with any damage, which we are defining as > 0.5% of a leaf removed by herbivores. We estimate the proportion of leaves damaged by counting the number of undamaged and damaged leaves on each plant (recording total number of leaves and number of undamaged leaves) up to a max of 60 leaves per plant. See the following sections and illustrated guides below for tips on how to decide if a leaf has more than or less than 0.5% damage. Here we’ll discuss how to choose leaves to examine.
 
@@ -79,7 +79,7 @@ If you are restricted to examining a subsample of leaves within plants (because 
 
 Ian Pearse’s nose-pointing method: For large plants, I like to choose four positions around the plant roughly at the cardinal directions (this never comes out as neatly as I might like since a lot of plants just don’t grow that way). I stand at each of those positions, I turn away from the plant, I close my eyes, and I put my finger against my nose, like this (@fig-nose). Then, I turn facing the plant, open one eye, and I choose whatever leaf I am pointing to (or the closest leaf if I’m pointing to multiple or none). I’ve done this on a lot for leaves, and I think it would basically work for other tissues (twigs, flowers, etc). You can continue to do this until you have examined your full subsample of leaves. Caveats: It is important to include mostly-eaten leaves using this method, but the method probably underestimates damage because you are less likely to be randomly pointing at a mostly-eaten leaf-nub.
 
-![Nose pointing method to acquire a random sample of plant parts. (A) The researcher establishes a fixed point in his field of vision with an “L”-shaped hand position while turned away from the plant. (B) They then turn to the plant, open a single eye, and chooses the leaf that they are pointing to.](images/img10_2.png){#fig-nose width=95%}
+![Nose pointing method to acquire a random sample of plant parts. (A) The researcher establishes a fixed point in his field of vision with an “L”-shaped hand position while turned away from the plant. (B) They then turn to the plant, open a single eye, and chooses the leaf that they are pointing to.](images/img10_2.png){#fig-nose width=95% fig-scap="Nose pointing method to acquire a random sample of plant parts."}
 
 
 #### Subsampling Method 2: True Randomization
@@ -99,7 +99,6 @@ Design (and make notes of!) your own subsampling scheme. Can you choose every se
 ![Skunkbush sumac (_Rhus trilobata_)](images/img12.png){#fig-random width=70%}
 
 
-
 ![Locust (_Robinia_)](images/img13.png){#fig-arbitrary width=70%}
 
 
@@ -113,21 +112,21 @@ This method works well (we think) as an estimate of overall herbivory for plants
 
 ## 3. Estimating Percent Damage on 10 Randomly Chosen Leaves
 
-The next damage assessment step is estimating percent damage on 10 randomly chosen leaves. Well actually, the 10 data columns for this step (percLf1–percLf10) come after the column for whole plant percent damage (percHerbPlant) in the HerbVar template datasheet, but it makes more sense, in this document, to discuss percent herbivory on individual leaves before discussing whole plant percent herbivory.
+The next damage assessment step is estimating percent damage on 10 randomly chosen leaves. Well actually, the 10 data columns for this step (`percLf1–percLf10`) come after the column for whole plant percent damage (`percHerbPlant`) in the `HerbVar template` datasheet, but it makes more sense, in this document, to discuss percent herbivory on individual leaves before discussing whole plant percent herbivory.
 
-### Randomly choose 10 leaves:
+1. If your plant has 10 or fewer leaves, then please examine them all. 
 
-If your plant has 10 or fewer leaves, then please examine them all; if your plant has more than 10 leaves, then use one of the methods above to choose 10 leaves randomly. Strive to have these leaves be an unbiased subsample of all the leaves on the plant.
+2. if your plant has more than 10 leaves, then use one of the methods above to choose 10 leaves randomly. Strive to have these leaves be an unbiased subsample of all the leaves on the plant.
 
-### Estimate percent damage on each leaf
+Finally, the main event—this is probably the main reason you’re reading this document. **_There are many ways to estimate percent damage on leaves. For HerbVar, we recommend collaborators use visual estimation because other methods are slower and would make the sample sizes we need to describe herbivory distributions unattainable._** Moreover, careful visual estimation does a surprisingly good job, especially after some practice, especially if the primary goal is to compare the frequency of plants with low and high herbivory, as ours is. However, we strongly recommend checking your estimates against estimates from other observers using the same method, or even better against estimates using digital methods (i.e., LeafByte) to get a sense for how good of a job you are doing, and if you are overestimating or underestimating.
 
-Finally, the main event—this is probably the main reason you’re reading this document. There are many ways to estimate percent damage on leaves. For HerbVar, we recommend collaborators use visual estimation because other methods are slower and would make the sample sizes we need to describe herbivory distributions unattainable. Moreover, careful visual estimation does a surprisingly good job, especially after some practice, especially if the primary goal is to compare the frequency of plants with low and high herbivory, as ours is. However, we strongly recommend checking your estimates against estimates from other observers using the same method, or even better against estimates using digital methods (i.e., LeafByte) to get a sense for how good of a job you are doing, and if you are overestimating or underestimating.
+### Visual estimation 
 
-#### Visual estimation 
+Visual estimation is essentially as simple as it sounds. You look at a leaf and eyeball what percent was removed or damaged by herbivores. The benefit of this method is that it is quick, allowing us to obtain the large sample sizes we need to describe whole herbivory distributions. The caveat is that this method has more measurement error than other methods. For example, Zoe and Julie and Marc Johnson have found that visual estimation tends to overestimate damage by a few percent, particularly for researchers with less experience. We hope to mitigate estimation error with the guidelines below, our Illustrated guide to amounts of percent damage, an online training quiz, and a ground-truthing effort. **First**, we explain how to estimate damage. **Second**, we explain how to make sure you’re doing a good job.
 
-Visual estimation is essentially as simple as it sounds. You look at a leaf and eyeball what percent was removed or damaged by herbivores. The benefit of this method is that it is quick, allowing us to obtain the large sample sizes we need to describe whole herbivory distributions. The caveat is that this method has more measurement error than other methods. For example, Zoe and Julie and Marc Johnson have found that visual estimation tends to overestimate damage by a few percent, particularly for researchers with less experience. We hope to mitigate estimation error with the guidelines below, our Illustrated guide to amounts of percent damage, an online training quiz, and a ground-truthing effort. First we explain how to estimate damage. Second, we explain how to make sure you’re doing a good job.
+#### How to estimate damage. 
 
-1. How to estimate damage. Record estimates at a high resolution. We usually record at a resolution of 2.5% (@tbl-herbiv). This may seem like unreasonably high resolution when you first try, but with a little practice and calibration you will get surprisingly good. We encourage trying for high resolution because—even with considerable error—high resolution estimates will likely be closer to the true values on average than estimates reported as broad categories (e.g., 0%, 1-10%, 11-25%, 26-50%... too coarse!). Plus, if you report your best guesses we can model the error statistically; we’re out of luck if you just report broad categories. 
+1. Record estimates at a high resolution. We usually record at a resolution of 2.5% (@tbl-herbiv). This may seem like unreasonably high resolution when you first try, but with a little practice and calibration you will get surprisingly good. We encourage trying for high resolution because—even with considerable error—high resolution estimates will likely be closer to the true values on average than estimates reported as broad categories (e.g., 0%, 1-10%, 11-25%, 26-50%... too coarse!). Plus, if you report your best guesses we can model the error statistically; we’re out of luck if you just report broad categories. 
 
 
 : Recommended resolution for recording percent herbivory {#tbl-herbiv}
@@ -204,7 +203,7 @@ Visual estimation is essentially as simple as it sounds. You look at a leaf and 
 
 3. Standardize among observers you work with or have a single observer for all estimates.
 
-4. Print out An illustrated guide to amounts of percent damage. Study it while practicing, and take it into the field with you as a reference. You can focus on the pages with leaves that are most similar in shape to leaves from your species.
+4. Print out ["An illustrated guide to amounts of percent damage"](). Study it while practicing, and take it into the field with you as a reference. You can focus on the pages with leaves that are most similar in shape to leaves from your species.
 
 5. Take our online herbivory estimation training quiz (in development, we will add the link here when it’s ready). This will help you assess your accuracy and precision and give you additional practice in estimating herbivory. We suggest re-taking this quiz once per week when doing surveys to refresh your memory.
 
@@ -230,8 +229,10 @@ Effective methods will vary a lot based on the size of plants, size of leaves, a
 
 We often find it helpful to pick a reference leaf size on which to base mental calculations. Often it’s convenient to pick the largest or smallest leaf, depending on whether you prefer scaling down or scaling up leaf level estimates.
 
-An important tip to remember for speed is that when plants have more than ~9 leaves, leaves with low levels of damage will contribute very little to plant-level damage. For example, a leaf with 2% damage would only contribute 0.2% to overall plant damage on a plant with 10 similarly sized leaves. This means that you do not need to stress about these leaves. Of course, if every leaf on the plant has 2% damage, then this would be important to keep track off. Indeed, this is essentially what you need to pay attention to as you scan the whole plant. In our experience, most plants have skewed distributions of herbivory within plants, so it’s all about paying attention to the proportion of leaves with insignificant and significant herbivory and the amount of herbivory on leaves with significant herbivory. But this isn’t always the case, so look out for more even within-plant distributions. (Side note: we hope to get at this question with our herbivory estimates on the 10 random leaves).
+An important tip to remember for speed is that when plants have more than ~9 leaves, leaves with low levels of damage will contribute very little to plant-level damage. For example, a leaf with 2% damage would only contribute 0.2% to overall plant damage on a plant with 10 similarly sized leaves. This means that you do not need to stress about these leaves. Of course, if every leaf on the plant has 2% damage, then this would be important to keep track off. Indeed, this is essentially what you need to pay attention to as you scan the whole plant. In our experience, most plants have skewed distributions of herbivory within plants, so it’s all about paying attention to the proportion of leaves with insignificant and significant herbivory and the amount of herbivory on leaves with significant herbivory. But this isn’t always the case, so look out for more even within-plant distributions. (Side note: we hope to get at this question with our herbivory estimates on the 10 random leaves).  
+
 For larger plants and plants with many small leaves, it is impractical to scan each individual leaf and mentally combine them (unless you are a mental math wizard!). In these cases, we still encourage you to scan the whole plant, but simply increase the grain size of your focus. For example, estimate herbivory at the scale of similarly sized branches of leaves. For plants with many, many small leaves, you may need to squint and look at similarly sized clumps of leaves. For example, people who work on conifers have a method for estimating herbivory on branches that involves looking up through a branch and seeing how much sky shows through.
+
 
 Please let us know if you have additional tips, suggestions, or guidelines we can add to this document. And please let us know if anything is missing, confusing, or wrong! Have fun in the field and be safe.
 
