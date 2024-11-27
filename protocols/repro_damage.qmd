@@ -38,8 +38,11 @@ If your plant does not meet these requirements, please skip measuring damage to 
 3. Herbivore damage per unit: Either percent or count of injuries
 4. Pathogen damage per unit
 5. Unknown damage per unit (i.e., any damage not attributable to either herbivores or pathogens).
-6. Ideally at least 30 reproductive units will be examined per plant. For plants that have much more than 30 units, examine a haphazard subsample of 30 units per plant. These should be sampled from different parts of the plant to obtain a good representative sample of damage levels to the plant.  Damage measurements will be highly variable among species, depending on the types of flowers or fruits produced as well as the type of damage that is most common in the population. Below we give some general guidelines.
-7. There likely will need to be modifications for some species, but we trust collaborators to do the best they can in their systems while maintaining the overall spirit of the protocol. For example, if your species has only one or a few flowers/fruit, you can estimate the damage as a percentage. Keep in mind that the goal is to capture the variability in damage rates among plants within a population, so you will want to choose a measure of flower/fruit/seed damage that best captures this variability.
+
+
+Ideally at least 30 reproductive units will be examined per plant. For plants that have much more than 30 units, examine a haphazard subsample of 30 units per plant. These should be sampled from different parts of the plant to obtain a good representative sample of damage levels to the plant.  Damage measurements will be highly variable among species, depending on the types of flowers or fruits produced as well as the type of damage that is most common in the population. Below we give some general guidelines.
+
+There likely will need to be modifications for some species, but we trust collaborators to do the best they can in their systems while maintaining the overall spirit of the protocol. For example, if your species has only one or a few flowers/fruit, you can estimate the damage as a percentage. Keep in mind that the goal is to capture the variability in damage rates among plants within a population, so you will want to choose a measure of flower/fruit/seed damage that best captures this variability.
 
 ### Data Recording Tips
 
@@ -85,6 +88,6 @@ Note that `numReproHerb` can be less than the sum of the counts of types of dama
 ![_Lonicera_ fruit with piercing damage. In this example, each of 30 fruits would be scored for damage. _Photo: Susan Whitehead_.](images/img7.png){#lon-pierce fig-scap="_Lonicera_ fruit with piercing damage." width=60%}
 
 
-_Aquilegia shockleyi_ with chewing damage to fruits by _Heliothis phloxiphaga_. In this example, each fruit could be scored for damage, or each fruit could be opened and seeds could be counted (infer missing, fully-consumed seeds from pod features). _Photo: Eric LoPresti_.](images/img8.png){#fig-lonicera fig-scap="_Aquilegia shockleyi_ with chewing damage to fruits" width=60%}
+![_Aquilegia shockleyi_ with chewing damage to fruits by _Heliothis phloxiphaga_. In this example, each fruit could be scored for damage, or each fruit could be opened and seeds could be counted (infer missing, fully-consumed seeds from pod features). _Photo: Eric LoPresti_.](images/img8.png){#fig-lonicera fig-scap="_Aquilegia shockleyi_ with chewing damage to fruits" width=60%}
 
 

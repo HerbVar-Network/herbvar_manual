@@ -26,13 +26,13 @@ Our approach to select plant species and/or sites to survey is described in @sec
 
 The **Primary Protocol** for collecting HerbVar data with most species (e.g., sample sizes, selecting individuals to sample) is described in @sec-primary. If there is a reason why you think this protocol will not work for your species or in your field sites, please consider one of the alternative protocols below or contact the HerbVar Planning Group.  
 
-**Estimating damage by herbivores**: @sec-damage provides a detailed walk-through of the process for estimating herbivore damage on leaves and whole plants, including suggestions for different types of leaves and damage. There is also an [Illustrated Guide to Percent Leaf Damage](/protocols/Illustrated Guide to Percent Leaf Damage.pdf) to help estimate different levels of to damage to leaves. _We suggest printing this guide and taking it with you to the field to help estimate percent herbivory._ It currently includes leaves of two species as examples; it will be updated with examples from other species.  
+**Estimating damage by herbivores**: @sec-damage provides a detailed walk-through of the process for estimating herbivore damage on leaves and whole plants, including suggestions for different types of leaves and damage. There is also an [Illustrated Guide to Percent Leaf Damage](see @sec-forms) to help estimate different levels of to damage to leaves. _We suggest printing this guide and taking it with you to the field to help estimate percent herbivory._ It currently includes leaves of two species as examples; it will be updated with examples from other species.  
 
 ### Datasheets
 
-1. [Datasheet - Excel File](protocols/HerbVar_Datasheet_Template.xlsx). This Excel file is a template datasheet designed to work for the HerbVar Primary Protocol. It contains a "data dictionary" sheet that defines all columns if any abbreviations are unclear.
+1. [Datasheet - Excel File](see @sec-forms to download). This Excel file is a template datasheet designed to work for the HerbVar Primary Protocol. It contains a "data dictionary" sheet that defines all columns if any abbreviations are unclear.
 
-2. [Datasheet - Printable PDFs](https://drive.google.com/drive/folders/10-9xPm9yOAvGCtL3dmVaoz7ODI1fghYG?usp=sharing). We have split the printable datasheets into three parts, one each for the Primary, Reproductive, and Herbivore Protocols. The herbivore datasheet is built for you to print as many copies of the second page as you have identified herbivore groups.
+2. [Datasheet - Printable PDFs](see @sec-forms to download). We have split the printable datasheets into three parts, one each for the Primary, Reproductive, and Herbivore Protocols. The herbivore datasheet is built for you to print as many copies of the second page as you have identified herbivore groups.
 
 
 ## Damage to reproductive tissues

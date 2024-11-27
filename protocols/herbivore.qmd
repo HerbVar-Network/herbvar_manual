@@ -43,21 +43,15 @@ Please use the following questions to help you decide whether to sample “core�
 
 ### Sampling insects beyond “core” herbivores.  
 
-1. In an effort to standardize the insect data we have included 5 groupings to use for tallying herbivores. This is to avoid counting insects which may be predatory, rather than herbivorous (e.g., “true bugs”). **_Please prioritize counting herbivores belonging to the 5 aforementioned groups_** (see visual guide below if needed).
+In an effort to standardize the insect data we have included 5 groupings to use for tallying herbivores. This is to avoid counting insects which may be predatory, rather than herbivorous (e.g., “true bugs”). **_Please prioritize counting herbivores belonging to the 5 aforementioned groups_** (see visual guide below if needed).
 
-2. Please indicate whether you are recording herbivores as a count or as presence/absence data (see `insectUnit` in the `herbivoreData` tab of the template Excel file)  
+Please indicate whether you are recording herbivores as a count or as presence/absence data (see `insectUnit` in the `herbivoreData` tab of the template Excel file)  
 
-3. For both core and non-core insects, please herbivorous count insects whether or not they are actively feeding. You are welcome to make a note of their behavior in the “notes” column but all potential herbivores on the plant should be included in your survey
+For both core and non-core insects, please count hervivorous insects whether or not they are actively feeding. You are welcome to make a note of their behavior in the “notes” column but all potential herbivores on the plant should be included in your survey
 
-4. If you have more intimate knowledge of insect herbivores (e.g., can distinguish herbivorous true bugs from predatory), please add columns for these other insects in the `herbivoreData` tab of the template Excel file.
+If you have more intimate knowledge of insect herbivores (e.g., can distinguish herbivorous true bugs from predatory), please add columns for these other insects in the `herbivoreData` tab of the template Excel file. To facilitate this, we have added `beetleHerbivore`, `thysanopteraHerbivore`, `gastropod`, `stemBorers`, and `heteropteraHerbivore` to the template digital datasheet but you are welcome to add other columns as needed. We also recognize that herbivore surveys may differ dramatically among sampling sites and have modified our printable datasheet for this survey to include an `Insect ID` column rather than predefined columns
 
-    - To facilitate this, we have added `beetleHerbivore`, `thysanopteraHerbivore`, `gastropod`, `stemBorers`, and `heteropteraHerbivore` to the template digital datasheet but you are welcome to add other columns as needed.
-
-    - We also recognize that herbivore surveys may differ dramatically among sampling sites and have modified our printable datasheet for this survey to include an `Insect ID` column rather than predefined columns
-
-      - Please continue to record the 5 required insects (even when there are none please put a zero)
-
-    - While mines/galls are recorded in the Primary Protocol, mine-/gall-forming insects should be counted here if you have the time and identification ability to search within galls/mines for insects
+Please continue to record the 5 required insects (even when there are none please put a zero).  While mines/galls are recorded in the Primary Protocol, mine-/gall-forming insects should be counted here if you have the time and identification ability to search within galls/mines for insects
 
 ## Herbivore Guide 
 
