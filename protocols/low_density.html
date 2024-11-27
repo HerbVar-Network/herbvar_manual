@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.38">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -40,10 +40,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-b663525e4b92bb903b2199e2d401bf36.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-3bd25354df7e227e812175514f0a3ca6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-4eab4022f712ad4cf7254d7e3378167c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -454,20 +454,18 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="16.2.1" class="anchored" data-anchor-id="record-spatial-information-via-one-of-two-methods"><span class="header-section-number">16.2.1</span> <strong>Record spatial information via one of two methods</strong></h3>
 <p><strong>Option A. Record GPS position of each plant.</strong> If you do this, you will not need to record nearest neighbor information because we can reconstruct it (and more!) easily from the geographic coordinates. This of course means that you will need a GPS sensitive enough to differentiate the locations of your plants. If your plants are on average more than 2-3 m apart, then almost any modern GPS will be precise enough. If, however, your plants average less than ~1 m apart, then you would need a very precise GPS to describe the relative locations accurately. If you don’t have such a precise GPS (or if you don’t like how slow a precise GPS can be), we recommend the second method.</p>
 <p><strong>Option B: Relative spatial coordinates:</strong> You can measure the relative coordinates of your plants using two tape measures or a tape measure and a meter stick. This sounds similar to the primary protocol but it’s much quicker because you’re not using the tapes to select plants, just to record their locations.</p>
-<ul>
+<ol type="1">
 <li><p>Lay a tape measure through your patch. For each plant, record spatial coordinates as how far along the tape measure and how far from the tape measure. You can situate the tape either along the edge of the patch or through the middle of the patch.</p></li>
 <li><p>If your tape measure is through the middle of the patch, remember to record the distance left of the tape as negative and right of the tape as positive. The start of your tape will have the coordinate (0,0).</p></li>
 <li><p>After recording this information, follow the Primary Protocol as closely as possible</p></li>
-</ul>
+</ol>
 </section>
 <section id="other-useful-information" class="level3" data-number="16.2.2">
 <h3 data-number="16.2.2" class="anchored" data-anchor-id="other-useful-information"><span class="header-section-number">16.2.2</span> <strong>Other useful information</strong></h3>
-<ol type="1">
-<li><p>Record <code>popDiameter1</code> and <code>popDiameter2</code> as the approximate extents of your patch/census area</p></li>
-<li><p>For focal plant percent cover (<code>focalPlantCover</code>) and non-focal plant percent cover (<code>otherPlantCover</code>), please follow the Primary Protocol methods for estimating population density and calculating a quadrat radius size, if feasible. You can then center a quadrat on each focal plant in the census to define an area around each focal plant for recording focal and non-focal percent cover, as well as the number of focal plants in quadrat (<code>numPlantsinQuad</code>).</p></li>
-<li><p>In comprehensive surveys the ~60 plants will all be focal plants and there is no random selection; hence the nearest neighbors (all the “.1” plant IDs in datasheet template) become focal plants. As described above, a quadrat is centered around each plant and the three quadrat-level variables (<code>focalPlantCover</code>, <code>otherPlantCover</code>, and <code>numPlantsinQuad</code>) are recorded for each plant. The nearest neighbor distance (<code>NNdist</code>) is still recorded, but since that neighbor is treated as a focal plant, please record the unique plantID of that nearest neighbor as well (e.g.&nbsp;add <code>NNplantID</code> column as needed in datasheet).</p></li>
-<li><p>If you cannot estimate population density (e.g., because your species is too sparse), then please pick an arbitrary quadrat radius. You can use that to define an area around each focal plant in your census for estimating percent cover variables. A 1-m radius might be a good choice for many plants, but go bigger for bigger plants. Remember to record your choice!</p></li>
-</ol>
+<p>Record <code>popDiameter1</code> and <code>popDiameter2</code> as the approximate extents of your patch/census area</p>
+<p>For focal plant percent cover (<code>focalPlantCover</code>) and non-focal plant percent cover (<code>otherPlantCover</code>), please follow the Primary Protocol methods for estimating population density and calculating a quadrat radius size, if feasible. You can then center a quadrat on each focal plant in the census to define an area around each focal plant for recording focal and non-focal percent cover, as well as the number of focal plants in quadrat (<code>numPlantsinQuad</code>).</p>
+<p>In comprehensive surveys the ~60 plants will all be focal plants and there is no random selection; hence the nearest neighbors (all the “.1” plant IDs in datasheet template) become focal plants. As described above, a quadrat is centered around each plant and the three quadrat-level variables (<code>focalPlantCover</code>, <code>otherPlantCover</code>, and <code>numPlantsinQuad</code>) are recorded for each plant. The nearest neighbor distance (<code>NNdist</code>) is still recorded, but since that neighbor is treated as a focal plant, please record the unique plantID of that nearest neighbor as well (e.g.&nbsp;add <code>NNplantID</code> column as needed in datasheet).</p>
+<p>If you cannot estimate population density (e.g., because your species is too sparse), then please pick an arbitrary quadrat radius. You can use that to define an area around each focal plant in your census for estimating percent cover variables. A 1-m radius might be a good choice for many plants, but go bigger for bigger plants. Remember to record your choice!</p>
 </section>
 </section>
 <section id="option-2-walking-transect" class="level2" data-number="16.3">
@@ -485,15 +483,16 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-number="16.4" class="anchored" data-anchor-id="option-3-comprehensive-census-of-subset"><span class="header-section-number">16.4</span> Option 3: Comprehensive Census of Subset</h2>
 <p>This method is similar to the comprehensive census of a patch (#1 above), but it applies when there is no well-defined patch and individuals are widely dispersed over a large area. <strong><em>There are two ways to do this, but for both of these methods record spatial coordinates for each plant as described in Option #1 above.</em></strong></p>
 <p><strong>Option A - Comprehensive survey of all plants along a transect: </strong>With this method, you are doing a comprehensive survey of a linear subset of the whole population.</p>
-<pre><code>1. Start by randomly picking a transect starting point and direction.  
-
-2. Walk the transect and survey every plant that crosses your path </code></pre>
-<p><em>or</em> every plant within a reasonable distance of your path (e.g., 2 m).</p>
-<pre><code>3. Keep going until you get at least 60 plants.  </code></pre>
-<p><strong>Option B: Comprehensive survey radiating out from a random starting point within a population. </strong> With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population. The cons of this approach are that if your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch’’.</p>
 <ol type="1">
-<li>Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. <em>We do not recommend doing this unless your plants truly are all widely dispersed.</em></li>
+<li><p>Start by randomly picking a transect starting point and direction.</p></li>
+<li><p>Walk the transect and survey every plant that crosses your path <em>or</em> every plant within a reasonable distance of your path (e.g., 2 m).</p></li>
+<li><p>Keep going until you get at least 60 plants.</p></li>
 </ol>
+<p><strong>Option B: Comprehensive survey radiating out from a random starting point within a population. </strong> With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population.</p>
+<ol type="1">
+<li>Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants.</li>
+</ol>
+<p><em>We do not recommend doing this unless your plants truly are all widely dispersed.</em> The cons of this approach are that if your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch’’.</p>
 
 
 </section>
