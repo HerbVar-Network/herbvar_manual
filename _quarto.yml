@@ -86,7 +86,7 @@ book:
         - admin/google_drive.qmd
         - admin/wrangling_repo.qmd
     
-bibliography: HerbVar.bib
+bibliography: HerbVar.bib, manual.bib
 csl: format/ecology.csl
 format:
 
