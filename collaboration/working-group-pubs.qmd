@@ -4,7 +4,7 @@ date: 09/15/2024
 date-modified: last-modified
 ---
 
-# “Working Group” Papers {#sec-worgking-group}
+# Proposing 'Working Group' Papers {#sec-worgking-group}
 
 _Working Group Papers_ allow for smaller teams to assemble to write additional papers using HerbVar data, broadening the scope of our collective work without requiring every lead author to manage hundreds of contributors. Typically, working group papers will be centered around already published HerbVar data analyzed in a new way and potentially combined with some new data. HerbVar supports working group paper authors in being as inclusive as is practical, and in connecting with appropriate co-authors to build new collaborations. 
 
