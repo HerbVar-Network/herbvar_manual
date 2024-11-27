@@ -6,4 +6,4 @@ This book is a manual for researchers involved the the [HerbVar Project](https:/
 
 This guide is a [Quarto Book](https://quarto.org/docs/books) hosted on the [HerbVar Network's Github site](https://github.com/HerbVar-Network). Any team member can edit the text, add new sections, or make suggestions for improvement either by [pull request](https://github.com/HerbVar-Network/project_manual/pulls) or by [posting an issue](https://github.com/HerbVar-Network/project_manual/issues) on the HerbVar Manual's repository. For more information and tutorials for doing so, see @sec-manual. 
 
-
+Citation: HerbVar Steering Committee (2024). "HerbVar: Project Manual and Field protocols (v0.9.0)". Zenodo. https://doi.org/10.5281/zenodo.14232308

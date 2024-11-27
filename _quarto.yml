@@ -14,7 +14,7 @@ book:
   pdf-url: https://herbvar-network.github.io/herbvar_manual/herbvar-manual.pdf 
   date-format: long
   license: "This work is licensed under CC BY-NC-SA 4.0. //To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/"
-  edition: "1st Ed."
+  edition: "v0.9.0"
   cover-image: images/cover2.png
   search: true
   repo-url: https://github.com/HerbVar-Network/herbvar_manual
@@ -104,7 +104,7 @@ format:
     #    - "format/title.tex"
     header-includes: |
       \titlehead{\includegraphics[height=9in]{images/cover2.png}}
-      \publishers{1st Ed.\\This material is based upon work supported by the National Science Foundation under Award No. NSF DEB-2203582.\\licensed under CC BY-NC-SA 4.0.}
+      \publishers{v0.9.0 (Zenodo https://doi.org/10.5281/zenodo.14232308)\\-\\This material is based upon work supported by the National Science Foundation under Award No. NSF DEB-2203582.\\-\\Licensed under CC BY-NC-SA 4.0.}
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
