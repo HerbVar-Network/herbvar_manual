@@ -9,7 +9,7 @@
 <meta name="author" content="HerbVar Damage Estimation Subgroup (Ian Pearse, Zoe Getman-Pickering, Julie Davis, Bastien Castagneyrol, and Will Wetzel)">
 <meta name="dcterms.date" content="2021-11-01">
 
-<title>14&nbsp; Damage Estimation – HerbVar Project Manual &amp; Field Protocols</title>
+<title>14&nbsp; Estimating Damage – HerbVar Project Manual &amp; Field Protocols</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,7 +22,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -84,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../protocols/protocols_overview.html">HerbVar Protocols</a></li><li class="breadcrumb-item"><a href="../protocols/damage.html"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Damage Estimation</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../protocols/protocols_overview.html">HerbVar Protocols</a></li><li class="breadcrumb-item"><a href="../protocols/damage.html"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Estimating Damage</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -208,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Research Workflow</span></a>
+ <span class="menu-text">HerbVar Workflow</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -217,13 +237,13 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../workflow/workflow.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Herbvar Research &amp; Publication Workflow</span></span></a>
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Research Workflow</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../workflow/data_analysis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Data Validation, Upload, &amp; Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Data Validation &amp; Upload</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -246,7 +266,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../protocols/protocols_overview.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Herbvar Protocols Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Protocols Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -258,7 +278,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../protocols/damage.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Damage Estimation</span></span></a>
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Estimating Damage</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -294,7 +314,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../protocols/herbivore.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Herbivores, Mines, and Galls</span></span></a>
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Herbivores, Mines, &amp; Galls</span></span></a>
   </div>
 </li>
       </ul>
@@ -317,7 +337,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../forms/onboarding_checklist.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Onboarding Checklist for New Collaborators</span></span></a>
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Checklist - Onboarding Collaborators</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -358,25 +378,19 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../admin/data_portal.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">The Data Portal</span></span></a>
+ <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Data Portal</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../admin/google_drive.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Google Drive Structure</span></span></a>
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Google Drive</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../admin/wrangling_repo.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Wrangling Repository</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../admin/unfinished_tasks.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">To-Do List for Manual</span></span></a>
   </div>
 </li>
       </ul>
@@ -393,7 +407,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="header-section-number">14.1</span> Overview</a></li>
   <li><a href="#estimating-plant-size-and-determining-what-tissue-counts" id="toc-estimating-plant-size-and-determining-what-tissue-counts" class="nav-link" data-scroll-target="#estimating-plant-size-and-determining-what-tissue-counts"><span class="header-section-number">14.2</span> Estimating Plant Size (and Determining What Tissue Counts)</a></li>
-  <li><a href="#counting-number-of-total-and-damaged-leaves-up-to-n-60" id="toc-counting-number-of-total-and-damaged-leaves-up-to-n-60" class="nav-link" data-scroll-target="#counting-number-of-total-and-damaged-leaves-up-to-n-60"><span class="header-section-number">14.3</span> 2. Counting Number of Total and Damaged Leaves (up to N = 60)</a>
+  <li><a href="#counting-number-of-total-and-damaged-leaves-up-to-n-60" id="toc-counting-number-of-total-and-damaged-leaves-up-to-n-60" class="nav-link" data-scroll-target="#counting-number-of-total-and-damaged-leaves-up-to-n-60"><span class="header-section-number">14.3</span> Counting Number of Total and Damaged Leaves (up to N = 60)</a>
   <ul class="collapse">
   <li><a href="#plants-with-small-number-of-large-leaves-n-1-3" id="toc-plants-with-small-number-of-large-leaves-n-1-3" class="nav-link" data-scroll-target="#plants-with-small-number-of-large-leaves-n-1-3"><span class="header-section-number">14.3.1</span> Plants with small number of large leaves (N = 1-3)</a></li>
   <li><a href="#plants-with-60-leaves" id="toc-plants-with-60-leaves" class="nav-link" data-scroll-target="#plants-with-60-leaves"><span class="header-section-number">14.3.2</span> Plants with &lt;60 leaves</a></li>
@@ -401,8 +415,7 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#estimating-percent-damage-on-10-randomly-chosen-leaves" id="toc-estimating-percent-damage-on-10-randomly-chosen-leaves" class="nav-link" data-scroll-target="#estimating-percent-damage-on-10-randomly-chosen-leaves"><span class="header-section-number">14.4</span> 3. Estimating Percent Damage on 10 Randomly Chosen Leaves</a>
   <ul class="collapse">
-  <li><a href="#randomly-choose-10-leaves" id="toc-randomly-choose-10-leaves" class="nav-link" data-scroll-target="#randomly-choose-10-leaves"><span class="header-section-number">14.4.1</span> Randomly choose 10 leaves:</a></li>
-  <li><a href="#estimate-percent-damage-on-each-leaf" id="toc-estimate-percent-damage-on-each-leaf" class="nav-link" data-scroll-target="#estimate-percent-damage-on-each-leaf"><span class="header-section-number">14.4.2</span> Estimate percent damage on each leaf</a></li>
+  <li><a href="#visual-estimation" id="toc-visual-estimation" class="nav-link" data-scroll-target="#visual-estimation"><span class="header-section-number">14.4.1</span> Visual estimation</a></li>
   </ul></li>
   <li><a href="#estimating-percent-damage-across-the-whole-plant" id="toc-estimating-percent-damage-across-the-whole-plant" class="nav-link" data-scroll-target="#estimating-percent-damage-across-the-whole-plant"><span class="header-section-number">14.5</span> 4. Estimating Percent Damage Across the Whole Plant</a>
   <ul class="collapse">
@@ -414,9 +427,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../protocols/protocols_overview.html">HerbVar Protocols</a></li><li class="breadcrumb-item"><a href="../protocols/damage.html"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Damage Estimation</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../protocols/protocols_overview.html">HerbVar Protocols</a></li><li class="breadcrumb-item"><a href="../protocols/damage.html"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Estimating Damage</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-damage" class="quarto-section-identifier"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Damage Estimation</span></span></h1>
+<h1 class="title"><span id="sec-damage" class="quarto-section-identifier"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Estimating Damage</span></span></h1>
 </div>
 
 
@@ -476,8 +489,8 @@ Note
 </div>
 <p><strong>Two related documents</strong>:</p>
 <ol type="1">
-<li><p>The <em>“Field Guide to Different Types of Herbivore Damage”</em> found in <a href="#sec-damage" class="quarto-xref"><span>Chapter 14</span></a>, which has photos of different types of damage</p></li>
-<li><p>An <a href="../protocols/Illustrated Guide to Percent Leaf Damage.pdf"><em>“Illustrated Guide to Percent Leaf Damage”</em></a>, which shows images of leaves with different percent damage to help you calibrate your visual estimates.</p></li>
+<li><p>The <em>“Field Guide to Different Types of Herbivore Damage”</em> (<a href="herbivore.html" class="quarto-xref"><span>Chapter 20</span></a>), which has photos of different types of damage</p></li>
+<li><p>An <a href="https://github.com/HerbVar-Network/herbvar_manual/blob/2d334240bdc0f57370bd260cd054d02ffbd5b367/forms/Illustrated%20Guide%20to%20Percent%20Leaf%20Damage.pdf"><em>“Illustrated Guide to Percent Leaf Damage”</em></a>, which shows images of leaves with different percent damage to help you calibrate your visual estimates.</p></li>
 </ol>
 <p><strong>Objectives:</strong> First off, it is good to keep in mind the goals of these estimates: Ideally, we would like to know (1) the total amount of plant material consumed by herbivores (e.g., grams of tissue eaten) <em>and</em> the (2) total amount of plant material remaining (e.g., grams of tissue remaining). Unfortunately, this is not feasible for most systems, so our goal is to approximate them by estimating (1) plant size and (2) percent removed by herbivores for entire plants <em>and</em> for a sample of leaves <em>within</em> plants.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
@@ -501,7 +514,7 @@ What kinds of plants will this work for?
 <h2 data-number="14.2" class="anchored" data-anchor-id="estimating-plant-size-and-determining-what-tissue-counts"><span class="header-section-number">14.2</span> Estimating Plant Size (and Determining What Tissue Counts)</h2>
 <p>In many cases, it will be clear what an individual plant is, but in cases of clonal plants, we will consider each ramet (i.e., above-ground unit) to be a unique “individual.” Move leaf litter to look for above-ground connections, but do not clear away soil.</p>
 <p>In most cases, herbivores do not eat all plant biomass. Therefore, it will be useful to note the tissue that you are measuring damage on. For most HerbVar surveys, this will be vegetative tissue: “leaves” and maybe “stems.” The key is to collect your damage estimates across all of the tissue within a plant or on a random sample of the tissue within a plant. Before you start estimating damage, give some thought as to precisely what to include. For example, it is probably best to avoid senesced leaves (<a href="#fig-lepidium" class="quarto-xref">Figure&nbsp;<span>14.1</span></a>) unless perhaps the leaves were recently senesced such that they have not changed in size or distorted in any way. If you need to make any decisions about what to count, please remember to put detailed notes in the notes tab of the datasheet.</p>
-<div id="fig-lepidium" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-scap="Senesced _Lepidium_ leaves." data-fig-align="center">
+<div id="fig-lepidium" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center" data-fig-scap="Senesced _Lepidium_ leaves.">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-lepidium-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="images/img9.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%" data-fig-scap="Senesced _Lepidium_ leaves.">
@@ -514,7 +527,7 @@ Figure&nbsp;14.1: Senesced <em>Lepidium</em> leaves. Leaves like this are probab
 <p>Once you have decided the extent of plant you will be surveying, you can measure plant size. Because there are so many different plant growth forms, we suggest using your judgement to pick the best measure of plant size for your species. Examples of measures that work well for many species are standing plant height (e.g., ground to tallest living part), stem length (better than standing height for creeping species), foliage diameter, and stem diameter. Just make sure to be consistent within a survey, and to detail your plant size measure in the notes.</p>
 </section>
 <section id="counting-number-of-total-and-damaged-leaves-up-to-n-60" class="level2" data-number="14.3">
-<h2 data-number="14.3" class="anchored" data-anchor-id="counting-number-of-total-and-damaged-leaves-up-to-n-60"><span class="header-section-number">14.3</span> 2. Counting Number of Total and Damaged Leaves (up to N = 60)</h2>
+<h2 data-number="14.3" class="anchored" data-anchor-id="counting-number-of-total-and-damaged-leaves-up-to-n-60"><span class="header-section-number">14.3</span> Counting Number of Total and Damaged Leaves (up to N = 60)</h2>
 <p>The first damage assessment step in the HerbVar Primary Survey Protocol is estimate the proportion of leaves with any damage, which we are defining as &gt; 0.5% of a leaf removed by herbivores. We estimate the proportion of leaves damaged by counting the number of undamaged and damaged leaves on each plant (recording total number of leaves and number of undamaged leaves) up to a max of 60 leaves per plant. See the following sections and illustrated guides below for tips on how to decide if a leaf has more than or less than 0.5% damage. Here we’ll discuss how to choose leaves to examine.</p>
 <section id="plants-with-small-number-of-large-leaves-n-1-3" class="level3" data-number="14.3.1">
 <h3 data-number="14.3.1" class="anchored" data-anchor-id="plants-with-small-number-of-large-leaves-n-1-3"><span class="header-section-number">14.3.1</span> Plants with small number of large leaves (N = 1-3)</h3>
@@ -530,10 +543,10 @@ Figure&nbsp;14.1: Senesced <em>Lepidium</em> leaves. Leaves like this are probab
 <section id="subsampling-method-1-nose-pointing" class="level4" data-number="14.3.3.1">
 <h4 data-number="14.3.3.1" class="anchored" data-anchor-id="subsampling-method-1-nose-pointing"><span class="header-section-number">14.3.3.1</span> Subsampling Method 1: Nose-Pointing</h4>
 <p>Ian Pearse’s nose-pointing method: For large plants, I like to choose four positions around the plant roughly at the cardinal directions (this never comes out as neatly as I might like since a lot of plants just don’t grow that way). I stand at each of those positions, I turn away from the plant, I close my eyes, and I put my finger against my nose, like this (<a href="#fig-nose" class="quarto-xref">Figure&nbsp;<span>14.2</span></a>). Then, I turn facing the plant, open one eye, and I choose whatever leaf I am pointing to (or the closest leaf if I’m pointing to multiple or none). I’ve done this on a lot for leaves, and I think it would basically work for other tissues (twigs, flowers, etc). You can continue to do this until you have examined your full subsample of leaves. Caveats: It is important to include mostly-eaten leaves using this method, but the method probably underestimates damage because you are less likely to be randomly pointing at a mostly-eaten leaf-nub.</p>
-<div id="fig-nose" class="quarto-float quarto-figure quarto-figure-center anchored">
+<div id="fig-nose" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-scap="Nose pointing method to acquire a random sample of plant parts.">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-nose-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/img10_2.png" class="img-fluid figure-img" style="width:95.0%">
+<img src="images/img10_2.png" class="img-fluid figure-img" style="width:95.0%" data-fig-scap="Nose pointing method to acquire a random sample of plant parts.">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-nose-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;14.2: Nose pointing method to acquire a random sample of plant parts. (A) The researcher establishes a fixed point in his field of vision with an “L”-shaped hand position while turned away from the plant. (B) They then turn to the plant, open a single eye, and chooses the leaf that they are pointing to.
@@ -590,19 +603,19 @@ Philosophical thoughts about counting damaged leaves
 </section>
 <section id="estimating-percent-damage-on-10-randomly-chosen-leaves" class="level2" data-number="14.4">
 <h2 data-number="14.4" class="anchored" data-anchor-id="estimating-percent-damage-on-10-randomly-chosen-leaves"><span class="header-section-number">14.4</span> 3. Estimating Percent Damage on 10 Randomly Chosen Leaves</h2>
-<p>The next damage assessment step is estimating percent damage on 10 randomly chosen leaves. Well actually, the 10 data columns for this step (percLf1–percLf10) come after the column for whole plant percent damage (percHerbPlant) in the HerbVar template datasheet, but it makes more sense, in this document, to discuss percent herbivory on individual leaves before discussing whole plant percent herbivory.</p>
-<section id="randomly-choose-10-leaves" class="level3" data-number="14.4.1">
-<h3 data-number="14.4.1" class="anchored" data-anchor-id="randomly-choose-10-leaves"><span class="header-section-number">14.4.1</span> Randomly choose 10 leaves:</h3>
-<p>If your plant has 10 or fewer leaves, then please examine them all; if your plant has more than 10 leaves, then use one of the methods above to choose 10 leaves randomly. Strive to have these leaves be an unbiased subsample of all the leaves on the plant.</p>
-</section>
-<section id="estimate-percent-damage-on-each-leaf" class="level3" data-number="14.4.2">
-<h3 data-number="14.4.2" class="anchored" data-anchor-id="estimate-percent-damage-on-each-leaf"><span class="header-section-number">14.4.2</span> Estimate percent damage on each leaf</h3>
-<p>Finally, the main event—this is probably the main reason you’re reading this document. There are many ways to estimate percent damage on leaves. For HerbVar, we recommend collaborators use visual estimation because other methods are slower and would make the sample sizes we need to describe herbivory distributions unattainable. Moreover, careful visual estimation does a surprisingly good job, especially after some practice, especially if the primary goal is to compare the frequency of plants with low and high herbivory, as ours is. However, we strongly recommend checking your estimates against estimates from other observers using the same method, or even better against estimates using digital methods (i.e., LeafByte) to get a sense for how good of a job you are doing, and if you are overestimating or underestimating.</p>
-<section id="visual-estimation" class="level4" data-number="14.4.2.1">
-<h4 data-number="14.4.2.1" class="anchored" data-anchor-id="visual-estimation"><span class="header-section-number">14.4.2.1</span> Visual estimation</h4>
-<p>Visual estimation is essentially as simple as it sounds. You look at a leaf and eyeball what percent was removed or damaged by herbivores. The benefit of this method is that it is quick, allowing us to obtain the large sample sizes we need to describe whole herbivory distributions. The caveat is that this method has more measurement error than other methods. For example, Zoe and Julie and Marc Johnson have found that visual estimation tends to overestimate damage by a few percent, particularly for researchers with less experience. We hope to mitigate estimation error with the guidelines below, our Illustrated guide to amounts of percent damage, an online training quiz, and a ground-truthing effort. First we explain how to estimate damage. Second, we explain how to make sure you’re doing a good job.</p>
+<p>The next damage assessment step is estimating percent damage on 10 randomly chosen leaves. Well actually, the 10 data columns for this step (<code>percLf1–percLf10</code>) come after the column for whole plant percent damage (<code>percHerbPlant</code>) in the <code>HerbVar template</code> datasheet, but it makes more sense, in this document, to discuss percent herbivory on individual leaves before discussing whole plant percent herbivory.</p>
 <ol type="1">
-<li>How to estimate damage. Record estimates at a high resolution. We usually record at a resolution of 2.5% (<a href="#tbl-herbiv" class="quarto-xref">Table&nbsp;<span>14.1</span></a>). This may seem like unreasonably high resolution when you first try, but with a little practice and calibration you will get surprisingly good. We encourage trying for high resolution because—even with considerable error—high resolution estimates will likely be closer to the true values on average than estimates reported as broad categories (e.g., 0%, 1-10%, 11-25%, 26-50%… too coarse!). Plus, if you report your best guesses we can model the error statistically; we’re out of luck if you just report broad categories.</li>
+<li><p>If your plant has 10 or fewer leaves, then please examine them all.</p></li>
+<li><p>if your plant has more than 10 leaves, then use one of the methods above to choose 10 leaves randomly. Strive to have these leaves be an unbiased subsample of all the leaves on the plant.</p></li>
+</ol>
+<p>Finally, the main event—this is probably the main reason you’re reading this document. <strong><em>There are many ways to estimate percent damage on leaves. For HerbVar, we recommend collaborators use visual estimation because other methods are slower and would make the sample sizes we need to describe herbivory distributions unattainable.</em></strong> Moreover, careful visual estimation does a surprisingly good job, especially after some practice, especially if the primary goal is to compare the frequency of plants with low and high herbivory, as ours is. However, we strongly recommend checking your estimates against estimates from other observers using the same method, or even better against estimates using digital methods (i.e., LeafByte) to get a sense for how good of a job you are doing, and if you are overestimating or underestimating.</p>
+<section id="visual-estimation" class="level3" data-number="14.4.1">
+<h3 data-number="14.4.1" class="anchored" data-anchor-id="visual-estimation"><span class="header-section-number">14.4.1</span> Visual estimation</h3>
+<p>Visual estimation is essentially as simple as it sounds. You look at a leaf and eyeball what percent was removed or damaged by herbivores. The benefit of this method is that it is quick, allowing us to obtain the large sample sizes we need to describe whole herbivory distributions. The caveat is that this method has more measurement error than other methods. For example, Zoe and Julie and Marc Johnson have found that visual estimation tends to overestimate damage by a few percent, particularly for researchers with less experience. We hope to mitigate estimation error with the guidelines below, our Illustrated guide to amounts of percent damage, an online training quiz, and a ground-truthing effort. <strong>First</strong>, we explain how to estimate damage. <strong>Second</strong>, we explain how to make sure you’re doing a good job.</p>
+<section id="how-to-estimate-damage." class="level4" data-number="14.4.1.1">
+<h4 data-number="14.4.1.1" class="anchored" data-anchor-id="how-to-estimate-damage."><span class="header-section-number">14.4.1.1</span> How to estimate damage.</h4>
+<ol type="1">
+<li>Record estimates at a high resolution. We usually record at a resolution of 2.5% (<a href="#tbl-herbiv" class="quarto-xref">Table&nbsp;<span>14.1</span></a>). This may seem like unreasonably high resolution when you first try, but with a little practice and calibration you will get surprisingly good. We encourage trying for high resolution because—even with considerable error—high resolution estimates will likely be closer to the true values on average than estimates reported as broad categories (e.g., 0%, 1-10%, 11-25%, 26-50%… too coarse!). Plus, if you report your best guesses we can model the error statistically; we’re out of luck if you just report broad categories.</li>
 </ol>
 <div id="tbl-herbiv" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-tbl figure">
@@ -717,13 +730,13 @@ Figure&nbsp;14.6: Internal feeding insects
 </figure>
 </div>
 </section>
-<section id="how-to-make-sure-youre-doing-a-good-job" class="level4" data-number="14.4.2.2">
-<h4 data-number="14.4.2.2" class="anchored" data-anchor-id="how-to-make-sure-youre-doing-a-good-job"><span class="header-section-number">14.4.2.2</span> How to make sure you’re doing a good job</h4>
+<section id="how-to-make-sure-youre-doing-a-good-job" class="level4" data-number="14.4.1.2">
+<h4 data-number="14.4.1.2" class="anchored" data-anchor-id="how-to-make-sure-youre-doing-a-good-job"><span class="header-section-number">14.4.1.2</span> How to make sure you’re doing a good job</h4>
 <ol type="1">
-<li><p>Be conscious that most people overestimate low levels of tissue damage (Johnson 2016). Try to correct for this by being aware of this tendency, not rounding up at low levels of damage, and calibrating/validating estimates on leaves with low damage.</p></li>
+<li><p>Be conscious that most people overestimate low levels of tissue damage <span class="citation" data-cites="johnson_precision_2016">(<a href="../references.html#ref-johnson_precision_2016" role="doc-biblioref">Johnson et al. 2016</a>)</span>. Try to correct for this by being aware of this tendency, not rounding up at low levels of damage, and calibrating/validating estimates on leaves with low damage.</p></li>
 <li><p>Invest time in practicing, calibrating, and validating estimates. Especially do this before collecting data, and continue to calibrate and validate regularly through data collection.</p></li>
 <li><p>Standardize among observers you work with or have a single observer for all estimates.</p></li>
-<li><p>Print out An illustrated guide to amounts of percent damage. Study it while practicing, and take it into the field with you as a reference. You can focus on the pages with leaves that are most similar in shape to leaves from your species.</p></li>
+<li><p>Print out <a href="https://github.com/HerbVar-Network/herbvar_manual/blob/2d334240bdc0f57370bd260cd054d02ffbd5b367/forms/Illustrated%20Guide%20to%20Percent%20Leaf%20Damage.pdf">“An illustrated guide to amounts of percent damage”</a>. Study it while practicing, and take it into the field with you as a reference. You can focus on the pages with leaves that are most similar in shape to leaves from your species.</p></li>
 <li><p>Take our online herbivory estimation training quiz (in development, we will add the link here when it’s ready). This will help you assess your accuracy and precision and give you additional practice in estimating herbivory. We suggest re-taking this quiz once per week when doing surveys to refresh your memory.</p></li>
 <li><p>Finally, ground truth a subset of your damage estimates using a digital method. When doing this, please use 6 randomly selected plants in each survey. Do the survey as normal, but after visually estimating herbivory on each leaf in those plants use one of the two digital methods below to get a digital herbivory estimate (LeafByte or ImageJ). Make sure to record a unique identifier for each leaf to link visual and digital estimates.</p>
 <ul>
@@ -751,7 +764,8 @@ Figure&nbsp;14.7: Three steps in measuring damage with Image J.
 <h3 data-number="14.5.1" class="anchored" data-anchor-id="tips-for-visually-estimating-damage-across-the-whole-plant"><span class="header-section-number">14.5.1</span> Tips for visually estimating damage across the whole plant:</h3>
 <p>Effective methods will vary a lot based on the size of plants, size of leaves, and architecture of plant. For smaller plants with a smaller number of leaves, you can quickly estimate damage on each leaf and combine leaf-level estimates into a plant-level estimate. If all leaves are similar in size, you can just average them. If leaves vary in size, you will need to take their relative sizes into account.</p>
 <p>We often find it helpful to pick a reference leaf size on which to base mental calculations. Often it’s convenient to pick the largest or smallest leaf, depending on whether you prefer scaling down or scaling up leaf level estimates.</p>
-<p>An important tip to remember for speed is that when plants have more than ~9 leaves, leaves with low levels of damage will contribute very little to plant-level damage. For example, a leaf with 2% damage would only contribute 0.2% to overall plant damage on a plant with 10 similarly sized leaves. This means that you do not need to stress about these leaves. Of course, if every leaf on the plant has 2% damage, then this would be important to keep track off. Indeed, this is essentially what you need to pay attention to as you scan the whole plant. In our experience, most plants have skewed distributions of herbivory within plants, so it’s all about paying attention to the proportion of leaves with insignificant and significant herbivory and the amount of herbivory on leaves with significant herbivory. But this isn’t always the case, so look out for more even within-plant distributions. (Side note: we hope to get at this question with our herbivory estimates on the 10 random leaves). For larger plants and plants with many small leaves, it is impractical to scan each individual leaf and mentally combine them (unless you are a mental math wizard!). In these cases, we still encourage you to scan the whole plant, but simply increase the grain size of your focus. For example, estimate herbivory at the scale of similarly sized branches of leaves. For plants with many, many small leaves, you may need to squint and look at similarly sized clumps of leaves. For example, people who work on conifers have a method for estimating herbivory on branches that involves looking up through a branch and seeing how much sky shows through.</p>
+<p>An important tip to remember for speed is that when plants have more than ~9 leaves, leaves with low levels of damage will contribute very little to plant-level damage. For example, a leaf with 2% damage would only contribute 0.2% to overall plant damage on a plant with 10 similarly sized leaves. This means that you do not need to stress about these leaves. Of course, if every leaf on the plant has 2% damage, then this would be important to keep track off. Indeed, this is essentially what you need to pay attention to as you scan the whole plant. In our experience, most plants have skewed distributions of herbivory within plants, so it’s all about paying attention to the proportion of leaves with insignificant and significant herbivory and the amount of herbivory on leaves with significant herbivory. But this isn’t always the case, so look out for more even within-plant distributions. (Side note: we hope to get at this question with our herbivory estimates on the 10 random leaves).</p>
+<p>For larger plants and plants with many small leaves, it is impractical to scan each individual leaf and mentally combine them (unless you are a mental math wizard!). In these cases, we still encourage you to scan the whole plant, but simply increase the grain size of your focus. For example, estimate herbivory at the scale of similarly sized branches of leaves. For plants with many, many small leaves, you may need to squint and look at similarly sized clumps of leaves. For example, people who work on conifers have a method for estimating herbivory on branches that involves looking up through a branch and seeing how much sky shows through.</p>
 <p>Please let us know if you have additional tips, suggestions, or guidelines we can add to this document. And please let us know if anything is missing, confusing, or wrong! Have fun in the field and be safe.</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -768,6 +782,11 @@ Important
 </div>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-johnson_precision_2016" class="csl-entry" role="listitem">
+Johnson, M. T. J., J. A. Bertrand, and M. M. Turcotte. 2016. <a href="https://doi.org/10.1111/een.12280">Precision and accuracy in quantifying herbivory</a>. Ecological Entomology 41:112–121.
+</div>
+</div>
 </section>
 </section>
 
