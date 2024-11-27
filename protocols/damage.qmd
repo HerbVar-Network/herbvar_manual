@@ -28,9 +28,9 @@ So, you’ve figured out how to find the random set of plants to score damage on
 
 **Two related documents**:
 
-1. The [_"Field Guide to Different Types of Herbivore Damage"_]() , which has photos of different types of damage
+1. The _"Field Guide to Different Types of Herbivore Damage"_ (@sec-herbivore), which has photos of different types of damage
 
-2. An [_"Illustrated Guide to Percent Leaf Damage"_](), which shows images of leaves with different percent damage to help you calibrate your visual estimates.
+2. An [_"Illustrated Guide to Percent Leaf Damage"_](https://github.com/HerbVar-Network/herbvar_manual/blob/2d334240bdc0f57370bd260cd054d02ffbd5b367/forms/Illustrated%20Guide%20to%20Percent%20Leaf%20Damage.pdf), which shows images of leaves with different percent damage to help you calibrate your visual estimates.
 
 **Objectives:** First off, it is good to keep in mind the goals of these estimates: Ideally, we would like to know (1) the total amount of plant material consumed by herbivores (e.g., grams of tissue eaten) _and_ the (2) total amount of plant material remaining (e.g., grams of tissue remaining). Unfortunately, this is not feasible for most systems, so our goal is to approximate them by estimating (1) plant size and (2) percent removed by herbivores for entire plants _and_ for a sample of leaves _within_ plants.
 
@@ -197,13 +197,13 @@ Visual estimation is essentially as simple as it sounds. You look at a leaf and 
 
 #### How to make sure you’re doing a good job
 
-1. Be conscious that most people overestimate low levels of tissue damage (Johnson 2016). Try to correct for this by being aware of this tendency, not rounding up at low levels of damage, and calibrating/validating estimates on leaves with low damage.
+1. Be conscious that most people overestimate low levels of tissue damage [@johnson_precision_2016]. Try to correct for this by being aware of this tendency, not rounding up at low levels of damage, and calibrating/validating estimates on leaves with low damage.
 
 2. Invest time in practicing, calibrating, and validating estimates. Especially do this before collecting data, and continue to calibrate and validate regularly through data collection.
 
 3. Standardize among observers you work with or have a single observer for all estimates.
 
-4. Print out ["An illustrated guide to amounts of percent damage"](). Study it while practicing, and take it into the field with you as a reference. You can focus on the pages with leaves that are most similar in shape to leaves from your species.
+4. Print out ["An illustrated guide to amounts of percent damage"](https://github.com/HerbVar-Network/herbvar_manual/blob/2d334240bdc0f57370bd260cd054d02ffbd5b367/forms/Illustrated%20Guide%20to%20Percent%20Leaf%20Damage.pdf). Study it while practicing, and take it into the field with you as a reference. You can focus on the pages with leaves that are most similar in shape to leaves from your species.
 
 5. Take our online herbivory estimation training quiz (in development, we will add the link here when it’s ready). This will help you assess your accuracy and precision and give you additional practice in estimating herbivory. We suggest re-taking this quiz once per week when doing surveys to refresh your memory.
 
