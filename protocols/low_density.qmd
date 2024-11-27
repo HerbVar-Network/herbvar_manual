@@ -64,16 +64,9 @@ This method is similar to the comprehensive census of a patch (#1 above), but it
 
 **Option A - Comprehensive survey of all plants along a transect: **With this method, you are doing a comprehensive survey of a linear subset of the whole population. 
 
-1. Start by randomly picking a transect starting point and direction.  
+Start by randomly picking a transect starting point and direction. Walk the transect and survey every plant that crosses your path *or* every plant within a reasonable distance of your path (e.g., 2 m). Keep going until you get at least 60 plants.  
     
-2. Walk the transect and survey every plant that crosses your path 
-*or* every plant within a reasonable distance of your path (e.g., 2 m).  
+**Option B: Comprehensive survey radiating out from a random starting point within a population.** With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population. 
 
-3. Keep going until you get at least 60 plants.  
-    
-**Option B: Comprehensive survey radiating out from a random starting point within a population. ** With this method, you are doing a comprehensive survey of a roughly circular (or blobby) area within the whole population. 
-
-1. Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. 
-
-_We do not recommend doing this unless your plants truly are all widely dispersed._ The cons of this approach are that if your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch''.
+Explore outwards from your random starting point, surveying every plant you encounter until you get to at least 60 plants. _Note that we do not recommend doing this unless your plants truly are all widely dispersed._ If your plants are close together there could be high spatial autocorrelation such that you fail to capture the range of herbivory levels in the population. Of course, this is always a risk; it’s just especially acute when the sampling extent is an arbitrary area rather than a biologically significant “patch''.
  
