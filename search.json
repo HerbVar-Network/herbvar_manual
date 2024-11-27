@@ -388,7 +388,7 @@
     "href": "workflow/workflow.html#workflow-new-analysis-with-herbvar-datasets",
     "title": "9  Research Workflow",
     "section": "",
-    "text": "Identify Questions & Submit for Review (see Section 8.4) to ensure no overlap with ongoing projects.\nCreate a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the new_analysis_and_paper_template (see ?sec-data-analysis).\nWrite the manuscript following using the resources and guidelines in Chapter 11.",
+    "text": "Identify Questions & Submit for Review (see Section 8.4) to ensure no overlap with ongoing projects.\nCreate a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the new_analysis_and_paper_template (see Section 10.1).\nWrite the manuscript following using the resources and guidelines in Chapter 11.",
     "crumbs": [
       "HerbVar Workflow",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Research Workflow</span>"
@@ -399,7 +399,7 @@
     "href": "workflow/workflow.html#workflow-collecting-new-herbvar-data",
     "title": "9  Research Workflow",
     "section": "9.2 Workflow: Collecting new HerbVar Data",
-    "text": "9.2 Workflow: Collecting new HerbVar Data\n\nReview and Select Protocols (see Chapter 12).\nCollect Data.\nCreate a repository for cleaning and analyzing the data using HerbVar’s new_dataset_template (see ?sec-data-analysis).\nValidate the data using the proceedures in Chapter 10\nUpload the clean version of the data using the Herbvar Data Portal(see Section 10.2).\nWrite the manuscript following using the resources and guidelines in Chapter 11.",
+    "text": "9.2 Workflow: Collecting new HerbVar Data\n\nReview and Select Protocols (see Chapter 12).\nCollect Data.\nCreate a repository for cleaning and analyzing the data using HerbVar’s new_dataset_template (see Section 10.1).\nValidate the data using the proceedures in Chapter 10\nUpload the clean version of the data using the Herbvar Data Portal(see Section 10.2).\nWrite the manuscript following using the resources and guidelines in Chapter 11.",
     "crumbs": [
       "HerbVar Workflow",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Research Workflow</span>"
@@ -531,7 +531,7 @@
     "href": "protocols/protocols_overview.html#entering-and-correcting-data",
     "title": "12  Protocols Overview",
     "section": "12.6 Entering and Correcting Data",
-    "text": "12.6 Entering and Correcting Data\nDo not make any changes to the raw data files once you have entered the data. Make any corrections using R scripts. For additional information on how to do this, see ?sec-data-analysis",
+    "text": "12.6 Entering and Correcting Data\nDo not make any changes to the raw data files once you have entered the data. Make any corrections using R scripts. For additional information on how to do this, see Chapter 9",
     "crumbs": [
       "HerbVar Protocols",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Protocols Overview</span>"
@@ -960,7 +960,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "A .bib file of all HerbVar publications is available for download here.\n\n\nJohnson, M. T. J., J. A. Bertrand, and M. M. Turcotte. 2016. Precision and accuracy in\nquantifying herbivory. Ecological Entomology 41:112–121.",
+    "text": "Johnson, M. T. J., J. A. Bertrand, and M. M. Turcotte. 2016. Precision and accuracy in\nquantifying herbivory. Ecological Entomology 41:112–121.",
     "crumbs": [
       "References"
     ]
