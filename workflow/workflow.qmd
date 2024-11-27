@@ -3,6 +3,7 @@ author: HerbVar Manual Authorship Team
 title-block-style: plain
 date: 11/01/2024
 date-modified: last-modified
+bibliography: "../HerbVar.bib"
 ---
 
 # Research Workflow {#sec-workflow}
@@ -12,14 +13,14 @@ HerbVar relies heavily on version control with Git/Github to facilitate data val
 ## Workflow: New analysis with Herbvar Datasets
 
 1. Identify Questions & Submit for Review (see @sec-project_review) to ensure no overlap with ongoing projects. 
-2. Create a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the [`new_analysis_and_paper_template`](https://github.com/HerbVar-Network/analysis_and_paper_template) (see @sec-data-analysis).
+2. Create a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the [`new_analysis_and_paper_template`](https://github.com/HerbVar-Network/analysis_and_paper_template) (see @sec-data-validation).
 4. Write the manuscript following using the resources and guidelines in @sec-publications.  
 
 ## Workflow: Collecting new HerbVar Data
 
 1. Review and Select Protocols (see @sec-protocols-overview).
 2. Collect Data.
-3. Create a repository for cleaning and analyzing the data using HerbVar's [`new_dataset_template`](https://github.com/HerbVar-Network/new_dataset_template) (see @sec-data-analysis).
+3. Create a repository for cleaning and analyzing the data using HerbVar's [`new_dataset_template`](https://github.com/HerbVar-Network/new_dataset_template) (see @sec-data-validation).
 4. Validate the data using the proceedures in @sec-data-workflow
 4. Upload the clean version of the data using the [Herbvar Data Portal](https://herbvar.shinyapps.io/data_portal_actual/)(see @sec-uploading_data).
 5. Write the manuscript following using the resources and guidelines in @sec-publications.  

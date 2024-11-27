@@ -3,6 +3,7 @@ author: HerbVar Damage Estimation Subgroup (Ian Pearse, Zoe Getman-Pickering, Ju
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified
+bibliography: "../HerbVar.bib"
 ---
 
 # Estimating Damage {#sec-damage}

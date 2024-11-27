@@ -63,4 +63,4 @@ All surveys should note internally-feeding herbivores (e.g., gallers and miners)
 
 ## Entering and Correcting Data
 
-***Do not make any changes to the raw data files once you have entered the data.*** Make any corrections using R scripts. For additional information on how to do this, see @sec-data-analysis
+***Do not make any changes to the raw data files once you have entered the data.*** Make any corrections using R scripts. For additional information on how to do this, see @sec-workflow
