@@ -89,7 +89,7 @@ book:
 bibliography: HerbVar.bib
 csl: format/ecology.csl
 format:
-  bibliography: HerbVar.bib
+
   html:
     theme: 
       - cosmo
@@ -151,6 +151,7 @@ format:
     #  - "format/pagestyle.tex
     #   - "format/_titlepage.tex" 
   
+      
   epub:
       epub-cover-image: images/cover2.png
 
