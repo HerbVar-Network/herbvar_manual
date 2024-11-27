@@ -89,7 +89,7 @@ book:
 bibliography: HerbVar.bib
 csl: format/ecology.csl
 format:
-
+  bibliography: HerbVar.bib
   html:
     theme: 
       - cosmo
