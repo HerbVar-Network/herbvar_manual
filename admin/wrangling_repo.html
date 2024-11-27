@@ -159,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../introduction/data_overview.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Overview of HerbVar Datasets</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -429,7 +429,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">November 26, 2024</p>
+      <p class="date-modified">November 27, 2024</p>
     </div>
   </div>
     
@@ -448,26 +448,31 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="phase-1-scripts" class="level2" data-number="28.2">
 <h2 data-number="28.2" class="anchored" data-anchor-id="phase-1-scripts"><span class="header-section-number">28.2</span> Phase 1 Scripts</h2>
-<p><code>phase 1 abiotic wrangling.R</code>: Wrangles WORLDCLIM climatic data for phase 1 surveys.</p>
-<p><code>phase 1 herbivoreData wrangling.R</code>: Wrangles any information to do with herbivores from phase 1.</p>
-<p><code>phase 1 plant richness wrangling.R</code>: Extracts interpolated native/invasive species richness information from Ellis et al.&nbsp;2012 shapefiles.</p>
-<p><code>phase 1 primary productivity.R</code>: Extracts primary productivity data from satellite data for phase 1 surveys.</p>
-<p><code>phase 1 shareable index.R</code>: Creates files of only location information for phase 1 sites to enable other HerbVar collaborators to harvest metadata without sharing “actual” data.</p>
-<p><code>phase 1 siteData wrangling.R</code>: Wrangles information from siteData sheet of template Excel file.</p>
-<p><code>phase 1 soil data wrangling.R</code>: Placeholder describing where soil data may someday be acquired. For now, the relevant R package does not work (though their team is aware of and working on this issue).</p>
-<p><code>phase 1 survey-lvl summarizing.R</code>: Summarizes the tidy plant-level (one row per plant) phase 1 data to survey-level (one row per survey).</p>
-<p><code>phase 1 wrangling.R</code>: Takes all the separate phase 1 raw data files combines and wrangles them to plant-level (one row per plant).</p>
+<ul>
+<li><p><code>phase 1 abiotic wrangling.R</code>: Wrangles WORLDCLIM climatic data for phase 1 surveys.</p></li>
+<li><p><code>phase 1 herbivoreData wrangling.R</code>: Wrangles any information to do with herbivores from phase 1.</p></li>
+<li><p><code>phase 1 plant richness wrangling.R</code>: Extracts interpolated native/invasive species richness information from Ellis et al.&nbsp;2012 shapefiles.</p></li>
+<li><p><code>phase 1 primary productivity.R</code>: Extracts primary productivity data from satellite data for phase 1 surveys.</p></li>
+<li><p><code>phase 1 shareable index.R</code>: Creates files of only location information for phase 1 sites to enable other HerbVar collaborators to harvest metadata without sharing “actual” data.</p></li>
+<li><p><code>phase 1 siteData wrangling.R</code>: Wrangles information from siteData sheet of template Excel file.</p></li>
+<li><p><code>phase 1 soil data wrangling.R</code>: Placeholder describing where soil data may someday be acquired. For now, the relevant R package does not work (though their team is aware of and working on this issue).</p></li>
+<li><p><code>phase 1 survey-lvl summarizing.R</code>: Summarizes the tidy plant-level (one row per plant) phase 1 data to survey-level (one row per survey).</p></li>
+<li><p><code>phase 1 wrangling.R</code>: Takes all the separate phase 1 raw data files combines and wrangles them to plant-level (one row per plant).</p></li>
+</ul>
 </section>
 <section id="phase-2-scripts" class="level2" data-number="28.3">
 <h2 data-number="28.3" class="anchored" data-anchor-id="phase-2-scripts"><span class="header-section-number">28.3</span> Phase 2 Scripts</h2>
-<p><code>phase 2 densityData wrangling.R</code>: Wrangles eponymous sheet from template Excel file.</p>
-<p><code>phase 2 herbivoreData wrangling.R</code>: Wrangles eponymous sheet from template Excel file (at both plant-level and survey-level).</p>
-<p><code>phase 2 metadata</code>abiotic.R`: Extracts WORLDCLIM climatic data from phase 2 site locations (requires tidy file from siteData wrangling script).</p>
-<p><code>phase 2 newColumns wrangling.R</code>: Wrangles eponymous sheet from template Excel file.</p>
-<p><code>phase 2 notes wrangling.R</code>: Wrangles eponymous sheet from template Excel file. <code>phase 2 plantData survey-lvl summarizing.R</code>: Summarizes tidy plantData to survey-level (i.e., one row per survey).</p>
-<p><code>phase 2 plantData wrangling.R</code>: Wrangles eponymous sheet from template Excel file (at ONLY plant-level).</p>
-<p><code>phase 2 reproData wrangling.R</code>: Wrangles eponymous sheet from template Excel file at plant-level only (survey level absent because insufficient raw data at this point).</p>
-<p><code>phase 2 siteData wrangling.R</code>: Wrangles eponymous sheet from template Excel file.</p>
+<ul>
+<li><p><code>phase 2 densityData wrangling.R</code>: Wrangles eponymous sheet from template Excel file.</p></li>
+<li><p><code>phase 2 herbivoreData wrangling.R</code>: Wrangles eponymous sheet from template Excel file (at both plant-level and survey-level).</p></li>
+<li><p><code>phase 2 metadata</code>abiotic.R`: Extracts WORLDCLIM climatic data from phase 2 site locations (requires tidy file from siteData wrangling script).</p></li>
+<li><p><code>phase 2 newColumns wrangling.R</code>: Wrangles eponymous sheet from template Excel file.</p></li>
+<li><p><code>phase 2 notes wrangling.R</code>: Wrangles eponymous sheet from template Excel file.</p></li>
+<li><p><code>phase 2 plantData survey-lvl summarizing.R</code>: Summarizes tidy plantData to survey-level (i.e., one row per survey).</p></li>
+<li><p><code>phase 2 plantData wrangling.R</code>: Wrangles eponymous sheet from template Excel file (at ONLY plant-level).</p></li>
+<li><p><code>phase 2 reproData wrangling.R</code>: Wrangles eponymous sheet from template Excel file at plant-level only (survey level absent because insufficient raw data at this point).</p></li>
+<li><p><code>phase 2 siteData wrangling.R</code>: Wrangles eponymous sheet from template Excel file.</p></li>
+</ul>
 </section>
 <section id="script-archive" class="level2" data-number="28.4">
 <h2 data-number="28.4" class="anchored" data-anchor-id="script-archive"><span class="header-section-number">28.4</span> Script Archive</h2>

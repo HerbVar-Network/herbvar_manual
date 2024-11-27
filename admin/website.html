@@ -159,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../introduction/data_overview.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Overview of HerbVar Datasets</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -426,7 +426,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">November 26, 2024</p>
+      <p class="date-modified">November 27, 2024</p>
     </div>
   </div>
     
@@ -439,22 +439,24 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="github-access" class="level2" data-number="25.1">
 <h2 data-number="25.1" class="anchored" data-anchor-id="github-access"><span class="header-section-number">25.1</span> Github Access</h2>
-<p>The <a href="https://herbvar.org/index.html">HerbVar website</a> has been created in R. Ask to be added as a collaborator on <a href="https://github.com/HerbVar-Network/HerbVar-website">this repository</a>.</p>
-<p>Fork the <a href="https://github.com/HerbVar-Network/HerbVar-website">website’s repository</a> to your computer. Nick Lyon initially forked the repository so that pushes would be preserved as “pull requests” and could be reviewed by Will before actually changing the website on the internet, but this may be unnecessary depending on your comfort with this type of coding.</p>
+<ol type="1">
+<li><p>The <a href="https://herbvar.org/index.html">HerbVar website</a> has been created in R. Ask to be added as a collaborator on <a href="https://github.com/HerbVar-Network/HerbVar-website">this repository</a>.</p></li>
+<li><p>Fork the <a href="https://github.com/HerbVar-Network/HerbVar-website">website’s repository</a> to your computer. Nick Lyon initially forked the repository so that pushes would be preserved as “pull requests” and could be reviewed by Will before actually changing the website on the internet, but this may be unnecessary depending on your comfort with this type of coding.</p></li>
+</ol>
 </section>
 <section id="making-edits" class="level2" data-number="25.2">
 <h2 data-number="25.2" class="anchored" data-anchor-id="making-edits"><span class="header-section-number">25.2</span> Making Edits</h2>
-<p>Make whatever changes are asked for or required.</p>
-<p>Each page of the website is saved as a separate .Rmd file and file names mostly correspond to website tab names so it should be relatively easy to identify which script(s) needs to be changed and implement those edits.</p>
-<p>The existing scripts also include plenty of examples of heading formatting, font changes, and hyperlinks so use the existing pages to teach yourself how to do things you don’t already know how to do.</p>
+<p>Make whatever changes are asked for or required. Each page of the website is saved as a separate .Rmd file and file names mostly correspond to website tab names so it should be relatively easy to identify which script(s) needs to be changed and implement those edits. The existing scripts also include plenty of examples of heading formatting, font changes, and hyperlinks so use the existing pages to teach yourself how to do things you don’t already know how to do.</p>
 </section>
 <section id="rebuilding-the-website" class="level2" data-number="25.3">
 <h2 data-number="25.3" class="anchored" data-anchor-id="rebuilding-the-website"><span class="header-section-number">25.3</span> Rebuilding the Website</h2>
-<p>Once you’ve made the edits, go to the “Build” tab on R Studio and click “Build Website”. This will take several minutes to process (there will be a running list of code as it processes through each .Rmd file) so feel free to grab a cup of coffee as this processes.</p>
-<p>Once it completes, it will create a new tab and will pop up the new website in your browser <strong>but you are not yet done</strong>!</p>
-<p>Once that is done, in the Git tab of R Studio, select all modified files (not just the scripts!) and commit/push them all.</p>
-<p>Building the website may affect a lot of files in the “libs” folder deep in your system (you can tell how savvy I am about this, huh?) and these changes must also be included in the push for the website to successfully update.</p>
-<p>Once you’ve pushed these changes (and if you’re working in a fork, Will has accepted your pull request) the website on the internet should update within 10-15 minutes so double check your work after roughly that amount of time has passed.</p>
+<ol type="1">
+<li><p>Once you’ve made the edits, go to the “Build” tab on R Studio and click “Build Website”. This will take several minutes to process (there will be a running list of code as it processes through each .Rmd file) so feel free to grab a cup of coffee as this processes.</p></li>
+<li><p>Once it completes, it will create a new tab and will pop up the new website in your browser <strong>but you are not yet done</strong>!</p></li>
+<li><p>Once that is done, in the Git tab of R Studio, select all modified files (not just the scripts!) and commit/push them all.</p></li>
+<li><p>Building the website may affect a lot of files in the “libs” folder deep in your system (you can tell how savvy I am about this, huh?) and these changes must also be included in the push for the website to successfully update.</p></li>
+<li><p>Once you’ve pushed these changes (and if you’re working in a fork, Will has accepted your pull request) the website on the internet should update within 10-15 minutes so double check your work after roughly that amount of time has passed.</p></li>
+</ol>
 
 
 </section>
