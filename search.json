@@ -970,18 +970,7 @@
     "href": "forms/onboarding_checklist.html",
     "title": "21  Checklist - Onboarding Collaborators",
     "section": "",
-    "text": "21.1 Collaborator Checklist\nNew collaborators should:\n[] Review and sign the Data Use Agreement\n[] Review the Authorship Guidelines (Chapter 7) [] add required information to Collaborator Contact Information file",
-    "crumbs": [
-      "Appendix 1: Forms & Checklists",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Checklist - Onboarding Collaborators</span>"
-    ]
-  },
-  {
-    "objectID": "forms/onboarding_checklist.html#collaborator-checklist",
-    "href": "forms/onboarding_checklist.html#collaborator-checklist",
-    "title": "21  Checklist - Onboarding Collaborators",
-    "section": "",
-    "text": "[] orcid id   \n[] link to github account  \n[] email",
+    "text": "21.1 Collaborator Checklist\nNew collaborators should:\n[] Review and sign the Data Use Agreement\n[] Review the Authorship Guidelines (Chapter 7)\n[] add required information to Collaborator Contact Information file\n[] orcid id\n[] link to github account\n[] email",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Checklist - Onboarding Collaborators</span>"
@@ -1036,7 +1025,7 @@
     "href": "admin/potential_collaborators.html",
     "title": "23  Potential Collaborators",
     "section": "",
-    "text": "Potential collaborators typically get email either Will or the HerbVar Admin gmail address. If they contact will, he replies thanking them for their interest and forwards the email to you for follow-up. These are the steps for handling new expressions of interest in collaborating:\n\nReply with the first email template (of 2) for prospective new members. Be sure to cc Will.\nThey respond and say:\na. they’re not interested/have issues with the expectations. Send them over to Will and stay on top of the email chain between them so you can know how he handled it. This hasn’t happened, but in theory it could.\nb. They say that sounds fine and they’re still interested\n i. Add them to the Collaborator Contact Information file\n\n ii. Add them as a “Contributor” to the HerbVar Shared Drive\n\n iii. Respond with the second email template (of 2)\n\nIt is important you send the email after doing the steps i and ii because the email template includes links that assumes (1) you have entered preliminary information into the collaborator contact info file and (2) they have access to everything in the HerbVar Shared Drive. Note also that the second email template contains an onboarding document that you may need to update going forward as onboarding needs evolve.",
+    "text": "Potential collaborators typically get email either Will or the HerbVar Admin gmail address. If they contact will, he replies thanking them for their interest and forwards the email to you for follow-up. These are the steps for handling new expressions of interest in collaborating:\n\nReply with the first email template (of 2) for prospective new members. Be sure to cc Will.\nThey respond and say:\na. they’re not interested/have issues with the expectations. Send them over to Will and stay on top of the email chain between them so you can know how he handled it. This hasn’t happened, but in theory it could.\nb. They say that sounds fine and they’re still interested\n\nAdd them to the Collaborator Contact Information file\nAdd them as a “Contributor” to the HerbVar Shared Drive\nRespond with the second email template (of 2)\n\n\nIt is important you send the email after doing the steps i and ii because the email template includes links that assumes (1) you have entered preliminary information into the collaborator contact info file and (2) they have access to everything in the HerbVar Shared Drive. Note also that the second email template contains an onboarding document that you may need to update going forward as onboarding needs evolve.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>Potential Collaborators</span>"
