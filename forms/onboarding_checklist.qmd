@@ -10,12 +10,12 @@ date-modified: last-modified
 New collaborators should:
 
 [] Review and sign the _Data Use Agreement_  
-[] Review the _Authorship Guidelines_ (@sec-authorship_process)
+[] Review the _Authorship Guidelines_ (@sec-authorship_process)  
 [] add required information to _Collaborator Contact Information_ file  
 
-    [] orcid id   
-    [] link to github account  
-    [] email  
+  [] orcid id   
+  [] link to github account  
+  [] email  
 
 
 ## Admin Checklist
