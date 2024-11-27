@@ -104,6 +104,7 @@ format:
     header-includes: |
       \titlehead{\includegraphics[height=9in]{images/cover2.png}}
       \publishers{1st Ed.\\This material is based upon work supported by the National Science Foundation under Award No. NSF DEB-2203582.\\licensed under CC BY-NC-SA 4.0.}
+      \usepackage[compact]{titlesec}  
     toc: true
     toc-depth: 2
     toc-title: Table of Contents
