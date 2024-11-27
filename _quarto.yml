@@ -109,6 +109,7 @@ format:
     toc-title: Table of Contents
     lof: true
     lot: true
+    bibliography: HerbVar.bib
     # Numbering
     number-sections: true
     # Fonts
@@ -150,7 +151,6 @@ format:
     #  - "format/pagestyle.tex
     #   - "format/_titlepage.tex" 
   
-      
   epub:
       epub-cover-image: images/cover2.png
 

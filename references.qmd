@@ -4,17 +4,5 @@ nocite: |
 ---
 # References {.unnumbered}
 
-A .bib file of all HerbVar publications is available for download here.
-
 ::: {#refs}
 :::
-
-
-<!-- ::: {#refs-main} -->
-<!-- ::: -->
-<!-- Here's the appendix references list: -->
-<!-- ::: {#refs-pubs} -->
-<!-- ::: -->
-
-<!-- ::: {#refs-presentations} -->
-<!-- ::: -->
