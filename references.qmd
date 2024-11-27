@@ -1,6 +1,9 @@
 ---
-nocite: |
- @*
+bibliography: HerbVar.bib
+
+#  nocite: | 
+#   @* 
+
 ---
 # References {.unnumbered}
 
