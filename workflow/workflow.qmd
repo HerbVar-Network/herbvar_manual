@@ -12,7 +12,7 @@ HerbVar relies heavily on version control with Git/Github to facilitate data val
 
 ## Workflow: New analysis with Herbvar Datasets
 
-1. Identify Questions & Submit for Review (see @sec-project_review) to ensure no overlap with ongoing projects. 
+1. Identify Questions & Submit for Review (see @sec-project-review) to ensure no overlap with ongoing projects. 
 2. Create a repository for harvesting, organizing, and analyzing the data to be used in the analyses using the [`new_analysis_and_paper_template`](https://github.com/HerbVar-Network/analysis_and_paper_template) (see @sec-data-validation).
 4. Write the manuscript following using the resources and guidelines in @sec-publications.  
 

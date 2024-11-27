@@ -39,97 +39,101 @@ Site PIs who contribute data but do not meet the criteria for co-authorship (e.g
 2. The Site PI will not be a co-author, and they do not agree to let HerbVar use and publish their data. All their data will be removed from all HerbVar databases. HerbVar will not use or publish their data. They will be removed from the HerbVar member list.
 
 
-### “Working group” Papers
+### “Working Group” Papers
 
-_Working Group Papers_ allow for smaller teams to assemble to write additional papers using HerbVar data, broadening the scope of our collective work without requiring every lead author to manage hundreds of contributors. Typically, working group papers will be centered around already published HerbVar data analyzed in a new way and potentially combined with some new data. HerbVar supports working group  paper authors in being as inclusive as is practical, and in connecting with appropriate co-authors to build new collaborations. 
+_Working Group Papers_ allow for smaller teams to assemble to write additional papers using HerbVar data, broadening the scope of our collective work without requiring every lead author to manage hundreds of contributors. Typically, working group papers will be centered around already published HerbVar data analyzed in a new way and potentially combined with some new data. HerbVar supports working group paper authors in being as inclusive as is practical, and in connecting with appropriate co-authors to build new collaborations. A complete guide to proposing and writing Working Group papers, along with criteria and expectations for co-authorship, can be found in @sec-worgking-group.
 
-If an HerbVar member would like to lead an HerbVar working group paper (that is, serve as “lead author”), they should follow the steps below. 
+<!-- #### Working Group Proposal & Review Process -->
 
-1. Read the following authorship policies and guidelines.
+<!-- If an HerbVar member would like to lead an HerbVar working group paper (i.e., serve as “Lead Author”), they should follow the steps below.  -->
 
-2. Consult the [HerbVar website](https://herbvar.org/) for current manuscript proposals and active manuscripts, and contact the listed lead author on any similar proposal to minimize overlap, or to join forces.
+<!-- 1. _Read the authorship policies_ and guidelines below. -->
 
-3. Decide what approach you will use to form your working group and invite co-authors.
+<!-- 2. _Consult the [HerbVar website](https://herbvar.org/) to review current manuscript proposals and active manuscripts_, and contact the listed lead author on any similar proposal to minimize overlap or to join forces. -->
 
-4. Prepare a manuscript proposal, and email it to one of the memebers of the [HerbVar Steering Committee](https://herbvar.org/leadership.html). Your proposal should list:
+<!-- 3. _Select an approach_ for forming the working group and inviting co-authors. -->
 
-   i. the lead author(s)
-   ii. any other known authors
-   iii. plans for recruiting additional authors, if any  
-   iv. the title
-   iv. the abstract
-   v. the specific types of data that you wish to use
-   vi. A brief overview of the response and predictor variables (if appropriate), and
-   vii. a timeline for analysis and writing.
-   
-5. Proposed ideas are reviewed by the Steering Committee to ensure there is sufficient distinction from proposed and ongoing HerbVar papers. The Steering Committee may suggest altering or combining analyses and papers to resolve issues of overlap. After receiving Steering Committee Feedback, your proposal will be posted on the HerbVar website.
+<!-- 4. _Prepare a manuscript proposal_, and email it to one of the memebers of the [HerbVar Steering Committee](https://herbvar.org/leadership.html). Your proposal should list: -->
 
-6. Recruit co-authors as planned. Any invited co-authors should signal their intention to opt-in by responding by email to the lead author before the stated deadline. Lead authors are responsible for communicating regularly with co-authors about progress, including sharing drafts of analyses, figures, and text as often as is productive and practical.
+<!--    i. the lead author(s) -->
+<!--    ii. any other known authors -->
+<!--    iii. plans for recruiting additional authors, if any   -->
+<!--    iv. the title -->
+<!--    iv. the abstract -->
+<!--    v. the specific types of data that you wish to use -->
+<!--    vi. A brief overview of the response and predictor variables (if appropriate), and -->
+<!--    vii. a timeline for analysis and writing. -->
 
-7. Lead authors should create and use a GitHub repository for the paper in the HerbVar GitHub organization. This will allow the authors to use HerbVar tools for accessing data, for standardizing analyses and manuscript preparation, and for keeping track of co-authors. We ask that authors use our GitHub organization to store and share code and data within their team and with the HerbVar Steering Committee. This helps ensure reproducibility and provides a secure backup for all data, work, and products.
+<!-- Proposals are reviewed by the Steering Committee to ensure there is sufficient distinction from proposed and ongoing HerbVar papers. The Steering Committee may suggest altering or combining analyses and papers to resolve issues of overlap. _After receiving Steering Committee Feedback, your proposal will be posted on the HerbVar website._  -->
 
-8. Lead authors and their working group should start work on the project within six months of the approval of their project proposal by the Steering Committee. If there are extenuating circumstances that delay the start of work, the lead author should communicate this to the Steering Committee. Extensions can be granted if needed but should be accompanied by a clear timeline.
+<!-- #### Following Approval: Research & Writing -->
 
-9. Lead authors and their working groups should submit their paper to a journal within two years. If there are extenuating circumstances that delay paper submission, the lead author should communicate this to the Steering Committee. Extensions can be granted if needed but should be accompanied by a clear timeline.
+<!-- _Lead Authors should start work on the project within six months of the approval_ of their project proposal by the Steering Committee. If there are extenuating circumstances that delay the start of work, the lead author should communicate this to the Steering Committee. Extensions can be granted if needed but should be accompanied by a clear timeline.  -->
 
-10. Lead authors should circulate complete drafts among co-authors and consider comments and changes. Co-authors on papers with large numbers of authors should recognize the final decisions belong to the lead author, given that suggestions from co-authors may conflict.
+<!-- Once the proposal for a Working Group Paper is approved, the Lead Authors should: -->
 
-11. Final manuscripts should be reviewed and approved by each co-author before submission.
+<!-- 1. _Recruit co-authors as planned._ Any invited co-authors should signal their intention to opt-in by responding by email to the lead author before the stated deadline. Lead authors are responsible for communicating regularly with co-authors about progress, including sharing drafts of analyses, figures, and text as often as is productive and practical. -->
 
-12. All authors and co-authors should fill out their contribution in the authorship rubric and attach it as supplementary material to any HerbVar manuscript. Lead authors are responsible for ensuring consistency in credit given for contributions, and may alter co-author’s entries in the table to do so. An easy way to manage the author table is with an online spreadsheet. Note that the last author position may be appropriate to assign in some cases. For example, this would be appropriate for advisors of lead authors who are graduate students or postdocs and for papers that two people worked very closely to produce.
+<!-- 2. _Create and use a GitHub repository for the paper in the HerbVar GitHub organization._ This will allow the authors to use HerbVar tools for accessing data, for standardizing analyses and manuscript preparation, and for keeping track of co-authors. We ask that authors use our GitHub organization to store and share code and data within their team and with the HerbVar Steering Committee. This helps ensure reproducibility and provides a secure backup for all data, work, and products. -->
 
-13. The lead author should carefully review the authorship contribution table to ensure that all authors have contributed at a level that warrants authorship and that contributions are consistently attributed among authors. Has each author made contributions in at least two areas in the authorship rubric? Did each author provide thoughtful, detailed feedback on the manuscript? Authors are encouraged to contact the HerbVar Steering Committee about any confusion or conflicts.
+<!-- Lead authors and their working groups should submit their paper to a journal within two years. If there are extenuating circumstances that delay paper submission, the lead author should communicate this to the Steering Committee. Extensions can be granted if needed but should be accompanied by a clear timeline. -->
 
-We encourage lead authors of working group papers to include as many co-authors as they can productively work with, to prioritize inviting HerbVar network members, and to prioritize inviting early-career scientists and scientists from under-represented groups or regions. 
+<!-- Lead authors should circulate complete drafts among co-authors and consider comments and changes. Co-authors on papers with large numbers of authors should recognize the final decisions belong to the lead author, given that suggestions from co-authors may conflict. **_Final manuscripts should be reviewed and approved by each co-author before submission_**. -->
 
-#### Identifying & inviting potential co-authors of Working Group Papers
+<!-- All authors and co-authors should fill out their contribution in the authorship rubric and attach it as supplementary material to any HerbVar manuscript. Lead authors are responsible for ensuring consistency in credit given for contributions, and may alter co-author’s entries in the table to do so. An easy way to manage the author table is with an online spreadsheet. Note that the last author position may be appropriate to assign in some cases. For example, this would be appropriate for advisors of lead authors who are graduate students or postdocs and for papers that two people worked very closely to produce. -->
 
-HerbVar provides a tool to help lead authors identify potential co-authors to invite to assist with working group papers. All Site PI’s are asked if they would like to be included in a database of individuals interested in co-authorship on small-group papers. The database lists name, career stage, institution and location, areas of expertise and/or topics of particular interest, number of HerbVar papers or manuscripts this person is an author on, what HerbVar datasets they have contributed to, and a link to their website or google scholar page or researchgate page. 
+<!-- The lead author should carefully review the authorship contribution table to ensure that all authors have contributed at a level that warrants authorship and that contributions are consistently attributed among authors. Has each author made contributions in at least two areas in the authorship rubric? Did each author provide thoughtful, detailed feedback on the manuscript? Authors are encouraged to contact the HerbVar Steering Committee about any confusion or conflicts. -->
 
-Note that for any of the approaches listed below, authorship requires at least two types of contribution to a paper; see Qualifying for Authorship. **The approaches for inviting co-authors listed below are on a continuum from least to most inclusive.**
+<!-- We encourage lead authors of working group papers to include as many co-authors as they can productively work with, to prioritize inviting HerbVar network members, and to prioritize inviting early-career scientists and scientists from under-represented groups or regions.  -->
 
-1. **Traditional**. The lead author invites known individuals with value for the particular paper. These individuals may not necessarily be HerbVar members.
+<!-- ### Identifying & inviting potential co-authors of Working Group Papers -->
 
-2. **Traditional Plus**. The lead author invites known individuals with value for the particular paper, plus a few people chosen from the HerbVar database as a good match for this project.
+<!-- HerbVar provides a tool to help lead authors identify potential co-authors to invite to assist with working group papers. All Site PI’s are asked if they would like to be included in a database of individuals interested in co-authorship on small-group papers. The database lists name, career stage, institution and location, areas of expertise and/or topics of particular interest, number of HerbVar papers or manuscripts this person is an author on, what HerbVar datasets they have contributed to, and a link to their website or google scholar page or researchgate page.  -->
 
-3. **Application-based**. The lead author invites all HerbVar site PI’s who have contributed data to be used in the project to apply to be one of some limited number of authors, and chooses applicants to create the best team.
+<!-- Note that for any of the approaches listed below, authorship requires at least two types of contribution to a paper; see Qualifying for Authorship. **The approaches for inviting co-authors listed below are on a continuum from least to most inclusive.** -->
 
-4. **Opt-in: Limited**. The lead author decides on a number of co-authors they feel they can manage, and offers their paper to all HerbVar site PI’s who have contributed data to be used in this project on an “opt-in” basis. Site PI’s can opt-in until the desired number of collaborators is reached (first-come first-served). 
+<!-- 1. **Traditional**. The lead author invites known individuals with value for the particular paper. These individuals may not necessarily be HerbVar members. -->
 
-5. **Opt-in: Open**. The lead author offers their paper to all HerbVar site PI’s who have contributed data to this project on an opt-in basis. Any site PI who wants to participate is invited. If considering this approach, we suggest reading this paper about writing a massively multi-authored paper.
+<!-- 2. **Traditional Plus**. The lead author invites known individuals with value for the particular paper, plus a few people chosen from the HerbVar database as a good match for this project. -->
 
-#### Instructions for the _Opt-in_ approaches
+<!-- 3. **Application-based**. The lead author invites all HerbVar site PI’s who have contributed data to be used in the project to apply to be one of some limited number of authors, and chooses applicants to create the best team. -->
 
-The following steps should be used to identify and invite authors for the Opt-in approaches.
+<!-- 4. **Opt-in: Limited**. The lead author decides on a number of co-authors they feel they can manage, and offers their paper to all HerbVar site PI’s who have contributed data to be used in this project on an “opt-in” basis. Site PI’s can opt-in until the desired number of collaborators is reached (first-come first-served).  -->
 
-1. The lead author uses the HerbVar co-author database to identifies site PIs who have contributed data to be used in this project. 
+<!-- 5. **Opt-in: Open**. The lead author offers their paper to all HerbVar site PI’s who have contributed data to this project on an opt-in basis. Any site PI who wants to participate is invited. If considering this approach, we suggest reading this paper about writing a massively multi-authored paper. -->
 
-2. The lead author circulates the manuscript proposal to the appropriate site PIs by attaching it as an email to the HerbVar email list. The subject line of the email should include the phrase “OPT-IN PAPER.” This email should also include a deadline by which time co-authors should respond. 
+<!-- ### Instructions for the _Opt-in_ approaches -->
 
-Once individuals wishing to opt-in respond to the lead author, the lead author is responsible for working with all co-authors to organzie the process and timeline for completing the paper.
+<!-- The following steps should be used to identify and invite authors for the Opt-in approaches. -->
 
-#### When to invite co-authors
+<!-- 1. The lead author uses the HerbVar co-author database to identifies site PIs who have contributed data to be used in this project.  -->
 
-The right time to share your working draft and solicit co-authors is different for each manuscript, but in general:
+<!-- 2. The lead author circulates the manuscript proposal to the appropriate site PIs by attaching it as an email to the HerbVar email list. The subject line of the email should include the phrase “OPT-IN PAPER.” This email should also include a deadline by which time co-authors should respond.  -->
 
-- Sharing early drafts or figures allows for more effective co-author contribution. This would mean inviting co-authors at a very early stage.
+<!-- Once individuals wishing to opt-in respond to the lead author, the lead author is responsible for working with all co-authors to organzie the process and timeline for completing the paper. -->
 
-- Circulating almost-complete manuscripts does not allow the opportunity for meaningful contribution from co-authors, and is discouraged.
+<!-- ### When to invite co-authors -->
 
-#### Who should accept invitations to be a co-author?
+<!-- The right time to share your working draft and solicit co-authors is different for each manuscript, but in general: -->
 
-Authorship must be earned through a substantial contribution. For co-authorship, each individual must contribute in *at least two ways* listed in the rubric below, including contribution to the writing process. Traditionally, project initiation and framing, data analysis and interpretation, and manuscript preparation are all authorship-worthy contributions, and remain so for HerbVar manuscripts. However, HerbVar collaborators have also agreed that contribution of data being used in a paper can be one factor qualifying a site PI for co-authorship, as long as the collaborator makes additional contributions to the particular manuscript, including data analysis, writing, or editing. HerbVar manuscripts will be accompanied by a supplemental table indicating authorship contributions. These guidelines apply equally to manuscripts led by graduate students.
+<!-- - Sharing early drafts or figures allows for more effective co-author contribution. This would mean inviting co-authors at a very early stage. -->
+
+<!-- - Circulating almost-complete manuscripts does not allow the opportunity for meaningful contribution from co-authors, and is discouraged. -->
+
+<!-- ### Who should accept invitations to be a co-author? -->
+
+<!-- Authorship must be earned through a substantial contribution. For co-authorship, each individual must contribute in *at least two ways* listed in the rubric below, including contribution to the writing process. Traditionally, project initiation and framing, data analysis and interpretation, and manuscript preparation are all authorship-worthy contributions, and remain so for HerbVar manuscripts. However, HerbVar collaborators have also agreed that contribution of data being used in a paper can be one factor qualifying a site PI for co-authorship, as long as the collaborator makes additional contributions to the particular manuscript, including data analysis, writing, or editing. HerbVar manuscripts will be accompanied by a supplemental table indicating authorship contributions. These guidelines apply equally to manuscripts led by graduate students. -->
 
 
-| Rubric item | Example contributions counting towards authorship |
-|----------|---------|
-| Developed and framed research question(s) | Originated idea for current analysis of HerbVar data; contributed significantly to framing the ideas in this analysis at early stage of manuscript |
-| Analyzed data | Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc.; generated a Network-scale dataset being used in this manuscript’s analysis |
-| Contributed to data analyses | Provided comments, suggestions, and code for data analysis |
-| Wrote the paper | Wrote the majority of at least one of the sections of the paper |
-| Contributed to paper writing | Provided new text, help with organization framing, and provided citations linking to new literature areas |
-| Site PI | Coordinated data collection, proofing, and submission of data for at least one site used in this manuscript |
-| Network level coordinators | Contributed substantially to network level activities such as management of network data, recruiting and assisting new sites, finding funding for network level management activities |
+<!-- | Rubric item | Example contributions counting towards authorship | -->
+<!-- |----------|---------| -->
+<!-- | Developed and framed research question(s) | Originated idea for current analysis of HerbVar data; contributed significantly to framing the ideas in this analysis at early stage of manuscript | -->
+<!-- | Analyzed data | Generated models (conceptual, statistical and/or mathematical), figures, tables, maps, etc.; generated a Network-scale dataset being used in this manuscript’s analysis | -->
+<!-- | Contributed to data analyses | Provided comments, suggestions, and code for data analysis | -->
+<!-- | Wrote the paper | Wrote the majority of at least one of the sections of the paper | -->
+<!-- | Contributed to paper writing | Provided new text, help with organization framing, and provided citations linking to new literature areas | -->
+<!-- | Site PI | Coordinated data collection, proofing, and submission of data for at least one site used in this manuscript | -->
+<!-- | Network level coordinators | Contributed substantially to network level activities such as management of network data, recruiting and assisting new sites, finding funding for network level management activities | -->
 
 ## Authorship Disputes
 
@@ -137,7 +141,7 @@ The steering committee works to ensure communication across projects to avoid ov
 
 ## Manuscript Preparation
 
-Please refer to sec-publications for details on the HerbVar Workflow for preparing manuscripts. This Chapter also includes required information to include manuscripts such as citations of Herbvar datasets and acknowledgement of NSF support.
+Please refer to @sec-workflow for details on the HerbVar Research Workflow and guide to preparing reproducible manuscripts. @sec-publications includes required information to include manuscripts, such as citations of Herbvar datasets and acknowledgement of NSF support.
 
 
 

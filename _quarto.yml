@@ -46,6 +46,7 @@ book:
         - collaboration/data_use_guidelines.qmd
         # - collaboration/new_analyses.qmd
         - collaboration/authorship_process.qmd
+        - collaboration/working-group-pubs.qmd
         - collaboration/new_data_collection.qmd
         # - collaboration/project_review.qmd
         
