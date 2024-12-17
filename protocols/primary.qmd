@@ -73,14 +73,14 @@ Instead of calculating as above, you may also use this pre-calculated set of rad
 | **Plant Density (*D*, plants / m^2^)** | **Quadrat radius (*r*, meters)** |
 |---------------------------------------|---------------------------------|
 | *D* $\leq$ 0.1                         | 3.6 m                            |
-| 0.1 $\lt$ *D* $\leq$ 0.25              | 2.9 m                            |
-| 0.25 $\lt$ *D* $\leq$ 0.5              | 1.9 m                            |
-| 0.5 $\lt$ *D* $\leq$ 1                 | 1.35 m                           |
-| 1 $\lt$ *D* $\leq$ 3                   | 0.9 m                            |
-| 3 $\lt$ *D* $\leq$ 6                   | 0.55 m                           |
-| 6 $\lt$ *D* $\leq$ 10                  | 0.4 m                            |
-| 10 $\lt$ *D* $\leq$ 20                 | 0.3 m                            |
-| 20 $\lt$ *D*                           | 0.23 m                           |
+| 0.1 \< *D* $\leq$ 0.25              | 2.9 m                            |
+| 0.25 \< *D* $\leq$ 0.5              | 1.9 m                            |
+| 0.5 \< *D* $\leq$ 1                 | 1.35 m                           |
+| 1 \< *D* $\leq$ 3                   | 0.9 m                            |
+| 3 \< *D* $\leq$ 6                   | 0.55 m                           |
+| 6 \< *D* $\leq$ 10                  | 0.4 m                            |
+| 10 \< *D* $\leq$ 20                 | 0.3 m                            |
+| 20 \< *D*                           | 0.23 m                           |
 
 : Table 1. Pre-Calculated Quadrat Radii {#tbl-radius}
 
@@ -94,13 +94,13 @@ Instead of calculating as above, you may also use this pre-calculated set of rad
 
     a.  **The number of focal plants within *r* meters of the center point** (see @fig-sampling). See above for explanation of how to calculate *r*, or use the values in @tbl-radius. It may be helpful to place a stick vertically in the center of the quadrat, attach a string of r meters to the tip, and walk in a circle around the stick to help visualize the circular quadrat. **Note:** this includes only rooted focal plant species individuals in the quadrat.
 
-    b.  **The percent cover of focal plant species** (ignore non-focal species). **Note:** this includes both rooted and not rooted focal plant species individuals in the quadrat but hanging over the edge from above. This percentage could be $\gt$ 100% if plants overlap.
+    b.  **The percent cover of focal plant species** (ignore non-focal species). **Note:** this includes both rooted and not rooted focal plant species individuals in the quadrat but hanging over the edge from above. This percentage could be \> 100% if plants overlap.
 
-    c.  **The percent cover of all non-focal plant species** (ignore focal species). This percentage could be $\gt$ 100% if plants overlap. If surveying understory plants, ignore forest canopy when estimating percent cover.
+    c.  **The percent cover of all non-focal plant species** (ignore focal species). This percentage could be \> 100% if plants overlap. If surveying understory plants, ignore forest canopy when estimating percent cover.
 
 <!-- **_If the circular quadrat has 0 plants, record a zero and continue to the next quadrat._** NB DO YOU COLLECT THE PERCENT COVER DATA?-->
 
-4.  If the quadrat has $\gt$ 0 of the focal plant species: Randomly choose 1 of the plants in the quadrat to survey (a faster alternative would be to choose the plant closest to the quadrat center, but this is recommended only if you think it will produce an unbiased sample of plants from your site. If you chose this approach, be careful about over-representing isolated plants or larger ones, which in crowded patches will be closer to more points relative to small plants). **For the selected plant record**:
+4.  If the quadrat has \> 0 of the focal plant species: Randomly choose 1 of the plants in the quadrat to survey (a faster alternative would be to choose the plant closest to the quadrat center, but this is recommended only if you think it will produce an unbiased sample of plants from your site. If you chose this approach, be careful about over-representing isolated plants or larger ones, which in crowded patches will be closer to more points relative to small plants). **For the selected plant record**:
 
     a.  **The plant's life-history stage** (i.e., seedling, vegetative, flowering, fruiting). Note that if multiple stages are present, record all relevant stages (i.e., a plant can be both flowering and fruiting).
 
@@ -108,11 +108,11 @@ Instead of calculating as above, you may also use this pre-calculated set of rad
 
     c.  **The following *three* measures of herbivore damage** (see also @sec-damage). Note that “herbivore damage” includes damage caused by both vertebrate and invertebrate herbivores.
 
-        i.  **Presence/absence of leaf damage:** Record both the total number of leaves on the plant and the number of leaves with $\gt$ 0.5% herbivory. ***Note that we are no longer including undamaged leaves in the following step, so these two data points are vital in understanding the proportion of the plant that is not damaged by herbivores.*** If the plant has $\leq$ 60 leaves total, please record the total herbivory on each leaf. If the plant has $\gt$ 60 leaves total, randomly select 60 leaves and record herbivory on those leaves. Please also make a note that you stopped at 60 (see template datasheet).
+        i.  **Presence/absence of leaf damage:** Record both the total number of leaves on the plant and the number of leaves with \> 0.5% herbivory. ***Note that we are no longer including undamaged leaves in the following step, so these two data points are vital in understanding the proportion of the plant that is not damaged by herbivores.*** If the plant has $\leq$ 60 leaves total, please record the total herbivory on each leaf. If the plant has \> 60 leaves total, randomly select 60 leaves and record herbivory on those leaves. Please also make a note that you stopped at 60 (see template datasheet).
 
-        ii. **Estimated percent damage on 10 randomly chosen leaves with herbivore damage** ($\gt$ 0% herbivory). One estimate per leaf (for a total of 10 estimates). Strive to ensure the selected leaves are representative of all leaves on the plant (e.g., sample young and old leaves in proportion to frequency on plant). If desired, you may use an application to estimate damage (e.g., LeafByte, etc.). However, please make a note of that in the appropriate part of the siteData tab of the template datasheet. ***Note that all selected leaves should have*** $\gt$ 0% damage (this is a change from the Phase 1 protocol). Note also that measuring only damaged leaves makes the data collected in step 1 (see above) vital in understanding per-plant damage variation.
+        ii. **Estimated percent damage on 10 randomly chosen leaves with herbivore damage** (\> 0% herbivory). One estimate per leaf (for a total of 10 estimates). Strive to ensure the selected leaves are representative of all leaves on the plant (e.g., sample young and old leaves in proportion to frequency on plant). If desired, you may use an application to estimate damage (e.g., LeafByte, etc.). However, please make a note of that in the appropriate part of the siteData tab of the template datasheet. ***Note that all selected leaves should have*** \> 0% damage (this is a change from the Phase 1 protocol). Note also that measuring only damaged leaves makes the data collected in step 1 (see above) vital in understanding per-plant damage variation.
 
-            If damage is estimated visually, and leaves are visibly damaged but damage is $\leq$ 0.5%, record herbivory as 0.5%. If a leaf has $\lt$ 0.1% damage, round that down to zero. If using an app, make a note and put in the value the app provides. For leaves with herbivore-built leaf shelters (rolls and ties), please carefully peer into or open shelters to estimate damaged area and count resident herbivores.
+            If damage is estimated visually, and leaves are visibly damaged but damage is $\leq$ 0.5%, record herbivory as 0.5%. If a leaf has \< 0.1% damage, round that down to zero. If using an app, make a note and put in the value the app provides. For leaves with herbivore-built leaf shelters (rolls and ties), please carefully peer into or open shelters to estimate damaged area and count resident herbivores.
 
         iii. **Estimated percent damage across the whole plant**. For example, if a plant has 4 equally sized leaves of which 2 are 50% eaten, then herbivory for the whole plant is 25% (if leaves are differnt sizes, correct this estimate by taking leaf size into account). If this measure is not feasible to collect, measure 30 leaves (instead of 10 as in step 2 above) and leave this blank. The 30 can then be used to calculate this value *post hoc*. ***Optional but valuable:*** separating percent damage by herbivore type or species, if possible (e.g., sucking damage versus chewing damage); add columns as needed.
 
