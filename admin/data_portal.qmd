@@ -173,7 +173,7 @@ To create/manage a service account you need to use “Google Cloud Platform” a
 
 1. Sign into the herbvar\@gmail. com Google Account 
 
-2. Visit the Google Cloud Platform (link) 
+2. Visit the Google Cloud Platform 
 
     a. If there is a pale red/pink error saying you don’t have sufficient permissions to view the page, select the herbvar\@gmail. com account from the drop down in the top right of the screen 
 
