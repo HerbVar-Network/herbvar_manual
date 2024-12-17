@@ -531,8 +531,8 @@ Alternatives to the Primary Protocol
 <ol type="1">
 <li>Select 10 random locations in the site.</li>
 <li>At each of these points establish a 1 m<span class="math inline">\(^2\)</span> quadrat and count the number of plants in each quadrat</li>
-<li>Calculate the mean density of plants in the quadrats, <em><em>D</em></em>,</li>
-<li>Calculate a circular quadrat radius (<em>r</em>) that would – on average – contain 4 plants using this formula: <em>r</em> = 4/(π<em><em>D</em></em>).</li>
+<li>Calculate the mean density of plants in the quadrats, <em>D</em>,</li>
+<li>Calculate a circular quadrat radius (<em>r</em>) that would – on average – contain 4 plants using this formula: <em>r</em> = 4/(π<em>D</em>).</li>
 </ol>
 <p>This approach seeks an optimal, intermediate quadrat size that balances the costs associated with a small quadrat size (many empty quadrats) and a large quadrat size (quadrats that require counting many plant individuals).</p>
 <p>Instead of calculating as above, you may also use this pre-calculated set of radii (<a href="#tbl-radius" class="quarto-xref">Table&nbsp;<span>14.1</span></a>) for non-focal species. <strong><em>Remember, for focal species, please use 0.4 m</em></strong></p>
@@ -549,41 +549,41 @@ Table&nbsp;14.1: Table 1. Pre-Calculated Quadrat Radii
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>Plant Density (<em>D</em>: plants / m<sup>2</sup>)</strong></th>
-<th><strong>Quadrat radius (<em>r</em>: meters)</strong></th>
+<th><strong>Plant Density (<em>D</em>, plants / m<sup>2</sup>)</strong></th>
+<th><strong>Quadrat radius (<em>r</em>, meters)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><em>D</em> ≤ 0.1</td>
+<td><em>D</em> <span class="math inline">\(\leq\)</span> 0.1</td>
 <td>3.6 m</td>
 </tr>
 <tr class="even">
-<td>0.1 &lt; <em>D</em> ≤ 0.25</td>
+<td>0.1 &lt; <em>D</em> <span class="math inline">\(\leq\)</span> 0.25</td>
 <td>2.9 m</td>
 </tr>
 <tr class="odd">
-<td>0.25 &lt; <em>D</em> ≤ 0.5</td>
+<td>0.25 &lt; <em>D</em> <span class="math inline">\(\leq\)</span> 0.5</td>
 <td>1.9 m</td>
 </tr>
 <tr class="even">
-<td>0.5 &lt; <em>D</em> ≤ 1</td>
+<td>0.5 &lt; <em>D</em> <span class="math inline">\(\leq\)</span> 1</td>
 <td>1.35 m</td>
 </tr>
 <tr class="odd">
-<td>1 &lt; <em>D</em> ≤ 3</td>
+<td>1 &lt; <em>D</em> <span class="math inline">\(\leq\)</span> 3</td>
 <td>0.9 m</td>
 </tr>
 <tr class="even">
-<td>3 &lt; <em>D</em> ≤ 6</td>
+<td>3 &lt; <em>D</em> <span class="math inline">\(\leq\)</span> 6</td>
 <td>0.55 m</td>
 </tr>
 <tr class="odd">
-<td>6 &lt; <em>D</em> ≤ 10</td>
+<td>6 &lt; <em>D</em> <span class="math inline">\(\leq\)</span> 10</td>
 <td>0.4 m</td>
 </tr>
 <tr class="even">
-<td>10 &lt; <em>D</em> ≤ 20</td>
+<td>10 &lt; <em>D</em> <span class="math inline">\(\leq\)</span> 20</td>
 <td>0.3 m</td>
 </tr>
 <tr class="odd">
@@ -611,18 +611,16 @@ Table&nbsp;14.1: Table 1. Pre-Calculated Quadrat Radii
 </ol>
 <!-- **_If the circular quadrat has 0 plants, record a zero and continue to the next quadrat._** NB DO YOU COLLECT THE PERCENT COVER DATA?-->
 <ol start="4" type="1">
-<li><p>If the quadrat has <span class="math inline">\(&gt; 0\)</span> of the focal plant species: measure and record herbivory. Randomly choose 1 of the plants within the quadrat to survey. A quicker alternative would be to choose the plant closest to the quadrat center, but this is recommended only if you think it will produce an unbiased sample of plants from your site. Be careful about over-representing isolated plants or larger ones (which in crowded patches will be closer to more points relative to small plants). <strong>For the selected plant record</strong>:</p>
+<li><p>If the quadrat has &gt; 0 of the focal plant species: Randomly choose 1 of the plants in the quadrat to survey (a faster alternative would be to choose the plant closest to the quadrat center, but this is recommended only if you think it will produce an unbiased sample of plants from your site. If you chose this approach, be careful about over-representing isolated plants or larger ones, which in crowded patches will be closer to more points relative to small plants). <strong>For the selected plant record</strong>:</p>
 <ol type="a">
 <li><p><strong>The plant’s life-history stage</strong> (i.e., seedling, vegetative, flowering, fruiting). Note that if multiple stages are present, record all relevant stages (i.e., a plant can be both flowering and fruiting).</p></li>
 <li><p><strong>The size of the plant.</strong> Use judgment to pick best measure for your species (e.g., plant height from the ground to tallest living part, stem length, foliage diameter, stem diameter).</p></li>
 <li><p><strong>The following <em>three</em> measures of herbivore damage</strong> (see also <a href="damage.html" class="quarto-xref"><span>Chapter 15</span></a>). Note that “herbivore damage” includes damage caused by both vertebrate and invertebrate herbivores.</p>
 <ol type="i">
-<li><p><strong>Presence/absence of leaf damage:</strong> Record both the total number of leaves on the plant and the number of leaves with &gt;0.5% herbivory. <strong><em>Note that we are no longer including undamaged leaves in the following step, so these two data points are vital in understanding the proportion of the plant that is not damaged by herbivores.</em></strong> If the plant has ≤ 60 leaves total, please record the total herbivory on each leaf. If the plant has &gt;60 leaves total, randomly select 60 leaves and record herbivory on those leaves. Please also make a note that you stopped at 60 (see template datasheet).</p></li>
-<li><p><strong>Estimated percent damage on 10 randomly chosen leaves with herbivore damage</strong> (&gt; 0% herbivory). One estimate per leaf (for a total of 10 estimates). Strive to ensure the selected leaves are representative of all leaves on the plant (e.g., sample young and old leaves in proportion to frequency on plant). If desired, you may use an application to estimate damage (e.g., LeafByte, etc.). However, please make a note of that in the appropriate part of the siteData tab of the template datasheet. <strong><em>Note that all selected leaves should have &gt; 0% damage</em></strong> (this is a change from the Phase 1 protocol). Note also that measuring only damaged leaves makes the data collected in step 1 (see above) vital in understanding per-plant damage variation.</p></li>
-</ol>
-<p>If damage is estimated visually, and leaves are visibly damaged but damage is <span class="math inline">\(\leq\)</span> 0.5%, record herbivory as 0.5%. If a leaf has &lt; \0.1% damage, round that down to zero. If using an app, make a note and put in the value the app provides. For leaves with herbivore-built leaf shelters (rolls and ties), please carefully peer into or open shelters to estimate damaged area and count resident herbivores.</p>
-<ol start="3" type="i">
-<li><strong>Estimated percent damage across the whole plant</strong>. For example, if a plant has 4 equally sized leaves of which 2 are 50% eaten, then herbivory for the whole plant is 25% (if leaves are differnt sizes, correct this estimate by taking leaf size into account). If this measure is not feasible to collect, measure 30 leaves (instead of 10 as in step 2 above) and leave this blank. The 30 can then be used to calculate this value <em>post hoc</em>. <strong><em>Optional but valuable:</em></strong> separating percent damage by herbivore type or species, if possible (e.g., sucking damage versus chewing damage); add columns as needed.</li>
+<li><p><strong>Presence/absence of leaf damage:</strong> Record both the total number of leaves on the plant and the number of leaves with &gt; 0.5% herbivory. <strong><em>Note that we are no longer including undamaged leaves in the following step, so these two data points are vital in understanding the proportion of the plant that is not damaged by herbivores.</em></strong> If the plant has <span class="math inline">\(\leq\)</span> 60 leaves total, please record the total herbivory on each leaf. If the plant has &gt; 60 leaves total, randomly select 60 leaves and record herbivory on those leaves. Please also make a note that you stopped at 60 (see template datasheet).</p></li>
+<li><p><strong>Estimated percent damage on 10 randomly chosen leaves with herbivore damage</strong> (&gt; 0% herbivory). One estimate per leaf (for a total of 10 estimates). Strive to ensure the selected leaves are representative of all leaves on the plant (e.g., sample young and old leaves in proportion to frequency on plant). If desired, you may use an application to estimate damage (e.g., LeafByte, etc.). However, please make a note of that in the appropriate part of the siteData tab of the template datasheet. <strong><em>Note that all selected leaves should have</em></strong> &gt; 0% damage (this is a change from the Phase 1 protocol). Note also that measuring only damaged leaves makes the data collected in step 1 (see above) vital in understanding per-plant damage variation.</p>
+<p>If damage is estimated visually, and leaves are visibly damaged but damage is <span class="math inline">\(\leq\)</span> 0.5%, record herbivory as 0.5%. If a leaf has &lt; 0.1% damage, round that down to zero. If using an app, make a note and put in the value the app provides. For leaves with herbivore-built leaf shelters (rolls and ties), please carefully peer into or open shelters to estimate damaged area and count resident herbivores.</p></li>
+<li><p><strong>Estimated percent damage across the whole plant</strong>. For example, if a plant has 4 equally sized leaves of which 2 are 50% eaten, then herbivory for the whole plant is 25% (if leaves are differnt sizes, correct this estimate by taking leaf size into account). If this measure is not feasible to collect, measure 30 leaves (instead of 10 as in step 2 above) and leave this blank. The 30 can then be used to calculate this value <em>post hoc</em>. <strong><em>Optional but valuable:</em></strong> separating percent damage by herbivore type or species, if possible (e.g., sucking damage versus chewing damage); add columns as needed.</p></li>
 </ol></li>
 <li><p><strong><em>Optional but encouraged:</em></strong> Estimate and report damage to reproductive parts (flowers/fruits/seeds) using the Protocol in <a href="repro_damage.html" class="quarto-xref"><span>Chapter 16</span></a>.</p></li>
 <li><p><strong>Record the presence of plant diseases (i.e., pathogens).</strong> Please also estimate your confidence in your pathogen estimate and include it as a note in the provided column in the datasheet. In Phase 1, several collaborators pointed out that the difference between pathogen pressure and nutrient deficiency can be slim so this confidence estimate will be helpful in accounting for the difficulty in pathogen estimation.</p></li>
