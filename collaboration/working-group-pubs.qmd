@@ -22,7 +22,7 @@ If an HerbVar member would like to lead an HerbVar working group paper (i.e., se
 
    i. the lead author(s)
    ii. any other known authors
-   iii. plans for recruiting additional authors, if any  
+   iii. plans for recruiting additional authors, if any
    iv. the title
    iv. the abstract
    v. the specific types of data that you wish to use
