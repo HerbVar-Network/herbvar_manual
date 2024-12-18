@@ -9,8 +9,8 @@ Please cite this manual as: HerbVar Steering Committee (2024). HerbVar: Project 
 
 
 ```
-@software{emilio_m_bruna_2024_14232308,
-	author = {HerbVar Steering Committee},
+@software{hvmanual_2024,
+	editors = {HerbVar Steering Committee},
 	doi = {10.5281/zenodo.14232308},
 	month = nov,
 	publisher = {Zenodo},
