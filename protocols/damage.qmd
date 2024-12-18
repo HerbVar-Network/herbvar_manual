@@ -2,19 +2,19 @@
 author:
   - name: Ian Pearse
     affiliations:
-      - ref: usgs
+      - id: usgs
       - name: U.S. Geological Survey
         city: Ft. Collins
         state: CO
   - name: Zoe Getman-Pickering
     affiliations:
-      - ref: uma
+      - id: uma
       - name: University of Massachusetts, Amherst
         city: Amherst
         state: MA
   - name: Julie Davis
     affiliations:
-      - ref: crnu
+      - id: crnu
       - name: Cornell University
         city: Ithaca
         state: NY
@@ -24,7 +24,7 @@ author:
         name: NRAE-UMR BIOGECO
   - name: Will Wetzel
     affiliations:
-      - ref: umt
+      - id: umt
       - name: University of Montana
         city: Missoula
         state: MT

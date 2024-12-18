@@ -8,19 +8,19 @@ author:
         state: FL
   - name: Susan Whitehead
     affiliations:
-      - ref: vtech
+      - id: vtech
       - name: Virgina Tech
         city: Blacksburg
         state: VA
   - name: Paul Ode
     affiliations:
-      - ref: csu
+      - id: csu
       - name: Colorado State University
         city: Ft. Collins
         state: CO
   - name: Will Wetzel
     affiliations:
-      - ref: umt
+      - id: umt
       - name: University of Montana
         city: Missoula
         state: MT

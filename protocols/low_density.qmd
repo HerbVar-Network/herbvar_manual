@@ -2,19 +2,19 @@
 author:
   - name: Danielle Salcido
     affiliations:
-      - ref: unr
+      - id: unr
       - name: University of Nevada, Reno
         city: Reno
         state: NV
   - name: Lee Dyer
     affiliations:
-      - ref: unr
+      - id: unr
       - name: University of Nevada, Reno
         city: Reno
         state: NV
   - name: Will Wetzel
     affiliations:
-      - ref: umt
+      - id: umt
       - name: University of Montana
         city: Missoula
         state: MT

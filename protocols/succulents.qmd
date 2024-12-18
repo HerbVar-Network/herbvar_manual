@@ -2,13 +2,13 @@
 author:
   - name: Judie Bronstein
     affiliations:
-      - ref: ua
+      - id: ua
       - name: University of Arizona
         city: Tucson
         state: AZ
   - name: Victoria Luizzi
     affiliations:
-      - ref: ua
+      - id: ua
       - name: University of Arizona
         city: Tucson
         state: AZ
