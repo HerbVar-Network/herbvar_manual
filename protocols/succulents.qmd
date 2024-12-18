@@ -4,14 +4,14 @@ author:
     affiliations:
       - id: ua
       - name: University of Arizona
-        city: Tucson
-        state: AZ
+        # city: Tucson
+        # state: AZ
   - name: Victoria Luizzi
     affiliations:
       - id: ua
       - name: University of Arizona
-        city: Tucson
-        state: AZ
+        # city: Tucson
+        # state: AZ
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified

@@ -4,20 +4,20 @@ author:
     affiliations:
       - id: usgs
       - name: U.S. Geological Survey
-        city: Ft. Collins
-        state: CO
+        # city: Ft. Collins
+        # state: CO
   - name: Zoe Getman-Pickering
     affiliations:
       - id: uma
       - name: University of Massachusetts, Amherst
-        city: Amherst
-        state: MA
+        # city: Amherst
+        # state: MA
   - name: Julie Davis
     affiliations:
       - id: crnu
       - name: Cornell University
-        city: Ithaca
-        state: NY
+        # city: Ithaca
+        # state: NY
   - name: Bastien Castagneyrol
     affiliations:
       - id: nrae
@@ -26,8 +26,8 @@ author:
     affiliations:
       - id: umt
       - name: University of Montana
-        city: Missoula
-        state: MT
+        # city: Missoula
+        # state: MT
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified

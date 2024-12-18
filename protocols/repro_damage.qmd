@@ -4,26 +4,26 @@ author:
     affiliations:
       - id: uf
         name: University of Florida
-        city: Gainesville
-        state: FL
+        # city: Gainesville
+        # state: FL
   - name: Susan Whitehead
     affiliations:
       - id: vtech
       - name: Virgina Tech
-        city: Blacksburg
-        state: VA
+        # city: Blacksburg
+        # state: VA
   - name: Paul Ode
     affiliations:
       - id: csu
       - name: Colorado State University
-        city: Ft. Collins
-        state: CO
+        # city: Ft. Collins
+        # state: CO
   - name: Will Wetzel
     affiliations:
       - id: umt
       - name: University of Montana
-        city: Missoula
-        state: MT
+        # city: Missoula
+        # state: MT
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified

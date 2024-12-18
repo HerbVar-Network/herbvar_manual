@@ -4,20 +4,20 @@ author:
     affiliations:
       - id: unr
       - name: University of Nevada, Reno
-        city: Reno
-        state: NV
+        # city: Reno
+        # state: NV
   - name: Lee Dyer
     affiliations:
       - id: unr
       - name: University of Nevada, Reno
-        city: Reno
-        state: NV
+        # city: Reno
+        # state: NV
   - name: Will Wetzel
     affiliations:
       - id: umt
       - name: University of Montana
-        city: Missoula
-        state: MT
+        # city: Missoula
+        # state: MT
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified

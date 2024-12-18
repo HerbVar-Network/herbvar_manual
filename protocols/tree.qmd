@@ -8,20 +8,20 @@ author:
     affiliations:
       - id: uwm
       - name: University of Wisconsin, Madison
-        city: Madison
-        state: WI
+        # city: Madison
+        # state: WI
   - name: Will Wetzel
     affiliations:
       - id: umt
       - name: University of Montana
-        city: Missoula
-        state: MT
+        # city: Missoula
+        # state: MT
   - name: Moria Robinson
     affiliations:
       - id: usu
       - name: Utah State University
-        city: Logan
-        state: UT
+        # city: Logan
+        # state: UT
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified
