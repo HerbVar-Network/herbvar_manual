@@ -1,6 +1,6 @@
  ---
 title: Herbvar Products
-date: today
+date-modified: last-modified
 ---
 
 <!-- ## Publications {.unnumbered} -->

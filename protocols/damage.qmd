@@ -1,5 +1,33 @@
 ---
-author: HerbVar Damage Estimation Subgroup (Ian Pearse, Zoe Getman-Pickering, Julie Davis, Bastien Castagneyrol, and Will Wetzel)
+author:
+  - name: Ian Pearse
+    affiliations:
+      - ref: usgs
+      - name: U.S. Geological Survey
+        city: Ft. Collins
+        state: CO
+  - name: Zoe Getman-Pickering
+    affiliations:
+      - ref: uma
+      - name: University of Massachusetts, Amherst
+        city: Amherst
+        state: MA
+  - name: Julie Davis
+    affiliations:
+      - ref: crnu
+      - name: Cornell University
+        city: Ithaca
+        state: NY
+  - name: Bastien Castagneyrol
+    affiliations:
+      - id: nrae
+        name: NRAE-UMR BIOGECO
+  - name: Will Wetzel
+    affiliations:
+      - ref: umt
+      - name: University of Montana
+        city: Missoula
+        state: MT
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified

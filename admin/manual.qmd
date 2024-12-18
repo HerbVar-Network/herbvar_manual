@@ -1,7 +1,7 @@
 ---
-author: Emilio Bruna
+# author: Emilio Bruna
 title-block-style: plain
-date: 09/18/2024
+# date: 09/18/2024
 date-modified: last-modified
 ---
 
