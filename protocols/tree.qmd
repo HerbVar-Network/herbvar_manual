@@ -1,5 +1,27 @@
 ---
-author: Tree Subgroup (Bastien Castagneyrol, Amy Trowbridge, Will Wetzel, Moria Robinson)
+author:
+  - name: Bastien Castagneyrol
+    affiliations:
+      - id: nrae
+        name: NRAE-UMR BIOGECO
+  - name: Amy Trowbridge
+    affiliations:
+      - ref: uwm
+      - name: University of Wisconsin, Madison
+        city: Madison
+        state: WI
+  - name: Will Wetzel
+    affiliations:
+      - ref: umt
+      - name: University of Montana
+        city: Missoula
+        state: MT
+  - name: Moria Robinson
+    affiliations:
+      - ref: usu
+      - name: Utah State University
+        city: Logan
+        state: UT
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified

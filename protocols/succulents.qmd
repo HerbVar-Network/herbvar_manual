@@ -1,5 +1,17 @@
 ---
-author: Judie Bronstein and Victoria Luizzi (University of Arizona)
+author:
+  - name: Judie Bronstein
+     affiliations:
+      - ref: ua
+      - name: University of Arizona
+        city: Tucson
+        state: AZ
+  - name: Victoria Luizzi
+    affiliations:
+      - ref: ua
+      - name: University of Arizona
+        city: Tucson
+        state: AZ
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified

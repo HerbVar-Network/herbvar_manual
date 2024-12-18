@@ -1,5 +1,6 @@
 ---
-author: Yuval Sapir (Tel Aviv University)
+author: Yuval Sapir
+affiliation: Tel Aviv University
 bibliography: "../HerbVar.bib"
 title-block-style: plain
 date: 11/01/2021

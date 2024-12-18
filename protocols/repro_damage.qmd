@@ -1,5 +1,29 @@
 ---
-author: Phil Hahn, Susan Whitehead, Paul Ode, & Will Wetzel
+author:
+  - name: Phil Hahn
+    affiliations:
+      - id: uf
+        name: University of Florida
+        city: Gainesville
+        state: FL
+  - name: Susan Whitehead
+    affiliations:
+      - ref: vtech
+      - name: Virgina Tech
+        city: Blacksburg
+        state: VA
+  - name: Paul Ode
+    affiliations:
+      - ref: csu
+      - name: Colorado State University
+        city: Ft. Collins
+        state: CO
+  - name: Will Wetzel
+    affiliations:
+      - ref: umt
+      - name: University of Montana
+        city: Missoula
+        state: MT
 title-block-style: plain
 date: 11/01/2021
 date-modified: last-modified
