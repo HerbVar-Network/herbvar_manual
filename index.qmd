@@ -1,9 +1,24 @@
 
 # Preamble {.unnumbered}
 
-
 This book is a manual for researchers involved the the [HerbVar Project](https://herbvar.org/). It includes a checklist for new collaborators, guidelines on accessing, adding, and using project data, tutorials for using the RStudio Project Templates for conducting analyses and preparing manuscripts, protocols for field work, and guides for administering the HerbVar Network resources (e.g., website, data portal). 
 
-This guide is a [Quarto Book](https://quarto.org/docs/books) hosted on the [HerbVar Network's Github site](https://github.com/HerbVar-Network). Any team member can edit the text, add new sections, or make suggestions for improvement either by [pull request](https://github.com/HerbVar-Network/project_manual/pulls) or by [posting an issue](https://github.com/HerbVar-Network/project_manual/issues) on the HerbVar Manual's repository. For more information and tutorials for doing so, see @sec-manual. 
+    **Citation:** HerbVar Steering Committee (Eds.). 2024. _HerbVar: Project Manual and Field protocols (v0.9.0)_. Zenodo. https://doi.org/10.5281/zenodo.14232308
 
-Citation: HerbVar Steering Committee (Eds.). 2024. _HerbVar: Project Manual and Field protocols (v0.9.0)_. Zenodo. https://doi.org/10.5281/zenodo.14232308
+The HerbVar Steering Committee would like to express their appreciation to the following authors of _Alternative & Protocols_ and guides to data collection: 
+
+    _Reproductive Damage:_ Phil Hahn (University of Florida), Susan Whitehead (Virgina Tech), Paul Ode (Colorado State University), Will Wetzel (University of Montana)
+
+    _Cacti & Succulents:_ Judie Bronstein (University of Arizona), Victoria Luizzi (University of Arizona)
+
+    _Trees:_ Bastien Castagneyrol (NRAE-UMR BIOGECO), Amy Trowbridge (University of Wisconsin, Madison), Will Wetzel (University of Montana), Moria Robinson (Utah State University).
+
+    _Estimating Damage:_ Ian Pearse (U.S. Geological Survey), Zoe Getman-Pickering (University of Massachusetts, Amherst), Julie Davis (Cornell University), Bastien Castagneyrol (NRAE-UMR BIOGECO), Will Wetzel (University of Montana)
+
+    _Low-Density Plants:_ Danielle Salcido (University of Nevada, Reno), Lee Dyer (University of Nevada, Reno), Will Wetzel (University of Montana)
+
+    _Rhizomatous Geophytes_: Yuval Sapir (Tel Aviv University) 
+
+--- 
+
+This guide is a [Quarto Book](https://quarto.org/docs/books) hosted on the [HerbVar Network's Github site](https://github.com/HerbVar-Network). Any team member can edit the text, add new sections, or make suggestions for improvement either by [pull request](https://github.com/HerbVar-Network/project_manual/pulls) or by [posting an issue](https://github.com/HerbVar-Network/project_manual/issues) on the HerbVar Manual's repository. For more information and tutorials for doing so, see @sec-manual. 
