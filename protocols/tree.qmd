@@ -8,8 +8,6 @@ author:
     affiliations:
       - id: uwm
       - name: University of Wisconsin, Madison
-        # city: Madison
-        # state: WI
   - name: Will Wetzel
     affiliations:
       - id: umt
@@ -22,7 +20,7 @@ author:
       - name: Utah State University
         # city: Logan
         # state: UT
-title-block-style: plain
+title-block-style: default
 date: 11/01/2021
 date-modified: last-modified
 ---

@@ -24,7 +24,7 @@ author:
       - name: University of Montana
         # city: Missoula
         # state: MT
-title-block-style: plain
+title-block-style: default
 date: 11/01/2021
 date-modified: last-modified
 

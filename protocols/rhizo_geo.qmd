@@ -3,7 +3,7 @@ author:
   - name: Yuval Sapir
     affiliations: Tel Aviv University
 bibliography: "../HerbVar.bib"
-title-block-style: plain
+title-block-style: default
 date: 11/01/2021
 date-modified: last-modified
 ---
