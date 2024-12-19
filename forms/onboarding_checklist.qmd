@@ -16,6 +16,7 @@ New collaborators should:
   [] orcid id   
   [] link to github account  
   [] email  
+  [] provide "expertise keywords"   
 
 
 ## Admin Checklist
