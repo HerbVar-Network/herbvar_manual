@@ -15,8 +15,8 @@ author:
   - name: Will Wetzel
     affiliations:
       - id: umt
-      - name: University of Montana
-        # city: Missoula
+      - name: Montana State University
+        # city: Bozeman
         # state: MT
 title-block-style: default
 date: 11/01/2021

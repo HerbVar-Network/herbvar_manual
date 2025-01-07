@@ -5,15 +5,15 @@ This book is a manual for researchers involved the the [HerbVar Project](https:/
 
 The HerbVar Steering Committee would like to express their appreciation to the following authors of _Alternative & Protocols_ and Guides to Data Collection:  
 
-- _Reproductive Damage:_ Phil Hahn (University of Florida), Susan Whitehead (Virgina Tech), Paul Ode (Colorado State University), Will Wetzel (University of Montana)  
+- _Reproductive Damage:_ Susan Whitehead (Virgina Tech), Phil Hahn (University of Florida), Paul Ode (Colorado State University), Will Wetzel (Montana State University)  
     
 - _Cacti & Succulents:_ Judie Bronstein (University of Arizona), Victoria Luizzi (University of Arizona)  
 
-- _Trees:_ Bastien Castagneyrol (NRAE-UMR BIOGECO), Amy Trowbridge (University of Wisconsin, Madison), Will Wetzel (University of Montana), Moria Robinson (Utah State University)  
+- _Trees:_ Bastien Castagneyrol (NRAE-UMR BIOGECO), Amy Trowbridge (University of Wisconsin, Madison), Will Wetzel (Montana State University), Moria Robinson (Utah State University)  
 
-- _Estimating Damage:_ Ian Pearse (U.S. Geological Survey), Zoe Getman-Pickering (University of Massachusetts, Amherst), Julie Davis (Cornell University), Bastien Castagneyrol (NRAE-UMR BIOGECO), Will Wetzel (University of Montana)  
+- _Estimating Damage:_ Ian Pearse (U.S. Geological Survey), Zoe Getman-Pickering (University of Massachusetts, Amherst), Julie Davis (Cornell University), Bastien Castagneyrol (NRAE-UMR BIOGECO), Will Wetzel (Montana State University)  
 
-- _Low-Density Plants:_ Danielle Salcido (University of Nevada, Reno), Lee Dyer (University of Nevada, Reno), Will Wetzel (University of Montana)  
+- _Low-Density Plants:_ Danielle Salcido (University of Nevada, Reno), Lee Dyer (University of Nevada, Reno), Will Wetzel (Montana State University)  
 
 - _Rhizomatous Geophytes_: Yuval Sapir (Tel Aviv University) 
 
