@@ -1,17 +1,17 @@
 ---
 author:
-  - name: Phil Hahn
-    affiliations:
-      - id: uf
-        name: University of Florida
-        # city: Gainesville
-        # state: FL
   - name: Susan Whitehead
     affiliations:
       - id: vtech
       - name: Virgina Tech
         # city: Blacksburg
         # state: VA
+  - name: Phil Hahn
+    affiliations:
+      - id: uf
+        name: University of Florida
+        # city: Gainesville
+        # state: FL
   - name: Paul Ode
     affiliations:
       - id: csu
@@ -21,8 +21,8 @@ author:
   - name: Will Wetzel
     affiliations:
       - id: umt
-      - name: University of Montana
-        # city: Missoula
+      - name: Montana State University
+        # city: Bozeman
         # state: MT
 title-block-style: default
 date: 11/01/2021
