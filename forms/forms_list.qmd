@@ -6,7 +6,7 @@ title-block-style: plain
 ---
 
 These links take you to the GitHub repository page that holds each document. GitHub will preview PDFs but not other file types. Either way, you can download the documents by clicking on the download button (downward pointing arrow) in the upper right of the screen.
-![Download button](images/img_downarrow.png){#fig-downarrow width=100}
+![Download button](Images/img_downarrow.png){#fig-downarrow width=100}
 
 
 ## Data-Sharing & Usage Agreement {#sec-forms}
