@@ -119,15 +119,11 @@ If you collect data on both leaf damage and reproductive structure damage in the
 - Make sure to record all of your decisions on the datasheet.
 
 
-![Example reproData information](images/img28.png){#fig-reprotable}
 
-### Examples of different types of damage to reproductive material
+## Examples of different types of damage to reproductive structures
 
-::: {#fig-damage layout-ncol="1"}
-![*Abronia umbellata* with chewing damage to two corolla (one is completely chewed and one is partially chewed). In this example, each floret would be scored for damage (2 damaged, 13 organs examined). *Photo: Eric LoPresti.*](images/img2.png){#fig-umbellata fig-scap="_Abronia turbinata_ with chewing damage to corollas." width="60%"}
 
-![*Abronia turbinata* with damage and frass from a moth caterpillar (*Neogrotella macdunnoughi*). Note chewing damage to petals/corollas and caterpillars at base of florets. In this example, each of 30 florets would be scored for damage. *Photo: Eric LoPresti*.](images/img3.png){#fig-turbinata fig-scap="_Abronia turbinata_ with damage and frass from a moth caterpillar" width="60%"}
-:::
+![*Abronia umbellata*. For this plant, we would suggest using flowers as the reproductive unit. For method 1 (Presence/absence in @sec-repro-structure-dam), one would record the number damaged (3 damaged), the number destroyed (possibly 1), and the total number of flowers (13 total). For method 2 (Structure-level percent damage in @sec-repro-structure-dam), one would record the percent damage on damaged flowers (1 = 60%, 2 = 10%, 3 = 100%). For method 3 (Plant-level percent damage in @sec-repro-structure-dam) one would estimate the percent damage on the whole plant (whole plant ~ 10% damage). This species typically has one or a few inflorescences, if it had multiple inflorescences the numbers for flowers could be summed across the inflorescences. Photo: Eric LoPresti.](images/img2.png){#fig-umbellata fig-scap="_Abronia turbinata_ with chewing damage to corollas." width="60%"}
 
 ![*Vicia americana* seed pod. Notice boring holes in the upper-left seed and frass in the pod. In this example, each of 30 seeds would be scored for damage. *Photo: Phil Hahn*.](images/img4.png){#fig-americana fig-scap="_Vicia americana_ seed pod" width="60%"}
 
