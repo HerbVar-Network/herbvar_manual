@@ -1120,22 +1120,11 @@
     ]
   },
   {
-    "objectID": "forms/forms_list.html#herbvar-data-collection-sheets-.pdf",
-    "href": "forms/forms_list.html#herbvar-data-collection-sheets-.pdf",
+    "objectID": "forms/forms_list.html#sec-datasheets",
+    "href": "forms/forms_list.html#sec-datasheets",
     "title": "23  HerbVar Forms",
-    "section": "23.2 HerbVar Data Collection Sheets (.pdf)",
-    "text": "23.2 HerbVar Data Collection Sheets (.pdf)\nUse the links to download printable versions of the HerbVar Data Collection Forms in .pdf format.\n\nPRIMARY Datasheet\nREPRO Datasheet\nHERBIVORE Datasheet",
-    "crumbs": [
-      "Appendix 1: Forms & Checklists",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>HerbVar Forms</span>"
-    ]
-  },
-  {
-    "objectID": "forms/forms_list.html#herbvar-datasheet-template-.xlsx",
-    "href": "forms/forms_list.html#herbvar-datasheet-template-.xlsx",
-    "title": "23  HerbVar Forms",
-    "section": "23.3 HerbVar Datasheet Template (.xlsx)",
-    "text": "23.3 HerbVar Datasheet Template (.xlsx)\n\nHERBIVORE Datasheet Template (.xlsx) for electronic data entry",
+    "section": "23.2 HerbVar Datasheets",
+    "text": "23.2 HerbVar Datasheets\nUse the links to download datasheets for data collection and/or entry\n\nHERBIVORE Datasheet Template (.xlsx) for electronic data entry\nPRIMARY Datasheet (PDF)\nREPRO Datasheet (PDF)\nHERBIVORE Datasheet (PDF)",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>HerbVar Forms</span>"
@@ -1145,8 +1134,8 @@
     "objectID": "forms/forms_list.html#herbvar-field-guides",
     "href": "forms/forms_list.html#herbvar-field-guides",
     "title": "23  HerbVar Forms",
-    "section": "23.4 HerbVar Field Guides",
-    "text": "23.4 HerbVar Field Guides\nUse the links to download printable .pdf versions for use in the field.\n\nIllustrated Guide to Percent Leaf Damage\nMines & Galls Cheatsheet",
+    "section": "23.3 HerbVar Field Guides",
+    "text": "23.3 HerbVar Field Guides\nUse the links to download printable .pdf versions for use in the field.\n\nIllustrated Guide to Percent Leaf Damage\nMines & Galls Cheatsheet",
     "crumbs": [
       "Appendix 1: Forms & Checklists",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>HerbVar Forms</span>"
