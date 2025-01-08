@@ -13,6 +13,15 @@ These links take you to the GitHub repository page that holds each document. Git
 
 - [Data-Sharing and Usage Agreement](https://github.com/HerbVar-Network/herbvar_manual/blob/main/forms/HerbVar-DataSharingContract-D5.pdf) (`.pdf` format)
 
+
+<iframe
+  src="https://github.com/HerbVar-Network/herbvar_manual/blob/main/forms/HerbVar-DataSharingContract-D5.pdf"
+  title="iframe Example 1"
+  width="400"
+  height="300">
+</iframe>
+
+
 ## HerbVar Datasheets {#sec-datasheets}
 
 Use the links to download datasheets for data collection and/or entry
