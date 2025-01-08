@@ -35,7 +35,7 @@ date-modified: last-modified
 
 ## Overview
 
-This protocol aims to quantify damage by herbivores to reproductive structures of plants (i.e., flowers, fruits, and/or seeds). This is a supplement to the Primary Protocol, which aims to randomly select and sample 30 plants, plus their nearest conspecific neighbor, within a population.
+This protocol aims to quantify damage by herbivores to reproductive structures of plants (i.e., flowers, fruits, and/or seeds). This is a supplement to the Primary Protocol (@sec-primary), which aims to randomly select and sample 30 plants, plus their nearest conspecific neighbor, within a population.
 
 **Objectives:** The goal is to measure damage to reproductive structures on each plant within the surveyed population. Ideally, these measurements should be taken as supplemental data for the same individual plants (focal and neighbor plants) for which leaf damage was taken for the primary protocol because relating reproductive damage to leaf damage is a major research question. We recognize that this isn’t always feasible, however, so reproductive damage measurements are welcome from plant populations without leaf damage measurements.
 
@@ -45,13 +45,13 @@ This protocol aims to quantify damage by herbivores to reproductive structures o
 
 ### Select a species and population to survey
 
-We are hoping to get broad taxonomic and geographic coverage of damage to reproductive structures Therefore, any species could be surveyed. ***However, to ensure that the data are comparable across sites/species/families/etc., the plants should have the following characteristics:***
+We are hoping to get broad taxonomic and geographic coverage of damage to reproductive structures. Therefore, any species could be surveyed. ***However, to ensure that the data are comparable across sites/species/families/etc., the plants should have the following characteristics:***
 
 1.  At least half of the individuals at your site should possess reproductive structures. If most of the plants are in a vegetative stage, you probably won’t be able to randomly sample and still get enough reproductive individuals to get a decent sample size. Ideally, \>30 of the sampled plants will have reproductive damage data.
 
 2.  Enough of the individuals in the population should be in the same reproductive stage. If there is a mixture of flowering and fruiting plants within the population, it might be difficult to get a large enough sample size for one structure type. Additionally, different stages will likely be attacked by different herbivores.
 
-3.  The plants should receive quantifiable damage to reproductive structures, as either percent area removed or a count of structures that are damaged or destroyed (see below). Sometimes this damage is obvious (i.e., chewing to flower petals, damage to fleshy fruit tissue) while other times this damage is inconspicuous (i.e., damage to seeds inside fruits). It may be helpful to survey a few plants outside the focal population to look for these different types of damage before starting. Try opening a few fruits to check for internal damage.
+3.  The plants should receive quantifiable damage to reproductive structures, as either percent area removed or a count of structures that are damaged or destroyed (see @sec-repro-structure-dam on reproductive damage types below). Sometimes this damage is obvious (i.e., chewing to flower petals, damage to fleshy fruit tissue) while other times this damage is inconspicuous (i.e., damage to seeds inside fruits). It may be helpful to survey a few plants outside the focal population to look for these different types of damage before starting. Try opening a few fruits to check for internal damage.
 
 If your plant does not meet these requirements, please skip measuring damage to reproductive organs. Or get in touch if you have questions
 
@@ -61,7 +61,7 @@ Record the reproductive structure/unit you will survey, which could be any of th
 
 Ideally, choose a reproductive structure for which there are at least 10 units per plant. We will still accept surveys for plants that have fewer than 10, especially if you can estimate a % damage for each structure (see below).
 
-If possible, select a structure that will allow you to record counts of presence/absence of damage (Section 4a) AND a percent damage for each structure (Section 4b). This is ideal because it allows us to estimate both population-level (plant-to-plant) variation and plant-level (e.g. flower-to-flower) variation within plants, similar to the primary protocol for leaves. If this is not feasible it is also useful to record just the counts or just percent damage, whichever is feasible.
+If possible, select a structure that will allow you to record counts of presence/absence of damage (method 1 in @sec-repro-structure-dam) AND a percent damage for each structure (method 2 in @sec-repro-structure-dam). This is ideal because it allows us to estimate both population-level (plant-to-plant) variation and plant-level (e.g. flower-to-flower) variation within plants, similar to the primary protocol for leaves. If this is not feasible it is also useful to record just the counts or just percent damage, whichever is feasible.
 
 ## Establish a transect and select plants
 
@@ -75,19 +75,19 @@ If possible, record leaf damage data for each plant (use Primary Protocol Step 1
 
 If you are going to record leaf herbivory and reproductive structure herbivory on the same individual plants, make sure to use the same plant IDs in both datasheets.
 
-### Record reproductive structure damage
+### Record reproductive structure damage {#sec-repro-structure-dam}
 
 For each plant you randomly select, record damage to reproductive structures in three ways:
 
-1.  Presence/absence of damage: Record: (A) the total number of reproductive structure on the plant, (B) the number of structures with any herbivory (\>0%), and (C) the number of structures that are inviable/destroyed (if possible to assess)
-    i)  If the plant has ≤ 60 structures total, please record the true numbers
+1.  **Presence/absence of damage** Record (A) the total number of reproductive structure on the plant, (B) the number of structures with any herbivory (\>0%), and (C) the number of structures that are inviable/destroyed (if possible to assess).
+    i)  If the plant has ≤ 60 structures total, please record the true numbers.
     ii) If the plant has \>60 structures total, estimate the total number on the plant, then randomly (arbitrarily) choose 60 and record values for damage to those structures. Please also make sure to record that you took a subsample of 60 (see template datasheet).
-    iii) Optional: if the plant has multiple types of damage (e.g., chewing damage, piercing damage) or obvious pathogen damage, record the numbers of structures with different types of damage
-2.  Estimated percent damage (area removed) on 10 randomly (arbitrarily) chosen structures with herbivory damage (\> 0.5% herbivory).
+    iii) Optional: if the plant has multiple types of damage (e.g., chewing damage, piercing damage) or obvious pathogen damage, record the numbers of structures with different types of damage.
+2.  **Structure-level percent damage** Record the estimated percent damage (area removed) on 10 randomly (arbitrarily) chosen structures with herbivory damage (\> 0% herbivory).
     i)  One estimate per structure (for a total of 10 estimates). If your plant has \<10 structures with damage, record an estimate for each one.
-    ii) Please strive to sample in a way that selected structures will be representative of all reproductive structures on the plant (e.g., if fruits vary in size, sample different sizes in proportion to their occurrence on the plant)
+    ii) Please strive to sample in a way that selected structures will be representative of all reproductive structures on the plant (e.g., if fruits vary in size, sample different sizes in proportion to their occurrence on the plant).
     iii) Note that all selected structures should have \> 0% damage. Note also that measuring only damaged structures makes the data collected in step 1 (see above) vital in understanding per-plant damage variation.
-3.  Estimated percent damage across the whole plant, e.g., If a plant has 4 equally sized flowers and 2 of those flowers are 50% eaten, then whole plant has 25% herbivory. Take structure size into account when structures vary in size.
+3.  **Plant-level percent damage** Record estimated percent damage on reproductive structures across the whole plant. For example, if a plant has 4 equally sized flowers and 2 of those flowers are 50% eaten, then whole plant has 25% herbivory. Take structure size into account when structures vary in size.
     i)  This estimate may not be feasible for some plant species with complex reproductive structures, if so it is fine to skip!
 
 ### Continue using the Primary Protocol for each plant
@@ -104,7 +104,7 @@ Continue visiting the randomly selected points until ≥ 30 focal plants and 30 
 
 ## Upload data in HerbVar xlsx datasheet
 
-If you collect data on both leaf damage and reproductive structure damage in the same survey, be sure to include them in the same datasheet xlsx file (Primary Protocol 14.4) that you upload through the HV data portal.
+If you collect data on both leaf damage and reproductive structure damage in the same survey, be sure to include them in the same datasheet xlsx file (@-sec-datasheets) that you upload through the HV data portal.
 
 ## Reproductive Survey Tips
 
