@@ -17,13 +17,13 @@ These links take you to the GitHub repository page that holds each document. Git
 
 Use the links to download datasheets for data collection and/or entry
 
-- [HERBIVORE Datasheet Template (.xlsx) for electronic data entry](https://github.com/HerbVar-Network/herbvar_manual/blob/ad6b9a4362eac2256d1beb23824cc3aa9206d17c/forms/HerbVar_Datasheet_Template.xlsx)
+- [HerbVar XLSX Datasheet for electronic data entry](https://github.com/HerbVar-Network/herbvar_manual/blob/ad6b9a4362eac2256d1beb23824cc3aa9206d17c/forms/HerbVar_Datasheet_Template.xlsx)
 
-- [PRIMARY Datasheet (PDF)](https://github.com/HerbVar-Network/herbvar_manual/blob/ad6b9a4362eac2256d1beb23824cc3aa9206d17c/forms/HV_PRIMARY_Datasheet.pdf)
+- [PRIMARY Datasheet (PDF), printable for use in field](https://github.com/HerbVar-Network/herbvar_manual/blob/ad6b9a4362eac2256d1beb23824cc3aa9206d17c/forms/HV_PRIMARY_Datasheet.pdf)
 
-- [REPRO Datasheet (PDF)](https://github.com/HerbVar-Network/herbvar_manual/blob/ad6b9a4362eac2256d1beb23824cc3aa9206d17c/forms/HV_REPRO_Datasheet.pdf)
+- [REPRO Datasheet (PDF), printable for use in field](https://github.com/HerbVar-Network/herbvar_manual/blob/ad6b9a4362eac2256d1beb23824cc3aa9206d17c/forms/HV_REPRO_Datasheet.pdf)
 
-- [HERBIVORE Datasheet (PDF)](https://github.com/HerbVar-Network/herbvar_manual/blob/ad6b9a4362eac2256d1beb23824cc3aa9206d17c/forms/HV_HERBIVORE_Datasheet.pdf)
+- [HERBIVORE Datasheet (PDF), printable for use in field](https://github.com/HerbVar-Network/herbvar_manual/blob/ad6b9a4362eac2256d1beb23824cc3aa9206d17c/forms/HV_HERBIVORE_Datasheet.pdf)
 
 ## HerbVar Field Guides
 
