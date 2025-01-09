@@ -53,7 +53,7 @@ We are hoping to get broad taxonomic and geographic coverage of damage to reprod
 
 3.  The plants should receive quantifiable damage to reproductive structures, as either percent area removed or a count of structures that are damaged or destroyed (see @sec-repro-structure-dam on reproductive damage types below). Sometimes this damage is obvious (i.e., chewing to flower petals, damage to fleshy fruit tissue) while other times this damage is inconspicuous (i.e., damage to seeds inside fruits). It may be helpful to survey a few plants outside the focal population to look for these different types of damage before starting. Try opening a few fruits to check for internal damage.
 
-If your plant does not meet these requirements, please skip measuring damage to reproductive organs. Or get in touch if you have questions
+If your plant does not meet these requirements, please skip measuring damage to reproductive organs. Or get in touch if you have questions.
 
 ## Select a type of reproductive structure to quantify
 
