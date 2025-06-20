@@ -13,7 +13,7 @@ When writing papers using HerbVar data, authors should attempt to use a consiste
 
 **Herbivory**: Consumption of living plant tissues by animals (i.e. herbivores or omnivores). Many of the HerbVar data on herbivory are about leaf damage done by insects, rather than large mammals; we recommend that authors clarify this at some point in manuscripts.
 
-**Herbivore Damage:** Plant tissue removed or directly injured by herbivore feeding\[NICG2\] . Some authors, especially those focused on agriculture, define damage to mean the growth, fitness, or yield consequences of injury, and reserve injury for the direct consumption effects.
+**Herbivore Damage:** Plant tissue removed or directly injured by herbivore feeding. Some authors, especially those focused on agriculture, define damage to mean the growth, fitness, or yield consequences of injury, and reserve injury for the direct consumption effects.
 
 **Folivory**: Damage to leaves by animals that consume leaves.
 
@@ -55,7 +55,7 @@ The CV is popular, but is problematic when the mean is near 0 or negative (as ca
 
 A strength of the HerbVar dataset is that it contains data for multiple hierarchical scales of organization, from leaves on individual plants, up through populations and species. Patterns in the HerbVar data can be analyzed at multiple scales. Within a manuscript, we recommend people be clear about the scale(s) of analysis, and consistent about which term are used.
 
-**Among-leaf variation**: This is the smallest scale of HerbVar data, the leaves on a single plant individual. This variation can be quantified using metrics such as the Gini coefficient, the variance, the standard deviation, or a CV.  At this scale all of the damage is to a single individual, so it has also been called “**within-plant variation**”.  \[NICG3\] 
+**Among-leaf variation**: This is the smallest scale of HerbVar data, the leaves on a single plant individual. This variation can be quantified using metrics such as the Gini coefficient, the variance, the standard deviation, or a CV.  At this scale all of the damage is to a single individual, so it has also been called “**within-plant variation**”.  
 
 **Among-plant variation**: Each plant has a mean amount of herbivory, which can vary among plants within a population (for most HerbVar data, a population contains 60 individuals). This scale might also be called “**within-population variation”**.
 
