@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "HerbVar Project Manual & Field Protocols",
     "section": "",
-    "text": "Preamble\nThis book is a manual for researchers involved the the HerbVar Project. It includes a checklist for new collaborators, guidelines on accessing, adding, and using project data, tutorials for using the RStudio Project Templates for conducting analyses and preparing manuscripts, protocols for field work, and guides for administering the HerbVar Network resources (e.g., website, data portal).\nThe HerbVar Steering Committee would like to express their appreciation to the following authors of Alternative & Protocols and Guides to Data Collection:\n\nReproductive Damage: Susan Whitehead (Virgina Tech), Phil Hahn (University of Florida), Paul Ode (Colorado State University), Will Wetzel (Montana State University)\nCacti & Succulents: Judie Bronstein (University of Arizona), Victoria Luizzi (University of Arizona)\nTrees: Bastien Castagneyrol (NRAE-UMR BIOGECO), Amy Trowbridge (University of Wisconsin, Madison), Will Wetzel (Montana State University), Moria Robinson (Utah State University)\nEstimating Damage: Ian Pearse (U.S. Geological Survey), Zoe Getman-Pickering (University of Massachusetts, Amherst), Julie Davis (Cornell University), Bastien Castagneyrol (NRAE-UMR BIOGECO), Will Wetzel (Montana State University)\nLow-Density Plants: Danielle Salcido (University of Nevada, Reno), Lee Dyer (University of Nevada, Reno), Will Wetzel (Montana State University)\nRhizomatous Geophytes: Yuval Sapir (Tel Aviv University)\n\nThis material is based upon work supported by the National Science Foundation under Award No. NSF DEB-2203582.\n\n\n\n\n\n\nCitation\n\n\n\nHerbVar Steering Committee (Eds.). 2024. HerbVar: Project Manual and Field protocols (v0.9.0). Zenodo. https://doi.org/10.5281/zenodo.14232308\n\n\n\nThis guide is a Quarto Book hosted on the HerbVar Network’s Github site. Any team member can edit the text, add new sections, or make suggestions for improvement either by pull request or by posting an issue on the HerbVar Manual’s repository. For more information and tutorials for doing so, see 25  Editing the Manual.",
+    "text": "Preamble\nThis book is a manual for researchers involved the the HerbVar Project. It includes a checklist for new collaborators, guidelines on accessing, adding, and using project data, tutorials for using the RStudio Project Templates for conducting analyses and preparing manuscripts, protocols for field work, and guides for administering the HerbVar Network resources (e.g., website, data portal).\nThe HerbVar Steering Committee would like to express their appreciation to the following authors of Alternative & Protocols and Guides to Data Collection:\n\nReproductive Damage: Susan Whitehead (Virgina Tech), Phil Hahn (University of Florida), Paul Ode (Colorado State University), Will Wetzel (Montana State University)\nCacti & Succulents: Judie Bronstein (University of Arizona), Victoria Luizzi (University of Arizona)\nTrees: Bastien Castagneyrol (NRAE-UMR BIOGECO), Amy Trowbridge (University of Wisconsin, Madison), Will Wetzel (Montana State University), Moria Robinson (Utah State University)\nEstimating Damage: Ian Pearse (U.S. Geological Survey), Zoe Getman-Pickering (University of Massachusetts, Amherst), Julie Davis (Cornell University), Bastien Castagneyrol (NRAE-UMR BIOGECO), Will Wetzel (Montana State University)\nLow-Density Plants: Danielle Salcido (University of Nevada, Reno), Lee Dyer (University of Nevada, Reno), Will Wetzel (Montana State University)\nRhizomatous Geophytes: Yuval Sapir (Tel Aviv University)\n\nThis material is based upon work supported by the National Science Foundation under Award No. NSF DEB-2203582.\n\n\n\n\n\n\nCitation\n\n\n\nHerbVar Steering Committee (Eds.). 2024. HerbVar: Project Manual and Field protocols (v0.9.0). Zenodo. https://doi.org/10.5281/zenodo.14232308\n\n\n\nThis guide is a Quarto Book hosted on the HerbVar Network’s Github site. Any team member can edit the text, add new sections, or make suggestions for improvement either by pull request or by posting an issue on the HerbVar Manual’s repository. For more information and tutorials for doing so, see 26  Editing the Manual.",
     "crumbs": [
       "Preamble"
     ]
@@ -1125,7 +1125,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Boland, M. R., K. J. Karczewski, and N. P. Tatonetti. 2017. Ten\nSimple Rules to Enable\nMulti-site Collaborations through\nData Sharing. PLOS Computational Biology\n13:e1005278.\n\n\nBraga, P. H. P., K. Hébert, E. J. Hudgins, E. R. Scott, B. P. M.\nEdwards, L. L. Sánchez Reyes, M. J. Grainger, V. Foroughirad, F.\nHillemann, A. D. Binley, C. B. Brookson, K. M. Gaynor, S. Shafiei Sabet,\nA. Güncan, H. Weierbach, D. G. E. Gomes, and R. Crystal-Ornelas. 2023.\nNot just for\nprogrammers: How GitHub can accelerate\ncollaborative and reproducible research in ecology and evolution.\nMethods in Ecology and Evolution 14:1364–1380.\n\n\nChampieux, R., A. Solomonides, M. Conte, S. Rojevsky, J. Phuong, D. A.\nDorr, E. Zampino, A. Wilcox, M. B. Carson, and K. Holmes. 2023. Ten simple rules for\norganizations to support research data sharing. PLOS Computational\nBiology 19:e1011136.\n\n\nGoodman, A., A. Pepe, A. W. Blocker, C. L. Borgman, K. Cranmer, M.\nCrosas, R. D. Stefano, Y. Gil, P. Groth, M. Hedstrom, D. W. Hogg, V.\nKashyap, A. Mahabal, A. Siemiginowska, and A. Slavkovic. 2014. Ten\nSimple Rules for the Care and\nFeeding of Scientific Data.\nPLOS Computational Biology 10:e1003542.\n\n\nHarper, J. L. 1977. Population biology of plants. Academic Press.\n\n\nJohnson, M. T. J., J. A. Bertrand, and M. M. Turcotte. 2016. Precision and accuracy in\nquantifying herbivory. Ecological Entomology 41:112–121.\n\n\nKim, A. Y., V. Herrmann, R. Barreto, B. Calkins, E. Gonzalez-Akre, D. J.\nJohnson, J. A. Jordan, L. Magee, I. R. McGregor, N. Montero, K. Novak,\nT. Rogers, J. Shue, and K. J. Anderson-Teixeira. 2022. Implementing\nGitHub Actions continuous integration to\nreduce error rates in ecological data collection. Methods in Ecology\nand Evolution 13:2572–2585.\n\n\nSapir, Y., and A. Shmida. 2002. Species concepts and\necogeographical divergence of Oncocyclus irises. Israel\nJournal of Plant Sciences 50:119–127.\n\n\nVallejo-Marín, M., M. E. Dorken, and S. C. H. Barrett. 2010. The\nEcological and Evolutionary\nConsequences of Clonality for\nPlant Mating. Annual Review of Ecology,\nEvolution, and Systematics 41:193–213.\n\n\nWilson, C. A., J. Padiernos, and Y. Sapir. 2016. The royal irises\n(Iris subg. Iris sect.\nOncocyclus): Plastid and low-copy nuclea data\ncontribute to an understanding of their phylogenetic relationships.\nTaxon 65:35–46.\n\n\nYenni, G. M., E. M. Christensen, E. K. Bledsoe, S. R. Supp, R. M. Diaz,\nE. P. White, and S. K. M. Ernest. 2019. Developing a modern\ndata workflow for regularly updated data. PLOS Biology 17:e3000125.",
+    "text": "Boland, M. R., K. J. Karczewski, and N. P. Tatonetti. 2017. Ten\nSimple Rules to Enable\nMulti-site Collaborations through\nData Sharing. PLOS Computational Biology\n13:e1005278.\n\n\nBraga, P. H. P., K. Hébert, E. J. Hudgins, E. R. Scott, B. P. M.\nEdwards, L. L. Sánchez Reyes, M. J. Grainger, V. Foroughirad, F.\nHillemann, A. D. Binley, C. B. Brookson, K. M. Gaynor, S. Shafiei Sabet,\nA. Güncan, H. Weierbach, D. G. E. Gomes, and R. Crystal-Ornelas. 2023.\nNot just for\nprogrammers: How GitHub can accelerate\ncollaborative and reproducible research in ecology and evolution.\nMethods in Ecology and Evolution 14:1364–1380.\n\n\nChampieux, R., A. Solomonides, M. Conte, S. Rojevsky, J. Phuong, D. A.\nDorr, E. Zampino, A. Wilcox, M. B. Carson, and K. Holmes. 2023. Ten simple rules for\norganizations to support research data sharing. PLOS Computational\nBiology 19:e1011136.\n\n\nGoodman, A., A. Pepe, A. W. Blocker, C. L. Borgman, K. Cranmer, M.\nCrosas, R. D. Stefano, Y. Gil, P. Groth, M. Hedstrom, D. W. Hogg, V.\nKashyap, A. Mahabal, A. Siemiginowska, and A. Slavkovic. 2014. Ten\nSimple Rules for the Care and\nFeeding of Scientific Data.\nPLOS Computational Biology 10:e1003542.\n\n\nHarper, J. L. 1977. Population biology of plants. Academic Press.\n\n\nJohnson, M. T. J., J. A. Bertrand, and M. M. Turcotte. 2016. Precision and accuracy in\nquantifying herbivory. Ecological Entomology 41:112–121.\n\n\nKim, A. Y., V. Herrmann, R. Barreto, B. Calkins, E. Gonzalez-Akre, D. J.\nJohnson, J. A. Jordan, L. Magee, I. R. McGregor, N. Montero, K. Novak,\nT. Rogers, J. Shue, and K. J. Anderson-Teixeira. 2022. Implementing\nGitHub Actions continuous integration to\nreduce error rates in ecological data collection. Methods in Ecology\nand Evolution 13:2572–2585.\n\n\nKvålseth, T. O. 2017. An alternative\nmeasure of ordinal association as a value-validity correction of the\nGoodman–Kruskal gamma. Communications in\nStatistics - Theory and Methods 46:10582–10593.\n\n\nLobry, J. R., M.-C. Bel-Venner, M. Bogdziewicz, A. Hacket-Pain, and S.\nVenner. 2023. The\nCV is dead, long live the CV! Methods in\nEcology and Evolution 14:2780–2786.\n\n\nPearson, K. 1897. Mathematical contributions\nto the theory of evolution.—On a form of spurious\ncorrelation which may arise when indices are used in the measurement of\norgans. Proceedings of the Royal Society of London 60:489–498.\n\n\nSapir, Y., and A. Shmida. 2002. Species concepts and\necogeographical divergence of Oncocyclus irises. Israel\nJournal of Plant Sciences 50:119–127.\n\n\nVallejo-Marín, M., M. E. Dorken, and S. C. H. Barrett. 2010. The\nEcological and Evolutionary\nConsequences of Clonality for\nPlant Mating. Annual Review of Ecology,\nEvolution, and Systematics 41:193–213.\n\n\nWetzel, W. C., B. D. Inouye, P. G. Hahn, S. R. Whitehead, and N.\nUnderwood. 2023. Variability\nin Plant–Herbivore\nInteractions. Annual Review of Ecology, Evolution, and\nSystematics 54:451–474.\n\n\nWilson, C. A., J. Padiernos, and Y. Sapir. 2016. The royal irises\n(Iris subg. Iris sect.\nOncocyclus): Plastid and low-copy nuclea data\ncontribute to an understanding of their phylogenetic relationships.\nTaxon 65:35–46.\n\n\nYenni, G. M., E. M. Christensen, E. K. Bledsoe, S. R. Supp, R. M. Diaz,\nE. P. White, and S. K. M. Ernest. 2019. Developing a modern\ndata workflow for regularly updated data. PLOS Biology 17:e3000125.",
     "crumbs": [
       "References"
     ]
@@ -1208,311 +1208,344 @@
     ]
   },
   {
+    "objectID": "forms/glossary.html",
+    "href": "forms/glossary.html",
+    "title": "24  HerbVar Glossary",
+    "section": "",
+    "text": "24.1 About HerbVar data\nWhen writing papers using HerbVar data, authors should attempt to use a consistent set of definitions and terms, which can facilitate comparisons of patterns across studies. If one person’s “among-leaf variation” is the same as another person’s “within-plant variation”, this simple mis-match in terminology will hinder communication. The constellation of terms related to variance, variability, and variation can also be source of confusion. We have assembled a set of terms that might commonly be used in HerbVar manuscripts and grants. Many of the terms related to “distributional thinking” are defined in Wetzel et al. (2023) and we recommend referring to that paper for more detailed discussion.\nHerbivory: Consumption of living plant tissues by animals (i.e. herbivores or omnivores). Many of the HerbVar data on herbivory are about leaf damage done by insects, rather than large mammals; we recommend that authors clarify this at some point in manuscripts.\nHerbivore Damage: Plant tissue removed or directly injured by herbivore feeding[NICG2] . Some authors, especially those focused on agriculture, define damage to mean the growth, fitness, or yield consequences of injury, and reserve injury for the direct consumption effects.\nFolivory: Damage to leaves by animals that consume leaves.\nFrugivory: Damage to fruits by animals that consume fruits.\nReproductive damage: Damage on any reproductive structure, including flowers, fruits, and seeds.",
+    "crumbs": [
+      "Appendix 1: Forms & Checklists",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>HerbVar Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "forms/glossary.html#distributional-thinking",
+    "href": "forms/glossary.html#distributional-thinking",
+    "title": "24  HerbVar Glossary",
+    "section": "24.2 Distributional thinking",
+    "text": "24.2 Distributional thinking\nVariability: The propensity for a process to produce different outcomes. Variability is a feature of underlying processes, whereas variation is a feature of an observed pattern (i.e., data). Well-known drivers of interaction variability in ecology include organismal plasticity, demographic stochasticity, and population dynamics; these factors and more combine to create an underlying probability distribution for a given interaction. When it is not possible to measure repeated outcomes, it may not be possible to measure variability directly.\nVariation: The magnitude of differences among units in a system. Variability is a feature of underlying processes, whereas variation is a feature of an observed pattern (i.e., data).\nVariance and standard deviation: A common way to quantify variation, the average squared deviation from the mean (or sum of squared deviations divided by (n-1) for samples from populations). Note that the units of the variance are squared, so it is common to work with the square root of the variance, which is the standard deviation.\nCoefficient of Variation (CV): The standard deviation divided by the mean. Many data-generating processes result in larger variances when means are larger (e.g., for Poisson processes the variance and mean are equal, by definition). Dividing the standard deviation by the mean helps to “correct” for this relationship, and results in a unitless number so that the CVs can be compared among any data, regardless of the original data units (leaves, area, height, etc.).\n\n\n\n\n\n\nImportant consideration regarding the CV\n\n\n\nThe CV is popular, but is problematic when the mean is near 0 or negative (as can happen if data can take negative values as well as positive ones), or the variance is extremely large. A recently proposed alternative is bounded by 0 and 1 and is based on second-order distributional moments. It was proposed by Kvålseth (2017), thus is indicated by KCV, whereas the traditional CV is indicated here by PCV as it was first proposed by Pearson (1897). They are related by Lobry et al. (2023).\n\n\nGini Coefficient: The Gini Coefficient is a measure of inequality, rather than variance. It is bounded by 0 and 1, where 0 indicates a perfectly even distribution of a total amount among all individuals, and 1 indicates a perfectly unequal distribution of the total among individuals (all of the total belongs to one individual). Note that because the Gini is defined by a distribution of a total amount, it does not depend on the mean amount per individual.\nMedian Absolute Difference: The median of the absolute values of the differences between each value and the overall median. This is an alternative to the standard deviation that does not rely on squared values. It is less sensitive than the standard deviation to extreme values.\nMean Absolute Difference: The mean of the absolute values of the differences between each value and the overall mean. Like the median absolute difference, this metric is less sensitive than the standard deviation to large deviations.\nRelative Mean Absolute Difference: The mean absolute difference divided by the arithmetic mean. Like the coefficient of variation (CV), this metric relativizes the mean absolute difference by the mean so that the dispersion of populations with different means can be compared. Like the CV, it is a unitless number. The relative mean absolute difference is equivalent to two times the Gini coefficient.\nSkewness: A measure of the asymmetry of a distribution. A symmetric distribution, with the same shape of distribution tail in both directions, has a skew of zero. A positive skew indicates a longer tail toward higher values (the median is to the left of the mean). A negative skew indicates a longer tail to the left. In R, the ‘sn’ package can be useful for working with ‘skew-Normal’ distributions, extensions of Normal (Gaussian) distributions.\nKurtosis: A measure of the thickness (“fatness”) of a distribution’s “tails”. When a distribution’s tails are thicker, data are more likely to have a high variance and contain larger outliers.",
+    "crumbs": [
+      "Appendix 1: Forms & Checklists",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>HerbVar Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "forms/glossary.html#terms-specific-to-the-herbvar-data",
+    "href": "forms/glossary.html#terms-specific-to-the-herbvar-data",
+    "title": "24  HerbVar Glossary",
+    "section": "24.3 Terms specific to the HerbVar data",
+    "text": "24.3 Terms specific to the HerbVar data\nA strength of the HerbVar dataset is that it contains data for multiple hierarchical scales of organization, from leaves on individual plants, up through populations and species. Patterns in the HerbVar data can be analyzed at multiple scales. Within a manuscript, we recommend people be clear about the scale(s) of analysis, and consistent about which term are used.\nAmong-leaf variation: This is the smallest scale of HerbVar data, the leaves on a single plant individual. This variation can be quantified using metrics such as the Gini coefficient, the variance, the standard deviation, or a CV. At this scale all of the damage is to a single individual, so it has also been called “within-plant variation”. [NICG3]\nAmong-plant variation: Each plant has a mean amount of herbivory, which can vary among plants within a population (for most HerbVar data, a population contains 60 individuals). This scale might also be called “within-population variation”.\nAmong-population variation: For some plant species, participants have contributed data from different populations. For focal species, the HerbVar data include many populations from multiple continents. Each population has a mean amount of herbivory, also known as “within-species” variation. Comparisons among populations are facilitated by having the same sample size for each population.\nAmong-species variation: For studies looking across species within a family, or at any larger phylogenetic context, one could compare species-level mean amounts of herbivory. This idea can be transferred to higher phylogenetic levels by looking at among-family variation, or to environmental scales of organization by looking at among-habitat variation or among-biome variation.\n\n\n\n\n\nKvålseth, T. O. 2017. An alternative measure of ordinal association as a value-validity correction of the Goodman–Kruskal gamma. Communications in Statistics - Theory and Methods 46:10582–10593.\n\n\nLobry, J. R., M.-C. Bel-Venner, M. Bogdziewicz, A. Hacket-Pain, and S. Venner. 2023. The CV is dead, long live the CV! Methods in Ecology and Evolution 14:2780–2786.\n\n\nPearson, K. 1897. Mathematical contributions to the theory of evolution.—On a form of spurious correlation which may arise when indices are used in the measurement of organs. Proceedings of the Royal Society of London 60:489–498.\n\n\nWetzel, W. C., B. D. Inouye, P. G. Hahn, S. R. Whitehead, and N. Underwood. 2023. Variability in Plant–Herbivore Interactions. Annual Review of Ecology, Evolution, and Systematics 54:451–474.",
+    "crumbs": [
+      "Appendix 1: Forms & Checklists",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>HerbVar Glossary</span>"
+    ]
+  },
+  {
     "objectID": "admin/potential_collaborators.html",
     "href": "admin/potential_collaborators.html",
-    "title": "24  Potential Collaborators",
+    "title": "25  Potential Collaborators",
     "section": "",
     "text": "Potential collaborators typically email either Will or the HerbVar Admin gmail address. If they contact Will, he replies thanking them for their interest and forwards the email to you for follow-up. These are the steps for handling new expressions of interest in collaborating:\n\nReply with the first email template (of 2) for prospective new members. Be sure to cc Will.\nThey respond and say:\na. they’re not interested/have issues with the expectations. Send them over to Will and stay on top of the email chain between them so you can know how he handled it. This hasn’t happened, but in theory it could.\nb. They say that sounds fine and they’re still interested\n\nAdd them to the Collaborator Contact Information file\nAdd them as a “Contributor” to the HerbVar Shared Drive\nRespond with the second email template (of 2)\n\n\nIt is important you send the email after doing the steps i and ii because the email template includes links that assumes (1) you have entered preliminary information into the collaborator contact info file and (2) they have access to everything in the HerbVar Shared Drive. Note also that the second email template contains an onboarding document that you may need to update going forward as onboarding needs evolve.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Potential Collaborators</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Potential Collaborators</span>"
     ]
   },
   {
     "objectID": "admin/manual.html",
     "href": "admin/manual.html",
-    "title": "25  Editing the Manual",
+    "title": "26  Editing the Manual",
     "section": "",
-    "text": "25.1 Overview\nThis guide is a Quarto Book hosted on the HerbVar Network’s Github site. Any HerbVar member can edit the manual, add new sections, or make suggestions for improvement either via pull request, posting an issue on the HerbVar Manual’s repository, or editing the manual directly.",
+    "text": "26.1 Overview\nThis guide is a Quarto Book hosted on the HerbVar Network’s Github site. Any HerbVar member can edit the manual, add new sections, or make suggestions for improvement either via pull request, posting an issue on the HerbVar Manual’s repository, or editing the manual directly.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Editing the Manual</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Editing the Manual</span>"
     ]
   },
   {
     "objectID": "admin/manual.html#how-to-edit-the-manual",
     "href": "admin/manual.html#how-to-edit-the-manual",
-    "title": "25  Editing the Manual",
-    "section": "25.2 How to Edit the Manual",
-    "text": "25.2 How to Edit the Manual\n\n25.2.1 Getting Started\nQuarto is the next-generation of R Markdown. Like R Markdown it allows for rendering files in multiple formats (.pdf,.docx., .html) and it can be used to make websites, reports, and presentations, but it has the advantage of being able to run embeded code chunks in multiple languages (e.g., R, Python) and allowing users to execute code (i.e., for demonstrations) in the rendered quarto file. Users of Markdown / R Markown will recognize the structure and format of quarto files (.qmd), and the content of R Markdown files can be executed in .qmd files.\n\n\n\n\n\n\nTip\n\n\n\nA tutorial on getting started with Quarto and RStudio can be found here. Posit (née ‘R Studio’) has also prepared an excellent Quarto Cheatsheet that will prove very helpful.\n\n\nTo edit the manual you will need a Github account and RStudio. The process for editing the Manual is:\n\nInstall the quarto package\nFork the Herbvar Manual’s Repository and clone it into your personal Github\nEdit files (or create a new ones)\nCommit and push the changes\nSubmit a pull request with your suggested edits\n\nStep 1. Open R Studio and install the quarto package using either the ‘install’ button on Rstudio or by executing the following command.\n\n\nfrom the R Studio Command Line\n\ninstall.packages(\"quarto\")\n\nStep 2. Fork the repository for the HerbVar Manual [repo link] from the HerbVar Organization Github into your personal Github account (tutorials here and here).\nStep 3: Edit files (or create a new ones). You can format your text using markdown syntax (see this cheetsheet), but if you would prefer to edit text and simply leave formatting notes (e.g., “bold this”, species names in italics”) that’s fine too.\nStep 4: Commit and push the changes using RStudio (or the command line if you feel the need to flex).\nStep 5: Submit a pull request so the Manual’s ‘Administrators’ can review and incorporate your suggested edits. (tutorials: how to submit a pull request from a forked repo here, general introduction here and here.)",
+    "title": "26  Editing the Manual",
+    "section": "26.2 How to Edit the Manual",
+    "text": "26.2 How to Edit the Manual\n\n26.2.1 Getting Started\nQuarto is the next-generation of R Markdown. Like R Markdown it allows for rendering files in multiple formats (.pdf,.docx., .html) and it can be used to make websites, reports, and presentations, but it has the advantage of being able to run embeded code chunks in multiple languages (e.g., R, Python) and allowing users to execute code (i.e., for demonstrations) in the rendered quarto file. Users of Markdown / R Markown will recognize the structure and format of quarto files (.qmd), and the content of R Markdown files can be executed in .qmd files.\n\n\n\n\n\n\nTip\n\n\n\nA tutorial on getting started with Quarto and RStudio can be found here. Posit (née ‘R Studio’) has also prepared an excellent Quarto Cheatsheet that will prove very helpful.\n\n\nTo edit the manual you will need a Github account and RStudio. The process for editing the Manual is:\n\nInstall the quarto package\nFork the Herbvar Manual’s Repository and clone it into your personal Github\nEdit files (or create a new ones)\nCommit and push the changes\nSubmit a pull request with your suggested edits\n\nStep 1. Open R Studio and install the quarto package using either the ‘install’ button on Rstudio or by executing the following command.\n\n\nfrom the R Studio Command Line\n\ninstall.packages(\"quarto\")\n\nStep 2. Fork the repository for the HerbVar Manual [repo link] from the HerbVar Organization Github into your personal Github account (tutorials here and here).\nStep 3: Edit files (or create a new ones). You can format your text using markdown syntax (see this cheetsheet), but if you would prefer to edit text and simply leave formatting notes (e.g., “bold this”, species names in italics”) that’s fine too.\nStep 4: Commit and push the changes using RStudio (or the command line if you feel the need to flex).\nStep 5: Submit a pull request so the Manual’s ‘Administrators’ can review and incorporate your suggested edits. (tutorials: how to submit a pull request from a forked repo here, general introduction here and here.)",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Editing the Manual</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Editing the Manual</span>"
     ]
   },
   {
     "objectID": "admin/manual.html#publishing-the-manual-admins-only",
     "href": "admin/manual.html#publishing-the-manual-admins-only",
-    "title": "25  Editing the Manual",
-    "section": "25.3 Publishing the Manual (Admins Only)",
-    "text": "25.3 Publishing the Manual (Admins Only)\nThe admins of the repo can publish the book in HTML (to a Github pages site) and as a pdf (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see here):\n\nRender sites on their local machine to the docs directory, check the rendered site into GitHub, and then configure the GitHub repo to publish from the docs directory.\nRender on their local machine and then use the quarto publish command to publish content rendered on the local machine.\nUse a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change (e.g., any edit of the manual) is pushed to the repository.\n\nWe are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github. However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: (1) Use the quarto render command from the Terminal to render all output formats (the output of your book will be written to the _book sub-directory of your book project), then (2) use the quarto publish gh-pages command to publish the locally rendered content online (more detailed instructions can be found here).\nRendering the manual:\n\n\nfrom the Terminal\n\nquarto render\n\nNote that if you pass no arguments to quarto render as above, all formats will be rendered. You can instead render individual formats via the –to argument:\n\n\nfrom the Terminal\n\n\nquarto render           # render all formats\nquarto render --to pdf  # render PDF format only\n\nPublishing the manual:\n\n\nfrom the Terminal\n\nquarto publish gh-pages",
+    "title": "26  Editing the Manual",
+    "section": "26.3 Publishing the Manual (Admins Only)",
+    "text": "26.3 Publishing the Manual (Admins Only)\nThe admins of the repo can publish the book in HTML (to a Github pages site) and as a pdf (on the repo). There are three ways for a Admin to publish Quarto documents to GitHub Pages(see here):\n\nRender sites on their local machine to the docs directory, check the rendered site into GitHub, and then configure the GitHub repo to publish from the docs directory.\nRender on their local machine and then use the quarto publish command to publish content rendered on the local machine.\nUse a GitHub Action to automatically render files (a single Quarto document or a Quarto project) and publish the resulting content whenever a source code change (e.g., any edit of the manual) is pushed to the repository.\n\nWe are currently using Github Actions to automatically render and publish any time a change to the manual is committed and pushed to Github. However, if there is ever an issue with gh-action, or if you want to try the manual way of rendering/publishing, you can do the following: (1) Use the quarto render command from the Terminal to render all output formats (the output of your book will be written to the _book sub-directory of your book project), then (2) use the quarto publish gh-pages command to publish the locally rendered content online (more detailed instructions can be found here).\nRendering the manual:\n\n\nfrom the Terminal\n\nquarto render\n\nNote that if you pass no arguments to quarto render as above, all formats will be rendered. You can instead render individual formats via the –to argument:\n\n\nfrom the Terminal\n\n\nquarto render           # render all formats\nquarto render --to pdf  # render PDF format only\n\nPublishing the manual:\n\n\nfrom the Terminal\n\nquarto publish gh-pages",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Editing the Manual</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Editing the Manual</span>"
     ]
   },
   {
     "objectID": "admin/website.html",
     "href": "admin/website.html",
-    "title": "26  Editing the Website",
+    "title": "27  Editing the Website",
     "section": "",
-    "text": "26.1 Github Access",
+    "text": "27.1 Github Access",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Editing the Website</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Editing the Website</span>"
     ]
   },
   {
     "objectID": "admin/website.html#github-access",
     "href": "admin/website.html#github-access",
-    "title": "26  Editing the Website",
+    "title": "27  Editing the Website",
     "section": "",
     "text": "The HerbVar website has been created in R. Ask to be added as a collaborator on this repository.\nFork the website’s repository to your computer. Nick Lyon initially forked the repository so that pushes would be preserved as “pull requests” and could be reviewed by Will before actually changing the website on the internet, but this may be unnecessary depending on your comfort with this type of coding.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Editing the Website</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Editing the Website</span>"
     ]
   },
   {
     "objectID": "admin/website.html#making-edits",
     "href": "admin/website.html#making-edits",
-    "title": "26  Editing the Website",
-    "section": "26.2 Making Edits",
-    "text": "26.2 Making Edits\nMake whatever changes are asked for or required. Each page of the website is saved as a separate .Rmd file and file names mostly correspond to website tab names so it should be relatively easy to identify which script(s) needs to be changed and implement those edits. The existing scripts also include plenty of examples of heading formatting, font changes, and hyperlinks so use the existing pages to teach yourself how to do things you don’t already know how to do.",
+    "title": "27  Editing the Website",
+    "section": "27.2 Making Edits",
+    "text": "27.2 Making Edits\nMake whatever changes are asked for or required. Each page of the website is saved as a separate .Rmd file and file names mostly correspond to website tab names so it should be relatively easy to identify which script(s) needs to be changed and implement those edits. The existing scripts also include plenty of examples of heading formatting, font changes, and hyperlinks so use the existing pages to teach yourself how to do things you don’t already know how to do.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Editing the Website</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Editing the Website</span>"
     ]
   },
   {
     "objectID": "admin/website.html#rebuilding-the-website",
     "href": "admin/website.html#rebuilding-the-website",
-    "title": "26  Editing the Website",
-    "section": "26.3 Rebuilding the Website",
-    "text": "26.3 Rebuilding the Website\n\nOnce you’ve made the edits, go to the “Build” tab on R Studio and click “Build Website”. This will take several minutes to process (there will be a running list of code as it processes through each .Rmd file) so feel free to grab a cup of coffee as this processes.\nOnce it completes, it will create a new tab and will pop up the new website in your browser but you are not yet done!\nOnce that is done, in the Git tab of R Studio, select all modified files (not just the scripts!) and commit/push them all.\nBuilding the website may affect a lot of files in the “libs” folder deep in your system (you can tell how savvy I am about this, huh?) and these changes must also be included in the push for the website to successfully update.\nOnce you’ve pushed these changes (and if you’re working in a fork, Will has accepted your pull request) the website on the internet should update within 10-15 minutes so double check your work after roughly that amount of time has passed.",
+    "title": "27  Editing the Website",
+    "section": "27.3 Rebuilding the Website",
+    "text": "27.3 Rebuilding the Website\n\nOnce you’ve made the edits, go to the “Build” tab on R Studio and click “Build Website”. This will take several minutes to process (there will be a running list of code as it processes through each .Rmd file) so feel free to grab a cup of coffee as this processes.\nOnce it completes, it will create a new tab and will pop up the new website in your browser but you are not yet done!\nOnce that is done, in the Git tab of R Studio, select all modified files (not just the scripts!) and commit/push them all.\nBuilding the website may affect a lot of files in the “libs” folder deep in your system (you can tell how savvy I am about this, huh?) and these changes must also be included in the push for the website to successfully update.\nOnce you’ve pushed these changes (and if you’re working in a fork, Will has accepted your pull request) the website on the internet should update within 10-15 minutes so double check your work after roughly that amount of time has passed.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Editing the Website</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Editing the Website</span>"
     ]
   },
   {
     "objectID": "admin/data_portal.html",
     "href": "admin/data_portal.html",
-    "title": "27  Data Portal",
+    "title": "28  Data Portal",
     "section": "",
-    "text": "27.1 Your Job After Someone Submits Data via the Portal\nThe data portal link is the preferred method for data submission for (at least phase 2). It is written in R Shiny and is built for the phase 2 template Excel file but will work (with some warnings) for the phase 1 Excel template. This is what you need to know to change and/or troubleshoot the app.\nThe data portal puts submitted data in the “App Uploads - Phase 2” folder. The portal would be self-sufficient but I have added a step to require human involvement that I’ll describe here.",
+    "text": "28.1 Your Job After Someone Submits Data via the Portal\nThe data portal link is the preferred method for data submission for (at least phase 2). It is written in R Shiny and is built for the phase 2 template Excel file but will work (with some warnings) for the phase 1 Excel template. This is what you need to know to change and/or troubleshoot the app.\nThe data portal puts submitted data in the “App Uploads - Phase 2” folder. The portal would be self-sufficient but I have added a step to require human involvement that I’ll describe here.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Data Portal</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Data Portal</span>"
     ]
   },
   {
     "objectID": "admin/data_portal.html#your-job-after-someone-submits-data-via-the-portal",
     "href": "admin/data_portal.html#your-job-after-someone-submits-data-via-the-portal",
-    "title": "27  Data Portal",
+    "title": "28  Data Portal",
     "section": "",
     "text": "You need to move all files from that folder to the “Phase II Raw Data” folder\nAll phase 2 wrangling scripts will download raw data from that latter folder\n\nI’ve set up all of the wrangling scripts to download raw data in an if() else{} framework that will print a message reminding you to move the data out of the app upload folder if you ever forget to/don’t see that new data have been uploaded\n\nThat’s it! The data wrangling scripts will work without issue now that you’ve moved the files to the correct folder",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Data Portal</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Data Portal</span>"
     ]
   },
   {
     "objectID": "admin/data_portal.html#updating-the-portal",
     "href": "admin/data_portal.html#updating-the-portal",
-    "title": "27  Data Portal",
-    "section": "27.2 Updating the Portal",
-    "text": "27.2 Updating the Portal\nIt may become necessary to edit the portal, especially if a user emails you indicating they had a problem and it seems like that problem is inside of the app rather than (not to be mean) user error.\n\nAll of the portal code is in the “Data-Portal” GitHub repository\n\nThe script from which the portal is created is called “app. R” and is the only file in the folder “Data Portal Actual”\nYou will also need the “deployment-faq. R” script in the “Support Scripts” folder in order to deploy the app after you have made/tested any changes to the portal’s code. i. If it is of interest, the “Support Scripts” folder also includes my (Nick’s) incremental forays into the world of Shiny so you can see the first through eighth versions of the portal before getting to a version that was deployed.\n\nBefore changing the portal I strongly recommend asking the user who pointed out the issue for a screenshot of how they’ve filled the app out immediately before the error\n\nThe error is almost always (or at least has usually been) something to do with how the user filled out the app or attached their data. If that is the case, you may need only point that out to them (in a polite way) and go about your day\nAlso, the only time the app can break is when they click the “Submit Data” button. Prior to that, the app is not actually trying to do anything, so any app-breaking user error will not be apparent to them until they click that button\nHOWEVER, some users who experience an issue actually create a larger error that will prevent them from uploading their data even after you point the app key issue out to them. To handle such cases, see the next subsection. The importance of this is also noted in part d of the next bullet 3. To change the data portal do the following:\n\n\nFirst, modify the app. R script as desired. Note that every Shiny App consists of three components: (1) the user interface, (2) the server that includes all the internal mechanisms for the portal, and (3) a ShinyApp() call that combines the UI and server.\n\n\nIf the app is not working, it will likely be in the server component\nIf the app doesn’t look right but does function appropriately, modify the UI\nIf the app does not collect some information that it should, you will need to change both the UI and server\nThe ShinyApp call at the end never needs to be modified so don’t worry about that bit\n\n\nSecond, test the app on your computer by running the app\n\n\nIn R Studio, the top right of the R script panel containing a ShinyApp has a “Run App” button to the right of a green ‘play’ button\nPushing this button will create a local version of the portal that functions as the app will but does not deploy to the internet (yet).\nI recommend submitting a test data file (see the folder of the same name for pre-built phase 2 data that you can use) from start to finish to ensure that everything works as desired.\n\n\nThird, once you are satisfied with your changes, you can deploy the app to replace the old publicly-available version on the internet!\n\n\nIn the “deployment-faq. R” script, you will load the “rsconnect” library (line 12) and then use it to redeploy the app (line 18)\nRunning the deployApp function will prompt you in the console to type a “Y” if you’re sure that you want to re-deploy the app\nAfter you type “Y” and hit return in the console, it will build your new portal, terminate the old one, replace the old with the new, and then activate the new one for all users\nYou’ll know this is done when R automatically kicks you to a new tab in your web browser with the new portal open\n\nFourth, and this is crucial, if your changes to the app were because a user was having issues, you need to delete any files they successfully submitted\n\nSee the next sub-section for information on how to do this/why it needs to be done\n\nFinally, notify the user that initially contacted you letting them know that you have resolved the issue on your end, thanking them for bringing it to your attention, and inviting them to reach out again if it still isn’t working for them",
+    "title": "28  Data Portal",
+    "section": "28.2 Updating the Portal",
+    "text": "28.2 Updating the Portal\nIt may become necessary to edit the portal, especially if a user emails you indicating they had a problem and it seems like that problem is inside of the app rather than (not to be mean) user error.\n\nAll of the portal code is in the “Data-Portal” GitHub repository\n\nThe script from which the portal is created is called “app. R” and is the only file in the folder “Data Portal Actual”\nYou will also need the “deployment-faq. R” script in the “Support Scripts” folder in order to deploy the app after you have made/tested any changes to the portal’s code. i. If it is of interest, the “Support Scripts” folder also includes my (Nick’s) incremental forays into the world of Shiny so you can see the first through eighth versions of the portal before getting to a version that was deployed.\n\nBefore changing the portal I strongly recommend asking the user who pointed out the issue for a screenshot of how they’ve filled the app out immediately before the error\n\nThe error is almost always (or at least has usually been) something to do with how the user filled out the app or attached their data. If that is the case, you may need only point that out to them (in a polite way) and go about your day\nAlso, the only time the app can break is when they click the “Submit Data” button. Prior to that, the app is not actually trying to do anything, so any app-breaking user error will not be apparent to them until they click that button\nHOWEVER, some users who experience an issue actually create a larger error that will prevent them from uploading their data even after you point the app key issue out to them. To handle such cases, see the next subsection. The importance of this is also noted in part d of the next bullet 3. To change the data portal do the following:\n\n\nFirst, modify the app. R script as desired. Note that every Shiny App consists of three components: (1) the user interface, (2) the server that includes all the internal mechanisms for the portal, and (3) a ShinyApp() call that combines the UI and server.\n\n\nIf the app is not working, it will likely be in the server component\nIf the app doesn’t look right but does function appropriately, modify the UI\nIf the app does not collect some information that it should, you will need to change both the UI and server\nThe ShinyApp call at the end never needs to be modified so don’t worry about that bit\n\n\nSecond, test the app on your computer by running the app\n\n\nIn R Studio, the top right of the R script panel containing a ShinyApp has a “Run App” button to the right of a green ‘play’ button\nPushing this button will create a local version of the portal that functions as the app will but does not deploy to the internet (yet).\nI recommend submitting a test data file (see the folder of the same name for pre-built phase 2 data that you can use) from start to finish to ensure that everything works as desired.\n\n\nThird, once you are satisfied with your changes, you can deploy the app to replace the old publicly-available version on the internet!\n\n\nIn the “deployment-faq. R” script, you will load the “rsconnect” library (line 12) and then use it to redeploy the app (line 18)\nRunning the deployApp function will prompt you in the console to type a “Y” if you’re sure that you want to re-deploy the app\nAfter you type “Y” and hit return in the console, it will build your new portal, terminate the old one, replace the old with the new, and then activate the new one for all users\nYou’ll know this is done when R automatically kicks you to a new tab in your web browser with the new portal open\n\nFourth, and this is crucial, if your changes to the app were because a user was having issues, you need to delete any files they successfully submitted\n\nSee the next sub-section for information on how to do this/why it needs to be done\n\nFinally, notify the user that initially contacted you letting them know that you have resolved the issue on your end, thanking them for bringing it to your attention, and inviting them to reach out again if it still isn’t working for them",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Data Portal</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Data Portal</span>"
     ]
   },
   {
     "objectID": "admin/data_portal.html#deleting-old-data",
     "href": "admin/data_portal.html#deleting-old-data",
-    "title": "27  Data Portal",
-    "section": "27.3 Deleting Old Data",
-    "text": "27.3 Deleting Old Data\nThe data portal will fail if it tries to create two files of the same name.\n\nThe amount of information used to create the file name means that it is incredibly unlikely that two different users could accidentally create the same file name\nBUT, as mentioned in the “Updating the Portal” section, it is entirely possible (and has happened previously) for the same user to try to submit data more than once and inadvertently create two files of the same name\n\nThis occurs when the following happens:\nFirst, the user tries to submit data using the portal but something goes wrong so their data aren’t actually submitted (but a blank GoogleSheet of the user-supplied name is created)\n\n\nSecond, the user tries to re-submit data (possibly after you fix the issue in the portal and notify them) but the blank document they unknowingly created earlier now causes a different error (i. e. , that there are now two files of the same name)\nUnfortunately, because Shiny Apps are noninteractive (see the “Service Account FAQ” section) the user will never be provided with an informative error (neither will you) so you’ll need to diagnose this as part of your ‘fixing the app’ process\n\nTo resolve this, I (Nick) have created a second Shiny App that is not deployed\n\nTo be clear, it should never be deployed to prevent its accidental (mis)use by general HerbVar members\n\nJustification and location of the second app\n\nThe second app is in the “Data-Portal-Maintenance” GitHub repository\nThe “Service Account FAQ” section below gives more context but in brief: the ‘app key’ file that the data portal makes users attach is actually activating a sort of Google robot with the authority to create Google Sheets and move them i. This is necessary because an online portal cannot send an authorization request to each user in the way that R/R Studio does when such code is run on a local computer (again, see the “Service Account FAQ” section for more details)\nThis ‘robot’ then is the true owner of all data files submitted through the app\nThe portal cannot submit data to a Shared Drive (due to issues with the R packages that connect R and Google that are outside of our control) so this is an unavoidable state\nSo, if a user accidentally creates a flawed data object of the same name as their real data they will be unable to submit their real data until the flawed one is deleted\nHOWEVER, because the ‘robot’ owns those files, you cannot actually delete any of its files (when you “delete” a file you don’t own you actually just remove yourself as a collaborator with no effect on the original file)\nHere is where we get to the need of a second app\nThe robot’s GoogleDrive cannot be accessed via a Graphical User Interface in the way that you would access any other Google Drive\n\n\nSo, to truly delete these files so a user can re-submit their data successfully, you will need to use this second app\nIf you fail to delete the bad data, the user will never be able to successfully submit data of the same name 1. In theory, you could ask them to re-name their file in some slightly different way (i. e. , by changing their site name), but that would still have this flawed data floating in the ether which is not desirable\n\nTutorial of the second app\n\nTo reiterate, this Shiny app should never be deployed.\nYou will see why, but for the moment, take my word on it that deploying this app has a non-zero potential of permanently deleting data files you actually want\n\n\nBy keeping the script in GitHub and locking view access to only Will & the Data Scientist, we preserve its utility without opening Pandora’s box of deploying it and possibly having an HerbVar member use it improperly\n\n\nThe second app is fully contained in the “check-service-acct-files. R” script (the only script in this project)\nOpen that script and click the “Run App” button in the top right of the R script pane of R Studio\nAs with updating the data submission portal, this will create a new tab in your web browser that contains a fully functional (but not available on the internet) version of the app\nThe app is divided into three columns that you will proceed through from left to right\nFirst, download and attach the key for the service account that owns the files you want to look through (column 1)\nFor now we only have one service account for phase\n\nI recommend creating a new service account for each subsequent phase to evade data storage limits and partition sources of error in a clean, behind-the-scenes sort of way\n\n\nSee below for information on creating Service Accounts\n\n\nSecond, click the “Authorize” button to notify the app that it should attach the app key (column 1)\nThis may take a few seconds but should generate a full list of all files owned by the robot (i. e. , owned by the service account) g. Third, after looking at the list of files, click the “Extract File Names” button (column 2)\nThis just populates the third column so don’t worry about the violence implied by the verb ‘extract’\nFourth, scroll through the drop down list (column 3) and select the file you want to delete (could be a test data file or the product of a specific user’s failed attempt to upload their data)\nFifth, above the dropdown menu, check the “Yes” option beneath “I am ready to delete a file”\nI recommend doing this after selecting a file to further mitigate the risk of deleting the wrong file j. Sixth, click the “Delete Selected File” button i. Because you attached the service account key in column 1, you are viewing and interacting with the robot’s files as the robot (rather than as yourself)\n\n\nThis gives you access to actually delete files rather than just–as mentioned before–removing yourself from seeing the file\n\n\nSeventh, once a dialogue has popped up below the “Delete Selected File” button confirming the file has been deleted, click the “Update List of Drive Contents” button\nThis will update the dropdown menu with the new file list now that the file you marked for deletion has been erased l. Finally, scroll through the dropdown menu (or look at the list of files in column 2) to ensure that all problem files have been deleted 6. After you’ve gone through that process to delete the flawed file, you can notify the user that it is safe for them to resubmit their data\nThis is all likely too much information for the user though so I suggest that you just tell them you have fixed the data portal and leave it at that\n\n\nAlso, I have written the app to work with any service account key that owns Google files so unless the structure of future phases’ data portals changes massively, this app should be sufficient for all issues involving service account-owned files in the future",
+    "title": "28  Data Portal",
+    "section": "28.3 Deleting Old Data",
+    "text": "28.3 Deleting Old Data\nThe data portal will fail if it tries to create two files of the same name.\n\nThe amount of information used to create the file name means that it is incredibly unlikely that two different users could accidentally create the same file name\nBUT, as mentioned in the “Updating the Portal” section, it is entirely possible (and has happened previously) for the same user to try to submit data more than once and inadvertently create two files of the same name\n\nThis occurs when the following happens:\nFirst, the user tries to submit data using the portal but something goes wrong so their data aren’t actually submitted (but a blank GoogleSheet of the user-supplied name is created)\n\n\nSecond, the user tries to re-submit data (possibly after you fix the issue in the portal and notify them) but the blank document they unknowingly created earlier now causes a different error (i. e. , that there are now two files of the same name)\nUnfortunately, because Shiny Apps are noninteractive (see the “Service Account FAQ” section) the user will never be provided with an informative error (neither will you) so you’ll need to diagnose this as part of your ‘fixing the app’ process\n\nTo resolve this, I (Nick) have created a second Shiny App that is not deployed\n\nTo be clear, it should never be deployed to prevent its accidental (mis)use by general HerbVar members\n\nJustification and location of the second app\n\nThe second app is in the “Data-Portal-Maintenance” GitHub repository\nThe “Service Account FAQ” section below gives more context but in brief: the ‘app key’ file that the data portal makes users attach is actually activating a sort of Google robot with the authority to create Google Sheets and move them i. This is necessary because an online portal cannot send an authorization request to each user in the way that R/R Studio does when such code is run on a local computer (again, see the “Service Account FAQ” section for more details)\nThis ‘robot’ then is the true owner of all data files submitted through the app\nThe portal cannot submit data to a Shared Drive (due to issues with the R packages that connect R and Google that are outside of our control) so this is an unavoidable state\nSo, if a user accidentally creates a flawed data object of the same name as their real data they will be unable to submit their real data until the flawed one is deleted\nHOWEVER, because the ‘robot’ owns those files, you cannot actually delete any of its files (when you “delete” a file you don’t own you actually just remove yourself as a collaborator with no effect on the original file)\nHere is where we get to the need of a second app\nThe robot’s GoogleDrive cannot be accessed via a Graphical User Interface in the way that you would access any other Google Drive\n\n\nSo, to truly delete these files so a user can re-submit their data successfully, you will need to use this second app\nIf you fail to delete the bad data, the user will never be able to successfully submit data of the same name 1. In theory, you could ask them to re-name their file in some slightly different way (i. e. , by changing their site name), but that would still have this flawed data floating in the ether which is not desirable\n\nTutorial of the second app\n\nTo reiterate, this Shiny app should never be deployed.\nYou will see why, but for the moment, take my word on it that deploying this app has a non-zero potential of permanently deleting data files you actually want\n\n\nBy keeping the script in GitHub and locking view access to only Will & the Data Scientist, we preserve its utility without opening Pandora’s box of deploying it and possibly having an HerbVar member use it improperly\n\n\nThe second app is fully contained in the “check-service-acct-files. R” script (the only script in this project)\nOpen that script and click the “Run App” button in the top right of the R script pane of R Studio\nAs with updating the data submission portal, this will create a new tab in your web browser that contains a fully functional (but not available on the internet) version of the app\nThe app is divided into three columns that you will proceed through from left to right\nFirst, download and attach the key for the service account that owns the files you want to look through (column 1)\nFor now we only have one service account for phase\n\nI recommend creating a new service account for each subsequent phase to evade data storage limits and partition sources of error in a clean, behind-the-scenes sort of way\n\n\nSee below for information on creating Service Accounts\n\n\nSecond, click the “Authorize” button to notify the app that it should attach the app key (column 1)\nThis may take a few seconds but should generate a full list of all files owned by the robot (i. e. , owned by the service account) g. Third, after looking at the list of files, click the “Extract File Names” button (column 2)\nThis just populates the third column so don’t worry about the violence implied by the verb ‘extract’\nFourth, scroll through the drop down list (column 3) and select the file you want to delete (could be a test data file or the product of a specific user’s failed attempt to upload their data)\nFifth, above the dropdown menu, check the “Yes” option beneath “I am ready to delete a file”\nI recommend doing this after selecting a file to further mitigate the risk of deleting the wrong file j. Sixth, click the “Delete Selected File” button i. Because you attached the service account key in column 1, you are viewing and interacting with the robot’s files as the robot (rather than as yourself)\n\n\nThis gives you access to actually delete files rather than just–as mentioned before–removing yourself from seeing the file\n\n\nSeventh, once a dialogue has popped up below the “Delete Selected File” button confirming the file has been deleted, click the “Update List of Drive Contents” button\nThis will update the dropdown menu with the new file list now that the file you marked for deletion has been erased l. Finally, scroll through the dropdown menu (or look at the list of files in column 2) to ensure that all problem files have been deleted 6. After you’ve gone through that process to delete the flawed file, you can notify the user that it is safe for them to resubmit their data\nThis is all likely too much information for the user though so I suggest that you just tell them you have fixed the data portal and leave it at that\n\n\nAlso, I have written the app to work with any service account key that owns Google files so unless the structure of future phases’ data portals changes massively, this app should be sufficient for all issues involving service account-owned files in the future",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Data Portal</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Data Portal</span>"
     ]
   },
   {
     "objectID": "admin/data_portal.html#service-account-faq-background-information",
     "href": "admin/data_portal.html#service-account-faq-background-information",
-    "title": "27  Data Portal",
-    "section": "27.4 Service Account FAQ Background Information",
-    "text": "27.4 Service Account FAQ Background Information\nThe data submission portal accepts uploaded data locally and then (1) creates a Google Sheet version of the data and (2) moves that sheet into the designated folder in the HerbVar Admin Drive. However, the Shiny app is “non-interactive” (see gargle’s vignette) which means that a user cannot input a gmail or access token to tell Google Drive/Sheets who is creating/moving files. A “service account” is necessary to get around this.\nA service account is essentially a robot that we pre-approve to (1) create google sheets, (2) move files, and (3) have access to the folder(s) we want those sheets made in/moved to. ○ Side note: see the list of people with access to the folder the Shiny portal saves files to and you’ll see the service account I created in that list.\nTo create/manage a service account you need to use “Google Cloud Platform” as described below:",
+    "title": "28  Data Portal",
+    "section": "28.4 Service Account FAQ Background Information",
+    "text": "28.4 Service Account FAQ Background Information\nThe data submission portal accepts uploaded data locally and then (1) creates a Google Sheet version of the data and (2) moves that sheet into the designated folder in the HerbVar Admin Drive. However, the Shiny app is “non-interactive” (see gargle’s vignette) which means that a user cannot input a gmail or access token to tell Google Drive/Sheets who is creating/moving files. A “service account” is necessary to get around this.\nA service account is essentially a robot that we pre-approve to (1) create google sheets, (2) move files, and (3) have access to the folder(s) we want those sheets made in/moved to. ○ Side note: see the list of people with access to the folder the Shiny portal saves files to and you’ll see the service account I created in that list.\nTo create/manage a service account you need to use “Google Cloud Platform” as described below:",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Data Portal</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Data Portal</span>"
     ]
   },
   {
     "objectID": "admin/data_portal.html#tutorial",
     "href": "admin/data_portal.html#tutorial",
-    "title": "27  Data Portal",
-    "section": "27.5 Tutorial",
-    "text": "27.5 Tutorial\n\nSign into the herbvar@gmail. com Google Account\nVisit the Google Cloud Platform\n\nIf there is a pale red/pink error saying you don’t have sufficient permissions to view the page, select the herbvar@gmail. com account from the drop down in the top right of the screen\nThe page should then re-load to the dashboard\n\nDon’t get overwhelmed by the level of detail on this page!\nIn the left sidebar, click “APIs & Services” and within that menu click “Credentials”\nClick the service account name in the “Service Accounts” list at the bottom of the screen\nKeys can be managed in the “Keys” tab\nIn the event of a security breach (not sure what that would look like but still good to have the contingency), delete the existing keys and create a new one\nDownload that key and replace the one HerbVar members have access to with the new key file.\nIf creating a new key or service account prompts you to add permissions to the account be sure that it includes BOTH the GoogleSheets API AND the GoogleDrive API\n\nBoth are needed because the data portal uses the service account key to both create a GoogleSheet (using the eponymous API) and move that GoogleSheet (using the GoogleDrive API)",
+    "title": "28  Data Portal",
+    "section": "28.5 Tutorial",
+    "text": "28.5 Tutorial\n\nSign into the herbvar@gmail. com Google Account\nVisit the Google Cloud Platform\n\nIf there is a pale red/pink error saying you don’t have sufficient permissions to view the page, select the herbvar@gmail. com account from the drop down in the top right of the screen\nThe page should then re-load to the dashboard\n\nDon’t get overwhelmed by the level of detail on this page!\nIn the left sidebar, click “APIs & Services” and within that menu click “Credentials”\nClick the service account name in the “Service Accounts” list at the bottom of the screen\nKeys can be managed in the “Keys” tab\nIn the event of a security breach (not sure what that would look like but still good to have the contingency), delete the existing keys and create a new one\nDownload that key and replace the one HerbVar members have access to with the new key file.\nIf creating a new key or service account prompts you to add permissions to the account be sure that it includes BOTH the GoogleSheets API AND the GoogleDrive API\n\nBoth are needed because the data portal uses the service account key to both create a GoogleSheet (using the eponymous API) and move that GoogleSheet (using the GoogleDrive API)",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Data Portal</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Data Portal</span>"
     ]
   },
   {
     "objectID": "admin/google_drive.html",
     "href": "admin/google_drive.html",
-    "title": "28  Google Drive",
+    "title": "29  Google Drive",
     "section": "",
-    "text": "28.1 Phase I Data Wrangling\nThis project has a lot of files coming and going so this is a brief description of all of those folders.",
+    "text": "29.1 Phase I Data Wrangling\nThis project has a lot of files coming and going so this is a brief description of all of those folders.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Google Drive</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Google Drive</span>"
     ]
   },
   {
     "objectID": "admin/google_drive.html#phase-i-data-wrangling",
     "href": "admin/google_drive.html#phase-i-data-wrangling",
-    "title": "28  Google Drive",
+    "title": "29  Google Drive",
     "section": "",
     "text": "HerbVar Phase I Data\nAll Uploads\nAll of the phase 1 raw data (and we’ve since moved to phase 2 so there should not be any more new data)\nPhase I\nHerbivore Data\nherbivoreData (from the eponymous Excel sheet) raw, tidied at plant-level (one row per plant) and tidied at survey level (one row per survey)\nRaw is the herbivore columns sliced off of the plantData sheet as part of the main wrangling script\nPhase I - Primary Productivity\nPrimary productivity metadata to go along with phase 1 data\nPhase I - Reproductive Data\nRaw reproductive data columns sliced off of the plantData sheet as part of the main wrangling script\nPhase I - Richness Data\nExtracted native/invasive species richness from Ellis et al. 2012\nPhase I - siteData - Tidied version of siteData (from eponymous Excel sheet)\nPhase I - Survey Indices - Attempt (later abandoned) to split off just the site and plant-identifying information without any of the “actual” data. This would allow wide sharing of location information to enable all interested HerbVar members to harvest publicly-available metadata\nPhase I Data - Wrangled\nThe “abiotic” (i.e., climatic) data for each site’s lat/long coordinates\nThe tidied plant-level data (one row per plant) for all phase 1 data\nThe tidied survey-level data (one row per survey) for all phase 1 data\nHerbVar Foliage Index.xlsx - Index describing whether each species (from each PI) is deciduous, evergreen, or annual (this information was integrated into the phase 2 data submission portal so no equivalent Google Sheet will exist for phase 2",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Google Drive</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Google Drive</span>"
     ]
   },
   {
     "objectID": "admin/google_drive.html#phase-ii-data-wrangling",
     "href": "admin/google_drive.html#phase-ii-data-wrangling",
-    "title": "28  Google Drive",
-    "section": "28.2 Phase II Data Wrangling",
-    "text": "28.2 Phase II Data Wrangling\n\n_Data Submitted Via Email - I need to put it through the App - This is a clearinghouse for all raw phase 2 data that users send via email rather than using the submission portal. While discouraged, we don’t want to completely block data in such instances. So, once you receive data via email, drop it into this folder until you have the time to run it through the app (the handful of times this has occurred the data went through the portal fine, users just got frustrated from unrelated things)\nApp Uploads - Phase 2 - Raw data submitted via the portal arrive here",
+    "title": "29  Google Drive",
+    "section": "29.2 Phase II Data Wrangling",
+    "text": "29.2 Phase II Data Wrangling\n\n_Data Submitted Via Email - I need to put it through the App - This is a clearinghouse for all raw phase 2 data that users send via email rather than using the submission portal. While discouraged, we don’t want to completely block data in such instances. So, once you receive data via email, drop it into this folder until you have the time to run it through the app (the handful of times this has occurred the data went through the portal fine, users just got frustrated from unrelated things)\nApp Uploads - Phase 2 - Raw data submitted via the portal arrive here",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Google Drive</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Google Drive</span>"
     ]
   },
   {
     "objectID": "admin/google_drive.html#phase-ii-completed-surveys-versions",
     "href": "admin/google_drive.html#phase-ii-completed-surveys-versions",
-    "title": "28  Google Drive",
-    "section": "28.3 Phase II Completed Surveys Versions",
-    "text": "28.3 Phase II Completed Surveys Versions\n\nAll phase 2 wrangling scripts copy the completed surveys file with a time stamp to this folder for posterity. I can think of no direct utility of these backups but it doesn’t hurt to save them -",
+    "title": "29  Google Drive",
+    "section": "29.3 Phase II Completed Surveys Versions",
+    "text": "29.3 Phase II Completed Surveys Versions\n\nAll phase 2 wrangling scripts copy the completed surveys file with a time stamp to this folder for posterity. I can think of no direct utility of these backups but it doesn’t hurt to save them -",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Google Drive</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Google Drive</span>"
     ]
   },
   {
     "objectID": "admin/google_drive.html#phase-ii-metadata",
     "href": "admin/google_drive.html#phase-ii-metadata",
-    "title": "28  Google Drive",
-    "section": "28.4 Phase II Metadata",
-    "text": "28.4 Phase II Metadata\n\nRather than have separate folders for each metadata type (as was the case in phase 1) I have created this folder to contain them. Only abiotic (i.e., climatic) data have been retrieved so far but all should be placed here to keep the Drive folder hierarchy clean",
+    "title": "29  Google Drive",
+    "section": "29.4 Phase II Metadata",
+    "text": "29.4 Phase II Metadata\n\nRather than have separate folders for each metadata type (as was the case in phase 1) I have created this folder to contain them. Only abiotic (i.e., climatic) data have been retrieved so far but all should be placed here to keep the Drive folder hierarchy clean",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Google Drive</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Google Drive</span>"
     ]
   },
   {
     "objectID": "admin/google_drive.html#phase-ii-raw-data",
     "href": "admin/google_drive.html#phase-ii-raw-data",
-    "title": "28  Google Drive",
-    "section": "28.5 Phase II Raw Data",
-    "text": "28.5 Phase II Raw Data\n\nAll data submitted through the submission portal should be manually moved from the “App Uploads - Phase 2” folder to here. The wrangling scripts will prompt you to do this if you do not before running them.",
+    "title": "29  Google Drive",
+    "section": "29.5 Phase II Raw Data",
+    "text": "29.5 Phase II Raw Data\n\nAll data submitted through the submission portal should be manually moved from the “App Uploads - Phase 2” folder to here. The wrangling scripts will prompt you to do this if you do not before running them.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Google Drive</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Google Drive</span>"
     ]
   },
   {
     "objectID": "admin/google_drive.html#phase-ii-wrangled-data",
     "href": "admin/google_drive.html#phase-ii-wrangled-data",
-    "title": "28  Google Drive",
-    "section": "28.6 Phase II Wrangled Data",
-    "text": "28.6 Phase II Wrangled Data\n\nEach sheet of the Excel file has its own version of the above folder where the ellipses (…) is replaced by that sheet’s name. Where applicable (e.g., plantData, reproData, herbivoreData) there are survey-level (i.e., one row per survey) versions of the data",
+    "title": "29  Google Drive",
+    "section": "29.6 Phase II Wrangled Data",
+    "text": "29.6 Phase II Wrangled Data\n\nEach sheet of the Excel file has its own version of the above folder where the ellipses (…) is replaced by that sheet’s name. Where applicable (e.g., plantData, reproData, herbivoreData) there are survey-level (i.e., one row per survey) versions of the data",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Google Drive</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Google Drive</span>"
     ]
   },
   {
     "objectID": "admin/google_drive.html#miscellaneous-other-files",
     "href": "admin/google_drive.html#miscellaneous-other-files",
-    "title": "28  Google Drive",
-    "section": "28.7 Miscellaneous Other Files",
-    "text": "28.7 Miscellaneous Other Files\nNote: this heading is not a folder name but refers to the random other files in the Drive.\n\nThis manual is unfiled in the Drive!\nThe Data Management Plan (DMP) in graphical form\nTutorials for one-off tasks you may need to explain to others",
+    "title": "29  Google Drive",
+    "section": "29.7 Miscellaneous Other Files",
+    "text": "29.7 Miscellaneous Other Files\nNote: this heading is not a folder name but refers to the random other files in the Drive.\n\nThis manual is unfiled in the Drive!\nThe Data Management Plan (DMP) in graphical form\nTutorials for one-off tasks you may need to explain to others",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Google Drive</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Google Drive</span>"
     ]
   },
   {
     "objectID": "admin/wrangling_repo.html",
     "href": "admin/wrangling_repo.html",
-    "title": "29  Wrangling Repository",
+    "title": "30  Wrangling Repository",
     "section": "",
-    "text": "29.1 Misc. Non-Manuscript Subset Scripts\nThe Wrangling Repository contains scripts for data wrangling for all phases of the project. It takes in raw data and outputs analysis/visualization-ready .csv files.\nIt will be the primary home for this Research/Admin Position (or at least it was for me) so it may help to give you a brief explanation of each of the main scripts. Here’s the link.\nSo far, this only includes the script to separate out PlantPopNet members’ data to make sharing that with PPN leadership (upon request) simpler",
+    "text": "30.1 Misc. Non-Manuscript Subset Scripts\nThe Wrangling Repository contains scripts for data wrangling for all phases of the project. It takes in raw data and outputs analysis/visualization-ready .csv files.\nIt will be the primary home for this Research/Admin Position (or at least it was for me) so it may help to give you a brief explanation of each of the main scripts. Here’s the link.\nSo far, this only includes the script to separate out PlantPopNet members’ data to make sharing that with PPN leadership (upon request) simpler",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "admin/wrangling_repo.html#phase-1-scripts",
     "href": "admin/wrangling_repo.html#phase-1-scripts",
-    "title": "29  Wrangling Repository",
-    "section": "29.2 Phase 1 Scripts",
-    "text": "29.2 Phase 1 Scripts\n\nphase 1 abiotic wrangling.R: Wrangles WORLDCLIM climatic data for phase 1 surveys.\nphase 1 herbivoreData wrangling.R: Wrangles any information to do with herbivores from phase 1.\nphase 1 plant richness wrangling.R: Extracts interpolated native/invasive species richness information from Ellis et al. 2012 shapefiles.\nphase 1 primary productivity.R: Extracts primary productivity data from satellite data for phase 1 surveys.\nphase 1 shareable index.R: Creates files of only location information for phase 1 sites to enable other HerbVar collaborators to harvest metadata without sharing “actual” data.\nphase 1 siteData wrangling.R: Wrangles information from siteData sheet of template Excel file.\nphase 1 soil data wrangling.R: Placeholder describing where soil data may someday be acquired. For now, the relevant R package does not work (though their team is aware of and working on this issue).\nphase 1 survey-lvl summarizing.R: Summarizes the tidy plant-level (one row per plant) phase 1 data to survey-level (one row per survey).\nphase 1 wrangling.R: Takes all the separate phase 1 raw data files combines and wrangles them to plant-level (one row per plant).",
+    "title": "30  Wrangling Repository",
+    "section": "30.2 Phase 1 Scripts",
+    "text": "30.2 Phase 1 Scripts\n\nphase 1 abiotic wrangling.R: Wrangles WORLDCLIM climatic data for phase 1 surveys.\nphase 1 herbivoreData wrangling.R: Wrangles any information to do with herbivores from phase 1.\nphase 1 plant richness wrangling.R: Extracts interpolated native/invasive species richness information from Ellis et al. 2012 shapefiles.\nphase 1 primary productivity.R: Extracts primary productivity data from satellite data for phase 1 surveys.\nphase 1 shareable index.R: Creates files of only location information for phase 1 sites to enable other HerbVar collaborators to harvest metadata without sharing “actual” data.\nphase 1 siteData wrangling.R: Wrangles information from siteData sheet of template Excel file.\nphase 1 soil data wrangling.R: Placeholder describing where soil data may someday be acquired. For now, the relevant R package does not work (though their team is aware of and working on this issue).\nphase 1 survey-lvl summarizing.R: Summarizes the tidy plant-level (one row per plant) phase 1 data to survey-level (one row per survey).\nphase 1 wrangling.R: Takes all the separate phase 1 raw data files combines and wrangles them to plant-level (one row per plant).",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "admin/wrangling_repo.html#phase-2-scripts",
     "href": "admin/wrangling_repo.html#phase-2-scripts",
-    "title": "29  Wrangling Repository",
-    "section": "29.3 Phase 2 Scripts",
-    "text": "29.3 Phase 2 Scripts\n\nphase 2 densityData wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 herbivoreData wrangling.R: Wrangles eponymous sheet from template Excel file (at both plant-level and survey-level).\nphase 2 metadataabiotic.R`: Extracts WORLDCLIM climatic data from phase 2 site locations (requires tidy file from siteData wrangling script).\nphase 2 newColumns wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 notes wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 plantData survey-lvl summarizing.R: Summarizes tidy plantData to survey-level (i.e., one row per survey).\nphase 2 plantData wrangling.R: Wrangles eponymous sheet from template Excel file (at ONLY plant-level).\nphase 2 reproData wrangling.R: Wrangles eponymous sheet from template Excel file at plant-level only (survey level absent because insufficient raw data at this point).\nphase 2 siteData wrangling.R: Wrangles eponymous sheet from template Excel file.",
+    "title": "30  Wrangling Repository",
+    "section": "30.3 Phase 2 Scripts",
+    "text": "30.3 Phase 2 Scripts\n\nphase 2 densityData wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 herbivoreData wrangling.R: Wrangles eponymous sheet from template Excel file (at both plant-level and survey-level).\nphase 2 metadataabiotic.R`: Extracts WORLDCLIM climatic data from phase 2 site locations (requires tidy file from siteData wrangling script).\nphase 2 newColumns wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 notes wrangling.R: Wrangles eponymous sheet from template Excel file.\nphase 2 plantData survey-lvl summarizing.R: Summarizes tidy plantData to survey-level (i.e., one row per survey).\nphase 2 plantData wrangling.R: Wrangles eponymous sheet from template Excel file (at ONLY plant-level).\nphase 2 reproData wrangling.R: Wrangles eponymous sheet from template Excel file at plant-level only (survey level absent because insufficient raw data at this point).\nphase 2 siteData wrangling.R: Wrangles eponymous sheet from template Excel file.",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "admin/wrangling_repo.html#script-archive",
     "href": "admin/wrangling_repo.html#script-archive",
-    "title": "29  Wrangling Repository",
-    "section": "29.4 Script Archive",
-    "text": "29.4 Script Archive\nAll “actual” scripts (i.e., those used in day-to-day wrangling) should have a consistent aesthetic and comment structure (as well as being primarily tidyverse-based). When others contribute code, duplicate the file and edit one version to match internal standards. The second version goes here to be preserved in its original form as a back-up",
+    "title": "30  Wrangling Repository",
+    "section": "30.4 Script Archive",
+    "text": "30.4 Script Archive\nAll “actual” scripts (i.e., those used in day-to-day wrangling) should have a consistent aesthetic and comment structure (as well as being primarily tidyverse-based). When others contribute code, duplicate the file and edit one version to match internal standards. The second version goes here to be preserved in its original form as a back-up",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "admin/wrangling_repo.html#singleton-tasks",
     "href": "admin/wrangling_repo.html#singleton-tasks",
-    "title": "29  Wrangling Repository",
-    "section": "29.5 Singleton Tasks",
-    "text": "29.5 Singleton Tasks\nAny scripts written to accomplish a ‘one-off’ task I thought unlikely to be repeated regularly are placed here. Some of them may include operations that could be useful in other contexts tough!",
+    "title": "30  Wrangling Repository",
+    "section": "30.5 Singleton Tasks",
+    "text": "30.5 Singleton Tasks\nAny scripts written to accomplish a ‘one-off’ task I thought unlikely to be repeated regularly are placed here. Some of them may include operations that could be useful in other contexts tough!",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   },
   {
     "objectID": "admin/wrangling_repo.html#manuscript-subsetting-scripts",
     "href": "admin/wrangling_repo.html#manuscript-subsetting-scripts",
-    "title": "29  Wrangling Repository",
-    "section": "29.6 Manuscript Subsetting Scripts",
-    "text": "29.6 Manuscript Subsetting Scripts\nEach script is dedicated for a single HerbVar manuscript and does the subsetting and/or column selection necessary to create a tidy data file of only what authors request to test their hypotheses",
+    "title": "30  Wrangling Repository",
+    "section": "30.6 Manuscript Subsetting Scripts",
+    "text": "30.6 Manuscript Subsetting Scripts\nEach script is dedicated for a single HerbVar manuscript and does the subsetting and/or column selection necessary to create a tidy data file of only what authors request to test their hypotheses",
     "crumbs": [
       "Appendix 2: HerbVar Admin",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Wrangling Repository</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Wrangling Repository</span>"
     ]
   }
 ]
