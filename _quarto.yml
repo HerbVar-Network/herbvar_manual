@@ -34,59 +34,59 @@ book:
     
     - part: "What is HerbVar?"
       chapters: 
-        - introduction/intro.qmd
-        # - introduction/getting_involved.qmd
-        - introduction/Network_Structure.qmd
-        - introduction/data_overview.qmd
-        - introduction/herbvar_products.qmd
+        - 01_intro/intro.qmd
+        # - 01_intro/getting_involved.qmd
+        - 01_intro/Network_Structure.qmd
+        - 01_intro/data_overview.qmd
+        - 01_intro/herbvar_products.qmd
         
     - part: "Become a Collaborator"
       chapters: 
-        - collaboration/site_pi.qmd
-        - collaboration/data_use_guidelines.qmd
-        # - collaboration/new_analyses.qmd
-        - collaboration/authorship_process.qmd
-        - collaboration/working-group-pubs.qmd
-        - collaboration/new_data_collection.qmd
-        # - collaboration/project_review.qmd
+        - 02_collab/site_pi.qmd
+        - 02_collab/data_use_guidelines.qmd
+        # - 02_collab/new_analyses.qmd
+        - 02_collab/authorship_process.qmd
+        - 02_collab/working-group-pubs.qmd
+        - 02_collab/new_data_collection.qmd
+        # - 02_collab/project_review.qmd
         
     - part: "HerbVar Workflow" 
       chapters:
-        - workflow/workflow.qmd
-        # - workflow/upload_data.qmd
-        - workflow/data_analysis.qmd
-        - workflow/publications.qmd
+        - 03_workflow/workflow.qmd
+        # - 03_workflow/upload_data.qmd
+        - 03_workflow/data_analysis.qmd
+        - 03_workflow/publications.qmd
     
     - part: "HerbVar Protocols"
       chapters: 
-        - protocols/protocols_overview.qmd
-        # - protocols/spp_site_selection.qmd
-        - protocols/primary.qmd
-        - protocols/damage.qmd
-        - protocols/repro_damage.qmd
-        - protocols/low_density.qmd
-        - protocols/succulents.qmd
-        - protocols/tree.qmd
-        - protocols/rhizo_geo.qmd
-        - protocols/herbivore.qmd    
+        - 04_protocols/protocols_overview.qmd
+        # - 04_protocols/spp_site_selection.qmd
+        - 04_protocols/primary.qmd
+        - 04_protocols/damage.qmd
+        - 04_protocols/repro_damage.qmd
+        - 04_protocols/low_density.qmd
+        - 04_protocols/succulents.qmd
+        - 04_protocols/tree.qmd
+        - 04_protocols/rhizo_geo.qmd
+        - 04_protocols/herbivore.qmd    
     
     - references.qmd
     
     - part: "Appendix 1: Forms & Checklists"
       chapters: 
-        - forms/onboarding_checklist.qmd
-        # - forms/data_sharing_contract.qmd
-        - forms/forms_list.qmd
-        - forms/glossary.qmd
+        - 05_forms/onboarding_checklist.qmd
+        # - 05_forms/data_sharing_contract.qmd
+        - 05_forms/forms_list.qmd
+        - 05_forms/glossary.qmd
         
     - part: "Appendix 2: HerbVar Admin"
       chapters: 
-        - admin/potential_collaborators.qmd
-        - admin/manual.qmd
-        - admin/website.qmd
-        - admin/data_portal.qmd
-        - admin/google_drive.qmd
-        - admin/wrangling_repo.qmd
+        - 06_admin/potential_collaborators.qmd
+        - 06_admin/manual.qmd
+        - 06_admin/website.qmd
+        - 06_admin/data_portal.qmd
+        - 06_admin/google_drive.qmd
+        - 06_admin/wrangling_repo.qmd
     
 bibliography: HerbVar.bib
 csl: format/ecology.csl
@@ -102,7 +102,7 @@ format:
     classoption: ["oneside", "open=any"]
     cover-image: images/cover2.png
     # template-partials:
-    #   - "protocols/title.tex"
+    #   - "04_protocols/title.tex"
     header-includes: |
       \titlehead{\includegraphics[height=9in]{images/cover2.png}}
       \publishers{v0.9.0 (Zenodo https://doi.org/10.5281/zenodo.14232308)\\-\\This material is based upon work supported by the National Science Foundation under Award No. NSF DEB-2203582.\\-\\Licensed under CC BY-NC-SA 4.0.}
