@@ -1,0 +1,1291 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Ian Pearse">
+<meta name="author" content="Zoe Getman-Pickering">
+<meta name="author" content="Julie Davis">
+<meta name="author" content="Bastien Castagneyrol">
+<meta name="author" content="Will Wetzel">
+<meta name="dcterms.date" content="2021-11-01">
+
+<title>15&nbsp; Estimating Damage – HerbVar Project Manual &amp; Field Protocols</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../04_protocols/repro_damage.html" rel="next">
+<link href="../04_protocols/primary.html" rel="prev">
+<link href="../images/cover.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-9ac10add0fe9a7d92bdab98ab5212503.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../04_protocols/protocols_overview.html">HerbVar Protocols</a></li><li class="breadcrumb-item"><a href="../04_protocols/damage.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Estimating Damage</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">HerbVar Project Manual &amp; Field Protocols</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/HerbVar-Network/herbvar_manual" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="../herbvar-manual.pdf">
+              <i class="bi bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="../herbvar-manual.epub">
+              <i class="bi bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preamble</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">What is HerbVar?</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01_intro/intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">HerbVar Overview</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01_intro/Network_Structure.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Network Structure</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01_intro/data_overview.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">HerbVar Datasets</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01_intro/herbvar_products.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Herbvar Products</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Become a Collaborator</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02_collab/site_pi.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Organize an HerbVar Site</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02_collab/data_use_guidelines.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">New Analyses with HerbVar Data</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02_collab/authorship_process.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">HerbVar Papers &amp; Authorship</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02_collab/working-group-pubs.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Proposing ‘Working Group’ Papers</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../02_collab/new_data_collection.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Proposing New Data Collection</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">HerbVar Workflow</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03_workflow/workflow.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Research Workflow</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03_workflow/data_analysis.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data Validation &amp; Upload</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../03_workflow/publications.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Preparing Manuscripts &amp; Presentations</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">HerbVar Protocols</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/protocols_overview.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Protocols Overview</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/primary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Primary Protocol</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/damage.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Estimating Damage</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/repro_damage.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Reproductive Damage</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/low_density.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Low Density/Abundance Plants</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/succulents.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Cacti &amp; Succulents</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/tree.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Trees</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/rhizo_geo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Rhizomatous Geophytes</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../04_protocols/herbivore.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Herbivores, Mines, &amp; Galls</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendix 1: Forms &amp; Checklists</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../05_forms/onboarding_checklist.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Checklist - Onboarding Collaborators</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../05_forms/forms_list.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">HerbVar Forms</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../05_forms/glossary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">HerbVar Glossary</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendix 2: HerbVar Admin</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06_admin/potential_collaborators.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Potential Collaborators</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06_admin/manual.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Editing the Manual</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06_admin/website.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Editing the Website</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06_admin/data_portal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Data Portal</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06_admin/google_drive.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Google Drive</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../06_admin/wrangling_repo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Wrangling Repository</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="header-section-number">15.1</span> Overview</a></li>
+  <li><a href="#estimating-plant-size-and-determining-what-tissue-counts" id="toc-estimating-plant-size-and-determining-what-tissue-counts" class="nav-link" data-scroll-target="#estimating-plant-size-and-determining-what-tissue-counts"><span class="header-section-number">15.2</span> Estimating Plant Size (and Determining What Tissue Counts)</a></li>
+  <li><a href="#counting-number-of-total-and-damaged-leaves-up-to-n-60" id="toc-counting-number-of-total-and-damaged-leaves-up-to-n-60" class="nav-link" data-scroll-target="#counting-number-of-total-and-damaged-leaves-up-to-n-60"><span class="header-section-number">15.3</span> Counting Number of Total and Damaged Leaves (up to N = 60)</a>
+  <ul class="collapse">
+  <li><a href="#plants-with-small-number-of-large-leaves-n-1-3" id="toc-plants-with-small-number-of-large-leaves-n-1-3" class="nav-link" data-scroll-target="#plants-with-small-number-of-large-leaves-n-1-3"><span class="header-section-number">15.3.1</span> Plants with small number of large leaves (N = 1-3)</a></li>
+  <li><a href="#plants-with-60-leaves" id="toc-plants-with-60-leaves" class="nav-link" data-scroll-target="#plants-with-60-leaves"><span class="header-section-number">15.3.2</span> Plants with &lt;60 leaves</a></li>
+  <li><a href="#plants-with-60-leaves-1" id="toc-plants-with-60-leaves-1" class="nav-link" data-scroll-target="#plants-with-60-leaves-1"><span class="header-section-number">15.3.3</span> Plants with &gt; 60 leaves</a></li>
+  </ul></li>
+  <li><a href="#estimating-percent-damage-on-10-randomly-chosen-leaves" id="toc-estimating-percent-damage-on-10-randomly-chosen-leaves" class="nav-link" data-scroll-target="#estimating-percent-damage-on-10-randomly-chosen-leaves"><span class="header-section-number">15.4</span> 3. Estimating Percent Damage on 10 Randomly Chosen Leaves</a>
+  <ul class="collapse">
+  <li><a href="#visual-estimation" id="toc-visual-estimation" class="nav-link" data-scroll-target="#visual-estimation"><span class="header-section-number">15.4.1</span> Visual estimation</a></li>
+  </ul></li>
+  <li><a href="#estimating-percent-damage-across-the-whole-plant" id="toc-estimating-percent-damage-across-the-whole-plant" class="nav-link" data-scroll-target="#estimating-percent-damage-across-the-whole-plant"><span class="header-section-number">15.5</span> 4. Estimating Percent Damage Across the Whole Plant</a>
+  <ul class="collapse">
+  <li><a href="#tips-for-visually-estimating-damage-across-the-whole-plant" id="toc-tips-for-visually-estimating-damage-across-the-whole-plant" class="nav-link" data-scroll-target="#tips-for-visually-estimating-damage-across-the-whole-plant"><span class="header-section-number">15.5.1</span> Tips for visually estimating damage across the whole plant:</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/HerbVar-Network/herbvar_manual/edit/main/04_protocols/damage.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../04_protocols/protocols_overview.html">HerbVar Protocols</a></li><li class="breadcrumb-item"><a href="../04_protocols/damage.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Estimating Damage</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span id="sec-damage" class="quarto-section-identifier"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Estimating Damage</span></span></h1>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Authors</div>
+  <div class="quarto-title-meta-heading">Affiliations</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Ian Pearse </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            
+          </p>
+        <p class="affiliation">
+            U.S. Geological Survey
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Zoe Getman-Pickering </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            
+          </p>
+        <p class="affiliation">
+            University of Massachusetts, Amherst
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Julie Davis </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            
+          </p>
+        <p class="affiliation">
+            Cornell University
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Bastien Castagneyrol </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            NRAE-UMR BIOGECO
+          </p>
+      </div>
+    <div class="quarto-title-meta-contents">
+    <p class="author">Will Wetzel </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            
+          </p>
+        <p class="affiliation">
+            Montana State University
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 1, 2021</p>
+    </div>
+  </div>
+  
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">June 20, 2025</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="overview" class="level2" data-number="15.1">
+<h2 data-number="15.1" class="anchored" data-anchor-id="overview"><span class="header-section-number">15.1</span> Overview</h2>
+<p>So, you’ve figured out how to find the random set of plants to score damage on (e.g., using the Primary Protocol). Now it is time to look closely at each plant in order to score the amount of damage caused by herbivores. This is a task that will vary among plant species. This document is meant to guide you through the process of estimating herbivore damage using best practices that we have developed. Don’t fret that this document looks too long to follow for 60 plants per survey: we give an overabundance of pointers to cover likely hiccups that could occur across the world’s 400,000 plant species. Estimating herbivory will become second nature after you’ve familiarized yourself with the methods and had some practice. Ideally with these tips you should be estimating damage on a single plant in less than five minutes (and maybe a lot less!).</p>
+<p><strong>In this document, we provide detail for four key steps from the Primary Protocol:</strong></p>
+<ol type="1">
+<li>Estimating plant size (and determining what tissue counts).</li>
+<li>Counting number of leaves and number of damaged leaves (up to 60 max).</li>
+<li>Estimating percent damage on 10 randomly chosen leaves.</li>
+<li>Estimating percent damage across the whole plant</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If you are just looking for quick tips on estimating percent damage, skip to <em>“Estimating Percent Damage on 10 Randomly Chosen Leaves”</em> below.</p>
+</div>
+</div>
+<p><strong>Two related documents</strong>:</p>
+<ol type="1">
+<li><p>The <em>“Field Guide to Different Types of Herbivore Damage”</em> (<a href="herbivore.html" class="quarto-xref"><span>Chapter 21</span></a>), which has photos of different types of damage</p></li>
+<li><p>An <a href="https://github.com/HerbVar-Network/herbvar_manual/blob/2d334240bdc0f57370bd260cd054d02ffbd5b367/forms/Illustrated%20Guide%20to%20Percent%20Leaf%20Damage.pdf"><em>“Illustrated Guide to Percent Leaf Damage”</em></a>, which shows images of leaves with different percent damage to help you calibrate your visual estimates.</p></li>
+</ol>
+<p><strong>Objectives:</strong> First off, it is good to keep in mind the goals of these estimates: Ideally, we would like to know (1) the total amount of plant material consumed by herbivores (e.g., grams of tissue eaten) <em>and</em> the (2) total amount of plant material remaining (e.g., grams of tissue remaining). Unfortunately, this is not feasible for most systems, so our goal is to approximate them by estimating (1) plant size and (2) percent removed by herbivores for entire plants <em>and</em> for a sample of leaves <em>within</em> plants.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+What kinds of plants will this work for?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This document is written with a focus on vegetative tissue on leafy plants ≤ 2 m in height. If your plants fit this, then great; read on!</p>
+</div>
+</div>
+<p><strong>If your species is a tree or large shrub</strong>, you have two options: First, we recommend most HerbVar collaborators restrict themselves to seedlings and saplings, which we define as ≤ 2 m in height. In this case, just ignore any individuals &gt; 2 m tall at your site, and follow the methods below. Make sure to note that you were excluding mature individuals. If you want to include mature trees (&gt; 2 m) in your survey, then please follow the HerbVar Tree Protocol (<a href="tree.html" class="quarto-xref"><span>Chapter 19</span></a>). The Tree Protocol describes a method for estimating herbivory on a subsample of leaves on each tree. However, after you’ve chosen your subsample of leaves, you will still have to estimate damage on each leaf, so the damage estimation tips and illustrated guides below will still be very helpful.</p>
+<p><strong>If your species is a cactus or other succulent</strong>, then please see the Cactus and Succulent Protocol (<a href="succulents.html" class="quarto-xref"><span>Chapter 18</span></a>).</p>
+<p><strong>If your plants have reproductive tissues</strong> (flowers, fruits, seeds) and have had them long enough to potentially sustain herbivore damage, then please see the HerbVar Reproductive Damage Protocol (<a href="repro_damage.html" class="quarto-xref"><span>Chapter 16</span></a>) for how to record this damage. The rest of this document focuses on damage to vegetative tissue.</p>
+</section>
+<section id="estimating-plant-size-and-determining-what-tissue-counts" class="level2" data-number="15.2">
+<h2 data-number="15.2" class="anchored" data-anchor-id="estimating-plant-size-and-determining-what-tissue-counts"><span class="header-section-number">15.2</span> Estimating Plant Size (and Determining What Tissue Counts)</h2>
+<p>In many cases, it will be clear what an individual plant is, but in cases of clonal plants, we will consider each ramet (i.e., above-ground unit) to be a unique “individual.” Move leaf litter to look for above-ground connections, but do not clear away soil.</p>
+<p>In most cases, herbivores do not eat all plant biomass. Therefore, it will be useful to note the tissue that you are measuring damage on. For most HerbVar surveys, this will be vegetative tissue: “leaves” and maybe “stems.” The key is to collect your damage estimates across all of the tissue within a plant or on a random sample of the tissue within a plant. Before you start estimating damage, give some thought as to precisely what to include. For example, it is probably best to avoid senesced leaves (<a href="#fig-lepidium" class="quarto-xref">Figure&nbsp;<span>15.1</span></a>) unless perhaps the leaves were recently senesced such that they have not changed in size or distorted in any way. If you need to make any decisions about what to count, please remember to put detailed notes in the notes tab of the datasheet.</p>
+<div id="fig-lepidium" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-scap="Senesced _Lepidium_ leaves." data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-lepidium-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/img9.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%" data-fig-scap="Senesced _Lepidium_ leaves.">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-lepidium-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;15.1: Senesced <em>Lepidium</em> leaves. Leaves like this are probably best excluded from damage estimates.
+</figcaption>
+</figure>
+</div>
+<p>Once you have decided the extent of plant you will be surveying, you can measure plant size. Because there are so many different plant growth forms, we suggest using your judgement to pick the best measure of plant size for your species. Examples of measures that work well for many species are standing plant height (e.g., ground to tallest living part), stem length (better than standing height for creeping species), foliage diameter, and stem diameter. Just make sure to be consistent within a survey, and to detail your plant size measure in the notes.</p>
+</section>
+<section id="counting-number-of-total-and-damaged-leaves-up-to-n-60" class="level2" data-number="15.3">
+<h2 data-number="15.3" class="anchored" data-anchor-id="counting-number-of-total-and-damaged-leaves-up-to-n-60"><span class="header-section-number">15.3</span> Counting Number of Total and Damaged Leaves (up to N = 60)</h2>
+<p>The first damage assessment step in the HerbVar Primary Survey Protocol is estimate the proportion of leaves with any damage, which we are defining as &gt; 0.5% of a leaf removed by herbivores. We estimate the proportion of leaves damaged by counting the number of undamaged and damaged leaves on each plant (recording total number of leaves and number of undamaged leaves) up to a max of 60 leaves per plant. See the following sections and illustrated guides below for tips on how to decide if a leaf has more than or less than 0.5% damage. Here we’ll discuss how to choose leaves to examine.</p>
+<section id="plants-with-small-number-of-large-leaves-n-1-3" class="level3" data-number="15.3.1">
+<h3 data-number="15.3.1" class="anchored" data-anchor-id="plants-with-small-number-of-large-leaves-n-1-3"><span class="header-section-number">15.3.1</span> Plants with small number of large leaves (N = 1-3)</h3>
+<p>If you have a plant that has a small number of large leaves (e.g., 1-3), then the proportion of leaves with damage is not going to be a very meaningful estimate of overall herbivory. In this case, consider counting leaflets (instead of leaves), if your plant has leaflets. Otherwise, proceed with leaves.</p>
+</section>
+<section id="plants-with-60-leaves" class="level3" data-number="15.3.2">
+<h3 data-number="15.3.2" class="anchored" data-anchor-id="plants-with-60-leaves"><span class="header-section-number">15.3.2</span> Plants with &lt;60 leaves</h3>
+<p>If your plant has &lt; 60 leaves, we encourage you to quickly count and scan all of the leaves on the plant to look for the presence of herbivore damage. This will be easy on small plants and harder on large plants. Either way this step should take less than 2-3 mins. If it is too time-consuming to look at all the leaves on your plants or even up to 60 leaves (e.g., leaves are large or complex), then please pick a feasible number of leaves to subsample, ideally at least up to 30.</p>
+</section>
+<section id="plants-with-60-leaves-1" class="level3" data-number="15.3.3">
+<h3 data-number="15.3.3" class="anchored" data-anchor-id="plants-with-60-leaves-1"><span class="header-section-number">15.3.3</span> Plants with &gt; 60 leaves</h3>
+<p>If you are restricted to examining a subsample of leaves within plants (because your plant have &gt; 60 leaves or because it would be too time-consuming to do all leaves, then you’ll have to decide how to subsamples leaves within plants. First, you will want to note the size of the subsample. Ideally you will have one number that will work for all plants in a survey. In that case, please detail this in the notes. If you need different subsample sizes for specific plants, please note subsample size in the notes for each plant, and please also make a note in the notes tab saying that you had to modify the number of leaves examined for some plants. Next you’ll need a way to subsample leaves more or less randomly within plants. <strong>If you need to subsample within plants, here are four potential methods:</strong></p>
+<section id="subsampling-method-1-nose-pointing" class="level4" data-number="15.3.3.1">
+<h4 data-number="15.3.3.1" class="anchored" data-anchor-id="subsampling-method-1-nose-pointing"><span class="header-section-number">15.3.3.1</span> Subsampling Method 1: Nose-Pointing</h4>
+<p>Ian Pearse’s nose-pointing method: For large plants, I like to choose four positions around the plant roughly at the cardinal directions (this never comes out as neatly as I might like since a lot of plants just don’t grow that way). I stand at each of those positions, I turn away from the plant, I close my eyes, and I put my finger against my nose, like this (<a href="#fig-nose" class="quarto-xref">Figure&nbsp;<span>15.2</span></a>). Then, I turn facing the plant, open one eye, and I choose whatever leaf I am pointing to (or the closest leaf if I’m pointing to multiple or none). I’ve done this on a lot for leaves, and I think it would basically work for other tissues (twigs, flowers, etc). You can continue to do this until you have examined your full subsample of leaves. Caveats: It is important to include mostly-eaten leaves using this method, but the method probably underestimates damage because you are less likely to be randomly pointing at a mostly-eaten leaf-nub.</p>
+<div id="fig-nose" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-scap="Nose pointing method to acquire a random sample of plant parts.">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-nose-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/img10_2.png" class="img-fluid figure-img" style="width:95.0%" data-fig-scap="Nose pointing method to acquire a random sample of plant parts.">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-nose-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;15.2: Nose pointing method to acquire a random sample of plant parts. (A) The researcher establishes a fixed point in his field of vision with an “L”-shaped hand position while turned away from the plant. (B) They then turn to the plant, open a single eye, and chooses the leaf that they are pointing to.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="subsampling-method-2-true-randomization" class="level4" data-number="15.3.3.2">
+<h4 data-number="15.3.3.2" class="anchored" data-anchor-id="subsampling-method-2-true-randomization"><span class="header-section-number">15.3.3.2</span> Subsampling Method 2: True Randomization</h4>
+<p>True randomization: Assign all leaves, seeds, etc. on the plant a random number, draw N numbers, and measure damage on those leaves. Caveats: this is rigorous, but probably too time consuming for most plants (and you’d probably just as well measure the damage on all the leaves you’ve given a number to!).</p>
+</section>
+<section id="subsampling-method-3-arbitrary-sampling" class="level4" data-number="15.3.3.3">
+<h4 data-number="15.3.3.3" class="anchored" data-anchor-id="subsampling-method-3-arbitrary-sampling"><span class="header-section-number">15.3.3.3</span> Subsampling Method 3: Arbitrary Sampling</h4>
+<p>Arbitrary sampling. That sneaker-word, arbitrary! This is basically to say “I really tried to choose an unbiased sample of the plant tissue, but I have no idea whether or not I succeeded.” Caveats: Clearly, this can have problems, but it’s what we’re probably left with in most cases where plants have complicated architecture, the tissue is hard to choose in a more truly randomized way, or you’re just strapped for time.</p>
+</section>
+<section id="subsampling-method-4-define-your-own-method" class="level4" data-number="15.3.3.4">
+<h4 data-number="15.3.3.4" class="anchored" data-anchor-id="subsampling-method-4-define-your-own-method"><span class="header-section-number">15.3.3.4</span> Subsampling Method 4: Define Your Own Method</h4>
+<p>Design (and make notes of!) your own subsampling scheme. Can you choose every seventh (or random-numberedth leaf along a shoot of skunkbush sumac (right)? Note how you did it, and approximately how much of the plant tissue you sampled (e.g., % of poison ivy sampled).</p>
+<div id="fig-random" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-random-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/img12.png" class="img-fluid figure-img" style="width:60.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-random-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;15.3: Skunkbush sumac (<em>Rhus trilobata</em>)
+</figcaption>
+</figure>
+</div>
+<div id="fig-arbitrary" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-arbitrary-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/img13.png" class="img-fluid figure-img" style="width:60.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-arbitrary-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;15.4: Locust (<em>Robinia</em>)
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Philosophical thoughts about counting damaged leaves
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This method works well (we think) as an estimate of overall herbivory for plants with small leaves or leaflets (e.g., sagebrush, <em>Astragalus</em>, locust), but will be very imprecise for plants with fewer, larger leaves because most large leaves will have some damage, though maybe not much. So, this is probably ineffective for your Welwitschia or banana tree. However, because counting a few large leaves is easy, we suggest doing it anyway for completeness.</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section id="estimating-percent-damage-on-10-randomly-chosen-leaves" class="level2" data-number="15.4">
+<h2 data-number="15.4" class="anchored" data-anchor-id="estimating-percent-damage-on-10-randomly-chosen-leaves"><span class="header-section-number">15.4</span> 3. Estimating Percent Damage on 10 Randomly Chosen Leaves</h2>
+<p>The next damage assessment step is estimating percent damage on 10 randomly chosen leaves. Well actually, the 10 data columns for this step (<code>percLf1–percLf10</code>) come after the column for whole plant percent damage (<code>percHerbPlant</code>) in the <code>HerbVar template</code> datasheet, but it makes more sense, in this document, to discuss percent herbivory on individual leaves before discussing whole plant percent herbivory.</p>
+<ol type="1">
+<li><p>If your plant has 10 or fewer leaves, then please examine them all.</p></li>
+<li><p>if your plant has more than 10 leaves, then use one of the methods above to choose 10 leaves randomly. Strive to have these leaves be an unbiased subsample of all the leaves on the plant.</p></li>
+</ol>
+<p>Finally, the main event—this is probably the main reason you’re reading this document. <strong><em>There are many ways to estimate percent damage on leaves. For HerbVar, we recommend collaborators use visual estimation because other methods are slower and would make the sample sizes we need to describe herbivory distributions unattainable.</em></strong> Moreover, careful visual estimation does a surprisingly good job, especially after some practice, especially if the primary goal is to compare the frequency of plants with low and high herbivory, as ours is. However, we strongly recommend checking your estimates against estimates from other observers using the same method, or even better against estimates using digital methods (i.e., LeafByte) to get a sense for how good of a job you are doing, and if you are overestimating or underestimating.</p>
+<section id="visual-estimation" class="level3" data-number="15.4.1">
+<h3 data-number="15.4.1" class="anchored" data-anchor-id="visual-estimation"><span class="header-section-number">15.4.1</span> Visual estimation</h3>
+<p>Visual estimation is essentially as simple as it sounds. You look at a leaf and eyeball what percent was removed or damaged by herbivores. The benefit of this method is that it is quick, allowing us to obtain the large sample sizes we need to describe whole herbivory distributions. The caveat is that this method has more measurement error than other methods. For example, Zoe and Julie and Marc Johnson have found that visual estimation tends to overestimate damage by a few percent, particularly for researchers with less experience. We hope to mitigate estimation error with the guidelines below, our Illustrated guide to amounts of percent damage, an online training quiz, and a ground-truthing effort. <strong>First</strong>, we explain how to estimate damage. <strong>Second</strong>, we explain how to make sure you’re doing a good job.</p>
+<section id="how-to-estimate-damage." class="level4" data-number="15.4.1.1">
+<h4 data-number="15.4.1.1" class="anchored" data-anchor-id="how-to-estimate-damage."><span class="header-section-number">15.4.1.1</span> How to estimate damage.</h4>
+<ol type="1">
+<li>Record estimates at a high resolution. We usually record at a resolution of 2.5% (<a href="#tbl-herbiv" class="quarto-xref">Table&nbsp;<span>15.1</span></a>). This may seem like unreasonably high resolution when you first try, but with a little practice and calibration you will get surprisingly good. We encourage trying for high resolution because—even with considerable error—high resolution estimates will likely be closer to the true values on average than estimates reported as broad categories (e.g., 0%, 1-10%, 11-25%, 26-50%… too coarse!). Plus, if you report your best guesses we can model the error statistically; we’re out of luck if you just report broad categories.</li>
+</ol>
+<div id="tbl-herbiv" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-herbiv-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;15.1: Recommended resolution for recording percent herbivory
+</figcaption>
+<div aria-describedby="tbl-herbiv-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Herbivory (%)</th>
+<th style="text-align: left;">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td style="text-align: left;">No herbivory</td>
+</tr>
+<tr class="even">
+<td>0.5</td>
+<td style="text-align: left;">trace amount</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td style="text-align: left;">~1 % herbivory</td>
+</tr>
+<tr class="even">
+<td>2.5</td>
+<td style="text-align: left;">~2.5 % herbivory</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td style="text-align: left;">~5 % herbivory</td>
+</tr>
+<tr class="even">
+<td>7.5</td>
+<td style="text-align: left;">~7.5 % herbivory</td>
+</tr>
+<tr class="odd">
+<td>…</td>
+<td style="text-align: left;">…</td>
+</tr>
+<tr class="even">
+<td>100</td>
+<td style="text-align: left;">everything removed except base of leaf petiole</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<ol start="2" type="1">
+<li><p>When you first look at a leaf, do a quick mental calibration before estimating damage. We do this by visualizing cutting the leaf into a range of proportions. Start with large proportions and scale down to your finest resolution (e.g., 2.5%). For example, think about what half the leaf would look like, then imagine a quarter (25%) of the leaf. Do the same for a tenth of the leaf (10%): imagine 10 equally-sized divisions in the leaf. How big is each tenth? Then mentally cut each tenth in half to get 20 divisions of 5% leaf area. Finally, half of each of those units would be 2.5% leaf area. How big is that?</p></li>
+<li><p>When it is time to do the actual herbivory estimate, one strategy that works well for contiguous blocks of damage is to use fractional thinking to zero in on the precise value, starting with larger fractions and gradually working your way down to smaller fractions—honing from a coarse estimate to a precise estimate. For example,</p>
+<ul>
+<li><p>If ~12.5% of a leaf were damaged, then…</p>
+<ul>
+<li>Mentally cut the leaf into quarters</li>
+<li>See that less than a quarter (25%) is damaged</li>
+<li>Mentally cut the quarter with damage in half, yielding eighths (12.5%)</li>
+<li>See that the area damaged is equal to an eighth and record 12.5%</li>
+</ul></li>
+<li><p>If ~30% of a leaf were missing, then…</p>
+<ul>
+<li>Mentaly cut the leaf in half</li>
+<li>See that less than half is damaged</li>
+<li>Mentally cut the leaf into quarters</li>
+<li>See that more than a quarter (25%) is damaged</li>
+<li>Take mental note of the 25% damaged, and then focus on estimating how much more than that 25% is damaged</li>
+<li>Mentally halve the quarter of the leaf with the excess damage above 25%, yielding eighths (12.5%)</li>
+<li>See that the damage above 25% is a little less than half of one of those eighths, which means it’s a little less than a sixteenth or 6.25%</li>
+<li>25% plus a little less than 6.25% comes close to 30%, record it!</li>
+</ul></li>
+</ul></li>
+<li><p>If your leaf has more than one area of damage, try mentally consolidating each area of damage into one area and then estimate the size of that using the method above. Alternatively, if mental consolidation isn’t working well, you can mentally divide the leaf into fractions that are as small as the smallest patch of herbivore damage. Then simply mentally tally the number of patches of that size that would be damaged.</p></li>
+<li><p>An acetate grid can be a very helpful tool. Some people use them to help guide their estimates on every leaf. Others use them occasionally for validating and calibrating estimates (e.g., on the first few leaves estimated each day). To make one, simply print out a grid cell on a transparency (make sure it’s printer-friendly). Ian tends to print out several grid-sizes, and uses the size that has at least 20 grid cells for most leaves. Put the grid against the leaf. Count the number of grid cells with leaf (or where leaf should be) = T. Count the number of grid cells with damage = D. Percent damage is 100*D/T. If you have 40 grid cells per leaf, then each grid cell will be 2.5%, a good target resolution. If you only have 20 grid cells per leaf, you can count in units of half grid cells to obtain a finer resolution. Ian likes the grid method, as he can do it while on a ladder. It has the downsides of being hard on oddly-shaped leaves (where most grid cell readings are exterior), only estimating damage with a resolution of 1/T, and probably overestimating some damage types (like some beetle feeding) that may damage small parts of each grid cell.</p></li>
+<li><p>For complexly pinnate leaves (e.g., Apiaceae), it is probably best to divide the leaf into leaflets or pairs of leaflets, then follow the methods above.</p></li>
+<li><p>If damage is very high and very little leaf tissue remains, take a large and small leaf and compare the leaf base width, petiole and midrib size to compare. Use these comparisons to visually reconstruct the leaf, and deduce % damage from there</p></li>
+<li><p>If you have marginal damage on leaves with non-smooth margins (e.g., <a href="#fig-location" class="quarto-xref">Figure&nbsp;<span>15.5</span></a>): If you draw an entire margin a third of the way between the base of the margin teeth and tip of the margin teeth, this approximately results in the same area measurement as if you had actually drawn in the margins—but it is easier/more accurate to imagine/draw a straight line than margin teeth</p></li>
+<li><p>Piercing-sucking damage, when visible, should be mentally consolidated and estimated similarly to chewing damage. Be careful about confusing piercing-sucking damage and disease because they often look similar. If you are unsure, sleuth around your site to see if you can find the culprit in action. Sometimes it helps to find leaves that have damage at different stages of progression. This will let you reconstruct what older more necrotic tissue (and less discernible) might have looked like before it became so necrotic, perhaps inferring the cause of the damage. If this doesn’t help, consult someone who may be able to or pick another species to survey.</p></li>
+</ol>
+<div id="fig-location" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-location-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/img14.png" class="img-fluid figure-img" style="width:60.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-location-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;15.5: Leaf with both ‘interior’ and ‘leaf-margin’ damage.
+</figcaption>
+</figure>
+</div>
+<ol start="10" type="1">
+<li><p>For leaves with herbivore-built leaf shelters (rolls and ties), please carefully peer into or open shelters to estimate damaged area and count resident herbivores.</p></li>
+<li><p>Through all of this, make sure you are correctly identifying what is herbivore damage versus disease versus physical damage. Please have a look at our A field guide to types of plant damage. We are trying to avoid damage caused by pathogens or abiotic stress. Before each survey, spend some time studying the range of damage types on plants in your population. Try to get a sense for what types of damage you might see during the survey. Sleuth out what damage types might just be physical damage (e.g., from wind). In this sleuthing, we have found it helpful to search for clues at both broad and fine scales. At broad scales, we search many plants across each site to see if we can find what is causing a particular type of damage. Often we will find the culprit, but only after a broad search. At fine scales, we use a hand lens to look closely at the damage. Often, a closer look at the damaged edges of a leaf reveals marks from insect mandibles. Tearing, in contrast, tends to be cleaner and more angular, often following even small leaf veins. Wind damage can manifest as browning. Look to at damaged spots to see if any tissue is actually missing. Only include necrotic tissue as herbivory if you are certain it is from herbivory. If you cannot be confident in your ability to tell apart physical and herbivore damage for a particular species or site, then please do not do the survey or consult someone who can help you.</p></li>
+<li><p>For internal feeding insects (e.g., hackberry psyllids, below):</p>
+<ul>
+<li><p>Count discrete units: count either the number of insects or the number of galls or mines. There are columns in the Template Datasheet for galls and mines.</p></li>
+<li><p>Mines should be included in percent damage and counted as discrete units.</p></li>
+<li><p>Galls should only be counted, not included in percent damage because galls are actually extra tissue! The removed tissue is internal and can’t be seen.</p></li>
+<li><p>Keep an eye out for signs of stem-boring insects. Sometimes these can be counted.</p></li>
+</ul></li>
+</ol>
+<div id="fig-internal" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-internal-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/img15.png" class="img-fluid figure-img" style="width:60.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-internal-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;15.6: Internal feeding insects
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="how-to-make-sure-youre-doing-a-good-job" class="level4" data-number="15.4.1.2">
+<h4 data-number="15.4.1.2" class="anchored" data-anchor-id="how-to-make-sure-youre-doing-a-good-job"><span class="header-section-number">15.4.1.2</span> How to make sure you’re doing a good job</h4>
+<ol type="1">
+<li><p>Be conscious that most people overestimate low levels of tissue damage <span class="citation" data-cites="johnsonPrecisionAccuracyQuantifying2016">(<a href="../references.html#ref-johnsonPrecisionAccuracyQuantifying2016" role="doc-biblioref">Johnson et al. 2016</a>)</span>. Try to correct for this by being aware of this tendency, not rounding up at low levels of damage, and calibrating/validating estimates on leaves with low damage.</p></li>
+<li><p>Invest time in practicing, calibrating, and validating estimates. Especially do this before collecting data, and continue to calibrate and validate regularly through data collection.</p></li>
+<li><p>Standardize among observers you work with or have a single observer for all estimates.</p></li>
+<li><p>Print out <a href="https://github.com/HerbVar-Network/herbvar_manual/blob/2d334240bdc0f57370bd260cd054d02ffbd5b367/forms/Illustrated%20Guide%20to%20Percent%20Leaf%20Damage.pdf">“An illustrated guide to amounts of percent damage”</a>. Study it while practicing, and take it into the field with you as a reference. You can focus on the pages with leaves that are most similar in shape to leaves from your species.</p></li>
+<li><p>Take our online herbivory estimation training quiz (in development, we will add the link here when it’s ready). This will help you assess your accuracy and precision and give you additional practice in estimating herbivory. We suggest re-taking this quiz once per week when doing surveys to refresh your memory.</p></li>
+<li><p>Finally, ground truth a subset of your damage estimates using a digital method. When doing this, please use 6 randomly selected plants in each survey. Do the survey as normal, but after visually estimating herbivory on each leaf in those plants use one of the two digital methods below to get a digital herbivory estimate (LeafByte or ImageJ). Make sure to record a unique identifier for each leaf to link visual and digital estimates.</p>
+<ul>
+<li><p>LeafByte: This is an app developed recently by scientists at Cornell (including our very own Zoe Getman-Pickering and Julie Davis). It goes on your iPhone and estimates damage of leaves that you photograph (it will tell you total leaf area, total damage area, and proportional damage). You can download the app and read instructions here. ‘BioLeaf’ is a similar app for Android phones.</p></li>
+<li><p>Scan leaves and estimate damage with Image J. For this, I usually collect leaves into a little bag. Once I’m back in the lab, I tape the leaves to a sheet of paper, and then use Image J (free software here) to estimate leaf damage. This is similar to LeafByte, but it takes longer.</p></li>
+</ul></li>
+</ol>
+<div id="fig-imagej" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-imagej-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/img16.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-imagej-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;15.7: Three steps in measuring damage with Image J.
+</figcaption>
+</figure>
+</div>
+</section>
+</section>
+</section>
+<section id="estimating-percent-damage-across-the-whole-plant" class="level2" data-number="15.5">
+<h2 data-number="15.5" class="anchored" data-anchor-id="estimating-percent-damage-across-the-whole-plant"><span class="header-section-number">15.5</span> 4. Estimating Percent Damage Across the Whole Plant</h2>
+<p>The final damage assessment step is estimating percent damage across the whole plant, or as much of the plant as is feasible. We encourage you to strive to look across entire plants when estimating whole plant herbivory (unless your plants are &gt; 2 m in height, in which case please follow the HerbVar Tree Protocol). For larger plants, there will be significant estimation error, but it is probably less than the error associated with subsampling, which could miss hotspots of herbivory within plants. Remember, the goal is just a visual estimate. You’d be surprised how quickly you can scan and integrate across a whole plant to estimate herbivory. However, we acknowledge this may not be feasible for large or complex plants; in those cases, please use one of the subsampling methods above and remember to record your methods and the size of your subsample. If you don’t feel that a whole-plant estimate is feasible, record the percent damage on 30 random leaves (see #3 above) and carefully record the total number of leaves on the plant and number of damaged leaves on the plant. The whole plant herbivory can be calculated from these values post hoc.</p>
+<section id="tips-for-visually-estimating-damage-across-the-whole-plant" class="level3" data-number="15.5.1">
+<h3 data-number="15.5.1" class="anchored" data-anchor-id="tips-for-visually-estimating-damage-across-the-whole-plant"><span class="header-section-number">15.5.1</span> Tips for visually estimating damage across the whole plant:</h3>
+<p>Effective methods will vary a lot based on the size of plants, size of leaves, and architecture of plant. For smaller plants with a smaller number of leaves, you can quickly estimate damage on each leaf and combine leaf-level estimates into a plant-level estimate. If all leaves are similar in size, you can just average them. If leaves vary in size, you will need to take their relative sizes into account.</p>
+<p>We often find it helpful to pick a reference leaf size on which to base mental calculations. Often it’s convenient to pick the largest or smallest leaf, depending on whether you prefer scaling down or scaling up leaf level estimates.</p>
+<p>An important tip to remember for speed is that when plants have more than ~9 leaves, leaves with low levels of damage will contribute very little to plant-level damage. For example, a leaf with 2% damage would only contribute 0.2% to overall plant damage on a plant with 10 similarly sized leaves. This means that you do not need to stress about these leaves. Of course, if every leaf on the plant has 2% damage, then this would be important to keep track off. Indeed, this is essentially what you need to pay attention to as you scan the whole plant. In our experience, most plants have skewed distributions of herbivory within plants, so it’s all about paying attention to the proportion of leaves with insignificant and significant herbivory and the amount of herbivory on leaves with significant herbivory. But this isn’t always the case, so look out for more even within-plant distributions. (Side note: we hope to get at this question with our herbivory estimates on the 10 random leaves).</p>
+<p>For larger plants and plants with many small leaves, it is impractical to scan each individual leaf and mentally combine them (unless you are a mental math wizard!). In these cases, we still encourage you to scan the whole plant, but simply increase the grain size of your focus. For example, estimate herbivory at the scale of similarly sized branches of leaves. For plants with many, many small leaves, you may need to squint and look at similarly sized clumps of leaves. For example, people who work on conifers have a method for estimating herbivory on branches that involves looking up through a branch and seeing how much sky shows through.</p>
+<p>Please let us know if you have additional tips, suggestions, or guidelines we can add to this document. And please let us know if anything is missing, confusing, or wrong! Have fun in the field and be safe.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If you’re in an area with tick-borne diseases, don’t forget to check for ticks after finishing fieldwork!</p>
+</div>
+</div>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-johnsonPrecisionAccuracyQuantifying2016" class="csl-entry" role="listitem">
+Johnson, M. T. J., J. A. Bertrand, and M. M. Turcotte. 2016. <a href="https://doi.org/10.1111/een.12280">Precision and accuracy in quantifying herbivory</a>. Ecological Entomology 41:112–121.
+</div>
+</div>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../04_protocols/primary.html" class="pagination-link" aria-label="Primary Protocol">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Primary Protocol</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../04_protocols/repro_damage.html" class="pagination-link" aria-label="Reproductive Damage">
+        <span class="nav-page-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Reproductive Damage</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>HerbVar Project Manual &amp; Field Protocols</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/HerbVar-Network/herbvar_manual/edit/main/04_protocols/damage.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p>This book was built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
