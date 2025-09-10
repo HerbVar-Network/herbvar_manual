@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.7.34">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -59,10 +59,10 @@ div.csl-indent {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-cbca5543e1a99dce019786c319778db4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-d601115ed624d1adba786b8a34a4e174.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -91,6 +91,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -439,7 +468,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">June 20, 2025</p>
+      <p class="date-modified">September 10, 2025</p>
     </div>
   </div>
     
@@ -453,48 +482,43 @@ div.csl-indent {
 <p>When writing papers using HerbVar data, authors should attempt to use a consistent set of definitions and terms, which can facilitate comparisons of patterns across studies. If one person’s “among-leaf variation” is the same as another person’s “within-plant variation”, this simple mis-match in terminology will hinder communication. The constellation of terms related to variance, variability, and variation can also be source of confusion. We have assembled a set of terms that might commonly be used in HerbVar manuscripts and grants. Many of the terms related to “distributional thinking” are defined in <span class="citation" data-cites="wetzelVariabilityPlantHerbivore2023a">Wetzel et al. (<a href="../references.html#ref-wetzelVariabilityPlantHerbivore2023a" role="doc-biblioref">2023</a>)</span> and we recommend referring to that paper for more detailed discussion.</p>
 <section id="about-herbvar-data" class="level2" data-number="24.1">
 <h2 data-number="24.1" class="anchored" data-anchor-id="about-herbvar-data"><span class="header-section-number">24.1</span> About HerbVar data</h2>
-<p><strong>Herbivory</strong>: Consumption of living plant tissues by animals (i.e.&nbsp;herbivores or omnivores). Many of the HerbVar data on herbivory are about leaf damage done by insects, rather than large mammals; we recommend that authors clarify this at some point in manuscripts.</p>
-<p><strong>Herbivore Damage:</strong> Plant tissue removed or directly injured by herbivore feeding. Some authors, especially those focused on agriculture, define damage to mean the growth, fitness, or yield consequences of injury, and reserve injury for the direct consumption effects.</p>
-<p><strong>Folivory</strong>: Damage to leaves by animals that consume leaves.</p>
-<p><strong>Frugivory</strong>: Damage to fruits by animals that consume fruits.</p>
-<p><strong>Reproductive damage:</strong> Damage on any reproductive structure, including flowers, fruits, and seeds.</p>
+<p><strong>Herbivory:</strong> Consumption of living plant tissues by animals (i.e.&nbsp;herbivores or omnivores). Many of the HerbVar data on herbivory are about leaf damage done by insects, rather than large mammals; we recommend that authors clarify this at some point in manuscripts.</p>
+<p><strong>Herbivore Damage:</strong> Plant tissue removed or directly injured by herbivore (or omnivore) feeding. Some authors, especially those focused on agriculture, define damage to mean the growth, fitness, or yield consequences of injury, and reserve injury for the direct consumption effects. For consistency with other HerbVar papers, we recommend using ‘damage’.</p>
+<p><strong>Folivory:</strong> Damage to leaves by animals that consume leaves.</p>
+<p><strong>Frugivory:</strong> Damage to fruits by animals that consume fruits. Reproductive damage:** Damage to any reproductive structure, including flowers, fruits, and seeds.</p>
 </section>
 <section id="distributional-thinking" class="level2" data-number="24.2">
 <h2 data-number="24.2" class="anchored" data-anchor-id="distributional-thinking"><span class="header-section-number">24.2</span> Distributional thinking</h2>
-<p><strong>Variability</strong>: The propensity for a process to produce different outcomes. Variability is a feature of underlying processes, whereas variation is a feature of an observed pattern (i.e., data). Well-known drivers of interaction variability in ecology include organismal plasticity, demographic stochasticity, and population dynamics; these factors and more combine to create an underlying probability distribution for a given interaction. When it is not possible to measure repeated outcomes, it may not be possible to measure variability directly.</p>
-<p><strong>Variation</strong>: The magnitude of differences among units in a system. Variability is a feature of underlying processes, whereas variation is a feature of an observed pattern (i.e., data).</p>
-<p><strong>Variance and standard deviation</strong>: A common way to quantify variation, the average squared deviation from the mean (or sum of squared deviations divided by (n-1) for samples from populations). Note that the units of the variance are squared, so it is common to work with the square root of the variance, which is the standard deviation.</p>
-<p><strong>Coefficient of Variation (CV)</strong>: The standard deviation divided by the mean. Many data-generating processes result in larger variances when means are larger (e.g., for Poisson processes the variance and mean are equal, by definition). Dividing the standard deviation by the mean helps to “correct” for this relationship, and results in a unitless number so that the CVs can be compared among any data, regardless of the original data units (leaves, area, height, etc.).</p>
-<div class="callout callout-style-default callout-important callout-titled" title="Important consideration regarding the CV">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important consideration regarding the CV
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>The CV is popular, but is problematic when the mean is near 0 or negative (as can happen if data can take negative values as well as positive ones), or the variance is extremely large. A recently proposed alternative is bounded by 0 and 1 and is based on second-order distributional moments. It was proposed by <span class="citation" data-cites="kvalsethAlternativeMeasureOrdinal2017">Kvålseth (<a href="../references.html#ref-kvalsethAlternativeMeasureOrdinal2017" role="doc-biblioref">2017</a>)</span>, thus is indicated by KCV, whereas the traditional CV is indicated here by PCV as it was first proposed by <span class="citation" data-cites="pearsonMathematicalContributionsTheory1897">Pearson (<a href="../references.html#ref-pearsonMathematicalContributionsTheory1897" role="doc-biblioref">1897</a>)</span>. They are related by <span class="citation" data-cites="lobryCVDeadLong2023">Lobry et al. (<a href="../references.html#ref-lobryCVDeadLong2023" role="doc-biblioref">2023</a>)</span>.</p>
-</div>
-</div>
+<p><strong>Variability:</strong> The propensity for a process to produce different outcomes. Variability is a feature of underlying processes, whereas variation is a feature of an observed pattern (i.e., data). Well-known drivers of interaction variability in ecology include organismal plasticity, demographic stochasticity, and population dynamics; these factors and more combine to create an underlying probability distribution for a given interaction. When it is not possible to measure repeated outcomes, it may not be possible to measure variability directly.</p>
+<p><strong>Variation:</strong> The magnitude of differences among units in a system. Variability is a feature of underlying processes, whereas variation is a feature of an observed pattern (i.e., data).</p>
+<p><strong>Variance and standard deviation:</strong> The variance is a common way to quantify variation, and is the average squared deviation from the mean (or sum of squared deviations divided by <span class="math inline">\((n-1)\)</span> for samples from populations). Note that the units of the variance are squared, so it is common to work with the square root of the variance, which is the standard deviation.</p>
+<p><strong>Coefficient of Variation (CV):</strong> The standard deviation divided by the mean. Many data-generating processes result in larger variances when means are larger (e.g., for Poisson processes the variance and mean are equal, by definition). Dividing the standard deviation by the mean helps to “correct” for this relationship, and results in a unitless number so that the CVs can be compared among any data, regardless of the original data units (leaves, area, height, etc.).</p>
+<p>:::** {.callout-important title=“Important consideration regarding the CV”} The CV is popular, but is problematic when the mean is near 0 or negative (as can happen if data can take negative values as well as positive ones), or the variance is extremely large. A recently proposed alternative is bounded by 0 and 1 and is based on second-order distributional moments. It was proposed by <span class="citation" data-cites="kvalsethAlternativeMeasureOrdinal2017">Kvålseth (<a href="../references.html#ref-kvalsethAlternativeMeasureOrdinal2017" role="doc-biblioref">2017</a>)</span>, thus is indicated by <span class="math inline">\(^KCV\)</span>, whereas the traditional CV is indicated here by <span class="math inline">\(^PCV\)</span> as it was first proposed by <span class="citation" data-cites="pearsonMathematicalContributionsTheory1897">Pearson (<a href="../references.html#ref-pearsonMathematicalContributionsTheory1897" role="doc-biblioref">1897</a>)</span>. They are related by <span class="math inline">\(^KCV =  \sqrt{\frac{{^PCV}^2}{1 + {^PCV}^2}}\)</span> <span class="citation" data-cites="lobryCVDeadLong2023">(see <a href="../references.html#ref-lobryCVDeadLong2023" role="doc-biblioref">Lobry et al. 2023</a>)</span>. :::</p>
 <p><strong>Gini Coefficient:</strong> The Gini Coefficient is a measure of inequality, rather than variance. It is bounded by 0 and 1, where 0 indicates a perfectly even distribution of a total amount among all individuals, and 1 indicates a perfectly unequal distribution of the total among individuals (all of the total belongs to one individual). Note that because the Gini is defined by a distribution of a total amount, it does not depend on the mean amount per individual.</p>
+<p><strong>Lorenz curve:</strong> A curve that represents the inequality of a measurement (i.e., herbivory) in a sample. Individual data points are ordered and plotted as cumulative percent of individuals on the x-axis against the cumulative proportion of the measured variable on the y-axis. The 1:1 line represents the line of equality, where all individuals would have the same amounts of herbivory. The polygon connecting to the origin and the maximum (100% of individuals and herbivory) is the basis for the Gini coefficient and the Lorenz asymmetry coefficient. For an in-depth overview of these indices with ecological examples, see <span class="citation" data-cites="damgaardDescribingInequalityPlant2000">Damgaard and Weiner (<a href="../references.html#ref-damgaardDescribingInequalityPlant2000" role="doc-biblioref">2000</a>)</span>.</p>
+<p><strong>Lorenz asymmetry coefficient:</strong> Characterizes the symmetry of the Lorenz curve. A value of 1 represents a symmetric curve, where the vertex is parallel to the line of equality. A value greater than 1 indicates herbivory is concentrated on a few individuals. A value less than 1 indicates that only a few individuals have low herbivory.</p>
 <p><strong>Median Absolute Difference:</strong> The median of the absolute values of the differences between each value and the overall median. This is an alternative to the standard deviation that does not rely on squared values. It is less sensitive than the standard deviation to extreme values.</p>
 <p><strong>Mean Absolute Difference:</strong> The mean of the absolute values of the differences between each value and the overall mean. Like the median absolute difference, this metric is less sensitive than the standard deviation to large deviations.</p>
 <p><strong>Relative Mean Absolute Difference:</strong> The mean absolute difference divided by the arithmetic mean. Like the coefficient of variation (CV), this metric relativizes the mean absolute difference by the mean so that the dispersion of populations with different means can be compared. Like the CV, it is a unitless number. The relative mean absolute difference is equivalent to two times the Gini coefficient.</p>
-<p><strong>Skewness</strong>: A measure of the asymmetry of a distribution. A symmetric distribution, with the same shape of distribution tail in both directions, has a skew of zero. A positive skew indicates a longer tail toward higher values (the median is to the left of the mean). A negative skew indicates a longer tail to the left. In R, the ‘sn’ package can be useful for working with ‘skew-Normal’ distributions, extensions of Normal (Gaussian) distributions.</p>
-<p><strong>Kurtosis</strong>: A measure of the thickness (“fatness”) of a distribution’s “tails”. When a distribution’s tails are thicker, data are more likely to have a high variance and contain larger outliers.</p>
+<p><strong>Skewness:</strong> A measure of the asymmetry of a distribution. A symmetric distribution, with the same shape of distribution tail in both directions, has a skew of zero. A positive skew indicates a longer tail toward higher values (i.e., the median is to the left of the mean). A negative skew indicates a longer tail to the left. In R, the <code>sn</code> package <span class="citation" data-cites="azzaliniPackageSnSkewnormal2023">(<a href="../references.html#ref-azzaliniPackageSnSkewnormal2023" role="doc-biblioref">Azzalini 2023</a>)</span> can be useful for working with ‘skew-Normal’ distributions, extensions of Normal (Gaussian) distributions.</p>
+<p><strong>Kurtosis:</strong> A measure of the thickness (“fatness”) of a distribution’s tails. When a distribution’s tails are thicker, data are more likely to have a high variance and contain larger outliers.</p>
 </section>
 <section id="terms-specific-to-the-herbvar-data" class="level2" data-number="24.3">
 <h2 data-number="24.3" class="anchored" data-anchor-id="terms-specific-to-the-herbvar-data"><span class="header-section-number">24.3</span> Terms specific to the HerbVar data</h2>
-<p>A strength of the HerbVar dataset is that it contains data for multiple hierarchical scales of organization, from leaves on individual plants, up through populations and species. Patterns in the HerbVar data can be analyzed at multiple scales. Within a manuscript, we recommend people be clear about the scale(s) of analysis, and consistent about which term are used.</p>
-<p><strong>Among-leaf variation</strong>: This is the smallest scale of HerbVar data, the leaves on a single plant individual. This variation can be quantified using metrics such as the Gini coefficient, the variance, the standard deviation, or a CV. At this scale all of the damage is to a single individual, so it has also been called “<strong>within-plant variation</strong>”.</p>
-<p><strong>Among-plant variation</strong>: Each plant has a mean amount of herbivory, which can vary among plants within a population (for most HerbVar data, a population contains 60 individuals). This scale might also be called “<strong>within-population variation”</strong>.</p>
-<p><strong>Among-population variation</strong>: For some plant species, participants have contributed data from different populations. For focal species, the HerbVar data include many populations from multiple continents. Each population has a mean amount of herbivory, also known as “within-species” variation. Comparisons among populations are facilitated by having the same sample size for each population.</p>
-<p><strong>Among-species variation</strong>: For studies looking across species within a family, or at any larger phylogenetic context, one could compare species-level mean amounts of herbivory. This idea can be transferred to higher phylogenetic levels by looking at <strong>among-family variation</strong>, or to environmental scales of organization by looking at <strong>among-habitat variation</strong> or <strong>among-biome variation</strong>.</p>
+<p>A strength of the HerbVar dataset is that it contains data for multiple hierarchical scales of organization, from leaves on individual plants, up through populations and species. Patterns in the HerbVar data can be analyzed at multiple scales. Within a manuscript, we recommend people be clear about the scale(s) of analysis, and consistent about which terms are used. For clarity, we recommend using <em>“among-…”</em> for the unit being measured as the descriptor, rather than alternatives such as <em>“within-”</em> or <em>“intra-”</em> at units larger than the focal measurements. For example, if you are measuring damage on plants within a population, the term <em>“among-plant”</em> should be used rather than <em>“within-population”</em>. Ideally, the first mention would say <em>“among-plants within a population”</em>.</p>
+<p><strong>Among-leaf variation:</strong> This is the smallest scale of HerbVar data, the leaves on a single plant individual. This variation can be quantified using metrics such as the Gini coefficient, the variance, the standard deviation, or a CV. At this scale, all of the damage is to a single individual, so it has also been called <em>“within-plant variation”</em>.</p>
+<p><strong>Among-plant variation:</strong> Each plant has a mean amount of herbivory (i.e., mean of the herbivore damage on all its leaves), which can vary among plants within a population (for most HerbVar data, a population is represented by a sample of 60 individuals). This scale might also be called <em>“within-population variation”</em> or <em>“intrapopulation variation”</em>, but when the focus is on a plant-level measurement, we recommend using <em>“among-plant variation”</em>.</p>
+<p><strong>Among-population variation:</strong> For some plant species, participants have contributed data from different populations. For focal species, the HerbVar data include many populations from multiple continents. Each population has a mean amount of herbivory, also known as <em>“within-species”</em> variation. Comparisons among populations are facilitated by having the same sample size for each population.</p>
+<p><strong>Among-species variation:</strong> For studies looking across species within a family, or at any larger phylogenetic context, one could compare species-level mean amounts of herbivory. This idea can be transferred to higher phylogenetic levels by looking at <em>among-family variation</em>, or to environmental scales of organization by looking at <em>among-habitat variation</em> or <em>among-biome variation</em>.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-azzaliniPackageSnSkewnormal2023" class="csl-entry" role="listitem">
+Azzalini, A. A. 2023. <a href="https://cran.r-project.org/package=sn">The <span>R</span> package <span class="nocase"><span class="math inline">\(&lt;\)</span>code<span class="math inline">\(&gt;\)</span>sn<span class="math inline">\(&lt;\)</span>/code<span class="math inline">\(&gt;\)</span></span>: <span>The</span> skew-normal and related distributions such as the skew-<span class="nocase">t</span> and the <span>SUN</span> (version 2.1.1).</a> manual, Università degli Studi di Padova, Italia.
+</div>
+<div id="ref-damgaardDescribingInequalityPlant2000" class="csl-entry" role="listitem">
+Damgaard, C., and J. Weiner. 2000. <a href="https://doi.org/10.1890/0012-9658(2000)081[1139:DIIPSO]2.0.CO;2">Describing inequality in plant size or fecundity</a>. Ecology 81:1139–1142.
+</div>
 <div id="ref-kvalsethAlternativeMeasureOrdinal2017" class="csl-entry" role="listitem">
 Kvålseth, T. O. 2017. <a href="https://doi.org/10.1080/03610926.2016.1239114">An alternative measure of ordinal association as a value-validity correction of the <span>Goodman</span>–<span>Kruskal</span> gamma</a>. Communications in Statistics - Theory and Methods 46:10582–10593.
 </div>
@@ -505,7 +529,7 @@ Lobry, J. R., M.-C. Bel-Venner, M. Bogdziewicz, A. Hacket-Pain, and S. Venner. 2
 Pearson, K. 1897. <a href="https://doi.org/10.1098/rspl.1896.0076">Mathematical contributions to the theory of evolution.—<span>On</span> a form of spurious correlation which may arise when indices are used in the measurement of organs</a>. Proceedings of the Royal Society of London 60:489–498.
 </div>
 <div id="ref-wetzelVariabilityPlantHerbivore2023a" class="csl-entry" role="listitem">
-Wetzel, W. C., B. D. Inouye, P. G. Hahn, S. R. Whitehead, and N. Underwood. 2023. <a href="https://doi.org/10.1146/annurev-ecolsys-102221-045015">Variability in <span>Plant</span>–<span>Herbivore</span> <span>Interactions</span></a>. Annual Review of Ecology, Evolution, and Systematics 54:451–474.
+Wetzel, W. C., B. D. Inouye, P. G. Hahn, S. R. Whitehead, and N. Underwood. 2023. <a href="https://doi.org/10.1146/annurev-ecolsys-102221-045015">Variability in <span>Plant</span>–<span>Herbivore Interactions</span></a>. Annual Review of Ecology, Evolution, and Systematics 54:451–474.
 </div>
 </div>
 </section>
